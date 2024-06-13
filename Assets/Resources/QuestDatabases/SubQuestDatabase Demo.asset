@@ -18,8 +18,8 @@ MonoBehaviour:
     - {fileID: 36357328868516240, guid: b10679de01bf6a54fa493cd6f16f191f, type: 3}
     - {fileID: 36357328868516240, guid: 8ce4b81551c3052409cd1e14881fddf0, type: 3}
     - {fileID: 36357328868516240, guid: 611be53c401e2d6498cc7c0e27801e95, type: 3}
-    - {fileID: 36357328868516240, guid: d99850ce5858a49458a3b0bb5897b322, type: 3}
     - {fileID: 36357328868516240, guid: b31b8e87992dc8949843f0f5f0679fe2, type: 3}
+    - {fileID: 36357328868516240, guid: d99850ce5858a49458a3b0bb5897b322, type: 3}
     - {fileID: 36357328868516240, guid: 9e0b078a0347c7e49b8da89dbb5b7e73, type: 3}
     - {fileID: 36357328868516240, guid: cc2066209b1364047b8b4d0b8e4ab520, type: 3}
     - {fileID: 36357328868516240, guid: 1f5e0cf7a7c6e0044a116eb6dedd9e08, type: 3}
@@ -70,9 +70,7 @@ MonoBehaviour:
     - {fileID: 36357328868516240, guid: 02403a379291c0446aea7918c65408fe, type: 3}
     - {fileID: 36357328868516240, guid: 8a2d053ca57e85840921395fe3ce91fc, type: 3}
   - questGivers: []
-  - questGivers:
-    - {fileID: 36357328868516240, guid: 7a9e4c22d3c78ed4fa5afe5292f3dd64, type: 3}
-    - {fileID: 36357328868516240, guid: a25a4ab0a186b8541a313fbad200d580, type: 3}
+  - questGivers: []
   ORIGIN:
     questChainStates:
     - QuestChainName: "\u5F02\u65C5\u4ED6\u4E61"

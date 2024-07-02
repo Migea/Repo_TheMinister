@@ -1279,7 +1279,15 @@ MonoBehaviour:
       - title: canvasRect
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
+      - title: en
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: ja
+        value: 
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -1361,7 +1369,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 314.60092
-        y: 257.48846
+        y: 256.26895
         width: 160
         height: 30
     - id: 23
@@ -36201,8 +36209,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 1413.4841}
-    canvasZoom: 0.8199997
+    canvasScrollPosition: {x: 0, y: 1397.5532}
+    canvasZoom: 0.7899997
   - id: 47
     fields:
     - title: Title

@@ -22207,7 +22207,9 @@ MonoBehaviour:
   exp: 120
   extraMoney: 0
   requestTagsInString:
-  - "\u5F13"
+  - "\u5F08\u661F\u4E0B\u51E1"
+  - "\u78A7\u8840\u4E39\u5FC3"
+  - "\u72B6\u5143"
   requestTags: 
   Wisdom: 0
   Writing: 0
@@ -40192,7 +40194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 0
-  CharacterName: 
+  CharacterName: "\u5468\u5B8F\u8FBE"
   tagMax: 5
   TagSpawnRareRate: 58020000cc0100004a0100000a0000000100000000000000
   characterType: 3
@@ -40220,15 +40222,15 @@ MonoBehaviour:
   AssasinTarget: 
   awayMessage: 
   FactionType: 0
-  BribePrice: 200
+  BribePrice: 238581
   BribeAlreadySpent: 0
   ImpeachTime: 0
   ImpeachItemRequstNumber: 1
   ImpeachDifficulty: 0
   bribed: 0
-  slot: {fileID: 0}
+  slot: {fileID: 1535698433619554323}
   pressurePunishment: 2
-  AssassinDifficulty: 10
+  AssassinDifficulty: 60
   Assassin: {fileID: 0}
   TagsInString: []
 --- !u!1 &3778364509444856026
@@ -41915,8 +41917,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3778364510506104456}
   m_HandleRect: {fileID: 3778364510506104463}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 1
+  m_Value: 1
+  m_Size: 0.35714287
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

@@ -34732,9 +34732,9 @@ MonoBehaviour:
   ImpeachItemRequstNumber: 1
   ImpeachDifficulty: 0
   bribed: 0
-  slot: {fileID: 0}
+  slot: {fileID: 1535698433619554323}
   pressurePunishment: 2
-  AssassinDifficulty: 10
+  AssassinDifficulty: 60
   Assassin: {fileID: 0}
   TagsInString: []
 --- !u!1 &3778364509444856026
@@ -36273,8 +36273,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3778364510506104456}
   m_HandleRect: {fileID: 3778364510506104463}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 1
+  m_Value: 1
+  m_Size: 0.35714287
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

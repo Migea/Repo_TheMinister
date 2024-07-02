@@ -16259,7 +16259,9 @@ MonoBehaviour:
   exp: 120
   extraMoney: 0
   requestTagsInString:
-  - "\u5F13"
+  - "\u6587\u6B66\u53CC\u5168"
+  - "\u949C\u5B50"
+  - "\u65E0\u5F71"
   requestTags: 
   Wisdom: 0
   Writing: 0
@@ -16282,7 +16284,7 @@ MonoBehaviour:
   upLines: []
   lowerLines:
   - {fileID: 3778364510290507965}
-  governorType: 0
+  governorType: 2
   requestAmount: 0
   Level: 10
   SpecialEffectAfterFirstUnlock:
@@ -36216,11 +36218,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 0
-  CharacterName: 
+  CharacterName: "\u9AD8\u660E\u4EC1"
   tagMax: 5
   TagSpawnRareRate: 58020000cc0100004a0100000a0000000100000000000000
   characterType: 3
-  characterArtCode: 16
+  characterArtCode: 13
   loyalty: 20
   health: 20
   hungry: 20
@@ -36244,15 +36246,15 @@ MonoBehaviour:
   AssasinTarget: 
   awayMessage: 
   FactionType: 5
-  BribePrice: 200
+  BribePrice: 238581
   BribeAlreadySpent: 0
   ImpeachTime: 0
   ImpeachItemRequstNumber: 2
   ImpeachDifficulty: 0
   bribed: 0
-  slot: {fileID: 0}
+  slot: {fileID: 1535698433619554323}
   pressurePunishment: 2
-  AssassinDifficulty: 10
+  AssassinDifficulty: 60
   Assassin: {fileID: 0}
   TagsInString: []
 --- !u!1 &3778364509444856026
@@ -38415,8 +38417,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3778364510506104456}
   m_HandleRect: {fileID: 3778364510506104463}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 1
+  m_Value: 1
+  m_Size: 0.35714287
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:

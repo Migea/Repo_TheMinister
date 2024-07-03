@@ -5,6 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Localization;
 using PixelCrushers;
+using PixelCrushers.DialogueSystem;
 
 public class LanguageDropdown : MonoBehaviour
 {
@@ -42,7 +43,8 @@ public class LanguageDropdown : MonoBehaviour
     {
         yield return LocalizationSettings.InitializationOperation;
         LocalizationSettings.SelectedLocale = locale;
-        Debug.Log(locale.ToString());
-        //UILocalizationManager.instance.currentLanguage = locale.ToString();
+        Debug.Log(locale.LocaleName.ToString());
+        UILocalizationManager.instance.currentLanguage = locale.ToString();
+        DialogueManager.SetLanguage(locale.LocaleName);
     }
 }

@@ -40,7 +40,7 @@ MonoBehaviour:
     - title: Name
       value: Player
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -48,11 +48,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: True
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 0}
     spritePortrait: {fileID: 0}
     alternatePortraits: []
@@ -62,7 +78,7 @@ MonoBehaviour:
     - title: Name
       value: "\u674E\u8881\u964C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -70,11 +86,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 28550c0fa213cdc418fc41e2a175e53f, type: 3}
     spritePortrait: {fileID: 21300000, guid: 28550c0fa213cdc418fc41e2a175e53f, type: 3}
     alternatePortraits: []
@@ -84,7 +116,7 @@ MonoBehaviour:
     - title: Name
       value: "\u6613\u5927\u5C71"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -92,13 +124,29 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    portrait: {fileID: 0}
-    spritePortrait: {fileID: 0}
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
+    spritePortrait: {fileID: 21300000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     alternatePortraits: []
     spritePortraits: []
   - id: 3
@@ -106,7 +154,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4E19\u4E38"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -114,13 +162,29 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    portrait: {fileID: 0}
-    spritePortrait: {fileID: 0}
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
+    spritePortrait: {fileID: 21300000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     alternatePortraits: []
     spritePortraits: []
   - id: 5
@@ -128,7 +192,7 @@ MonoBehaviour:
     - title: Name
       value: "\u82D7\u9088"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -136,13 +200,29 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: bc5756e74045ec44999ad227b1d7ea52, type: 3}
-    spritePortrait: {fileID: 0}
+    spritePortrait: {fileID: 21300000, guid: bc5756e74045ec44999ad227b1d7ea52, type: 3}
     alternatePortraits: []
     spritePortraits: []
   - id: 6
@@ -150,7 +230,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5218\u7EF4"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -158,13 +238,29 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
-    spritePortrait: {fileID: 0}
+    spritePortrait: {fileID: 21300000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     alternatePortraits: []
     spritePortraits: []
   - id: 7
@@ -172,7 +268,7 @@ MonoBehaviour:
     - title: Name
       value: "\u6E05\u7AF9"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -180,11 +276,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 0599626b6c67baf4f8ebd635981663ef, type: 3}
     spritePortrait: {fileID: 21300000, guid: 0599626b6c67baf4f8ebd635981663ef, type: 3}
     alternatePortraits: []
@@ -194,7 +306,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5218\u76CA\u5584"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -202,11 +314,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
     spritePortrait: {fileID: 21300000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
     alternatePortraits: []
@@ -216,7 +344,7 @@ MonoBehaviour:
     - title: Name
       value: "\u767D\u7FBD\u67D4"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -224,11 +352,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 6eff81422c370c74987edfbef66659db, type: 3}
     spritePortrait: {fileID: 21300000, guid: 6eff81422c370c74987edfbef66659db, type: 3}
     alternatePortraits: []
@@ -238,7 +382,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5357\u672F"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -246,11 +390,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: bc5756e74045ec44999ad227b1d7ea52, type: 3}
     spritePortrait: {fileID: 21300000, guid: bc5756e74045ec44999ad227b1d7ea52, type: 3}
     alternatePortraits: []
@@ -273,6 +433,22 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: ae30dd121a14c0c41ba3d71a634d4d0e, type: 3}
     spritePortrait: {fileID: 21300000, guid: ae30dd121a14c0c41ba3d71a634d4d0e, type: 3}
     alternatePortraits: []
@@ -282,7 +458,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5BC6\u63A2"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -290,11 +466,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 0599626b6c67baf4f8ebd635981663ef, type: 3}
     spritePortrait: {fileID: 21300000, guid: 0599626b6c67baf4f8ebd635981663ef, type: 3}
     alternatePortraits: []
@@ -317,6 +509,22 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     spritePortrait: {fileID: 21300000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     alternatePortraits: []
@@ -326,7 +534,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u4E00"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -334,11 +542,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: ae30dd121a14c0c41ba3d71a634d4d0e, type: 3}
     spritePortrait: {fileID: 21300000, guid: ae30dd121a14c0c41ba3d71a634d4d0e, type: 3}
     alternatePortraits: []
@@ -348,7 +572,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u4E09"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -356,11 +580,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 6eff81422c370c74987edfbef66659db, type: 3}
     spritePortrait: {fileID: 21300000, guid: 6eff81422c370c74987edfbef66659db, type: 3}
     alternatePortraits: []
@@ -370,7 +610,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u4E8C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -378,11 +618,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 593a29df19ed1c74eac965fae75e7062, type: 3}
     spritePortrait: {fileID: 21300000, guid: 593a29df19ed1c74eac965fae75e7062, type: 3}
     alternatePortraits: []
@@ -392,7 +648,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u4E94"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -400,11 +656,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 98869d0086330574e85038ce7b34c0c3, type: 3}
     spritePortrait: {fileID: 21300000, guid: 98869d0086330574e85038ce7b34c0c3, type: 3}
     alternatePortraits: []
@@ -414,7 +686,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u56DB"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -422,11 +694,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 0599626b6c67baf4f8ebd635981663ef, type: 3}
     spritePortrait: {fileID: 21300000, guid: 0599626b6c67baf4f8ebd635981663ef, type: 3}
     alternatePortraits: []
@@ -436,7 +724,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u516D"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -444,11 +732,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 58954f90021e90c4c8bcaf7c97b830ea, type: 3}
     spritePortrait: {fileID: 21300000, guid: 58954f90021e90c4c8bcaf7c97b830ea, type: 3}
     alternatePortraits: []
@@ -458,7 +762,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u4E03"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -466,11 +770,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 5fdbe83107df909458276ecb608adecc, type: 3}
     spritePortrait: {fileID: 21300000, guid: 5fdbe83107df909458276ecb608adecc, type: 3}
     alternatePortraits: []
@@ -480,7 +800,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4EAC\u57CE\u767E\u59D3\u516B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -488,11 +808,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name ja
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name zh
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 51d4e6360af0a5f49ada5fcd21bbb857, type: 3}
     spritePortrait: {fileID: 21300000, guid: 51d4e6360af0a5f49ada5fcd21bbb857, type: 3}
     alternatePortraits: []
@@ -23570,7 +23906,10 @@ MonoBehaviour:
     syncItemsDatabase: {fileID: 0}
     syncLocationsDatabase: {fileID: 0}
     syncVariablesDatabase: {fileID: 0}
-  templateJson: '{"treatItemsAsQuests":true,"actorFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"IsPlayer","value":"False","type":2,"typeString":"CustomFieldType_Boolean"}],"itemFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Is
+  templateJson: '{"treatItemsAsQuests":true,"actorFields":[{"title":"Name","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"IsPlayer","value":"False","type":2,"typeString":"CustomFieldType_Boolean"},{"title":"DIsplay
+    Name en","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"DIsplay
+    Name ja","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"DIsplay
+    Name zh","value":"","type":0,"typeString":"CustomFieldType_Text"}],"itemFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Is
     Item","value":"True","type":2,"typeString":"CustomFieldType_Boolean"}],"questFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Success
     Description","value":"","type":0,"typeString":""},{"title":"Failure Description","value":"","type":0,"typeString":""},{"title":"State","value":"unassigned","type":0,"typeString":""},{"title":"Is
     Item","value":"False","type":2,"typeString":"CustomFieldType_Boolean"}],"locationFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Description","value":"","type":0,"typeString":""}],"variableFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Initial

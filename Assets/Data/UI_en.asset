@@ -22,5 +22,161 @@ MonoBehaviour:
     m_Localized: Language
     m_Metadata:
       m_Items: []
+  - m_Id: 557246420152320
+    m_Localized: MasterVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558227648212992
+    m_Localized: MusicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 558538890735616
+    m_Localized: SFXVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2663161923432448
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2663796173500416
+    m_Localized: Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2664243047231488
+    m_Localized: Brightness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2666768739659776
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2675533392179200
+    m_Localized: GraphicAndAudio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2675975832530944
+    m_Localized: SaveLoad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2676745059495936
+    m_Localized: alchemy room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2714315747291136
+    m_Localized: pawnshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2714554239610880
+    m_Localized: hidden weapon house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2715223700860928
+    m_Localized: Weaving workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2716214634541056
+    m_Localized: barn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717962874974208
+    m_Localized: harp building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2720158647644160
+    m_Localized: changan weaving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2720881984729088
+    m_Localized: "\rweapons shop"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721182053625856
+    m_Localized: Immortal Cauldron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2733901783822336
+    m_Localized: Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2734712068829184
+    m_Localized: main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2734717219434496
+    m_Localized: exit  game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2735195101655040
+    m_Localized: Thousands incense attic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2735717338640384
+    m_Localized: celebrity attic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2737491592146944
+    m_Localized: "\rdrug store"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2737626048950272
+    m_Localized: Thousand Immortals building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2738813120868352
+    m_Localized: auction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2740898667229184
+    m_Localized: clothing store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2741136094195712
+    m_Localized: Theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757623492177920
+    m_Localized: grocery store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757697748135936
+    m_Localized: theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757698347921408
+    m_Localized: rouge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757698939318272
+    m_Localized: "\rTavern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757699606212608
+    m_Localized: jewelry building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757700143083520
+    m_Localized: textile shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757700717703168
+    m_Localized: Fantastic Beasts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757701241991168
+    m_Localized: Treasures  Western
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757935992991744
+    m_Localized: Inn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757939038056448
+    m_Localized: medical clinic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2757940346679296
+    m_Localized: "\rStation"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CraftingMaterialListUI : MonoBehaviour
 {
     [SerializeField] private MaterialUI material;
     public void SetUp(List<ItemName> items)
     {
+        GetComponent<HorizontalLayoutGroup>().spacing = -140f;
         TransformEx.Clear(transform);
         foreach (ItemName i in items)
         {

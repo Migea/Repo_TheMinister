@@ -92,11 +92,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: ' bodyguard'
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u4F8D\u536B"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -130,11 +130,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: "Suwen\u2018Yu"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u4E8E\u8083\u6587"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -168,11 +168,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: ' robber'
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u5F3A\u76D7"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -206,11 +206,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: masked gangster
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u8499\u9762\u6B79\u5F921"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -244,11 +244,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: masked gangster
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u8499\u5708\u6B79\u5F922"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -282,7 +282,7 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: gangster boss
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
@@ -320,11 +320,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: "Wenhe\u2019Jia"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u8D3E\u6587\u548C"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -358,11 +358,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: Eunuch
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u5C0F\u592A\u76D1"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -396,11 +396,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: government guard
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u8859\u95E8\u62A4\u536B"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -434,11 +434,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: Ministry official
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u6237\u90E8\u5B98\u5458"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -472,11 +472,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: lackey
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u5E9C\u4E2D\u4E0B\u4EBA"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -510,11 +510,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: ' Mystery man'
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u795E\u79D8\u4EBA"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -547,16 +547,12 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: Display Name
-      value: 
-      type: 0
-      typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: Yuanmo'Li
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u674E\u8881\u964C"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -590,11 +586,11 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: HuoJia
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u7532\u970D"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -628,11 +624,11 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: "Dashan\u2018Yi"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u6613\u5927\u5C71"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -666,11 +662,11 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: WanBing
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u4E19\u4E38"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -742,11 +738,11 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: "Yishan\u2019Liu"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u5218\u76CA\u5584"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -776,11 +772,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: "Tianyun\u2018Mo"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u83AB\u5929\u4E91"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -800,7 +796,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4E91\u68A6"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -808,11 +804,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
+    - title: DIsplay Name en
+      value: MengYun
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name zh
+      value: "\u4E91\u68A6"
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name ja
+      value: 
+      type: 4
+      typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     spritePortrait: {fileID: 21300000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     alternatePortraits: []
@@ -822,7 +834,7 @@ MonoBehaviour:
     - title: Name
       value: "\u83AB\u5929\u4E91"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -830,11 +842,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: Tianyun'Mo
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name zh
+      value: "\u83AB\u5929\u4E91"
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name ja
+      value: 
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: Display Name
+      value: 
+      type: 0
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: ae30dd121a14c0c41ba3d71a634d4d0e, type: 3}
     spritePortrait: {fileID: 21300000, guid: ae30dd121a14c0c41ba3d71a634d4d0e, type: 3}
     alternatePortraits: []
@@ -858,11 +886,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: E Li
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u674E\u963F"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -900,11 +928,11 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: thug
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u6253\u624B"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -934,11 +962,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: "Mengfan\u2019Zhang"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u5F20\u68A6\u51E1"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -972,11 +1000,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: the masses
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u770B\u5BA2\u7532"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -1010,11 +1038,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: the masses
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u770B\u5BA2\u4E59"
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -1735,23 +1763,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u62DB\uFF0C\u6237\u90E8\u4F8D\u90CE\u674E\u8881\u964C\u89D0\u89C1\uFF01"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Summon Assistant Minister of Revenue Li Yuanmo for an audience!
         type: 4
@@ -1861,23 +1889,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u63D0\u793A\uFF1A\u6295\u63B7\u9AB0\u5B50\u5728\u5730\u56FE\u4E0A\u79FB\u52A8"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: 'Tip: Roll the dice to move on the map.'
         type: 4
@@ -1924,23 +1952,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u660E\u767D\u4E86\uFF01"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Understood!
         type: 4
@@ -1970,7 +1998,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasZoom: 0.7900002
   - id: 2
     fields:
     - title: Title
@@ -5027,23 +5055,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u8FD9\u4E48\u5DE7\uFF1F\u4F60\u7684\u968F\u4ECE\u7ADF\u7136\u6709\u201C\u6CD5\u5916\u72C2\u5F92\u201D\u8BCD\u6761\u3002"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: What a coincidence! Your follower has the "Outlaw" tag.
         type: 4
@@ -5086,23 +5114,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u4F60\u521A\u6765\u4EAC\u57CE\u4E5F\u8BB8\u4E0D\u77E5\uFF0C\u6700\u8FD1\u4E00\u6279\u5B98\u94F6\u5728\u8FD0\u5F80\u5185\u5E93\u65F6\u88AB\u4EBA\u52AB\u6301\uFF0C\u94F6\u4E24\u4E0D\u7FFC\u800C\u98DE\uFF0C\u5982\u4ECA\u6574\u4E2A\u6237\u90E8\u90FD\u4EBA\u4EBA\u81EA\u5371"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Perhaps you have not heard, but recently, a batch of official silver
           was hijacked on its way to the imperial treasury, and the silver has disappeared
@@ -5151,23 +5179,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u5982\u4F55\uFF1F"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: How about that?
         type: 4
@@ -5197,8 +5225,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 30.27657
-        y: 298.3964
+        x: 31.27657
+        y: 297.3964
         width: 160
         height: 30
     - id: 10
@@ -5277,23 +5305,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u88AB\u6218\u80DC\u7684\u89D2\u8272\u5728\u88AB\u62DB\u52DF\u65F6\uFF0C\u53EA\u4F1A\u4FDD\u75591\u70B9\u4F53\u529B\u548C5\u70B9\u5FE0\u8BDA\uFF0C\u5F53\u4F60\u7684\u89D2\u8272\u5728\u8017\u5C3D\u5176\u4E2D\u4E00\u9879\u65F6\uFF0C\u4F60\u5C06\u6C38\u4E45\u7684\u5931\u53BB\u4ED6\u4EEC\u3002"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Defeated characters, when recruited, will only retain 1 point of health
           and 5 points of loyalty. If either of these drops to zero, you will lose
@@ -5342,23 +5370,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u660E\u767D\u4E86"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: I see.
         type: 4

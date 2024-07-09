@@ -96,7 +96,7 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: ' bodyguard'
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -134,7 +134,7 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: ' '
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -358,7 +358,7 @@ MonoBehaviour:
       type: 0
       typeString: CustomFieldType_Text
     - title: DIsplay Name en
-      value: 
+      value: small  eunuch
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja

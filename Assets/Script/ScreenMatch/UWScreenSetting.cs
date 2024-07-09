@@ -40,7 +40,7 @@ public class UWScreenSetting : MonoBehaviour
         }
         if (setScale)
         {
-            target.localScale = new Vector3(scaleUW, scaleUW, 1);
+            target.localScale = new Vector3(scaleUW*scaleOrigin, scaleUW * scaleOrigin, 1);
         }
         if (setAnchorPosition)
         {

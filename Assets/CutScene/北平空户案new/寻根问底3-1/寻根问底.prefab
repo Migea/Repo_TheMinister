@@ -2210,7 +2210,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "2024\u5E746\u6708\uFF0C\u6B63\u5F0F\u4E0A\u7EBF"
+  m_Text: "2024\uFF0C\u6B63\u5F0F\u4E0A\u7EBF"
 --- !u!95 &2729719926866397719
 Animator:
   serializedVersion: 3

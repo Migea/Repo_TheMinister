@@ -15,7 +15,8 @@ MonoBehaviour:
   GameDescriptions:
   - Target: "\u94C1\u5320\u94FA"
     Description: "\u6709\u4E9B\u7B80\u5355\u7684\u6B66\u5668\u5E76\u4E14\u53EF\u4EE5\u5408\u6210\u6B66\u5668\u9053\u5177"
-    MultiLangDescription: []
+    MultiLangDescription:
+    - 
   - Target: "\u6B66\u5668\u94FA"
     Description: "\u6709\u4E30\u5BCC\u7684\u6B66\u5668\u5E76\u4E14\u53EF\u4EE5\u5408\u6210\u6B66\u5668\u9053\u5177"
     MultiLangDescription: []

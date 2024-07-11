@@ -59,15 +59,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2676745059495936
-    m_Localized: alchemy room
+    m_Localized: Alchemy room
     m_Metadata:
       m_Items: []
   - m_Id: 2714315747291136
-    m_Localized: pawnshop
+    m_Localized: Pawnshop
     m_Metadata:
       m_Items: []
   - m_Id: 2714554239610880
-    m_Localized: hidden weapon house
+    m_Localized: Hidden weapon house
     m_Metadata:
       m_Items: []
   - m_Id: 2715223700860928
@@ -75,19 +75,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2716214634541056
-    m_Localized: barn
+    m_Localized: Barn
     m_Metadata:
       m_Items: []
   - m_Id: 2717962874974208
-    m_Localized: harp building
+    m_Localized: Harp building
     m_Metadata:
       m_Items: []
   - m_Id: 2720158647644160
-    m_Localized: changan weaving
+    m_Localized: Changan weaving
     m_Metadata:
       m_Items: []
   - m_Id: 2720881984729088
-    m_Localized: "\rweapons shop"
+    m_Localized: WeaponCraft
     m_Metadata:
       m_Items: []
   - m_Id: 2721182053625856
@@ -111,11 +111,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2735717338640384
-    m_Localized: celebrity attic
+    m_Localized: Celebrity attic
     m_Metadata:
       m_Items: []
   - m_Id: 2737491592146944
-    m_Localized: "\rdrug store"
+    m_Localized: "\rDrug store"
     m_Metadata:
       m_Items: []
   - m_Id: 2737626048950272
@@ -123,11 +123,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2738813120868352
-    m_Localized: auction
+    m_Localized: Auction
     m_Metadata:
       m_Items: []
   - m_Id: 2740898667229184
-    m_Localized: clothing store
+    m_Localized: Clothing store
     m_Metadata:
       m_Items: []
   - m_Id: 2741136094195712
@@ -135,11 +135,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2757623492177920
-    m_Localized: grocery store
+    m_Localized: Grocery store
     m_Metadata:
       m_Items: []
   - m_Id: 2757697748135936
-    m_Localized: theater
+    m_Localized: Theater
     m_Metadata:
       m_Items: []
   - m_Id: 2757698347921408
@@ -151,11 +151,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2757699606212608
-    m_Localized: jewelry building
+    m_Localized: Jewelry building
     m_Metadata:
       m_Items: []
   - m_Id: 2757700143083520
-    m_Localized: textile shop
+    m_Localized: Textile shop
     m_Metadata:
       m_Items: []
   - m_Id: 2757700717703168
@@ -171,7 +171,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2757939038056448
-    m_Localized: medical clinic
+    m_Localized: Medical house
     m_Metadata:
       m_Items: []
   - m_Id: 2757940346679296
@@ -183,11 +183,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2763738128904192
-    m_Localized: blacksmith shop
+    m_Localized: CraftsMan
     m_Metadata:
       m_Items: []
   - m_Id: 2764301746892800
-    m_Localized: "\rdepartment store"
+    m_Localized: "\rDepartment store"
     m_Metadata:
       m_Items: []
   - m_Id: 2770090003853312
@@ -222,8 +222,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2774503149858816
-    m_Localized: auction is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: <size=30>auction is in good business condition todayPay tax <color=green>100</color>
+      taels</size>
     m_Metadata:
       m_Items: []
   - m_Id: 2775484763795456
@@ -237,22 +237,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2775490048618496
-    m_Localized: "\rdrug store is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "<size=30>\rDrug store is in good business condition todayPay tax
+      <color=green>100</color> taels</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 2775492405817344
-    m_Localized: barn is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Barn is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
   - m_Id: 2775494767210496
-    m_Localized: clothing store is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: <size=30>Clothing store is in good business condition todayPay tax
+      <color=green>100</color> taels</size>
     m_Metadata:
       m_Items: []
   - m_Id: 2775496868556800
-    m_Localized: harp building is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Harp building is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
@@ -262,7 +262,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780881897713664
-    m_Localized: changan weaving is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Changan Weaving is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
@@ -272,13 +272,13 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780883114061824
-    m_Localized: medical clinic is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: "Medical\r houseis in good business condition todayPay tax <color=green>100</color>
+      taels"
     m_Metadata:
       m_Items: []
   - m_Id: 2780883701264384
-    m_Localized: "\rweapons shop is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: WeaponCraft is in good business condition todayPay tax <color=green>100</color>
+      taels
     m_Metadata:
       m_Items: []
   - m_Id: 2780884930195456
@@ -302,17 +302,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780886956044288
-    m_Localized: grocery store is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Grocery store is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
   - m_Id: 2780889019641856
-    m_Localized: textile shop is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Textile shop is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
   - m_Id: 2780889862696960
-    m_Localized: blacksmith shop is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: CraftMan is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
@@ -322,7 +322,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791206755823616
-    m_Localized: "\rweapons shop is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: "\rWeapons shop is in good business condition todayPay tax <color=green>100</color>
       taels"
     m_Metadata:
       m_Items: []
@@ -332,7 +332,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791322241789952
-    m_Localized: "\rdepartment store is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: "\rDepartment store is in good business condition todayPay tax <color=green>100</color>
       taels"
     m_Metadata:
       m_Items: []
@@ -347,17 +347,17 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791326373179392
-    m_Localized: theater is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Theater is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
   - m_Id: 2793920168521728
-    m_Localized: celebrity attic is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Celebrity attic is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
   - m_Id: 2795506550763520
-    m_Localized: rouge is in good business condition todayPay tax <color=green>100</color>
+    m_Localized: Rouge is in good business condition todayPay tax <color=green>100</color>
       taels
     m_Metadata:
       m_Items: []
@@ -458,6 +458,166 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3116758297538560
     m_Localized: Clothes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3846631567716352
+    m_Localized: No one  is open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847258226094080
+    m_Localized: Trading house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847344737808384
+    m_Localized: Thousand Immortals building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847347719958528
+    m_Localized: Unlimited weapons store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847348974055424
+    m_Localized: Thousands incense attic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847349599006720
+    m_Localized: Alchemy room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847350148460544
+    m_Localized: Hardware store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847350748246016
+    m_Localized: Immortal Cauldron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847351272534016
+    m_Localized: Hospital
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847351817793536
+    m_Localized: Pegasus building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847352329498624
+    m_Localized: Fantastic Beasts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847352895729664
+    m_Localized: Inn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847353428406272
+    m_Localized: Pawnshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847353969471488
+    m_Localized: "\rRacecourse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847354460205056
+    m_Localized: Theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847355236151296
+    m_Localized: Theater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847355903045632
+    m_Localized: Auction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847356511219712
+    m_Localized: Clothing store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847357190696960
+    m_Localized: Hidden weapon house
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847357933088768
+    m_Localized: Weaving workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847358579011584
+    m_Localized: Wuhou Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847359317209088
+    m_Localized: WeaponCraft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847360005074944
+    m_Localized: Jade Clothes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847360638414848
+    m_Localized: Jewelry building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847361284337664
+    m_Localized: Zoo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847361930260480
+    m_Localized: "\rDepartment store"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847362597154816
+    m_Localized: Research Institute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847363268243456
+    m_Localized: Celebrity attic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847363905777664
+    m_Localized: Textile shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847364576866304
+    m_Localized: Rouge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847365277315072
+    m_Localized: "\rDrug store"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847367202500608
+    m_Localized: Treasures  Western
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847368393682944
+    m_Localized: Restaurant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847369018634240
+    m_Localized: "\rTavern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847367827451904
+    m_Localized: Hotel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847369568088064
+    m_Localized: CraftMan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847370180456448
+    m_Localized: Changan weaving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847371350667264
+    m_Localized: "\rStation"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847371904315392
+    m_Localized: Barn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847370746687488
+    m_Localized: Harp building
     m_Metadata:
       m_Items: []
   references:

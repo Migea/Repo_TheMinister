@@ -7,10 +7,15 @@ using UnityEngine.Rendering;
 using UnityEngine.EventSystems;
 using TMPro;
 using Language.Lua;
+using UnityEditor.Localization;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Tables;
+using UnityEngine.Localization.Settings;
 
 public class InteractAsset : MonoBehaviour, IDetailAble
 {
     private Building building;
+    private LocalizedString localizedString;
     public bool Active = false;
     public Material defaultMaterial;
     public Material highlightMaterial;
@@ -22,13 +27,13 @@ public class InteractAsset : MonoBehaviour, IDetailAble
     public Color UnreachableColor;
     private void Awake()
     {
+
         building = GetComponent<Building>();
         GetComponent<Renderer>().material = defaultMaterial;
         BuildingName = GetComponentInChildren<TextMeshPro>(true);
         BuildingName.font = fontAsset;
         buildingNameText = building.buildingType.ToString();
-        BuildingName.text = buildingNameText;
-        BuildingName.fontSize = 40f;
+        SetLocaleStoreText();
         BuildingName.renderer.sortingOrder = 100;
         BuildingName.gameObject.SetActive(false);
     }
@@ -43,6 +48,23 @@ public class InteractAsset : MonoBehaviour, IDetailAble
             return;
         }
         building.OpenMenu();
+    }
+    private void SetLocaleStoreText()
+    {
+        BuildingName.fontSize = 40f;
+        localizedString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"建筑类型_{building.buildingType.ToString()}"
+        };
+        BuildingName.text = localizedString.GetLocalizedString();
+    }
+    private void SetTooFar()
+    {
+        SetLocaleStoreText();
+        BuildingName.fontSize = 20f;
+        BuildingName.color = UnreachableColor;
+        BuildingName.text = $"{BuildingName.text}\n (太远了)";
     }
     private void OnMouseEnter()
     {
@@ -72,7 +94,12 @@ public class InteractAsset : MonoBehaviour, IDetailAble
                 GetComponent<Renderer>().material = unreachMaterial;
                 BuildingName.fontSize = 30f;
                 BuildingName.color = UnreachableColor;
-                BuildingName.text = $"无人营业";
+                localizedString = new LocalizedString
+                {
+                    TableReference = "UI",
+                    TableEntryReference = $"无人营业"
+                };
+                BuildingName.text = localizedString.GetLocalizedString();
                 BuildingName.gameObject.SetActive(true);
                 return;
             }
@@ -80,16 +107,14 @@ public class InteractAsset : MonoBehaviour, IDetailAble
         if (Active == false)
         {
             GetComponent<Renderer>().material = unreachMaterial;
-            BuildingName.fontSize = 20f;
-            BuildingName.color = UnreachableColor;
-            BuildingName.text = $"{buildingNameText}\n (太远了)";
+            SetTooFar();
             BuildingName.gameObject.SetActive(true);
             return;
         }
         GetComponent<Renderer>().material = highlightMaterial;
         BuildingName.fontSize = 40f;
         BuildingName.color = ReachableColor;
-        BuildingName.text = buildingNameText;
+        SetLocaleStoreText();
         BuildingName.gameObject.SetActive(true);
     }
     private void OnMouseOver()

@@ -151,7 +151,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2757699606212608
-    m_Localized: Jewelry building
+    m_Localized: Jewelry
     m_Metadata:
       m_Items: []
   - m_Id: 2757700143083520
@@ -618,6 +618,176 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3847370746687488
     m_Localized: Harp building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3939750866907136
+    m_Localized: Casting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3940481275588608
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3941515066667008
+    m_Localized: Refining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943029202022400
+    m_Localized: Treatment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943579914137600
+    m_Localized: "\rCure"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943863755272192
+    m_Localized: Wisdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943865189724160
+    m_Localized: literature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943865995030528
+    m_Localized: Seek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943992457490432
+    m_Localized: Valiant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3944022199300096
+    m_Localized: Prick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3944061462179840
+    m_Localized: Defend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3945096733847552
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3945318268596224
+    m_Localized: Confirm to spend 200 taels to restore 1 point of character Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3945556215656448
+    m_Localized: Spend 1,000 taels to restore 5 points of Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3947875258920960
+    m_Localized: Rent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3947876664012800
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3948835876171776
+    m_Localized: Snacks and Drinks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3948837037993984
+    m_Localized: Lodging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3948840577986560
+    m_Localized: Banquet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3949699420450816
+    m_Localized: Invite all followers to dine together. All characters will receive
+      4 satiety points and 1 loyalty point.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3950851683840000
+    m_Localized: Hall A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3950852799524864
+    m_Localized: Hall B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3950854221393920
+    m_Localized: Commodity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3955646331154432
+    m_Localized: Fabric
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3955649409773568
+    m_Localized: Garment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3956865174925312
+    m_Localized: Customized
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3960748160905216
+    m_Localized: Beauty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3961386244567040
+    m_Localized: Treasure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3961930665226240
+    m_Localized: Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3962139541565440
+    m_Localized: "\rEntertain"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3963496503767040
+    m_Localized: Weaving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3964304150556672
+    m_Localized: Invite two strangers to a banquet.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3964697664352256
+    m_Localized: Drinks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3965106671906816
+    m_Localized: Treating a follower alone will increase satiety points by 4 points
+      and loyalty points by 2 points.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3965988331384832
+    m_Localized: Bribe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3965995172294656
+    m_Localized: Kill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3965995939852288
+    m_Localized: Impeach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3965996652883968
+    m_Localized: Appoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3965997185560576
+    m_Localized: Request
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967034101395456
+    m_Localized: Board of Revenue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967021090664448
+    m_Localized: intelligence department
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3967030196498432
+    m_Localized: Money Department
     m_Metadata:
       m_Items: []
   references:

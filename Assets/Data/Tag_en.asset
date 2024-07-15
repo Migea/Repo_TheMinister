@@ -17,6 +17,1050 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 825a4cde3dff28e48add7985c4e796e9, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 208496384339968
+    m_Localized: Namugatling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339969
+    m_Localized: Star Player Descending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339970
+    m_Localized: Master Craftsman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339971
+    m_Localized: Literary Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339972
+    m_Localized: Enlightened
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339973
+    m_Localized: Longevity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339974
+    m_Localized: Undying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339975
+    m_Localized: Loyal and Righteous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339976
+    m_Localized: Earthly Immortal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339977
+    m_Localized: Heartbreaking Palm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339978
+    m_Localized: 10-dan Go Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339979
+    m_Localized: Top Scholar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339980
+    m_Localized: Immortal Poet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339981
+    m_Localized: Sleeping Dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339982
+    m_Localized: Talent of Eight Measures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339983
+    m_Localized: Saint of Martial Arts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339984
+    m_Localized: Shadowless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339985
+    m_Localized: Rock Solid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339986
+    m_Localized: Master of All Martial Arts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339987
+    m_Localized: Empty Talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339988
+    m_Localized: Only a Reputation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339989
+    m_Localized: Opportunist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339990
+    m_Localized: Chaotic Demon King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339991
+    m_Localized: Ruthless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339992
+    m_Localized: Conservative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339993
+    m_Localized: Body of an Immortal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339994
+    m_Localized: Hidden Talents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339995
+    m_Localized: Profound Benevolence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339996
+    m_Localized: Smooth Career
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339997
+    m_Localized: Masterful Craftsmanship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339998
+    m_Localized: Healing the World
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384339999
+    m_Localized: Mojia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340000
+    m_Localized: Shooting Through the Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340001
+    m_Localized: Silent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340002
+    m_Localized: Azure Dragon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340003
+    m_Localized: Certain Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340004
+    m_Localized: Supporting the Sky
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340005
+    m_Localized: Dragon's Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340006
+    m_Localized: Suppressing Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340007
+    m_Localized: Living in a Dream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340008
+    m_Localized: Golden Glitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340009
+    m_Localized: Light Fragment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340010
+    m_Localized: Dragon Horse Spirit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340011
+    m_Localized: Eagle's Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340012
+    m_Localized: Glimpsing Heaven's Secrets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340013
+    m_Localized: Invincible to Poisons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340014
+    m_Localized: Yapping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340015
+    m_Localized: Ripple Walk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340016
+    m_Localized: Power of an Elephant and Tiger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340017
+    m_Localized: Literary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340018
+    m_Localized: Martial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340019
+    m_Localized: Well-read in Erudite Works
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340020
+    m_Localized: Highly Talented
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340021
+    m_Localized: Scheming
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340022
+    m_Localized: Lifting Mountains
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340023
+    m_Localized: Elusive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340024
+    m_Localized: Sheltering Mansion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340025
+    m_Localized: Wise and Brave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340026
+    m_Localized: Mechanical Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340027
+    m_Localized: Qimen Dunjia (Mystical Strategy)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340028
+    m_Localized: Innate Strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340029
+    m_Localized: Yangming School
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340030
+    m_Localized: Lich Lord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340031
+    m_Localized: Dragon Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340032
+    m_Localized: Diplomat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340033
+    m_Localized: Old but Vigorous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340034
+    m_Localized: Alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340035
+    m_Localized: Master of Close Combat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340036
+    m_Localized: Reincarnation of an Ancient God
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340037
+    m_Localized: Financial Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340038
+    m_Localized: Strategist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340039
+    m_Localized: Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340040
+    m_Localized: Drama King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340041
+    m_Localized: Yellow Emperor's Internal Classic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340042
+    m_Localized: Compendium of Materia Medica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340043
+    m_Localized: Imperial Stable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340044
+    m_Localized: Beast Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340045
+    m_Localized: Money Manager
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340046
+    m_Localized: Perfect Archery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340047
+    m_Localized: King of Swords
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340048
+    m_Localized: Lord of Thunder and Lightning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340049
+    m_Localized: Royal Bloodline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340050
+    m_Localized: Overlord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340051
+    m_Localized: Qigong Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340052
+    m_Localized: Inspired Poet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340053
+    m_Localized: Drunken Ecstasy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340054
+    m_Localized: Pay-to-Win Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340055
+    m_Localized: Vegetarian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340056
+    m_Localized: Fully Armed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340057
+    m_Localized: Impregnable Fortress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340058
+    m_Localized: Skillful Doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340059
+    m_Localized: Fierce as Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340060
+    m_Localized: Benevolent Gentleman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340061
+    m_Localized: Excellent Horse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340062
+    m_Localized: Fierce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340063
+    m_Localized: Lone Wolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340064
+    m_Localized: Loyalty and Faith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340065
+    m_Localized: Lucky Star
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340066
+    m_Localized: Elegant Dancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340067
+    m_Localized: Money Dart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496384340068
+    m_Localized: Sleeve Robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534272
+    m_Localized: Blood Dripper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534273
+    m_Localized: Bishop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534274
+    m_Localized: Pearl-like
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534275
+    m_Localized: Cultural Desert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534276
+    m_Localized: Minor Martial Skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534277
+    m_Localized: Literary Righteousness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534278
+    m_Localized: Martial Loyalty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534279
+    m_Localized: Bookworm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534280
+    m_Localized: Slightly Famous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534281
+    m_Localized: Slightly Strategic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534282
+    m_Localized: Martial Arts Enthusiast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534283
+    m_Localized: Agile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534284
+    m_Localized: Old Bear on the Path
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534285
+    m_Localized: Outlaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534286
+    m_Localized: Toad Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534287
+    m_Localized: Joyful Buddha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534288
+    m_Localized: Demon Man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534289
+    m_Localized: Astronomy Expert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534290
+    m_Localized: Frost Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534291
+    m_Localized: Swift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534292
+    m_Localized: Cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534293
+    m_Localized: Eastern Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534294
+    m_Localized: Talented in Singing and Dancing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534295
+    m_Localized: Western Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534296
+    m_Localized: Poison Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534297
+    m_Localized: Unorthodox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534298
+    m_Localized: Foreigner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534299
+    m_Localized: Madman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534300
+    m_Localized: Go Strategy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534301
+    m_Localized: Mental Calculation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534302
+    m_Localized: Economics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534303
+    m_Localized: Small Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534304
+    m_Localized: Veteran Actor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534305
+    m_Localized: Doctor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534306
+    m_Localized: Beast Taming
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534307
+    m_Localized: Imperial Horse Keeper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534308
+    m_Localized: Nomad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534309
+    m_Localized: Universal Love
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534310
+    m_Localized: Hawker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534311
+    m_Localized: Non-aggression
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534312
+    m_Localized: Perfect Archery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534313
+    m_Localized: Unusual Talent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534314
+    m_Localized: A Glimmer of Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534315
+    m_Localized: Melon Seller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534316
+    m_Localized: Exquisite Martial Skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534317
+    m_Localized: Entered the Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534318
+    m_Localized: Possessed by Demons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534319
+    m_Localized: Vegetarian Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534320
+    m_Localized: Meat Dish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534321
+    m_Localized: Great Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534322
+    m_Localized: Silk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534323
+    m_Localized: Heart Protector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534324
+    m_Localized: Leather Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534325
+    m_Localized: Iron Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534326
+    m_Localized: Evil Repeller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534327
+    m_Localized: Jewelry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534328
+    m_Localized: Happy Family
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534329
+    m_Localized: Mixed Emotions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534330
+    m_Localized: Lover of Good Wine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534331
+    m_Localized: Craftsman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534332
+    m_Localized: Story King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534333
+    m_Localized: Zither Player
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534334
+    m_Localized: Drunken Boxing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534335
+    m_Localized: Literary Righteousness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534336
+    m_Localized: Martial Bravery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534337
+    m_Localized: Brave but Foolish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534338
+    m_Localized: Flowery Speech
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534339
+    m_Localized: Decorative Pillow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534340
+    m_Localized: Jack of All Trades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534341
+    m_Localized: Self-righteous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534342
+    m_Localized: Treasuring a Broken Broom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534343
+    m_Localized: Infertility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534344
+    m_Localized: Giant Syndrome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534345
+    m_Localized: Dwarfism
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534346
+    m_Localized: Confucian Scholar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534347
+    m_Localized: Taoist Priest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534348
+    m_Localized: Monk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534349
+    m_Localized: Lawyer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534350
+    m_Localized: Cold-blooded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534351
+    m_Localized: Eunuch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534352
+    m_Localized: Vampire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534353
+    m_Localized: Werewolf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534354
+    m_Localized: Stiff Knees
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534355
+    m_Localized: Hyperactivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534356
+    m_Localized: Unremarkable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534357
+    m_Localized: Eagle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534358
+    m_Localized: Martial Artist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534359
+    m_Localized: Immortal Boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534360
+    m_Localized: Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534361
+    m_Localized: Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534362
+    m_Localized: Spear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534363
+    m_Localized: Corruption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534364
+    m_Localized: Actor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534365
+    m_Localized: Impure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534366
+    m_Localized: Knife
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534367
+    m_Localized: Halberd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534368
+    m_Localized: Medical Skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534369
+    m_Localized: Horse Keeper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534370
+    m_Localized: Full Stomach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534371
+    m_Localized: Harmless
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534372
+    m_Localized: Skilled Craftsman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534373
+    m_Localized: Upright Posture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534374
+    m_Localized: Useless Person
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534375
+    m_Localized: Miscellaneous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534376
+    m_Localized: Thick Hair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534377
+    m_Localized: Cursed with Bad Luck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496388534378
+    m_Localized: Ungrateful Child
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728576
+    m_Localized: Lame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728577
+    m_Localized: Old and Weak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728578
+    m_Localized: Drunk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728579
+    m_Localized: Tragic Life
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728580
+    m_Localized: Mental Illness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728581
+    m_Localized: Nearsighted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728582
+    m_Localized: Sweet Tooth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728583
+    m_Localized: Malnutrition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728584
+    m_Localized: Diabetes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728585
+    m_Localized: Sleeplessness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728586
+    m_Localized: Big Eater
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728587
+    m_Localized: Blind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728588
+    m_Localized: One-armed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728589
+    m_Localized: Dementia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728590
+    m_Localized: Pregnant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728591
+    m_Localized: Polio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728592
+    m_Localized: Illiterate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728593
+    m_Localized: Taking Advantage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728594
+    m_Localized: Useless Fury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728595
+    m_Localized: Headache
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728596
+    m_Localized: Paralysis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728597
+    m_Localized: Stuttering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728598
+    m_Localized: Annoying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728599
+    m_Localized: Mischievous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728600
+    m_Localized: Natural Dislike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728601
+    m_Localized: Gagging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728602
+    m_Localized: Weak Body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728603
+    m_Localized: Obesity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728604
+    m_Localized: Uneven Legs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728605
+    m_Localized: Prosthetic Limb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728606
+    m_Localized: Poison
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728607
+    m_Localized: Barely Clothed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728608
+    m_Localized: Blood Enrichment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728609
+    m_Localized: Kidney Strengthening
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728610
+    m_Localized: Refreshing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728611
+    m_Localized: Poisoned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728612
+    m_Localized: Body Tempering
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728613
+    m_Localized: Nourishing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728614
+    m_Localized: Minor Authority
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728615
+    m_Localized: Resonant Jade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728616
+    m_Localized: Cloud Flipping
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728617
+    m_Localized: Rain Making
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728618
+    m_Localized: Cold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728619
+    m_Localized: Tiring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728620
+    m_Localized: Iron Turtle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728621
+    m_Localized: Full of Vigor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728622
+    m_Localized: Dragon Roar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728623
+    m_Localized: Thousand Faces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728624
+    m_Localized: Master of Techniques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728625
+    m_Localized: Swift as the Wind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728626
+    m_Localized: Foul Odor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728627
+    m_Localized: Stinking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208496392728628
+    m_Localized: Mechanical Body
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

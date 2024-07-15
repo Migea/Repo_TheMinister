@@ -15,294 +15,213 @@ MonoBehaviour:
   GameDescriptions:
   - Target: "\u94C1\u5320\u94FA"
     Description: "\u6709\u4E9B\u7B80\u5355\u7684\u6B66\u5668\u5E76\u4E14\u53EF\u4EE5\u5408\u6210\u6B66\u5668\u9053\u5177"
-    MultiLangDescription:
-    - 'Some simple weapons and weapon props can be synthesized '
+    MultiLangDescription: []
   - Target: "\u6B66\u5668\u94FA"
     Description: "\u6709\u4E30\u5BCC\u7684\u6B66\u5668\u5E76\u4E14\u53EF\u4EE5\u5408\u6210\u6B66\u5668\u9053\u5177"
-    MultiLangDescription:
-    - There are a wealth of weapons and weapon props can be synthesized
+    MultiLangDescription: []
   - Target: "\u673A\u5173\u9601"
     Description: "\u6709\u4E30\u5BCC\u7684\u673A\u5173\u5E76\u4E14\u53EF\u4EE5\u5408\u6210\u673A\u5173\u9053\u5177"
-    MultiLangDescription:
-    - There are abundant traps and mechanisms and props can be synthesized
+    MultiLangDescription: []
   - Target: "\u7EBA\u7EC7\u94FA"
     Description: "\u6709\u57FA\u7840\u7684\u6210\u8863\u4EE5\u53CA\u6750\u6599\uFF0C\u53EF\u4EE5\u5236\u4F5C\u670D\u88C5\u9053\u5177"
-    MultiLangDescription:
-    - With basic clothing and materials, you can make costumes and props
+    MultiLangDescription: []
   - Target: "\u68AD\u7EC7\u574A"
     Description: "\u6709\u4E30\u5BCC\u7684\u6210\u8863\u4EE5\u53CA\u6750\u6599\uFF0C\u53EF\u4EE5\u5236\u4F5C\u670D\u88C5\u9053\u5177"
-    MultiLangDescription:
-    - There are abundant ready-made clothes and materials that can be used to make
-      costumes and props
+    MultiLangDescription: []
   - Target: "\u957F\u5B89\u7EC7\u9020"
     Description: "\u6709\u9AD8\u7EA7\u7684\u6210\u8863\u4EE5\u53CA\u6750\u6599\uFF0C\u53EF\u4EE5\u5236\u4F5C\u670D\u88C5\u9053\u5177"
-    MultiLangDescription:
-    - There are high-end ready-made clothes and materials that can be used to make
-      costumes and props
+    MultiLangDescription: []
   - Target: "\u670D\u88C5\u5E97"
     Description: "\u6709\u57FA\u7840\u7684\u62A4\u7532\uFF0C\u6750\u6599\uFF0C\u4EE5\u53CA\u5408\u6210\u62A4\u7532\u9053\u5177"
-    MultiLangDescription:
-    - There are basic armor, materials, and synthetic armor props
+    MultiLangDescription: []
   - Target: "\u620F\u9986"
     Description: "\u6709\u5C11\u91CF\u4E66\u7C4D\uFF0C\u8FDB\u884C\u6D88\u8D39\u6062\u590D\u5FE0\u8BDA\u5EA6"
-    MultiLangDescription:
-    - 'There are a small number of books, which can be consumed to restore loyalty. '
+    MultiLangDescription: []
   - Target: "\u9752\u697C"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u4EBA\u7269\u5361"
-    MultiLangDescription:
-    - Character cards can be purchased
+    MultiLangDescription: []
   - Target: "\u7EA2\u4EBA\u9986"
     Description: "\u62E5\u6709\u7279\u6B8A\u4EBA\u7269\uFF0C\u53EF\u4EE5\u8D2D\u4E70\u4EFB\u52A1\u5361"
-    MultiLangDescription:
-    - Have special characters and can purchase mission cards
+    MultiLangDescription: []
   - Target: "\u620F\u9662"
     Description: "\u6709\u4E30\u5BCC\u7684\u4E66\u7C4D\uFF0C\u8FDB\u884C\u6D88\u8D39\u6062\u590D\u5FE0\u8BDA\u5EA6"
-    MultiLangDescription:
-    - There are abundant books, consumption restores loyalty
+    MultiLangDescription: []
   - Target: "\u9F13\u745F\u697C"
     Description: "\u6709\u9F50\u5168\u7684\u4E66\u7C4D\uFF0C\u8FDB\u884C\u6D88\u8D39\u6062\u590D\u5FE0\u8BDA\u5EA6"
-    MultiLangDescription:
-    - Have a complete set of books and spend them to restore loyalty
+    MultiLangDescription: []
   - Target: "\u4E94\u91D1\u5E97"
     Description: "\u6709\u5C11\u91CF\u7684\u6742\u8D27\u53EF\u4F9B\u8D2D\u4E70"
-    MultiLangDescription:
-    - A small amount of groceries are available for purchase
+    MultiLangDescription: []
   - Target: "\u767E\u8D27\u5E97"
     Description: "\u6709\u4E30\u5BCC\u7684\u6742\u8D27\u53EF\u4F9B\u8D2D\u4E70"
-    MultiLangDescription:
-    - There is an abundance of groceries available for purchase
+    MultiLangDescription: []
   - Target: "\u4E07\u4ED9\u697C"
     Description: "\u6709\u5927\u91CF\u7684\u6742\u8D27\u53EF\u4F9B\u8D2D\u4E70"
-    MultiLangDescription:
-    - There are plenty of groceries available for purchase
+    MultiLangDescription: []
   - Target: "\u836F\u94FA"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u57FA\u7840\u7684\u836F\u6750"
-    MultiLangDescription:
-    - Basic medicinal materials can be purchased
+    MultiLangDescription: []
   - Target: "\u4E39\u623F"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u4E30\u5BCC\u7684\u836F\u6750\u4EE5\u53CA\u5408\u6210\u4E39\u836F"
-    MultiLangDescription:
-    - can purchase abundant medicinal materials and synthetic elixirs
+    MultiLangDescription: []
   - Target: "\u4ED9\u9F0E\u53F0"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u9F50\u5168\u7684\u836F\u6750\u4EE5\u53CA\u5408\u6210\u4E39\u836F"
-    MultiLangDescription:
-    - ' can purchase a complete range of medicinal materials and synthetic elixirs'
+    MultiLangDescription: []
   - Target: "\u533B\u9662"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u57FA\u7840\u836F\u6750\uFF0C\u836F\u54C1\uFF0C\u53EF\u4EE5\u6062\u590D\u89D2\u8272\u4F53\u529B"
-    MultiLangDescription:
-    - 'can buy basic medicinal materials and medicines, which can restore the character''s
-      physical strength. '
+    MultiLangDescription: []
   - Target: "\u7814\u7A76\u9662"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u57FA\u7840\u836F\u6750\uFF0C\u9AD8\u7EA7\u836F\u54C1\uFF0C\u53EF\u4EE5\u6062\u590D\u89D2\u8272\u4F53\u529B\uFF0C\u5220\u9664\u89D2\u8272\u8D1F\u9762\u8BCD\u6761\u9057\u8FF9\u8D4B\u4E88\u89D2\u8272\u8BCD\u6761"
-    MultiLangDescription:
-    - 'can purchase basic medicinal materials and advanced medicines, which can restore
-      the character''s physical strength, delete the character''s negative entries,
-      and grant the character entries with the ruins. '
+    MultiLangDescription: []
   - Target: "\u9152\u9986"
     Description: "\u63D0\u4F9B\u57FA\u7840\u7684\u9152\u6C34\u83DC\u54C1\uFF0C\u62DB\u52DF\u89D2\u8272"
-    MultiLangDescription:
-    - Provide basic drinks and dishes and recruit roles
+    MultiLangDescription: []
   - Target: "\u9152\u5E97"
     Description: "\u63D0\u4F9B\u4E30\u5BCC\u7684\u9152\u6C34\u83DC\u54C1\uFF0C\u62DB\u52DF\u89D2\u8272"
-    MultiLangDescription:
-    - Provide a variety of drinks and dishes, and recruit roles
+    MultiLangDescription: []
   - Target: "\u9152\u697C"
     Description: "\u63D0\u4F9B\u9F50\u5168\u7684\u9152\u6C34\u83DC\u54C1\uFF0C\u62DB\u52DF\u89D2\u8272"
     MultiLangDescription:
-    - Provide a full range of drinks and dishes, and recruit roles
+    - 
   - Target: "\u9986\u9A7F"
     Description: "\u63D0\u4F9B\u57FA\u7840\u9152\u6C34\u83DC\u54C1\uFF0C\u53EF\u4EE5\u9009\u62E9\u67D0\u4E9B\u89D2\u8272\u4F11\u606F\u5E76\u6062\u590D\u5176\u4F53\u529B"
-    MultiLangDescription:
-    - Provide basic drinks and dishes, and you can choose certain characters to rest
-      and restore their physical strength
+    MultiLangDescription: []
   - Target: "\u5BA2\u6808"
     Description: "\u63D0\u4F9B\u57FA\u7840\u9152\u6C34\u83DC\u54C1\uFF0C\u53EF\u4EE5\u9009\u62E9\u66F4\u9AD8\u7EA7\u7684\u89D2\u8272\u4F11\u606F\u5E76\u6062\u590D\u5176\u4F53\u529B"
-    MultiLangDescription:
-    - Basic drinks and dishes are provided, and you can choose more advanced characters
-      to rest and restore their physical strength.
+    MultiLangDescription: []
   - Target: "\u9A6C\u53A9"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u9A6C\u5339\u4EE5\u53CA\u53EF\u4EE5\u82B1\u8D39\u94F6\u4E24\u5411\u524D\u6307\u5B9A\u683C\u6570"
-    MultiLangDescription:
-    - 'can buy horses and spend silver coins to specify the number of squares in
-      advance. '
+    MultiLangDescription: []
   - Target: "\u5FA1\u9A6C\u573A"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u66F4\u591A\u9A6C\u5339\uFF0C\u4EE5\u53CA\u53EF\u4EE5\u82B1\u8D39\u94F6\u4E24\u5411\u524D\u6307\u5B9A\u683C\u6570"
-    MultiLangDescription:
-    - can buy more horses, and you can spend silver taels to specify the number of
-      squares in advance.
+    MultiLangDescription: []
   - Target: "\u5929\u9A6C\u9601"
     Description: "\u62E5\u6709\u6700\u597D\u7684\u9A6C\u5339\uFF0C\u4EE5\u53CA\u53EF\u4EE5\u82B1\u8D39\u94F6\u4E24\u5411\u524D\u6307\u5B9A\u683C\u6570"
     MultiLangDescription: []
   - Target: "\u5947\u517D\u5802"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u73CD\u5947\u5F02\u517D"
-    MultiLangDescription:
-    - Exotic animals can be purchased
+    MultiLangDescription: []
   - Target: "\u767E\u517D\u56ED"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u66F4\u5947\u7279\u7684\u73CD\u5947\u5F02\u517D"
-    MultiLangDescription:
-    - More exotic exotic animals can be purchased
+    MultiLangDescription: []
   - Target: "\u5546\u884C"
     Description: "\u6709\u57FA\u7840\u7684\u73E0\u5B9D\u9996\u9970"
-    MultiLangDescription:
-    - Basic jewelry
+    MultiLangDescription: []
   - Target: "\u73E0\u5B9D\u5E97"
     Description: "\u6709\u4E30\u5BCC\u7684\u73E0\u5B9D\u9996\u9970"
-    MultiLangDescription:
-    - a lot ofjewelry
+    MultiLangDescription: []
   - Target: "\u897F\u57DF\u73CD\u54C1"
     Description: "\u6709\u9F50\u5168\u7684\u73E0\u5B9D\u9996\u9970"
-    MultiLangDescription:
-    - Complete range of jewelry
+    MultiLangDescription: []
   - Target: "\u80ED\u8102\u94FA"
     Description: "\u53EF\u4EE5\u8D2D\u4E70\u5986\u54C1\u6DF1\u53D7\u5973\u5B50\u559C\u7231"
-    MultiLangDescription:
-    - Cosmetics can be purchased and are loved by women
+    MultiLangDescription: []
   - Target: "\u5F53\u94FA"
     Description: "\u53EF\u4EE5\u5356\u51FA\u9053\u5177"
-    MultiLangDescription:
-    - Can sell props
+    MultiLangDescription: []
   - Target: "\u62CD\u5356\u884C"
     Description: "\u53EF\u4EE5\u4EE5\u66F4\u9AD8\u7684\u4EF7\u683C\u5356\u51FA\u9053\u5177"
-    MultiLangDescription:
-    - Items can be sold at a higher price
+    MultiLangDescription: []
   - Target: "\u94F6\u4E24"
     Description: "\u7528\u4E8E\u6D88\u8D39\u7684\u8D27\u5E01"
-    MultiLangDescription:
-    - currency used for consumption
+    MultiLangDescription: []
   - Target: "\u6C11\u6028"
     Description: "\u4EAC\u57CE\u5185\u6C11\u4F17\u7684\u4E0D\u6EE1\uFF0C\u6BCF\u56DE\u5408\u589E\u52A0\uFF0C\u82E5\u6C11\u6028\u79EF\u7D2F\u5230100%\u5219\u6E38\u620F\u7ED3\u675F"
-    MultiLangDescription:
-    - The dissatisfaction of the people in the capital increases every round. If
-      the dissatisfaction accumulates to 100%, the game will end.
+    MultiLangDescription: []
   - Target: "\u52BF\u529B"
     Description: "\u62E5\u6709\u7684\u968F\u4ECE\u603B\u6570"
-    MultiLangDescription:
-    - The total number of followers you have
+    MultiLangDescription: []
   - Target: "\u4EFB\u52A1"
     Description: "\u67E5\u770B\u4EFB\u52A1\u8FDB\u5EA6"
-    MultiLangDescription:
-    - View task progress
+    MultiLangDescription: []
   - Target: "\u968F\u4ECE"
     Description: "\u67E5\u770B\u62E5\u6709\u7684\u968F\u4ECE"
-    MultiLangDescription:
-    - View followers you have
+    MultiLangDescription: []
   - Target: "\u80CC\u5305"
     Description: "\u67E5\u770B\u62E5\u6709\u7684\u9053\u5177"
-    MultiLangDescription:
-    - View the items you own
+    MultiLangDescription: []
   - Target: "\u5730\u56FE"
     Description: "\u67E5\u770B\u5730\u56FE"
-    MultiLangDescription:
-    - check the map
+    MultiLangDescription: []
   - Target: "\u9AB0\u5B50"
     Description: "\u6254\u9AB0\u5B50\u51B3\u5B9A\u524D\u8FDB\u683C\u6570"
-    MultiLangDescription:
-    - Throw the dice to determine the number of squares to advance
+    MultiLangDescription: []
   - Target: "\u56DE\u5408"
     Description: "\u4E00\u5929\u5206\u4E3A\u4E09\u4E2A\u56DE\u5408\uFF0C\u5206\u522B\u662F\u4E0A\u5348\uFF0C\u4E0B\u5348\uFF0C\u665A\u4E0A\uFF0C\u665A\u4E0A\u4F1A\u6839\u636E\u6C11\u6028\u51FA\u73B0\u65B0\u7684\u66B4\u6C11\u3002"
-    MultiLangDescription:
-    - The day is divided into three rounds, morning, afternoon, and evening. New
-      mobs will appear in the evening based on public complaints.
+    MultiLangDescription: []
   - Target: "\u8BBE\u7F6E"
     Description: "\u6E38\u620F\u8BBE\u7F6E"
-    MultiLangDescription:
-    - settings
+    MultiLangDescription: []
   - Target: "\u4E07\u9999\u9601"
     Description: "\u6709\u9F50\u5168\u7684\u5316\u5986\u54C1\uFF0C\u6DF1\u53D7\u5973\u5B50\u559C\u7231"
-    MultiLangDescription:
-    - It has a complete range of cosmetics and is very popular among women.
+    MultiLangDescription: []
   - Target: "\u6B66\u4FAF\u697C"
     Description: "\u6709\u9F50\u5168\u7684\u673A\u5173\u5E76\u4E14\u53EF\u4EE5\u5408\u6210\u673A\u5173\u9053\u5177"
-    MultiLangDescription:
-    - There are complete traps and mechanisms and props can be synthesized
+    MultiLangDescription: []
   - Target: "\u953B\u9020\u53F0"
     Description: "\u5408\u6210\u65B0\u7684\u6B66\u5668\u673A\u5173\u9053\u5177"
-    MultiLangDescription:
-    - Synthesize new weapons and mechanisms
+    MultiLangDescription: []
   - Target: "\u7EBA\u7EC7\u53F0"
     Description: "\u5408\u6210\u65B0\u7684\u670D\u88C5\u62A4\u7532\u9053\u5177"
-    MultiLangDescription:
-    - Synthesize new clothing and armor items
+    MultiLangDescription: []
   - Target: "\u70BC\u4E39\u7089"
     Description: "\u5408\u6210\u65B0\u7684\u4E39\u836F\u9053\u5177"
-    MultiLangDescription:
-    - Synthesize new elixir props
+    MultiLangDescription: []
   - Target: "\u620F\u5385"
     Description: "\u6307\u5B9A\u968F\u4ECE\u89C2\u770B\u620F\u5267\u6062\u590D\u5FE0\u8BDA\u5EA6"
-    MultiLangDescription:
-    - Specify a follower to watch a drama to restore loyalty
+    MultiLangDescription: []
   - Target: "\u533B\u7597"
     Description: "\u6307\u5B9A\u968F\u4ECE\u6062\u590D\u4F53\u529B"
-    MultiLangDescription:
-    - Restore physical strength to the designated follower
+    MultiLangDescription: []
   - Target: "\u533B\u6CBB"
     Description: "\u5236\u5B9A\u968F\u4ECE\u5220\u9664\u4E00\u4E2A\u8D1F\u9762\u8BCD\u6761"
-    MultiLangDescription:
-    - Create a follower to delete a negative term
+    MultiLangDescription: []
   - Target: "\u63D0\u53D6"
     Description: "\u8F6C\u79FB\u4E00\u4E2A\u968F\u4ECE\u7684\u4E00\u4E2A\u8BCD\u6761\u5230\u53E6\u4E00\u4E2A\u968F\u4ECE\uFF0C\u6D88\u8017\u524D\u8005\u7684\u6240\u6709\u5FE0\u8BDA\u5EA6"
-    MultiLangDescription:
-    - Transfers an entry from one minion to another, consuming all of the former's
-      loyalty
+    MultiLangDescription: []
   - Target: "\u5BC4\u5BBF"
     Description: "\u9009\u62E9\u968F\u4ECE\u4F11\u606F\u6062\u590D\u4F53\u529B"
-    MultiLangDescription:
-    - Choose a follower to rest and restore physical strength
+    MultiLangDescription: []
   - Target: "\u5546\u94FA"
     Description: "\u8D2D\u4E70\u9053\u5177\uFF0C\u5546\u94FA\u9053\u5177\u6BCF\u5708\u66F4\u65B0"
-    MultiLangDescription:
-    - Purchase props, shop props are updated every circle
+    MultiLangDescription: []
   - Target: "\u5BA2\u623F"
     Description: "\u9009\u62E9\u89D2\u8272\u4F11\u606F\uFF0C\u6062\u590D\u4F53\u529B\uFF0C\u4F11\u606F\u671F\u95F4\u89D2\u8272\u4E0D\u53EF\u7528"
     MultiLangDescription: []
   - Target: "\u52A0\u5DE5\u53F0"
     Description: "\u5408\u6210\u65B0\u7684\u73E0\u5B9D\u9053\u5177"
-    MultiLangDescription:
-    - Synthesize new jewelry items
+    MultiLangDescription: []
   - Target: "\u9152\u5E97\u5927\u5385"
     Description: "\u8BB8\u591A\u4EBA\u7269\u805A\u96C6\u5728\u8FD9\uFF0C\u53EF\u5728\u6B64\u62DB\u52DF\u4EBA\u624D"
-    MultiLangDescription:
-    - Many characters gather here and you can recruit talents here
+    MultiLangDescription: []
   - Target: "\u5BB4\u8BF7"
     Description: "\u82B1\u8D39\u94F6\u4E24\u62D3\u5BBD\u4EBA\u8109\uFF0C\u53D1\u73B0\u65B0\u7684\u4EBA\u624D"
-    MultiLangDescription:
-    - Spend money to expand your network and discover new talents
+    MultiLangDescription: []
   - Target: "\u653B"
     Description: "\u666E\u901A\u653B\u51FB\u6307\u5B9A\u76EE\u6807\uFF0C\u4F24\u5BB3\u53D6\u51B3\u4E8E\u6B66"
-    MultiLangDescription:
-    - Normal attacks the specified target, and the damage depends on the weapon.
+    MultiLangDescription: []
   - Target: "\u88AD"
     Description: "\u5FEB\u901F\u653B\u51FB\u6307\u5B9A\u76EE\u6807\uFF0C\u4F24\u5BB3\u53D6\u51B3\u4E8E\u523A\uFF0C\u4F1A\u51CF\u5C11\u5B88"
-    MultiLangDescription:
-    - Quickly attack the designated target, the damage depends on the stab, which
-      will reduce the defense
+    MultiLangDescription: []
   - Target: "\u5B88"
     Description: "\u82B1\u8D39\u94F6\u4E24\u62D3\u5BBD\u4EBA\u8109\uFF0C\u53D1\u73B0\u65B0\u7684\u4EBA\u624D"
-    MultiLangDescription:
-    - Spend money to expand your network and discover new talents
+    MultiLangDescription: []
   - Target: "\u5F00\u6218"
     Description: "\u786E\u8BA4\u884C\u52A8"
     MultiLangDescription:
     - confirm
   - Target: "\u6295\u964D"
     Description: "\u6295\u964D\uFF0C\u635F\u5931\u90E8\u5206\u8840\u91CF\u5FE0\u8BDA"
-    MultiLangDescription:
-    - Surrender and lose some HP and loyalty
+    MultiLangDescription: []
   - Target: "\u4F53\u529B"
     Description: "\u89D2\u8272\u4F53\u529B\u503C\uFF0C\u5F53\u4F53\u529B\u503C\u4E3A\u96F6\u65F6\u4F1A\u635F\u5931\u8BE5\u89D2\u8272"
-    MultiLangDescription:
-    - The character's physical strength. When the physical strength reaches zero,
-      the character will be lost.
+    MultiLangDescription: []
   - Target: "\u5FE0\u8BDA"
     Description: "\u89D2\u8272\u5FE0\u8BDA\u503C\uFF0C\u5F53\u5FE0\u8BDA\u503C\u4E3A\u96F6\u65F6\u4F1A\u635F\u5931\u8BE5\u89D2\u8272"
-    MultiLangDescription:
-    - The character's loyalty value. When the loyalty value reaches zero, the character
-      will be lost.
+    MultiLangDescription: []
   - Target: "\u4F53\u529B\u5F52\u96F6"
     Description: "\u89D2\u8272\u4F53\u529B\u4E3A\u96F6\uFF0C\u89D2\u8272\u6B7B\u4EA1"
-    MultiLangDescription:
-    - The character's physical strength is zero and the character dies.
+    MultiLangDescription: []
   - Target: "\u5FE0\u8BDA\u5F52\u96F6"
     Description: "\u89D2\u8272\u5FE0\u8BDA\u4E3A\u96F6\uFF0C\u4E0D\u518D\u6548\u547D\u4E8E\u4F60"
-    MultiLangDescription:
-    - The character has zero loyalty and will no longer serve you.
+    MultiLangDescription: []

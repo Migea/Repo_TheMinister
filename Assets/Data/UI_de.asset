@@ -17,6 +17,10 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 3ac5128841adf274b99ba7d2a7601c6f, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 5008405042098176
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

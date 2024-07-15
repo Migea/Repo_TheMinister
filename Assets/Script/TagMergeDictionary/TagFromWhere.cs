@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class TagFromWhere : MonoBehaviour
@@ -21,26 +22,52 @@ public class TagFromWhere : MonoBehaviour
     public void Setup(Tag tag)
     {
         this.tag = tag;
-        this.TagName.text = $"<{tag.ToString()}>";
+        LocalizedString tagString = new LocalizedString
+        {
+            TableReference = "Tag",
+            TableEntryReference = $"{tag.ToString()}"
+        };
+        tagString.GetLocalizedString();
+        this.TagName.text = $"<{tagString.GetLocalizedString()}>";
         string output = string.Empty;
         if (TryGiven())
         {
-            output += "出生获得\n";
+            LocalizedString localizedString = new LocalizedString
+            {
+                TableReference = "Tag",
+                TableEntryReference = $"出生获得"
+            };
+            output += $"{localizedString.ToString()}\n";
         }
         if (TryItem())
         {
-            output += "使用道具获得：\n";
+            LocalizedString localizedString = new LocalizedString
+            {
+                TableReference = "Tag",
+                TableEntryReference = $"使用道具获得"
+            };
+            output += $"{localizedString}：\n";
             Color rareColor = NColor;
             var Rarity = Player.AllTagRareDict[tag] != Rarerity.B ? Player.AllTagRareDict[tag] : Rarerity.N;
             if (Rarity == Rarerity.R) rareColor = RColor;
             else if (Rarity == Rarerity.SR) rareColor = SRColor;
             else if (Rarity == Rarerity.SSR) rareColor = SSRColor;
             else if (Rarity == Rarerity.UR) rareColor = URColor;
-            output += $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{WhatItem(tag).ToString()}</color>\n";
+            LocalizedString ItemString = new LocalizedString
+            {
+                TableReference = "Item",
+                TableEntryReference = $"{WhatItem(tag).ToString()}"
+            };
+            output += $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{ItemString.GetLocalizedString()}</color>\n";
         }
         if (TryMerge())
         {
-            output += "词条合成获得\n";
+            LocalizedString localizedString = new LocalizedString
+            {
+                TableReference = "Tag",
+                TableEntryReference = $"词条合成获得"
+            };
+            output += $"{localizedString.GetLocalizedString()}\n";
         }
         Where.text = output;
         LayoutRebuilder.ForceRebuildLayoutImmediate(GetComponent<RectTransform>());

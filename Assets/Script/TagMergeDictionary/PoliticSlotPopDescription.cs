@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class PoliticSlotPopDescription : MonoBehaviour
@@ -106,6 +107,7 @@ public class PoliticSlotPopDescription : MonoBehaviour
         foreach (var tag in tags)
         {
             var clone = Instantiate(tagFromWherePref, tagSourceParent);
+
             clone.Setup((Tag)Enum.Parse(typeof(Tag), tag));
             //StartCoroutine(WaitToRebuildLayout(clone.GetComponent<RectTransform>()));
         }

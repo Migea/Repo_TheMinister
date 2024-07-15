@@ -1,8 +1,10 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Build.Pipeline.Utilities;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class PoliticSlot : MonoBehaviour, ICharacterSelect
@@ -93,7 +95,12 @@ public class PoliticSlot : MonoBehaviour, ICharacterSelect
     {
         var origin = Resources.Load<GameObject>(" ∆¡¶/Title");
         var clone = Instantiate(origin, transform);
-        clone.GetComponentInChildren<Text>().text = slotName;
+        LocalizedString localizedString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"…Ë÷√_{slotName}"
+        };
+        clone.GetComponentInChildren<Text>().text = localizedString.GetLocalizedString();
         clone.GetComponent<RectTransform>().anchoredPosition = new Vector2(0, 22.4f);
     }
 

@@ -67,7 +67,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2714554239610880
-    m_Localized: Hidden weapon house
+    m_Localized: Mechanism store
     m_Metadata:
       m_Items: []
   - m_Id: 2715223700860928
@@ -207,93 +207,76 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2771508735569920
-    m_Localized: alchemy room is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Alchemy room is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2772625880051712
-    m_Localized: pawnshop is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Pawnshop is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2772628098838528
-    m_Localized: jewelry building is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Jewelry building is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2774503149858816
-    m_Localized: <size=30>auction is in good business condition todayPay tax <color=green>100</color>
-      taels</size>
+    m_Localized: Auction is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2775484763795456
-    m_Localized: hidden weapon house  is in good business condition todayPay tax
-      <color=green>100</color> taels
+    m_Localized: Mechanism store  is in good good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2775487771111424
-    m_Localized: Thousand Immortals building is in good business condition todayPay
-      tax <color=green>100</color> taels
+    m_Localized: Thousand Immortals building is in  good condition,collect commission
+      <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2775490048618496
-    m_Localized: "<size=30>\rDrug store is in good business condition todayPay tax
-      <color=green>100</color> taels</size>"
+    m_Localized: "\rDrug store is in  good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2775492405817344
-    m_Localized: Barn is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Barn is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2775494767210496
-    m_Localized: <size=30>Clothing store is in good business condition todayPay tax
-      <color=green>100</color> taels</size>
+    m_Localized: Clothing store is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2775496868556800
-    m_Localized: Harp building is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Harp building is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780880622645248
-    m_Localized: Treasures  Western is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Treasures  Western is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780881897713664
-    m_Localized: Changan Weaving is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Changan Weaving is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780882560413696
-    m_Localized: Inn  is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Inn  is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780883114061824
-    m_Localized: "Medical\r houseis in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "Medical\r house is in  good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2780883701264384
-    m_Localized: WeaponCraft is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: WeaponCraft is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780884930195456
-    m_Localized: Fantastic Beasts is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Fantastic Beasts is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780884301049856
-    m_Localized: "\rRacecourse is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "\rRacecourse is in  good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2780885517398016
-    m_Localized: "\rStation is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "\rStation is in   good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2780886343675904
@@ -302,68 +285,56 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780886956044288
-    m_Localized: Grocery store is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Grocery store is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780889019641856
-    m_Localized: Textile shop is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Textile shop is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780889862696960
-    m_Localized: CraftMan is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: CraftMan is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780890399567872
-    m_Localized: Theater is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Theater is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2791206755823616
-    m_Localized: "\rWeapons shop is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "\rWeapons shop is in   good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2791210807521280
-    m_Localized: Immortal Cauldron is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Immortal Cauldron is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2791322241789952
-    m_Localized: "\rDepartment store is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "\rDepartment store is in  good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2791325811142656
-    m_Localized: Restaurant is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Restaurant is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2792289989357568
-    m_Localized: "\rTavern is in good business condition todayPay tax <color=green>100</color>
-      taels"
+    m_Localized: "\rTavern is in   good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2791326373179392
-    m_Localized: Theater is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Theater is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2793920168521728
-    m_Localized: Celebrity attic is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Celebrity attic is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2795506550763520
-    m_Localized: Rouge is in good business condition todayPay tax <color=green>100</color>
-      taels
+    m_Localized: Rouge is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2795505040814080
-    m_Localized: Thousands incense attic  is in good business condition todayPay
-      tax <color=green>100</color> taels
+    m_Localized: Thousands incense attic  is in  good condition,collect commission
+      <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 3099531573784576
@@ -533,7 +504,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847357190696960
-    m_Localized: Hidden weapon house
+    m_Localized: Mechanism store
     m_Metadata:
       m_Items: []
   - m_Id: 3847357933088768

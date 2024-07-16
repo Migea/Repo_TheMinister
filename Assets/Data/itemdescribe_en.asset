@@ -1,0 +1,1029 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: itemdescribe_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ee861c4aa605aaa438aea1a6d1b57cbd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2270107070464
+    m_Localized: The elixir lives up to its name and you will live forever after
+      taking it.Obtain the entry <color=#D93223>Longevity</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270157402112
+    m_Localized: A new body grows. Obtain the entry <color=#D93223>Undying</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270157402113
+    m_Localized: Beautiful jade like heart.Obtain the entry <color=#D93223>Loyal
+      and Righteous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270157402114
+    m_Localized: take the sun down.Obtain the entry <color=#D93223>Shooting Through
+      the Sun</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596416
+    m_Localized: Kill silently like an assassin. Get the entry <color=#F8D45F>silent</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596417
+    m_Localized: The power of the blue dragon reaches it. Get the entry <color=#F8D45F>Azure
+      Dragon</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596418
+    m_Localized: A sword that can win every battle. Get the entry <color=#F8D45F>Certain
+      Victory</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596419
+    m_Localized: The spear can hold up the sky. Obtain the entry <color=#F8D45F>support
+      the sky</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596420
+    m_Localized: "The Sword of the Ancestral Dragon. Get the entry <color=#F8D45F>Dragon\u2018s
+      Power</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596421
+    m_Localized: The rate of fire is like ocean waves. Get the entry <color=#F8D45F>Suppressing
+      Fire</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596422
+    m_Localized: A wine loved by everyone. Obtain the entry <color=#F8D45F>Living
+      in a Dream</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596423
+    m_Localized: Shining golden armor. Get the entry <color=#F8D45F>Golden Glitter</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596424
+    m_Localized: An extremely strong ore. Obtain the entry <color=#F8D45F>Light Fragment</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596425
+    m_Localized: A horse with dragon blood. Get the entry <color=#F8D45F>Dragon Horse
+      Spirit</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596426
+    m_Localized: The falcon of the conquering king in history books. Get the entry
+      <color=#F8D45F>Eagle's Powerr</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596427
+    m_Localized: The legendary elixir caters to the laws of heaven and can deduce
+      the future after taking it. Get the entry <color=#F8D45F>Glimpsing Heaven's
+      Secrets</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596428
+    m_Localized: The legendary elixir, when the yin and yang gather together to form
+      the elixir, there is a faint roar of a dragon. After taking it, it is immune
+      to all poisons. Obtain the entry <color=#F8D45F>Invincible to Poisons</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596429
+    m_Localized: The clothes of the prince when offering sacrifices to heaven. Obtain
+      the entry <color=#F8D45F>Hidden Talents</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596430
+    m_Localized: Clothing worn by important ministers of the state. Obtain the entry
+      <color=#F8D45F>Profound Benevolence</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596431
+    m_Localized: The costumes given by the emperor are shaped like flying fish and
+      pythons, indicating good official fortune. Get the entry <color=#F8D45F>Smooth
+      Career</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596432
+    m_Localized: The cry has extremely powerful penetrating power. Obtain the entry
+      <color=#A52B7C>Yapping</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270161596433
+    m_Localized: A symbol of speed, it is rumored that one can run on water if the
+      speed reaches a certain level. Get the entry <color=#A52B7C>Ripple Walk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790720
+    m_Localized: The legendary creature is as powerful as a tiger. Get the entry
+      <color=#A52B7C>Power of an Elephant and Tiger</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790721
+    m_Localized: A magical book that covers everything from ancient times to the
+      present. Obtain the entry <color=#A52B7C>Well-read in Erudite Works</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790722
+    m_Localized: The tattered scroll seems to record some mechanism techniques. Obtain
+      the entry book pass <color=#A52B7C>Mechanical Master</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790723
+    m_Localized: A treasure plate that follows the principles of yin and yang. Get
+      the entry <color=#A52B7C>Qimen Dunjia (Mystical Strategy)</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790724
+    m_Localized: Books by strategists. Get the entry <color=#A52B7C>Strategist</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790725
+    m_Localized: A big hammer used by Ou Yezi for forging. Get the entry <color=#A52B7C>Hammer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790726
+    m_Localized: Medical classics passed down from ancient times. Obtain the entry
+      <color=#A52B7C>Yellow Emperor's Internal Classic</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790727
+    m_Localized: A masterpiece that introduces all medicinal materials in detail.
+      Get the entry <color=#A52B7C>Compendium of Materia Medica</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790728
+    m_Localized: A heavy bow that is said to be able to shoot through boulders. Obtain
+      the entry <color=#A52B7C>Perfect Archery</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790729
+    m_Localized: A broadsword with a thick back and round blades, said to be able
+      to cut off water flow. Obtain the entry <color=#A52B7C>King of Swords</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790730
+    m_Localized: The purple wood spear flashed with electric light. Obtain the entry
+      <color=#A52B7C>Lord of Thunder and Lightning</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790732
+    m_Localized: Delicious wine. Obtain the entry <color=#A52B7C>Inspired Poet</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790733
+    m_Localized: Delicious wine. Obtain the entry <color=#A52B7C>Drunken Ecstasy</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790734
+    m_Localized: The Emperor's Sword is said to be a standard accessory for those
+      who are appointed by the Emperor. Get the entry <color=#A52B7C>Royal Bloodline</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790735
+    m_Localized: The holders of the Tyrant's Heavenly Halberd are all people with
+      extraordinary strength. Get the entry <color=#A52B7C>Overlord</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790736
+    m_Localized: Can fly out of the air. Get the entry <color=#A52B7C>Qigong Master</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790737
+    m_Localized: The broth is sprinkled with cabbage steamed with eighteen kinds
+      of spices.Obtain the entry <color=#A52B7C>Vegetarian</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790738
+    m_Localized: This is a famous Jiangsu dish with a fragrant aroma. Obtain the
+      entry <color=#A52B7C>Vegetarian</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790739
+    m_Localized: Abba Abba. Get the entry <color=#A52B7C>Cultural Desert</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790740
+    m_Localized: The duck is stewed with ginkgo, red dates, gorgon seeds, high-quality
+      mushrooms, ham, pine nuts, duck gizzards and glutinous rice. Obtain the entry
+      <color=#A52B7C>Fully Armed</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790741
+    m_Localized: Wrap the fine minced pork with egg skin, fry it in an oil pan and
+      take it out. Obtain the entry <color=#A52B7C>Fully Armed</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790742
+    m_Localized: An elixir that is widely circulated among warriors. Obtain the entry
+      <color=#A52B7C>Minor Martial Skills</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790743
+    m_Localized: An elixir that is widely circulated among warriors. Obtain the entry
+      <color=#A52B7C>Minor Martial Skills</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790744
+    m_Localized: Medicine chest left by ancient doctors. Obtain the entry <color=#A52B7C>Skillful
+      Doctor</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790745
+    m_Localized: The color is as pure as burning fire. Obtain the entry <color=#A52B7C>Fierce
+      as Fire</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790746
+    m_Localized: Green and vigorous, like a scholar. Obtain the entry <color=#A52B7C>Benevolent
+      Gentleman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790747
+    m_Localized: The existence among red rabbits and horses that can tear apart hurricanes.
+      Obtain the entry <color=#A52B7C>Excellent Horse</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790748
+    m_Localized: Legend has it that the white horse can be as bright as the moon
+      when it appears. Obtain the entry <color=#A52B7C>Excellent Horse</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790749
+    m_Localized: There is a layer of black clouds on the tiger, making it look dark
+      and mysterious at night. Obtain the entry <color=#A52B7C>Fierce</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790750
+    m_Localized: There is a bright moon on the wolf's head. The wolf's skin is very
+      smooth and soft and feels comfortable to the touch. Get the entry <color=#A52B7C>Lone
+      Wolf</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790751
+    m_Localized: Scarlet clothes were given by the emperor to reward loyal ministers.
+      Get the entry <color=#A52B7C>Loyalty and Faith</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790752
+    m_Localized: Robes with cloud patterns are said to bring good luck to you after
+      wearing them. Obtain the entry <color=#A52B7C>Lucky Star</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790753
+    m_Localized: A kind of clothing that scholars like. Obtain the entry <color=#A52B7C>Elegant
+      Dancer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790754
+    m_Localized: It looks like a copper coin but is actually an extremely sharp 
+      weapon. Get the entry <color=#A52B7C>Money Dart</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790755
+    m_Localized: A special concealed weapon that uses gunpowder. Get the entry <color=#A52B7C>Sleeve
+      Robe</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790756
+    m_Localized: An extremely complex  weapon. Obtain the entry <color=#A52B7C>Blood
+      Dripper</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790757
+    m_Localized: Precious medicinal materials. Obtain the entry <color=#A52B7C>Skillful
+      Doctor</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790758
+    m_Localized: Luxurious clothes are decorated with gold and precious stones. Get
+      the entry <color=#A52B7C>Finance Master</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790759
+    m_Localized: Sleek jade bracelet. Obtain the entry <color=#A52B7C>Pearl-like</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790760
+    m_Localized: a piece of gold.Obtain the entry <color=#A52B7C>Jewerly</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790761
+    m_Localized: Chopped persimmons and eggs together.Get the entry <color=#5794B3>Vegetarian
+      Food</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790762
+    m_Localized: The rinsed sauerkraut and vermicelli are stewed together, making
+      it sour and silky. Get the entry <color=#5794B3>Vegetarian Food</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790763
+    m_Localized: The braised eggplant looks very delicious. Get the entry <color=#5794B3>Vegetarian
+      Food</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790764
+    m_Localized: A selection of stir-fried choy sum dishes. Get the entry <color=#5794B3>Vegetarian
+      Food</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790765
+    m_Localized: Chopped garlic sprouts and meat are stir-fried together to create
+      a fragrant aroma. Get the entry <color=#5794B3>Meat Dish</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790766
+    m_Localized: Cucumber, eggs, fungus and pork go well with rice. Get the entry
+      <color=#5794B3>Meat Dish</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790767
+    m_Localized: An elixir that enhances military strength at the expense of intelligence.
+      Get the entry <color=#5794B3>Madman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790768
+    m_Localized: Pills to strengthen your body. Get the entry <color=#5794B3>Exquisite
+      Martial Skills</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790769
+    m_Localized: An elixir that can enhance the root and bone. Obtain the entry <color=#5794B3>Unusual
+      Talent</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790770
+    m_Localized: The secret book of Toad Kung Fu. Obtain the entry <color=#5794B3>Toad
+      Skill</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790771
+    m_Localized: An instrument used to observe the movement of celestial bodies.
+      Obtain the entry <color=#5794B3>Astronomy Expert</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790772
+    m_Localized: The sword filled with cold inscriptions does not seem to be from
+      this world. Get the entry <color=#5794B3>Frost Sword</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790773
+    m_Localized: A bow made of gold was very beautiful, but it broke when I pulled
+      it. Obtain the entry <color=#5794B3>Perfect Archery</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790774
+    m_Localized: A spear with a silver tip. Get the entry <color=#5794B3>A Glimmer
+      of Light</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790775
+    m_Localized: A sharp machete blows and breaks the hair. Obtain the entry <color=#5794B3>Melon
+      Seller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790776
+    m_Localized: The halberd is surrounded by iron pieces and is a weapon . Get the
+      entry <color=#5794B3>Exquisite Martial Skills</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790777
+    m_Localized: The martial arts secrets of wandering in the world. Obtain the entry
+      <color=#5794B3>Entered the Hall</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790778
+    m_Localized: Fragments of martial arts wandering around the world. Get the entry
+      <color=#5794B3>Possessed by Demons</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790779
+    m_Localized: Beautiful and solemn gem. Get the entry <color=#5794B3>Great Luck</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790780
+    m_Localized: A heavy but powerful weapon that cannot be used to attack the enemy
+      but is extremely effective in defense. Get the entry <color=#5794B3>Cannon</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790781
+    m_Localized: "You can learn Western languages \u200B\u200Bby reading dictionaries.
+      Get the entry <color=#5794B3>Eastern Languages</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790782
+    m_Localized: "You can learn Western languages \u200B\u200Bby reading dictionaries.
+      Get the entry <color=#5794B3>Western Languages</color>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790783
+    m_Localized: Material for weaving. Get the entry <color=#5794B3>Silk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790784
+    m_Localized: Armor with limited protective area. Obtain the entry <color=#5794B3>Heart
+      Protector</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790785
+    m_Localized: Armor often worn by hunters. Get the entry <color=#5794B3>Leather
+      Armor</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790786
+    m_Localized: The armor often worn by guards is somewhat bulky. Get the entry
+      <color=#5794B3>Iron Armor</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790787
+    m_Localized: Medicinal materials can be used to make elixirs or used directly,
+      but they are of no use. Obtain the entry <color=#5794B3>Evil Repeller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790788
+    m_Localized: Medicinal materials can be used to make elixirs or used directly,
+      but they are of no use. Obtain the entry <color=#5794B3>Evil Repeller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790789
+    m_Localized: Medicinal materials can be used to make elixirs or used directly,
+      but they are of no use. Obtain the entry <color=#5794B3>Evil Repeller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790790
+    m_Localized: Medicinal materials can be used to make elixirs or used directly,
+      but they are of no use. Obtain the entry <color=#5794B3>Evil Repeller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270165790791
+    m_Localized: Medicinal materials can be used to make elixirs or used directly,
+      but they are of no use. Obtain the entry <color=#5794B3>Evil Repeller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985024
+    m_Localized: Medicinal materials can be used to make elixirs or used directly,
+      but they are of no use. Obtain the entry <color=#5794B3>Evil Repeller</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985025
+    m_Localized: Dancer's clothing increases the charm of the person wearing it.
+      Get the entry <color=#5794B3>Talented in Singing and Dancing</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985026
+    m_Localized: Shining gems. Obtain the entry <color=#5794B3>Jewelry</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985027
+    m_Localized: Shining gems. Obtain the entry <color=#5794B3>Jewelry</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985028
+    m_Localized: Shining gems. Obtain the entry <color=#5794B3>Jewelry</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985029
+    m_Localized: Shining gems. Obtain the entry <color=#5794B3>Jewelry</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985030
+    m_Localized: An important Mohist classic. Obtain the entry <color=#5794B3>Non-aggression</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985031
+    m_Localized: An important Mohist classic. Obtain the entry <color=#5794B3>Universal
+      Love</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985032
+    m_Localized: The official seal given by the emperor. Obtain the entry <color=#5794B3>Imperial
+      Horse Keeper</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985033
+    m_Localized: A strange skill from southern Xinjiang. Get the entry <color=#5794B3>Poison
+      Master</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985034
+    m_Localized: Philosophical texts that are out of date. Get the entry <color=#5794B3>Unorthodox</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985035
+    m_Localized: Legend has it that an immortal named Huang followed his words. Holding
+      this magic weapon will receive the blessing of luck from Huang Laoxian. Obtain
+      the entry <color=#5794B3>Cursed with Bad Luck</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985036
+    m_Localized: You can learn quite advanced chess skills. Get the entry <color=#5794B3>Go
+      Strategy</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985037
+    m_Localized: Popular wine. Get the entry <color=#5794B3>Lover of Good Winer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985038
+    m_Localized: Popular wine. Get the entry <color=#5794B3>Lover of Good Winer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985039
+    m_Localized: Popular wine. Get the entry <color=#5794B3>Lover of Good Winer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985040
+    m_Localized: Economic writings. Get the entry <color=#5794B3>Economics</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985041
+    m_Localized: Ou Yezi's small hammer for forging. Get the entry <color=#5794B3>Small
+      Hammer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985042
+    m_Localized: ' A must-read medical work for doctors. Obtain the entry <color=#5794B3>Doctor</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985043
+    m_Localized: A mixture of various seasonings, sour, sweet, bitter, spicy and
+      salty. Get the entry <color=#5794B3>Mixed Flavors</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985044
+    m_Localized: A frizzy horse. Get the entry <color=#5794B3>Swift</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985045
+    m_Localized: A beast that can be tamed. Obtain the entry <color=#5794B3>Beast
+      Taming</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985046
+    m_Localized: A beast that can be tamed. Obtain the entry <color=#5794B3>Beast
+      Taming</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985047
+    m_Localized: Commonly used tools for blacksmithing. Get the entry <color=#5794B3>craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985048
+    m_Localized: Commonly used tools for weaving. Get the entry <color=#5794B3>craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985049
+    m_Localized: Rouge loved by women. Obtain the entry <color=#5794B3>Jewelry</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985050
+    m_Localized: Characterize commonly used tools. Get the entry <color=#5794B3>craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985051
+    m_Localized: Universal horse. Get the entry <color=#5794B3>Swift</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985052
+    m_Localized: Universal horse. Get the entry <color=#5794B3>Swift</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985053
+    m_Localized: Universal horse. Get the entry <color=#5794B3>Swift</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985054
+    m_Localized: A weapon requires a certain amount of skill. Get the entry <color=#5794B3>Agile</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985055
+    m_Localized: A concealed weapon that fires short arrows. Obtain the entry <color=#5794B3>Perfect
+      Archery</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985056
+    m_Localized: A poisoned knife. Get the entry <color=#5794B3>Poison Master</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985057
+    m_Localized: People who use single-edged swords need a foundation in martial
+      arts. Get the entry <color=#5794B3>Exquisite Martial Skills</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985058
+    m_Localized: Gourd filled with wine. Get the entry <color=#5794B3>Drunken Boxingr</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985059
+    m_Localized: Letter of appointment granted by the emperor. Get the entry <color=#93887B>Literary
+      Righteousness</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985060
+    m_Localized: Letter of appointment granted by the emperor. Get the entry <color=#93887B>Martial
+      Bravery</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985061
+    m_Localized: Clothes of fish people. Get the entry <color=#93887B>Unremarkable</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985062
+    m_Localized: Clothes of common people. Get the entry <color=#93887B>Unremarkable</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985063
+    m_Localized: Cheap wine. Get the entry <color=#93887B>Drunk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985064
+    m_Localized: Cheap wine. Get the entry <color=#93887B>Drunk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985065
+    m_Localized: Cheap wine. Get the entry <color=#93887B>Drunk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985066
+    m_Localized: Cheap wine. Get the entry <color=#93887B>Drunk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985067
+    m_Localized: Cheap wine. Get the entry <color=#93887B>Drunk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985068
+    m_Localized: Cheap wine. Get the entry <color=#93887B>Drunk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985069
+    m_Localized: There are defective gems. Obtain the entry <color=#93887B>Treasuring
+      a Broken Broom</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985070
+    m_Localized: There are defective gems. Obtain the entry <color=#93887B>Treasuring
+      a Broken Broom</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985071
+    m_Localized: There are defective gems. Obtain the entry <color=#93887B>Treasuring
+      a Broken Broom</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985072
+    m_Localized: A parrot that praises people. Get the entry <color=#93887B>Flowery
+      Speechs</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985073
+    m_Localized: Ingredients. Obtaining the entry <color=#93887B>harmless</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985074
+    m_Localized: Ingredients. Obtaining the entry <color=#93887B>harmless</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985075
+    m_Localized: Ingredients. Obtaining the entry <color=#93887B>harmless</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985076
+    m_Localized: Ingredients. Obtaining the entry <color=#93887B>harmless</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985077
+    m_Localized: Ingredients. Obtaining the entry <color=#93887B>harmless</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985078
+    m_Localized: A book that records various little strategies. Get the entry <color=#93887B>Decorative
+      Pillow</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985079
+    m_Localized: Various acrobatics are described. Obtain the entry <color=#93887B>Jack
+      of All Trades</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985080
+    m_Localized: Miraculous elixir to cure infertility. Get the entry <color=#93887B>Pregnant</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985081
+    m_Localized: medicinal materials. Get the entry <color=#93887B>Infertility</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985082
+    m_Localized: A book that records various injustice cases. Obtain the entry <color=#93887B>Lawyer</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985083
+    m_Localized: A drink introduced from the West, refreshing and refreshing. Get
+      the entry <color=#93887B>Sleeplessness</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985084
+    m_Localized: 'Sharp scissors for castration. Obtain the entry <color=#93887B>Eunuch</color> '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985085
+    m_Localized: A horse with very long legs. Get the entry <color=#93887B>Swift</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985086
+    m_Localized: a horse without a tail. Get the entry <color=#93887B>Swift</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985087
+    m_Localized: Books that teach how to be filial do not seem to be very effective.
+      Get the entry <color=#93887B>Ungrateful Child</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985088
+    m_Localized: Well-trained eagle. Get the entry <color=#93887B>eagle</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985089
+    m_Localized: Ordinary hard pens are made of rabbit hair. Get the entry <color=#93887B>Confucian
+      Scholar</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985090
+    m_Localized: White whisk commonly used by Taoist priests. Get the entry <color=#93887B>Taoist
+      Priest</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985091
+    m_Localized: Buddhist beads commonly used by monks. Get the entry <color=#93887B>Monk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985092
+    m_Localized: An ordinary Buddha statue carved from wood. Get the entry <color=#93887B>Monk</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985093
+    m_Localized: Textile materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985094
+    m_Localized: Textile materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985095
+    m_Localized: Textile materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985096
+    m_Localized: Describes the art of raising horses in detail. Obtain the entry
+      <color=#93887B>Horse Keeper</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985097
+    m_Localized: Most commonly used medicinal materials are recorded. Get the entry
+      <color=#93887B>Immortal Boy</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985098
+    m_Localized: A wooden bow commonly used by hunters. Get the entry <color=#93887B>bow</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985099
+    m_Localized: A simple knife made of fine iron. Get the entry <color=#93887B>Knife</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985100
+    m_Localized: An ordinary spear. Get the entry <color=#93887B>Spear</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985101
+    m_Localized: Iron swords can be seen everywhere. Get the entry <color=#93887B>Sword</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985102
+    m_Localized: An ordinary halberd. Obtain the entry <color=#93887B>halberd</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985103
+    m_Localized: Actor's learning method book.Obtain the entry <color=#93887B>Actor</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985104
+    m_Localized: An introductory medical book, very suitable for beginners. Obtain
+      the entry <color=#93887B>Medical Skills</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985105
+    m_Localized: Can be used as a pocket knife with minimal effect. Obtain the entry
+      <color=#93887B>Jack of All Trades</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985106
+    m_Localized: Can be used as a pocket knife with minimal effect. Obtain the entry
+      <color=#93887B>Jack of All Trades</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985107
+    m_Localized: Medicinal materials can make people's hair grow thicker. Get the
+      entry hairy <color=#93887B>Thick Hair</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985108
+    m_Localized: Medicine for bruises and bruises is always prepared by martial arts
+      practitioners. Obtain the entry <color=#93887B>Martial Artist</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985109
+    m_Localized: condiment. Obtain the entry.Obtain the entry <color=#93887B>Sweet
+      Tooth</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985110
+    m_Localized: Medicine for bruises and bruises is always prepared by martial arts
+      practitioners. Obtain the entry <color=#93887B>Martial Artist</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270169985111
+    m_Localized: A plaster that corrects your posture. Get the entry <color=#93887B>Upright
+      Posture</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179328
+    m_Localized: The stir-fried bean sprouts are very crisp. Get the entry <color=#93887B>Full
+      Stomach</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179329
+    m_Localized: Smash the cucumbers and season with salt. Get the entry <color=#93887B>Full
+      Stomach</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179330
+    m_Localized: Fried rice with eggs. Get the entry <color=#93887B>Full Stomach</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179331
+    m_Localized: Wash the white radish and add salt to taste. Get the entry <color=#93887B>Full
+      Stomach</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179332
+    m_Localized: Iron ore that can be used to make weapons. Obtain the entry <color=#93887B>Skilled
+      Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179333
+    m_Localized: Copper ore that can be used to craft weapons. Obtain the entry <color=#93887B>Skilled
+      Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179334
+    m_Localized: A silver mine that can be used to craft weapons. Obtain the entry
+      <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179335
+    m_Localized: Cloth from which clothes can be made. Obtain the entry <color=#93887B>Skilled
+      Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179336
+    m_Localized: Craftsman materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179337
+    m_Localized: Craftsman materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179338
+    m_Localized: Craftsman materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179339
+    m_Localized: Craftsman materials. Obtain the entry <color=#93887B>Skilled Craftsman</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179340
+    m_Localized: Cosmetics that women love. Get the entry <color=#93887B>Decorative
+      Pillow</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179341
+    m_Localized: Cosmetics that women love. Get the entry <color=#93887B>Decorative
+      Pillow</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179342
+    m_Localized: articles for daily use. Get the entry <color=#3F4D31>Miscellaneous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179343
+    m_Localized: articles for daily use. Get the entry <color=#3F4D31>Miscellaneous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179344
+    m_Localized: articles for daily use. Get the entry <color=#3F4D31>Miscellaneous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179345
+    m_Localized: articles for daily use. Get the entry <color=#3F4D31>Miscellaneous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179346
+    m_Localized: articles for daily use. Get the entry <color=#3F4D31>Miscellaneous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179347
+    m_Localized: A stick. Get the entry <color=#3F4D31>Useless person</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179348
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179349
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179350
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179351
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179352
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179353
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179354
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179355
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179356
+    m_Localized: Bad wine. Get the entry <color=#3F4D31>Headache</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179357
+    m_Localized: Poisoned wine. Get the entry <color=#3F4D31>Weak Body</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179358
+    m_Localized: Weapons that are no longer useful. Obtain the entry <color=#3F4D31>Incompetent
+      Fury</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179359
+    m_Localized: Beggars don't like tattered clothes. Obtain the entry <color=#3F4D31>Barely
+      Clothed</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179360
+    m_Localized: A very fat horse. Get the entry <color=#3F4D31>Obesity</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179361
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179362
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179363
+    m_Localized: articles for daily use. Get the entry <color=#3F4D31>Miscellaneous</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179364
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2270174179365
+    m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

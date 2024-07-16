@@ -1025,5 +1025,9 @@ MonoBehaviour:
     m_Localized: Medicinal materials can be poisonous if eaten. Get the entry <color=#3F4D31>Poison</color>
     m_Metadata:
       m_Items: []
+  - m_Id: 2811054845952
+    m_Localized: Not worth mentioning, has no impact
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

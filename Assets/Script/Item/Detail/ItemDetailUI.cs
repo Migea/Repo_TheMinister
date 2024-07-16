@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class ItemDetailUI : MonoBehaviour
@@ -25,7 +26,12 @@ public class ItemDetailUI : MonoBehaviour
     }
     public void SetItemDetail()
     {
-        Name.text = itemName.ToString();
+        LocalizedString itemString = new LocalizedString
+        {
+            TableReference = "Item",
+            TableEntryReference = $"{itemName.ToString()}"
+        };
+        Name.text = itemString.GetLocalizedString();
         description.text = ItemDescription[itemName];
         stat.text = ItemStatPrinter.PrintAllStats(itemName);
         itemFromWhere.Setup(itemName);

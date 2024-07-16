@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using static PixelCrushers.QuestMachine.QuestNumber;
 
 public static class ItemStatPrinter
@@ -54,7 +55,12 @@ public static class ItemStatPrinter
             default: break;
         }
         string sign = value > 0 ? "+" : string.Empty;
-        string output = value != 0 ? $" {valueType.ToString()}{sign}{value}" : string.Empty;
+        LocalizedString valueTypeString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"…Ë÷√_{valueType.ToString()}"
+        };
+        string output = value != 0 ? $" {valueTypeString.GetLocalizedString()}{sign}{value}" : string.Empty;
         return output;
     }
     public static string PrintStat(ItemName item, CharacterValueType valueType)

@@ -25,7 +25,7 @@ public class TagFromWhere : MonoBehaviour
         LocalizedString tagString = new LocalizedString
         {
             TableReference = "Tag",
-            TableEntryReference = $"{tag.ToString()}"
+            TableEntryReference = $"…Ë÷√_{tag.ToString()}"
         };
         tagString.GetLocalizedString();
         this.TagName.text = $"<{tagString.GetLocalizedString()}>";

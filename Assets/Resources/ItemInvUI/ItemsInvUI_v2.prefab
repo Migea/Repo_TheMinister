@@ -79,7 +79,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u8D50\u4E88"
+  m_Text: "\rbestow"
 --- !u!114 &4982053165777144382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1069,7 +1069,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u5168\u90E8"
+  m_Text: All
 --- !u!114 &7512161719884779446
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1234,7 +1234,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u5175\u5668"
+  m_Text: "\rweapons"
 --- !u!114 &6891719772199060197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1636,7 +1636,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u670D\u88C5"
+  m_Text: Clothes
 --- !u!114 &190016450122328817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1925,7 +1925,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u5947\u517D"
+  m_Text: 'strange
+
+'
 --- !u!114 &1363458939553985948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2724,7 +2726,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u5723\u54C1"
+  m_Text: immortal
 --- !u!114 &6996947827140358839
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2999,7 +3001,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u4F18\u54C1"
+  m_Text: Superior
 --- !u!114 &2025373787063171252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3220,7 +3222,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1795974648230766362}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
@@ -5391,7 +5393,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u5168\u90E8"
+  m_Text: All
 --- !u!114 &1625175904297095008
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5510,7 +5512,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u4E66\u7C4D"
+  m_Text: books
 --- !u!114 &922659118050395771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5629,7 +5631,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u9970\u54C1"
+  m_Text: "\raccessories"
 --- !u!114 &8191458535268249039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6193,7 +6195,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u673A\u5173"
+  m_Text: trap
 --- !u!114 &2745042965525864017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6614,7 +6616,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u836F\u6750"
+  m_Text: Drug
 --- !u!114 &8134904526015526152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7086,7 +7088,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u98DF\u7528"
+  m_Text: Eat
 --- !u!114 &5992259970113462113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7357,7 +7359,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u4ED9\u54C1"
+  m_Text: Legendary
 --- !u!114 &8281206661458856953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7476,7 +7478,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u6781\u54C1"
+  m_Text: Epic
 --- !u!114 &1168373330007176471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7670,7 +7672,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u9152\u54C1"
+  m_Text: Alcohol
 --- !u!114 &689505923848272961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8593,7 +8595,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u6750\u6599"
+  m_Text: "\rMaterial"
 --- !u!114 &9160548998770520933
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9914,7 +9916,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -10035,7 +10037,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u5750\u9A91"
+  m_Text: Mount
 --- !u!114 &1413148404502263137
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10154,7 +10156,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u826F\u54C1"
+  m_Text: Good
 --- !u!114 &2025373253646615093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10527,7 +10529,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &5441767450347170740
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10837,7 +10839,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u6742\u8D27"
+  m_Text: "\rGroceries"
 --- !u!114 &4259923058566487753
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11508,7 +11510,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: "\u4E39\u836F"
+  m_Text: Elixir
 --- !u!114 &7976135897798807675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11594,7 +11596,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 3167, y: 689.9998}
+  m_AnchoredPosition: {x: 1843, y: 201}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 1, y: 1}
 --- !u!222 &6630274298957232313

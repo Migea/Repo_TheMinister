@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class ItemToWhere : MonoBehaviour
@@ -40,7 +41,12 @@ public class ItemToWhere : MonoBehaviour
             else if (Rarity == Rarerity.SR) rareColor = SRColor;
             else if (Rarity == Rarerity.SSR) rareColor = SSRColor;
             else if (Rarity == Rarerity.UR) rareColor = URColor;
-            output += $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{item.ToString()}</color>";
+            LocalizedString itemString = new LocalizedString
+            {
+                TableReference = "Item",
+                TableEntryReference = $"{item.ToString()}"
+            };
+            output += $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{itemString.GetLocalizedString()}</color>";
         }
         Where.text = output;
         LayoutRebuilder.ForceRebuildLayoutImmediate(GetComponent<RectTransform>());

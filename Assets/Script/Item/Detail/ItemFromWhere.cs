@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class ItemFromWhere : MonoBehaviour
@@ -54,7 +55,12 @@ public class ItemFromWhere : MonoBehaviour
             if (item.Value.Contains(itemName))
             {
                 if (locations != string.Empty) locations += "°¢";
-                locations += item.Key;
+                LocalizedString locationsString = new LocalizedString
+                {
+                    TableReference = "UI",
+                    TableEntryReference = $"…Ë÷√_{item.Key.ToString()}"
+                };
+                locations += locationsString.GetLocalizedString();
             }
         }
         return locations;

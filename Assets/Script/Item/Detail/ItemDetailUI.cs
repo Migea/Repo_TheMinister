@@ -32,7 +32,12 @@ public class ItemDetailUI : MonoBehaviour
             TableEntryReference = $"{itemName.ToString()}"
         };
         Name.text = itemString.GetLocalizedString();
-        description.text = ItemDescription[itemName];
+        LocalizedString ItemDescriptionString = new LocalizedString
+        {
+            TableReference = "itemdescribe",
+            TableEntryReference = $"{itemName.ToString()}"
+        };
+        description.text = ItemDescriptionString.GetLocalizedString();
         stat.text = ItemStatPrinter.PrintAllStats(itemName);
         itemFromWhere.Setup(itemName);
         itemToWhere.Setup(itemName);

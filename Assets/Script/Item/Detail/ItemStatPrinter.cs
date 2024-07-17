@@ -22,7 +22,16 @@ public static class ItemStatPrinter
             output += " ";
             count++;
         }
-        if (count == 0) return "不足挂齿 毫无影响";
+        if (count == 0)
+        {
+            LocalizedString uselessString = new LocalizedString
+            {
+                TableReference = "itemdescribe",
+                TableEntryReference = $"设置_无用"
+            };
+            return uselessString.GetLocalizedString();
+        }
+        
         return output;
     }
     public static string PrintAllStats(ItemName item)

@@ -64,7 +64,12 @@ public class InteractAsset : MonoBehaviour, IDetailAble
         SetLocaleStoreText();
         BuildingName.fontSize = 20f;
         BuildingName.color = UnreachableColor;
-        BuildingName.text = $"{BuildingName.text}\n (л╚т╤ак)";
+        var tooFarString = new LocalizedString
+        {
+            TableReference = "sofar",
+            TableEntryReference = $"л╚т╤ак"
+        };
+        BuildingName.text = $"{BuildingName.text}\n ({tooFarString.GetLocalizedString()})";
     }
     private void OnMouseEnter()
     {

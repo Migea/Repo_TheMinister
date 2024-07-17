@@ -1062,5 +1062,17 @@ MonoBehaviour:
     m_Localized: Mechanical Body
     m_Metadata:
       m_Items: []
+  - m_Id: 755117962620928
+    m_Localized: "\rAcquired by birth"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755119715840000
+    m_Localized: "\rObtained with props"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755189043490816
+    m_Localized: "\rEntry synthesis obtained"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

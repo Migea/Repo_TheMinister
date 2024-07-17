@@ -1074,5 +1074,17 @@ MonoBehaviour:
     m_Localized: "\rEntry synthesis obtained"
     m_Metadata:
       m_Items: []
+  - m_Id: 765505089368064
+    m_Localized: Used to synthesize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765605173850112
+    m_Localized: Can be synthesized
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765787634462720
+    m_Localized: Synthesize the required materials
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

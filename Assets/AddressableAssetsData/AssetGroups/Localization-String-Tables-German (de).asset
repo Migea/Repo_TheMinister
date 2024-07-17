@@ -55,7 +55,7 @@ MonoBehaviour:
     - Locale-de
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6e7295b3c4bd8b24b915bc6e7b3c4a76
-    m_Address: sofar_de
+    m_Address: sofarType_de
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-de

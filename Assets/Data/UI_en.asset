@@ -1315,5 +1315,9 @@ MonoBehaviour:
     m_Localized: Work for
     m_Metadata:
       m_Items: []
+  - m_Id: 5312401216696320
+    m_Localized: Wuhou Tower
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

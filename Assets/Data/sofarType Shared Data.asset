@@ -10,13 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: sofar Shared Data
+  m_Name: sofarType Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: sofar
+  m_TableCollectionName: sofarType
   m_TableCollectionNameGuidString: bce8a5e0cadfc5b46a9ac4965ba1ad30
   m_Entries:
   - m_Id: 8226765336597
     m_Key: "\u592A\u8FDC\u4E86"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176020572139520
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176023386517504
+    m_Key: New Entry 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176025856962560
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176028834918400
+    m_Key: New Entry 3
     m_Metadata:
       m_Items: []
   m_Metadata:

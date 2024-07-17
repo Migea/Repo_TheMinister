@@ -22,5 +22,77 @@ MonoBehaviour:
     m_Localized: Too far
     m_Metadata:
       m_Items: []
+  - m_Id: 176020572139520
+    m_Localized: Weapons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176023386517504
+    m_Localized: Mount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176025856962560
+    m_Localized: Boos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176028834918400
+    m_Localized: Clothes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186085949632512
+    m_Localized: Accessories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186087480553472
+    m_Localized: Trap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186088101310464
+    m_Localized: Dishes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186088717873152
+    m_Localized: Alcohol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186159643553792
+    m_Localized: Groceries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186160482414592
+    m_Localized: Drug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186161140920320
+    m_Localized: Elixir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186161942032384
+    m_Localized: Strange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186162508263424
+    m_Localized: Material
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306101613293568
+    m_Localized: N
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306102062084096
+    m_Localized: R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306102905139200
+    m_Localized: SR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306103597199360
+    m_Localized: SSR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 306104184401920
+    m_Localized: UR
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -349,74 +349,8 @@ MonoBehaviour:
     m_Localized: All
     m_Metadata:
       m_Items: []
-  - m_Id: 3111868267556864
-    m_Localized: Good
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3111869299355648
-    m_Localized: Superior
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3111870125633536
-    m_Localized: Epic
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3111871413284864
-    m_Localized: Legendary
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3111872130510848
-    m_Localized: immortal
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113094640103424
-    m_Localized: "\rweapons"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113096389128192
-    m_Localized: Mount
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113097060216832
-    m_Localized: books
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113097685168128
-    m_Localized: "\raccessories"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113098310119424
-    m_Localized: trap
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113098846990336
-    m_Localized: "\rDishes"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113189536231424
-    m_Localized: Alcohol
-    m_Metadata:
-      m_Items: []
   - m_Id: 3113191016820736
     m_Localized: "\rGroceries"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113191813738496
-    m_Localized: Drug
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113238202740736
-    m_Localized: Elixir
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113239586861056
-    m_Localized: 'strange
-
-'
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3113241423966208
-    m_Localized: "\rMaterial"
     m_Metadata:
       m_Items: []
   - m_Id: 3114904163512320
@@ -425,10 +359,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 3114830452813824
     m_Localized: "\rbestow"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3116758297538560
-    m_Localized: Clothes
     m_Metadata:
       m_Items: []
   - m_Id: 3846631567716352

@@ -1090,5 +1090,9 @@ MonoBehaviour:
     m_Localized: 'Source of entry:'
     m_Metadata:
       m_Items: []
+  - m_Id: 769025775562752
+    m_Localized: Status remaining rounds
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

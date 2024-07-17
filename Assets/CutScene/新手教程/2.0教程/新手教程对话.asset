@@ -92,7 +92,7 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: 
+      value: Yu Suwen
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -100,7 +100,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: 
+      value: "\u4E8E\u8083\u6587"
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name

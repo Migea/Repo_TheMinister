@@ -988,9 +988,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5003287680839680
-    m_Localized: 'Knighthood
-
-'
+    m_Localized: Knighthood
     m_Metadata:
       m_Items: []
   - m_Id: 5004521192091648
@@ -1247,6 +1245,26 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 5312401216696320
     m_Localized: Wuhou Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5312401745178624
+    m_Localized: Marquis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6362905027866624
+    m_Localized: Handman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6363349611507712
+    m_Localized: Servant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6363739220406272
+    m_Localized: Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6366070833999872
+    m_Localized: Viscount
     m_Metadata:
       m_Items: []
   references:

@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class MenuDescriptionUI : MonoBehaviour
@@ -25,7 +26,12 @@ public class MenuDescriptionUI : MonoBehaviour
 
     public void SetDescription()
     {
-        description.text = gameDescription.Find(Target);
+        LocalizedString DescriptionString = new LocalizedString
+        {
+            TableReference = "Describe",
+            TableEntryReference = $"√Ë ˆ_{Target}"
+        };
+        description.text = DescriptionString.GetLocalizedString();
         //Rebuild();
     }
     private void OnEnable()

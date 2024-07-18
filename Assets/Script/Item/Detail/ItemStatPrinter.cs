@@ -27,7 +27,7 @@ public static class ItemStatPrinter
             LocalizedString uselessString = new LocalizedString
             {
                 TableReference = "itemdescribe",
-                TableEntryReference = $"设置_无用"
+                TableEntryReference = $"无用"
             };
             return uselessString.GetLocalizedString();
         }

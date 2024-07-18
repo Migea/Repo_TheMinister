@@ -55,7 +55,7 @@ MonoBehaviour:
     - Locale-ja
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b58c66b9d2ff929448f929511d607ed4
-    m_Address: sofarType_ja
+    m_Address: sofar_ja
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ja

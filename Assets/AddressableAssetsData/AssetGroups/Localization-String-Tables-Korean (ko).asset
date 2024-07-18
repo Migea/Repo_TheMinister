@@ -55,7 +55,7 @@ MonoBehaviour:
     - Locale-ko
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c0873a2072cec67438fd6a0cb8f7354c
-    m_Address: sofarType_ko
+    m_Address: sofar_ko
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ko

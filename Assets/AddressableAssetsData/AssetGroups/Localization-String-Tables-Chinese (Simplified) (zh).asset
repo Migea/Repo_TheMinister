@@ -55,7 +55,7 @@ MonoBehaviour:
     - Locale-zh
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 1d60f636753f4d641836348a26cc2cd6
-    m_Address: sofarType_zh
+    m_Address: sofar_zh
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-zh

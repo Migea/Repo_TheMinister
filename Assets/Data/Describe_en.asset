@@ -321,5 +321,9 @@ MonoBehaviour:
     m_Localized: job book
     m_Metadata:
       m_Items: []
+  - m_Id: 1456361442177024
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

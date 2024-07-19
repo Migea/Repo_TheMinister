@@ -19,1075 +19,1081 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 208496384339968
-    m_Localized: <font=Jupiter>Namugatling</font>
+    m_Localized: Namugatling
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339969
-    m_Localized: <font=Jupiter>Star Player Descending</font>
+    m_Localized: Star Player Descending
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339970
-    m_Localized: <font=Jupiter>Master Craftsman</font>
+    m_Localized: Master Craftsman
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339971
-    m_Localized: <font=Jupiter>Literary Warrior</font>
+    m_Localized: Literary Warrior
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339973
-    m_Localized: <font=Jupiter>Longevity</font>
+    m_Localized: Longevity
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339974
-    m_Localized: <font=Jupiter>Undying</font>
+    m_Localized: Undying
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339975
-    m_Localized: <font=Jupiter>Loyal and Righteous</font>
+    m_Localized: Loyal and Righteous
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339976
-    m_Localized: <font=Jupiter>Earthly Immortal</font>
+    m_Localized: Earthly Immortal
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339977
-    m_Localized: <font=Jupiter>Heartbreaking Palm</font>
+    m_Localized: Heartbreaking Palm
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339978
-    m_Localized: <font=Jupiter>10-dan Go Player</font>
+    m_Localized: 10-dan Go Player
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339979
-    m_Localized: <font=Jupiter>Top Scholar</font>
+    m_Localized: Top Scholar
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339980
-    m_Localized: <font=Jupiter>Immortal Poet</font>
+    m_Localized: Immortal Poet
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339981
-    m_Localized: <font=Jupiter>Sleeping Dragon</font>
+    m_Localized: Sleeping Dragon
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339982
-    m_Localized: <font=Jupiter>Talent of Eight Measures</font>
+    m_Localized: Talent of Eight Measures
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339983
-    m_Localized: <font=Jupiter>Saint of Martial Arts</font>
+    m_Localized: Saint of Martial Arts
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339984
-    m_Localized: <font=Jupiter>Shadowless</font>
+    m_Localized: Shadowless
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339985
-    m_Localized: <font=Jupiter>Rock Solid</font>
+    m_Localized: Rock Solid
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339986
-    m_Localized: <font=Jupiter>Master of All Martial Arts</font>
+    m_Localized: Master of All Martial Arts
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339987
-    m_Localized: <font=Jupiter>Empty Talk</font>
+    m_Localized: Empty Talk
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339988
-    m_Localized: <font=Jupiter>Only a Reputation</font>
+    m_Localized: Only a Reputation
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339989
-    m_Localized: <font=Jupiter>Opportunist</font>
+    m_Localized: Opportunist
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339990
-    m_Localized: <font=Jupiter>Chaotic Demon King</font>
+    m_Localized: Chaotic Demon King
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339991
-    m_Localized: <font=Jupiter>Ruthless</font>
+    m_Localized: Ruthless
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339992
-    m_Localized: <font=Jupiter>Conservative</font>
+    m_Localized: Conservative
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339993
-    m_Localized: <font=Jupiter>Body of an Immortal</font>
+    m_Localized: Body of an Immortal
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339994
-    m_Localized: <font=Jupiter>Hidden Talents</font>
+    m_Localized: Hidden Talents
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339995
-    m_Localized: <font=Jupiter>Profound Benevolence</font>
+    m_Localized: Profound Benevolence
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339996
-    m_Localized: <font=Jupiter>Smooth Career</font>
+    m_Localized: Smooth Career
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339997
-    m_Localized: <font=Jupiter>Masterful Craftsmanship</font>
+    m_Localized: Masterful Craftsmanship
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339998
-    m_Localized: <font=Jupiter>Healing the World</font>
+    m_Localized: Healing the World
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339999
-    m_Localized: <font=Jupiter>Mojia</font>
+    m_Localized: Mojia
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340000
-    m_Localized: <font=Jupiter>Shooting Through the Sun</font>
+    m_Localized: Shooting Through the Sun
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340001
-    m_Localized: <font=Jupiter>Silent</font>
+    m_Localized: Silent
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340002
-    m_Localized: <font=Jupiter>Azure Dragon</font>
+    m_Localized: Azure Dragon
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340003
-    m_Localized: <font=Jupiter>Certain Victory</font>
+    m_Localized: Certain Victory
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340004
-    m_Localized: <font=Jupiter>Supporting the Sky</font>
+    m_Localized: Supporting the Sky
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340005
-    m_Localized: <font=Jupiter>Dragon's Power</font>
+    m_Localized: Dragon's Power
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340006
-    m_Localized: <font=Jupiter>Suppressing Fire</font>
+    m_Localized: Suppressing Fire
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340007
-    m_Localized: <font=Jupiter>Living in a Dream</font>
+    m_Localized: Living in a Dream
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340008
-    m_Localized: <font=Jupiter>Golden Glitter</font>
+    m_Localized: Golden Glitter
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340009
-    m_Localized: <font=Jupiter>Light Fragment</font>
+    m_Localized: Light Fragment
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340010
-    m_Localized: <font=Jupiter>Dragon Horse Spirit</font>
+    m_Localized: Dragon Horse Spirit
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340011
-    m_Localized: <font=Jupiter>Eagle's Power</font>
+    m_Localized: Eagle's Power
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340012
-    m_Localized: <font=Jupiter>Glimpsing Heaven's Secrets</font>
+    m_Localized: Glimpsing Heaven's Secrets
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340013
-    m_Localized: <font=Jupiter>Invincible to Poisons</font>
+    m_Localized: Invincible to Poisons
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340014
-    m_Localized: <font=Jupiter>Yapping</font>
+    m_Localized: Yapping
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340015
-    m_Localized: <font=Jupiter>Ripple Walk</font>
+    m_Localized: Ripple Walk
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340016
-    m_Localized: <font=Jupiter>Power of an Elephant and Tiger</font>
+    m_Localized: Power of an Elephant and Tiger
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340017
-    m_Localized: <font=Jupiter>Literary</font>
+    m_Localized: Literary
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340018
-    m_Localized: <font=Jupiter>Martial</font>
+    m_Localized: Martial
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340019
-    m_Localized: <font=Jupiter>Well-read in Erudite Works</font>
+    m_Localized: Well-read in Erudite Works
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340020
-    m_Localized: <font=Jupiter>Highly Talented</font>
+    m_Localized: Highly Talented
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340021
-    m_Localized: <font=Jupiter>Scheming</font>
+    m_Localized: Scheming
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340022
-    m_Localized: <font=Jupiter>Lifting Mountains</font>
+    m_Localized: Lifting Mountains
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340023
-    m_Localized: <font=Jupiter>Elusive</font>
+    m_Localized: Elusive
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340024
-    m_Localized: <font=Jupiter>Sheltering Mansion</font>
+    m_Localized: Sheltering Mansion
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340025
-    m_Localized: <font=Jupiter>Wise and Brave</font>
+    m_Localized: Wise and Brave
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340026
-    m_Localized: <font=Jupiter>Mechanical Master</font>
+    m_Localized: Mechanical Master
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340027
-    m_Localized: <font=Jupiter>Qimen Dunjia (Mystical Strategy)</font>
+    m_Localized: Qimen Dunjia (Mystical Strategy)
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340028
-    m_Localized: <font=Jupiter>Innate Strength</font>
+    m_Localized: Innate Strength
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340029
-    m_Localized: <font=Jupiter>Yangming School</font>
+    m_Localized: Yangming School
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340030
-    m_Localized: <font=Jupiter>Lich Lord</font>
+    m_Localized: Lich Lord
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340031
-    m_Localized: <font=Jupiter>Dragon Knight</font>
+    m_Localized: Dragon Knight
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340032
-    m_Localized: <font=Jupiter>Diplomat</font>
+    m_Localized: Diplomat
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340033
-    m_Localized: <font=Jupiter>Old but Vigorous</font>
+    m_Localized: Old but Vigorous
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340034
-    m_Localized: <font=Jupiter>Alchemist</font>
+    m_Localized: Alchemist
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340035
-    m_Localized: <font=Jupiter>Master of Close Combat</font>
+    m_Localized: Master of Close Combat
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340036
-    m_Localized: <font=Jupiter>Reincarnation of an Ancient God</font>
+    m_Localized: Reincarnation of an Ancient God
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340037
-    m_Localized: <font=Jupiter>Financial Master</font>
+    m_Localized: Financial Master
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340038
-    m_Localized: <font=Jupiter>Strategist</font>
+    m_Localized: Strategist
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340039
-    m_Localized: <font=Jupiter>Hammer</font>
+    m_Localized: Hammer
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340040
-    m_Localized: <font=Jupiter>Drama King</font>
+    m_Localized: Drama King
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340041
-    m_Localized: <font=Jupiter>Yellow Emperor's Internal Classic</font>
+    m_Localized: Yellow Emperor's Internal Classic
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340042
-    m_Localized: <font=Jupiter>Compendium of Materia Medica</font>
+    m_Localized: Compendium of Materia Medica
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340043
-    m_Localized: <font=Jupiter>Imperial Stable</font>
+    m_Localized: Imperial Stable
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340044
-    m_Localized: <font=Jupiter>Beast Master</font>
+    m_Localized: Beast Master
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340045
-    m_Localized: <font=Jupiter>Money Manager</font>
+    m_Localized: Money Manager
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340046
-    m_Localized: <font=Jupiter>Perfect Archery</font>
+    m_Localized: Perfect Archery
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340047
-    m_Localized: <font=Jupiter>King of Swords</font>
+    m_Localized: King of Swords
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340048
-    m_Localized: <font=Jupiter>Lord of Thunder and Lightning</font>
+    m_Localized: Lord of Thunder and Lightning
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340049
-    m_Localized: <font=Jupiter>Royal Bloodline</font>
+    m_Localized: Royal Bloodline
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340050
-    m_Localized: <font=Jupiter>Overlord</font>
+    m_Localized: Overlord
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340051
-    m_Localized: <font=Jupiter>Qigong Master</font>
+    m_Localized: Qigong Master
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340052
-    m_Localized: <font=Jupiter>Inspired Poet</font>
+    m_Localized: Inspired Poet
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340053
-    m_Localized: <font=Jupiter>Drunken Ecstasy</font>
+    m_Localized: Drunken Ecstasy
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340054
-    m_Localized: <font=Jupiter>Pay-to-Win Warrior</font>
+    m_Localized: Pay-to-Win Warrior
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340055
-    m_Localized: <font=Jupiter>Vegetarian</font>
+    m_Localized: Vegetarian
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340056
-    m_Localized: <font=Jupiter>Fully Armed</font>
+    m_Localized: Fully Armed
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340057
-    m_Localized: <font=Jupiter>Impregnable Fortress</font>
+    m_Localized: Impregnable Fortress
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340058
-    m_Localized: <font=Jupiter>Skillful Doctor</font>
+    m_Localized: Skillful Doctor
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340059
-    m_Localized: <font=Jupiter>Fierce as Fire</font>
+    m_Localized: Fierce as Fire
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340060
-    m_Localized: <font=Jupiter>Benevolent Gentleman</font>
+    m_Localized: Benevolent Gentleman
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340061
-    m_Localized: <font=Jupiter>Excellent Horse</font>
+    m_Localized: Excellent Horse
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340062
-    m_Localized: <font=Jupiter>Fierce</font>
+    m_Localized: Fierce
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340063
-    m_Localized: <font=Jupiter>Lone Wolf</font>
+    m_Localized: Lone Wolf
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340064
-    m_Localized: <font=Jupiter>Loyalty and Faith</font>
+    m_Localized: Loyalty and Faith
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340065
-    m_Localized: <font=Jupiter>Lucky Star</font>
+    m_Localized: Lucky Star
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340066
-    m_Localized: <font=Jupiter>Elegant Dancer</font>
+    m_Localized: Elegant Dancer
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340067
-    m_Localized: <font=Jupiter>Money Dart</font>
+    m_Localized: Money Dart
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340068
-    m_Localized: <font=Jupiter>Sleeve Robe</font>
+    m_Localized: Sleeve Robe
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534272
-    m_Localized: <font=Jupiter>Blood Dripper</font>
+    m_Localized: Blood Dripper
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534273
-    m_Localized: <font=Jupiter>Bishop</font>
+    m_Localized: Bishop
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534274
-    m_Localized: <font=Jupiter>Pearl-like</font>
+    m_Localized: Pearl-like
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534275
-    m_Localized: <font=Jupiter>Cultural Desert</font>
+    m_Localized: Cultural Desert
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534276
-    m_Localized: <font=Jupiter>Minor Martial Skills</font>
+    m_Localized: Minor Martial Skills
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534277
-    m_Localized: <font=Jupiter>Literary Righteousness</font>
+    m_Localized: Literary Righteousness
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534278
-    m_Localized: <font=Jupiter>Martial Loyalty</font>
+    m_Localized: Martial Loyalty
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534279
-    m_Localized: <font=Jupiter>Bookworm</font>
+    m_Localized: Bookworm
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534280
-    m_Localized: <font=Jupiter>Slightly Famous</font>
+    m_Localized: Slightly Famous
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534281
-    m_Localized: <font=Jupiter>Slightly Strategic</font>
+    m_Localized: Slightly Strategic
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534282
-    m_Localized: <font=Jupiter>Martial Arts Enthusiast</font>
+    m_Localized: Martial Arts Enthusiast
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534283
-    m_Localized: <font=Jupiter>Agile</font>
+    m_Localized: Agile
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534284
-    m_Localized: <font=Jupiter>Old Bear on the Path</font>
+    m_Localized: Old Bear on the Path
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534285
-    m_Localized: <font=Jupiter>Outlaw</font>
+    m_Localized: Outlaw
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534286
-    m_Localized: <font=Jupiter>Toad Skill</font>
+    m_Localized: Toad Skill
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534287
-    m_Localized: <font=Jupiter>Joyful Buddha</font>
+    m_Localized: Joyful Buddha
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534288
-    m_Localized: <font=Jupiter>Demon Man</font>
+    m_Localized: Demon Man
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534289
-    m_Localized: <font=Jupiter>Astronomy Expert</font>
+    m_Localized: Astronomy Expert
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534290
-    m_Localized: <font=Jupiter>Frost Sword</font>
+    m_Localized: Frost Sword
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534291
-    m_Localized: <font=Jupiter>Swift</font>
+    m_Localized: Swift
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534292
-    m_Localized: <font=Jupiter>Cannon</font>
+    m_Localized: Cannon
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534293
-    m_Localized: <font=Jupiter>Eastern Languages</font>
+    m_Localized: Eastern Languages
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534294
-    m_Localized: <font=Jupiter>Talented in Singing and Dancing</font>
+    m_Localized: Talented in Singing and Dancing
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534295
-    m_Localized: <font=Jupiter>Western Languages</font>
+    m_Localized: Western Languages
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534296
-    m_Localized: <font=Jupiter>Poison Master</font>
+    m_Localized: Poison Master
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534297
-    m_Localized: <font=Jupiter>Unorthodox</font>
+    m_Localized: Unorthodox
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534298
-    m_Localized: <font=Jupiter>Foreigner</font>
+    m_Localized: Foreigner
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534299
-    m_Localized: <font=Jupiter>Madman</font>
+    m_Localized: Madman
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534300
-    m_Localized: <font=Jupiter>Go Strategy</font>
+    m_Localized: Go Strategy
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534301
-    m_Localized: <font=Jupiter>Mental Calculation</font>
+    m_Localized: Mental Calculation
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534302
-    m_Localized: <font=Jupiter>Economics</font>
+    m_Localized: Economics
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534303
-    m_Localized: <font=Jupiter>Small Hammer</font>
+    m_Localized: Small Hammer
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534304
-    m_Localized: <font=Jupiter>Veteran Actor</font>
+    m_Localized: Veteran Actor
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534305
-    m_Localized: <font=Jupiter>Doctor</font>
+    m_Localized: Doctor
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534306
-    m_Localized: <font=Jupiter>Beast Taming</font>
+    m_Localized: Beast Taming
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534307
-    m_Localized: <font=Jupiter>Imperial Horse Keeper</font>
+    m_Localized: Imperial Horse Keeper
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534308
-    m_Localized: <font=Jupiter>Nomad</font>
+    m_Localized: Nomad
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534309
-    m_Localized: <font=Jupiter>Universal Love</font>
+    m_Localized: Universal Love
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534310
-    m_Localized: <font=Jupiter>Hawker</font>
+    m_Localized: Hawker
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534311
-    m_Localized: <font=Jupiter>Non-aggression</font>
+    m_Localized: Non-aggression
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534312
-    m_Localized: <font=Jupiter>Perfect Archery</font>
+    m_Localized: Perfect Archery
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534313
-    m_Localized: <font=Jupiter>Unusual Talent</font>
+    m_Localized: Unusual Talent
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534314
-    m_Localized: <font=Jupiter>A Glimmer of Light</font>
+    m_Localized: A Glimmer of Light
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534315
-    m_Localized: <font=Jupiter>Melon Seller</font>
+    m_Localized: Melon Seller
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534316
-    m_Localized: <font=Jupiter>Exquisite Martial Skills</font>
+    m_Localized: Exquisite Martial Skills
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534317
-    m_Localized: <font=Jupiter>Entered the Hall</font>
+    m_Localized: Entered the Hall
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534318
-    m_Localized: <font=Jupiter>Possessed by Demons</font>
+    m_Localized: Possessed by Demons
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534319
-    m_Localized: <font=Jupiter>Vegetarian Food</font>
+    m_Localized: Vegetarian Food
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534320
-    m_Localized: <font=Jupiter>Meat Dish</font>
+    m_Localized: Meat Dish
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534321
-    m_Localized: <font=Jupiter>Great Luck</font>
+    m_Localized: Great Luck
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534322
-    m_Localized: <font=Jupiter>Silk</font>
+    m_Localized: Silk
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534323
-    m_Localized: <font=Jupiter>Heart Protector</font>
+    m_Localized: Heart Protector
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534324
-    m_Localized: <font=Jupiter>Leather Armor</font>
+    m_Localized: Leather Armor
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534325
-    m_Localized: <font=Jupiter>Iron Armor</font>
+    m_Localized: Iron Armor
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534326
-    m_Localized: <font=Jupiter>Evil Repeller</font>
+    m_Localized: Evil Repeller
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534327
-    m_Localized: <font=Jupiter>Jewelry</font>
+    m_Localized: Jewelry
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534328
-    m_Localized: <font=Jupiter>Happy Family</font>
+    m_Localized: Happy Family
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534329
-    m_Localized: <font=Jupiter>Mixed Emotions</font>
+    m_Localized: Mixed Emotions
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534330
-    m_Localized: <font=Jupiter>Lover of Good Wine</font>
+    m_Localized: Lover of Good Wine
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534331
-    m_Localized: <font=Jupiter>Craftsman</font>
+    m_Localized: Craftsman
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534332
-    m_Localized: <font=Jupiter>Story King</font>
+    m_Localized: Story King
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534333
-    m_Localized: <font=Jupiter>Zither Player</font>
+    m_Localized: Zither Player
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534334
-    m_Localized: <font=Jupiter>Drunken Boxing</font>
+    m_Localized: Drunken Boxing
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534335
-    m_Localized: <font=Jupiter>Literary Righteousness</font>
+    m_Localized: Literary Righteousness
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534336
-    m_Localized: <font=Jupiter>Martial Bravery</font>
+    m_Localized: Martial Bravery
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534337
-    m_Localized: <font=Jupiter>Brave but Foolish</font>
+    m_Localized: Brave but Foolish
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534338
-    m_Localized: <font=Jupiter>Flowery Speech</font>
+    m_Localized: Flowery Speech
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534339
-    m_Localized: <font=Jupiter>Decorative Pillow</font>
+    m_Localized: Decorative Pillow
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534340
-    m_Localized: <font=Jupiter>Jack of All Trades</font>
+    m_Localized: Jack of All Trades
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534341
-    m_Localized: <font=Jupiter>Self-righteous</font>
+    m_Localized: Self-righteous
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534342
-    m_Localized: <font=Jupiter>Treasuring a Broken Broom</font>
+    m_Localized: Treasuring a Broken Broom
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534343
-    m_Localized: <font=Jupiter>Infertility</font>
+    m_Localized: Infertility
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534344
-    m_Localized: <font=Jupiter>Giant Syndrome</font>
+    m_Localized: Giant Syndrome
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534345
-    m_Localized: <font=Jupiter>Dwarfism</font>
+    m_Localized: Dwarfism
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534346
-    m_Localized: <font=Jupiter>Confucian Scholar</font>
+    m_Localized: Confucian Scholar
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534347
-    m_Localized: <font=Jupiter>Taoist Priest</font>
+    m_Localized: Taoist Priest
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534348
-    m_Localized: <font=Jupiter>Monk</font>
+    m_Localized: Monk
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534349
-    m_Localized: <font=Jupiter>Lawyer</font>
+    m_Localized: Lawyer
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534350
-    m_Localized: <font=Jupiter>Cold-blooded</font>
+    m_Localized: Cold-blooded
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534351
-    m_Localized: <font=Jupiter>Eunuch</font>
+    m_Localized: Eunuch
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534352
-    m_Localized: <font=Jupiter>Vampire</font>
+    m_Localized: Vampire
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534353
-    m_Localized: <font=Jupiter>Werewolf</font>
+    m_Localized: Werewolf
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534354
-    m_Localized: <font=Jupiter>Stiff Knees</font>
+    m_Localized: Stiff Knees
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534355
-    m_Localized: <font=Jupiter>Hyperactivity</font>
+    m_Localized: Hyperactivity
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534356
-    m_Localized: <font=Jupiter>Unremarkable</font>
+    m_Localized: Unremarkable
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534357
-    m_Localized: <font=Jupiter>Eagle</font>
+    m_Localized: Eagle
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534358
-    m_Localized: <font=Jupiter>Martial Artist</font>
+    m_Localized: Martial Artist
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534359
-    m_Localized: <font=Jupiter>Immortal Boy</font>
+    m_Localized: Immortal Boy
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534360
-    m_Localized: <font=Jupiter>Bow</font>
+    m_Localized: Bow
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534361
-    m_Localized: <font=Jupiter>Sword</font>
+    m_Localized: Sword
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534362
-    m_Localized: <font=Jupiter>Spear</font>
+    m_Localized: Spear
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534363
-    m_Localized: <font=Jupiter>Corruption</font>
+    m_Localized: Corruption
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534364
-    m_Localized: <font=Jupiter>Actor</font>
+    m_Localized: Actor
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534365
-    m_Localized: <font=Jupiter>Impure</font>
+    m_Localized: Impure
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534366
-    m_Localized: <font=Jupiter>Knife</font>
+    m_Localized: Knife
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534367
-    m_Localized: <font=Jupiter>Halberd</font>
+    m_Localized: Halberd
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534368
-    m_Localized: <font=Jupiter>Medical Skills</font>
+    m_Localized: Medical Skills
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534369
-    m_Localized: <font=Jupiter>Horse Keeper</font>
+    m_Localized: Horse Keeper
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534370
-    m_Localized: <font=Jupiter>Full Stomach</font>
+    m_Localized: Full Stomach
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534371
-    m_Localized: <font=Jupiter>Harmless</font>
+    m_Localized: Harmless
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534372
-    m_Localized: <font=Jupiter>Skilled Craftsman</font>
+    m_Localized: Skilled Craftsman
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534373
-    m_Localized: <font=Jupiter>Upright Posture</font>
+    m_Localized: Upright Posture
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534374
-    m_Localized: <font=Jupiter>Useless Person</font>
+    m_Localized: Useless Person
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534375
-    m_Localized: <font=Jupiter>Miscellaneous</font>
+    m_Localized: Miscellaneous
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534376
-    m_Localized: <font=Jupiter>Thick Hair</font>
+    m_Localized: Thick Hair
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534377
-    m_Localized: <font=Jupiter>Cursed with Bad Luck</font>
+    m_Localized: Cursed with Bad Luck
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534378
-    m_Localized: <font=Jupiter>Ungrateful Child</font>
+    m_Localized: Ungrateful Child
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728576
-    m_Localized: <font=Jupiter>Lame</font>
+    m_Localized: Lame
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728577
-    m_Localized: <font=Jupiter>Old and Weak</font>
+    m_Localized: Old and Weak
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728578
-    m_Localized: <font=Jupiter>Drunk</font>
+    m_Localized: Drunk
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728579
-    m_Localized: <font=Jupiter>Tragic Life</font>
+    m_Localized: Tragic Life
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728580
-    m_Localized: <font=Jupiter>Mental Illness</font>
+    m_Localized: Mental Illness
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728581
-    m_Localized: <font=Jupiter>Nearsighted</font>
+    m_Localized: Nearsighted
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728582
-    m_Localized: <font=Jupiter>Sweet Tooth</font>
+    m_Localized: Sweet Tooth
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728583
-    m_Localized: <font=Jupiter>Malnutrition</font>
+    m_Localized: Malnutrition
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728584
-    m_Localized: <font=Jupiter>Diabetes</font>
+    m_Localized: Diabetes
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728585
-    m_Localized: <font=Jupiter>Sleeplessness</font>
+    m_Localized: Sleeplessness
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728586
-    m_Localized: <font=Jupiter>Big Eater</font>
+    m_Localized: Big Eater
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728587
-    m_Localized: <font=Jupiter>Blind</font>
+    m_Localized: Blind
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728588
-    m_Localized: <font=Jupiter>One-armed</font>
+    m_Localized: One-armed
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728589
-    m_Localized: <font=Jupiter>Dementia</font>
+    m_Localized: Dementia
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728590
-    m_Localized: <font=Jupiter>Pregnant</font>
+    m_Localized: Pregnant
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728591
-    m_Localized: <font=Jupiter>Polio</font>
+    m_Localized: Polio
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728592
-    m_Localized: <font=Jupiter>Illiterate</font>
+    m_Localized: Illiterate
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728593
-    m_Localized: <font=Jupiter>Taking Advantage</font>
+    m_Localized: Taking Advantage
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728594
-    m_Localized: <font=Jupiter>Useless Fury</font>
+    m_Localized: Useless Fury
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728595
-    m_Localized: <font=Jupiter>Headache</font>
+    m_Localized: Headache
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728596
-    m_Localized: <font=Jupiter>Paralysis</font>
+    m_Localized: Paralysis
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728597
-    m_Localized: <font=Jupiter>Stuttering</font>
+    m_Localized: Stuttering
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728598
-    m_Localized: <font=Jupiter>Annoying</font>
+    m_Localized: Annoying
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728599
-    m_Localized: <font=Jupiter>Mischievous</font>
+    m_Localized: Mischievous
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728600
-    m_Localized: <font=Jupiter>Natural Dislike</font>
+    m_Localized: Natural Dislike
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728601
-    m_Localized: <font=Jupiter>Gagging</font>
+    m_Localized: Gagging
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728602
-    m_Localized: <font=Jupiter>Weak Body</font>
+    m_Localized: Weak Body
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728603
-    m_Localized: <font=Jupiter>Obesity</font>
+    m_Localized: Obesity
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728604
-    m_Localized: <font=Jupiter>Uneven Legs</font>
+    m_Localized: Uneven Legs
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728605
-    m_Localized: <font=Jupiter>Prosthetic Limb</font>
+    m_Localized: Prosthetic Limb
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728606
-    m_Localized: <font=Jupiter>Poison</font>
+    m_Localized: Poison
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728607
-    m_Localized: <font=Jupiter>Barely Clothed</font>
+    m_Localized: Barely Clothed
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728608
-    m_Localized: <font=Jupiter>Blood Enrichment</font>
+    m_Localized: Blood Enrichment
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728609
-    m_Localized: <font=Jupiter>Kidney Strengthening</font>
+    m_Localized: Kidney Strengthening
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728610
-    m_Localized: <font=Jupiter>Refreshing</font>
+    m_Localized: Refreshing
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728611
-    m_Localized: <font=Jupiter>Poisoned</font>
+    m_Localized: Poisoned
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728612
-    m_Localized: <font=Jupiter>Body Tempering</font>
+    m_Localized: Body Tempering
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728613
-    m_Localized: <font=Jupiter>Nourishing</font>
+    m_Localized: Nourishing
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728614
-    m_Localized: <font=Jupiter>Minor Authority</font>
+    m_Localized: Minor Authority
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728615
-    m_Localized: <font=Jupiter>Resonant Jade</font>
+    m_Localized: Resonant Jade
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728616
-    m_Localized: <font=Jupiter>Cloud Flipping</font>
+    m_Localized: Cloud Flipping
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728617
-    m_Localized: <font=Jupiter>Rain Making</font>
+    m_Localized: Rain Making
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728618
-    m_Localized: <font=Jupiter>Cold</font>
+    m_Localized: Cold
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728619
-    m_Localized: <font=Jupiter>Tiring</font>
+    m_Localized: Tiring
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728620
-    m_Localized: <font=Jupiter>Iron Turtle</font>
+    m_Localized: Iron Turtle
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728621
-    m_Localized: <font=Jupiter>Full of Vigor</font>
+    m_Localized: Full of Vigor
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728622
-    m_Localized: <font=Jupiter>Dragon Roar</font>
+    m_Localized: Dragon Roar
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728623
-    m_Localized: <font=Jupiter>Thousand Faces</font>
+    m_Localized: Thousand Faces
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728624
-    m_Localized: <font=Jupiter>Master of Techniques</font>
+    m_Localized: Master of Techniques
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728625
-    m_Localized: <font=Jupiter>Swift as the Wind</font>
+    m_Localized: Swift as the Wind
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728626
-    m_Localized: <font=Jupiter>Foul Odor</font>
+    m_Localized: Foul Odor
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728627
-    m_Localized: <font=Jupiter>Stinking</font>
+    m_Localized: Stinking
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728628
-    m_Localized: <font=Jupiter>Mechanical Body</font>
+    m_Localized: Mechanical Body
     m_Metadata:
       m_Items: []
   - m_Id: 755117962620928
-    m_Localized: <font=Jupiter>Acquired by birth</font>
+    m_Localized: '
+
+      Acquired by birth'
     m_Metadata:
       m_Items: []
   - m_Id: 755119715840000
-    m_Localized: <font=Jupiter>Obtained with props</font>
+    m_Localized: '
+
+      Obtained with props'
     m_Metadata:
       m_Items: []
   - m_Id: 755189043490816
-    m_Localized: <font=Jupiter>Entry synthesis obtained</font>
+    m_Localized: '
+
+      Entry synthesis obtained'
     m_Metadata:
       m_Items: []
   - m_Id: 765505089368064
-    m_Localized: <font=Jupiter>Used to synthesize:</font>
+    m_Localized: 'Used to synthesize:'
     m_Metadata:
       m_Items: []
   - m_Id: 765605173850112
-    m_Localized: <font=Jupiter>Can be synthesized:</font>
+    m_Localized: 'Can be synthesized:'
     m_Metadata:
       m_Items: []
   - m_Id: 765787634462720
-    m_Localized: <font=Jupiter>Synthesize the required materials:</font>
+    m_Localized: 'Synthesize the required materials:'
     m_Metadata:
       m_Items: []
   - m_Id: 767448247496704
-    m_Localized: <font=Jupiter>Source of entry:</font>
+    m_Localized: 'Source of entry:'
     m_Metadata:
       m_Items: []
   - m_Id: 769025775562752
-    m_Localized: <font=Jupiter>Status remaining rounds</font>
+    m_Localized: Status remaining rounds
     m_Metadata:
       m_Items: []
   references:

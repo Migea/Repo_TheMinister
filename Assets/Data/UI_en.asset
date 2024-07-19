@@ -1267,5 +1267,13 @@ MonoBehaviour:
     m_Localized: Viscount
     m_Metadata:
       m_Items: []
+  - m_Id: 6370264127172608
+    m_Localized: Influence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6370265574207488
+    m_Localized: Add
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

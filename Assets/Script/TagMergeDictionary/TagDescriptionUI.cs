@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class TagDescriptionUI : MonoBehaviour
 {
     public Image tagImage;
+    public Text tagText;
     public Text tagStats;
     private Tag currentTag = Tag.Null;
     public Vector2 offset = new Vector2(15, -15);  // Offset from the mouse position
@@ -41,7 +42,8 @@ public class TagDescriptionUI : MonoBehaviour
         if (currentTag != targetTag)
         {
             currentTag = targetTag;
-            tagImage.sprite = Resources.Load<Sprite>(ReturnAssetPath.ReturnTagPath(currentTag));
+            tagImage.sprite = TagWithDescribetion.GetTagBackground(targetTag);
+            tagText.text = TagWithDescribetion.GetTagText(targetTag);
             tagStats.text = ItemStatPrinter.PrintAllStats(currentTag);
             SetMergeInfo(targetTag);
             tagFromWhere.Setup(targetTag);

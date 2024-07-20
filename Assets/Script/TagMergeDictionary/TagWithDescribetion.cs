@@ -51,28 +51,28 @@ public class TagWithDescribetion : MonoBehaviour, IDetailAble, IPointerEnterHand
     }
     public void ChangeTagBackground()
     {
-        Rarerity framRarity = Player.AllTagRareDict[Tag];
+
+        Image.sprite = GetTagBackground(Tag);
+    }
+    public static Sprite GetTagBackground(Tag tag)
+    {
+        Rarerity framRarity = Player.AllTagRareDict[tag];
         string path = "Art/Tags/TagBG/";
-        //try
-        //{
-
-        //var framRarity = Player.AllTagRareDict[Tag];
-        //}
-        //catch(KeyNotFoundException)
-        //{
-        //    Debug.Log(Tag.ToString());
-        //}
-
         path = $"{path}{framRarity}";
-        Image.sprite = Resources.Load<Sprite>(path);
+        return Resources.Load<Sprite>(path);
     }
     public void ChangeTagText()
+    {
+
+        text.text = GetTagText(Tag);
+    }
+    public static string GetTagText(Tag tag)
     {
         LocalizedString tagString = new LocalizedString
         {
             TableReference = "Tag",
-            TableEntryReference = $"…Ë÷√_{Tag.ToString()}"
+            TableEntryReference = $"…Ë÷√_{tag.ToString()}"
         };
-        text.text = tagString.GetLocalizedString();
+        return tagString.GetLocalizedString();
     }
 }

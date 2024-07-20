@@ -325,5 +325,9 @@ MonoBehaviour:
     m_Localized: Setting
     m_Metadata:
       m_Items: []
+  - m_Id: 1882237011030016
+    m_Localized: Save&Lord
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

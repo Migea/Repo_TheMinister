@@ -32,10 +32,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A30 \u52BF\u529B\u503C"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 864bda9ae3c9e3b4894abc7ab75f0832, type: 2}
+    m_textTableFieldID: 4
 --- !u!114 &-7914817152627746455
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -95,13 +95,31 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 864bda9ae3c9e3b4894abc7ab75f0832, type: 2}
+    m_textTableFieldID: 1
+  m_headingLevel: 1
+--- !u!114 &-4771997825690958506
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
     m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
-  m_headingLevel: 1
 --- !u!114 &-3991622677701623611
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -162,10 +180,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u4E8E\u5C1A\u4E66\u4ED3\u4FC3\u7684\u7ED3\u6848\u4F7F\u4F60\u5FC3\u751F\u7591\u60D1\uFF0C\u8FDB\u4EAC\u4E0D\u4E45\u7684\u4F60\u9700\u8981\u81EA\u5DF1\u7684\u73ED\u5E95\u4EE5\u83B7\u5F97\u60C5\u62A5\u3002\n\n\u6B64\u6B21\u5931\u94F6\u6848<color=\"#ff881a\">\u6237\u90E8\u53F8\u5185\u7684\u666E\u67E5\u540F</color>\u96BE\u8F9E\u5176\u548E\u5374\u5E76\u6CA1\u6709\u6536\u5230\u4E25\u91CD\u7684\u5904\u7F5A\u3002\u4ED6\u5E94\u8BE5\u77E5\u9053\u4E00\u4E9B\u5185\u60C5\u3002\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 864bda9ae3c9e3b4894abc7ab75f0832, type: 2}
+    m_textTableFieldID: 2
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -375,6 +393,7 @@ MonoBehaviour:
         - {fileID: 3778928921730060305}
         - {fileID: -527197693550374001}
         - {fileID: 9135719219124325747}
+        - {fileID: -4771997825690958506}
         - {fileID: 923770974202154817}
       - m_contentList: []
     - m_actionList: []
@@ -443,7 +462,7 @@ MonoBehaviour:
     m_canvasRect:
       serializedVersion: 2
       x: 252
-      y: 218
+      y: 217
       width: 120
       height: 48
   - m_id:
@@ -510,10 +529,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A30 \u52BF\u529B\u503C"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 864bda9ae3c9e3b4894abc7ab75f0832, type: 2}
+    m_textTableFieldID: 4
 --- !u!114 &3778928921730060305
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -527,12 +546,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 864bda9ae3c9e3b4894abc7ab75f0832, type: 2}
+    m_textTableFieldID: 1
   m_headingLevel: 1
 --- !u!114 &4908938982194319221
 MonoBehaviour:
@@ -605,10 +624,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u4E8E\u5C1A\u4E66\u4ED3\u4FC3\u7684\u7ED3\u6848\u4F7F\u4F60\u5FC3\u751F\u7591\u60D1\uFF0C\u8FDB\u4EAC\u4E0D\u4E45\u7684\u4F60\u9700\u8981\u81EA\u5DF1\u7684\u73ED\u5E95\u4EE5\u83B7\u5F97\u60C5\u62A5\u3002\n\n\u6B64\u6B21\u5931\u94F6\u6848\u6237\u90E8\u53F8\u5185\u7684\u7BA1\u4E8B\u6240\u96BE\u8F9E\u5176\u548E\u5374\u5E76\u6CA1\u6709\u6536\u5230\u4E25\u91CD\u7684\u5904\u7F5A\u3002\u4ED6\u5E94\u8BE5\u77E5\u9053\u4E00\u4E9B\u5185\u60C5\u3002\n\n\u4E0E\u4ED3\u5E93\u8BB0\u4E8B\u7EA6\u5B9A\u4E0D\u65E5\u4E4B\u540E\u5728\u4EAC\u57CE\u5317\u8857\u9152\u697C\u4F1A\u9762\u3002\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 864bda9ae3c9e3b4894abc7ab75f0832, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &9135719219124325747
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -623,9 +642,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: '{#BribeCount}/{>#BribeCount}
-
-'
+    m_text: '{#BribeCount}/{>#BribeCount}'
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0

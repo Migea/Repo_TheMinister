@@ -506,9 +506,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3510fad325637a54195296139861c274, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Money: 300
+  Money: 0
   Pressure: 0
-  Influence: 30
+  Influence: 300
   MoneyHolderTransform: {fileID: 3195624467688405341}
   PrestigeHolderTransform: {fileID: 5479142160532204320}
   InfluenceHolderTransform: {fileID: 5479142159211693166}

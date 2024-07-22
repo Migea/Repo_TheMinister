@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "\u5E8F\u7AE01"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000200000003000000040000000500000006000000
+  m_fieldValues:
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4E00\u6279\u5B98\u94F6\u5728\u9001\u5F80\u5185\u5E93\u65F6\u4E0D\u7FFC\u800C\u98DE\uFF0C\u73B0\u573A\u5E76\u672A\u53D1\u73B0\u660E\u663E\u7684\u75D5\u8FF9\uFF0C\u8BF7\u6D3E\u51FA\u968F\u4ECE\u518D\u8FDB\u884C\u4E00\u6B21\u73B0\u573A\u52D8\u67E5\uFF0C\u627E\u51FA\u6709\u7528\u7684\u7EBF\u7D22\u3002"
+    - A shipment of official silver vanished without a trace while being delivered
+      to the treasury. No obvious signs were found at the scene. Please dispatch
+      your followers to conduct another inspection and find any clues.
+    - "\u4E00\u6279\u5B98\u94F6\u5728\u9001\u5F80\u5185\u5E93\u65F6\u4E0D\u7FFC\u800C\u98DE\uFF0C\u73B0\u573A\u5E76\u672A\u53D1\u73B0\u660E\u663E\u7684\u75D5\u8FF9\uFF0C\u8BF7\u6D3E\u51FA\u968F\u4ECE\u518D\u8FDB\u884C\u4E00\u6B21\u73B0\u573A\u52D8\u67E5\uFF0C\u627E\u51FA\u6709\u7528\u7684\u7EBF\u7D22\u3002"
+    - 
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8C03\u67E5\u73B0\u573A"
+    - Investigate the scene
+    - "\u8C03\u67E5\u73B0\u573A"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - '"Wait for your followers to complete the task.'
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u836F\u6750\u5927\u5168\uFF0C\u8F7B\u7C89\u4E09\u4EFD\uFF0C\u94F6\u4E24200\u3002"
+    - 'Reward: Complete Medicinal Herbal, 3 portions of light powder, and 100 silver.'
+    - "\u5956\u52B1\uFF1A\u836F\u6750\u5927\u5168\uFF0C\u8F7B\u7C89\u4E09\u4EFD\uFF0C\u94F6\u4E24200\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7F6A\u72AF\u660E\u663E\u505A\u8DB3\u4E86\u51C6\u5907\uFF0C\u73B0\u573A\u5E76\u6CA1\u6709\u53D1\u73B0\u660E\u663E\u7684\u4EBA\u4E3A\u75D5\u8FF9\uFF0C\u53EA\u627E\u5230\u4E86\u5C11\u91CF\u7684\u94C5\u7C89\u3002"
+    - The criminal was clearly well-prepared. No obvious human traces were found
+      at the scene, only a small amount of lead powder.
+    - "\u7F6A\u72AF\u660E\u663E\u505A\u8DB3\u4E86\u51C6\u5907\uFF0C\u73B0\u573A\u5E76\u6CA1\u6709\u53D1\u73B0\u660E\u663E\u7684\u4EBA\u4E3A\u75D5\u8FF9\uFF0C\u53EA\u627E\u5230\u4E86\u5C11\u91CF\u7684\u94C5\u7C89\u3002\n"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

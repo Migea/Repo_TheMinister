@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "\u5E8F\u7AE04"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000200000003000000040000000500000006000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8C03\u67E5\u9609\u515A"
+    - Investigate the eunuch faction
+    - "\u8C03\u67E5\u9609\u515A"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4E8E\u8083\u6587\u63D0\u51FA\u9609\u515A\u5BF9\u5931\u94F6\u6848\u9ED8\u4E0D\u4F5C\u58F0\uFF0C\u6709\u5F88\u5927\u5ACC\u7591\uFF0C\u6D3E\u51FA\u968F\u4ECE\u6DF1\u5165\u8C03\u67E5\u4E00\u4E0B\u5BAB\u5185\u7684\u60C5\u51B5\u3002"
+    - Yu Suwen suggested that the eunuch faction's silence on the matter of the missing
+      silver makes them highly suspicious. Dispatch followers to conduct an in-depth
+      investigation within the palace.
+    - "\u4E8E\u8083\u6587\u63D0\u51FA\u9609\u515A\u5BF9\u5931\u94F6\u6848\u9ED8\u4E0D\u4F5C\u58F0\uFF0C\u6709\u5F88\u5927\u5ACC\u7591\uFF0C\u6D3E\u51FA\u968F\u4ECE\u6DF1\u5165\u8C03\u67E5\u4E00\u4E0B\u5BAB\u5185\u7684\u60C5\u51B5\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u517B\u6C14\u7B51\u57FA\u6563\uFF0C420\u94F6\u4E24\u3002"
+    - 'Reward: Nourishing Powder, 420 silver.'
+    - "\u5956\u52B1\uFF1A\u517B\u6C14\u7B51\u57FA\u6563\uFF0C420\u94F6\u4E24\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9609\u515A\u505A\u4E8B\u6EF4\u6C34\u4E0D\u6F0F\uFF0C\u5E76\u4E0D\u80FD\u627E\u5230\u76F4\u63A5\u77F3\u9524\u7684\u5173\u952E\u8BC1\u636E\uFF0C\u4F46\u968F\u4ECE\u5728\u5BAB\u4E2D\u8FD8\u6709\u610F\u5916\u6536\u83B7\uFF0C\u53D1\u73B0\u4E86\u4E0D\u5C11\u7684\u7AE5\u7537\u7AE5\u5973\uFF0C\u90FD\u88AB\u5173\u5728\u4E00\u8D77\uFF0C\u5341\u5206\u8BE1\u5F02\u3002"
+    - Baiyun Temple is well-guarded, using the pretext of casting Buddha statues
+      to forbid anyone from entering. There is certainly something suspicious about
+      this.
+    - "\u9609\u515A\u505A\u4E8B\u6EF4\u6C34\u4E0D\u6F0F\uFF0C\u5E76\u4E0D\u80FD\u627E\u5230\u76F4\u63A5\u77F3\u9524\u7684\u5173\u952E\u8BC1\u636E\uFF0C\u4F46\u968F\u4ECE\u5728\u5BAB\u4E2D\u8FD8\u6709\u610F\u5916\u6536\u83B7\uFF0C\u53D1\u73B0\u4E86\u4E0D\u5C11\u7684\u7AE5\u7537\u7AE5\u5973\uFF0C\u90FD\u88AB\u5173\u5728\u4E00\u8D77\uFF0C\u5341\u5206\u8BE1\u5F02\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

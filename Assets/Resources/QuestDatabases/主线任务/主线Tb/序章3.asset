@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "\u5E8F\u7AE03"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000200000003000000040000000500000006000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u63A2\u8BBF\u767D\u4E91\u5BFA"
+    - Investigate the origin of the lead
+    - "\u63A2\u8BBF\u767D\u4E91\u5BFA"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u767D\u4E91\u5BFA\u548C\u5B98\u94F6\u88AB\u52AB\u73B0\u573A\u7684\u94C5\u679C\u7136\u662F\u540C\u4E00\u79CD\uFF0C\u770B\u6765\u5FC5\u987B\u8981\u6D3E\u4EBA\u53BB\u597D\u597D\u63A2\u67E5\u4E00\u4E0B\u767D\u4E91\u5BFA\u5185\u7684\u60C5\u51B5\u4E86\u3002"
+    - The lead from Baiyun Temple indeed matches the lead found at the scene of the
+      stolen official silver. It seems we must send someone to thoroughly investigate
+      the situation inside Baiyun Temple.
+    - "\u767D\u4E91\u5BFA\u548C\u5B98\u94F6\u88AB\u52AB\u73B0\u573A\u7684\u94C5\u679C\u7136\u662F\u540C\u4E00\u79CD\uFF0C\u770B\u6765\u5FC5\u987B\u8981\u6D3E\u4EBA\u53BB\u597D\u597D\u63A2\u67E5\u4E00\u4E0B\u767D\u4E91\u5BFA\u5185\u7684\u60C5\u51B5\u4E86\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u9F99\u864E\u4E39\uFF0C1200\u94F6\u4E24\u3002"
+    - 'Reward: Dragon Tiger Pill, 1200 silver.'
+    - "\u5956\u52B1\uFF1A\u9F99\u864E\u4E39\uFF0C1200\u94F6\u4E24\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u767D\u4E91\u5BFA\u5BC6\u4E0D\u900F\u98CE\uFF0C\u4EE5\u94F8\u9020\u4F5B\u50CF\u4E3A\u7531\u7981\u6B62\u4EFB\u4F55\u4EBA\u5165\u5185\uFF0C\u6B64\u4E8B\u5FC5\u6709\u8E4A\u8DF7\u3002"
+    - Baiyun Temple is well-guarded, using the pretext of casting Buddha statues
+      to forbid anyone from entering. There is certainly something suspicious about
+      this.
+    - "\u767D\u4E91\u5BFA\u5BC6\u4E0D\u900F\u98CE\uFF0C\u4EE5\u94F8\u9020\u4F5B\u50CF\u4E3A\u7531\u7981\u6B62\u4EFB\u4F55\u4EBA\u5165\u5185\uFF0C\u6B64\u4E8B\u5FC5\u6709\u8E4A\u8DF7\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

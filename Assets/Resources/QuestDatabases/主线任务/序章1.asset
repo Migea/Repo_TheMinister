@@ -16,8 +16,8 @@ MonoBehaviour:
   m_bodyText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-6971786064267039247
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -59,7 +59,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A\u836F\u6750\u5927\u5168\uFF0C\u8F7B\u7C89\u4E09\u4EFD\uFF0C\u94F6\u4E24200\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -82,24 +82,6 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_useOriginalName: 0
---- !u!114 &-4372826126532103244
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_contentID: -1
-  m_bodyText:
-    m_text: "\u5269\u4F59{#DaysLeft}\u5929\n"
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
 --- !u!114 &-3751200528651594817
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -114,10 +96,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u4E00\u6279\u5B98\u94F6\u5728\u9001\u5F80\u5185\u5E93\u65F6\u4E0D\u7FFC\u800C\u98DE\uFF0C\u73B0\u573A\u5E76\u672A\u53D1\u73B0\u660E\u663E\u7684\u75D5\u8FF9\uFF0C\u8BF7\u6D3E\u51FA\u968F\u4ECE\u518D\u8FDB\u884C\u4E00\u6B21\u73B0\u573A\u52D8\u67E5\uFF0C\u627E\u51FA\u6709\u7528\u7684\u7EBF\u7D22\u3002\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-3530845516284459536
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -149,12 +131,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 1
 --- !u!114 &-1604658825580552266
 MonoBehaviour:
@@ -190,10 +172,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u4E00\u6279\u5B98\u94F6\u5728\u9001\u5F80\u5185\u5E93\u65F6\u4E0D\u7FFC\u800C\u98DE\uFF0C\u73B0\u573A\u5E76\u672A\u53D1\u73B0\u660E\u663E\u7684\u75D5\u8FF9\uFF0C\u8BF7\u6D3E\u51FA\u968F\u4ECE\u518D\u8FDB\u884C\u4E00\u6B21\u73B0\u573A\u52D8\u67E5\uFF0C\u627E\u51FA\u6709\u7528\u7684\u7EBF\u7D22\u3002\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-1205148136926993480
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -209,10 +191,10 @@ MonoBehaviour:
   m_contentID: -1
   m_useQuestTitle: 0
   m_headingText:
-    m_text: "\u8C03\u67E5\u73B0\u573A"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -307,42 +289,7 @@ MonoBehaviour:
     - m_contentList: []
     - m_contentList: []
     - m_contentList: []
-  m_counterList:
-  - m_name:
-      m_text: DaysLeft
-      m_stringAsset: {fileID: 0}
-      m_textTable: {fileID: 0}
-      m_textTableFieldID: 0
-    m_currentValue: 0
-    m_randomizeInitialValue: 0
-    m_minValue: 0
-    m_maxValue: 999
-    m_updateMode: 1
-    m_messageEventList:
-    - m_senderSpecifier: 0
-      m_senderID:
-        m_text: 
-        m_stringAsset: {fileID: 0}
-        m_textTable: {fileID: 0}
-        m_textTableFieldID: 0
-      m_targetSpecifier: 0
-      m_targetID:
-        m_text: 
-        m_stringAsset: {fileID: 0}
-        m_textTable: {fileID: 0}
-        m_textTableFieldID: 0
-      m_message:
-        m_text: SetDays
-        m_stringAsset: {fileID: 0}
-        m_textTable: {fileID: 0}
-        m_textTableFieldID: 0
-      m_parameter:
-        m_text: M-01-01-f
-        m_stringAsset: {fileID: 0}
-        m_textTable: {fileID: 0}
-        m_textTableFieldID: 0
-      m_operation: 1
-      m_literalValue: 1
+  m_counterList: []
   m_nodeList:
   - m_id:
       m_text: Start
@@ -419,8 +366,8 @@ MonoBehaviour:
       - m_contentList: []
       - m_contentList:
         - {fileID: -1205148136926993480}
-        - {fileID: 3806644137152622706}
         - {fileID: -7607358930584406925}
+        - {fileID: 5565247849057078903}
         - {fileID: 1960823413050202482}
         - {fileID: 1174763639107531160}
         - {fileID: 7144759924306341970}
@@ -439,7 +386,7 @@ MonoBehaviour:
     m_canvasRect:
       serializedVersion: 2
       x: 204.5567
-      y: 112.92784
+      y: 110.92784
       width: 120
       height: 48
   - m_id:
@@ -473,8 +420,9 @@ MonoBehaviour:
         - {fileID: -2389205634149553014}
         - {fileID: -3751200528651594817}
         - {fileID: 3066071636312845355}
-        - {fileID: -4372826126532103244}
+        - {fileID: 3329118430886027879}
         - {fileID: -6882661439925603761}
+        - {fileID: 6557902192803703211}
       - m_contentList: []
     - m_actionList:
       - {fileID: -6971786064267039247}
@@ -538,7 +486,7 @@ MonoBehaviour:
     m_canvasRect:
       serializedVersion: 2
       x: 201
-      y: 420.0309
+      y: 419.0309
       width: 120
       height: 35
   - m_id:
@@ -572,8 +520,8 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: 8305162330235054242}
         - {fileID: -1344281951601941928}
-        - {fileID: 426636607348346296}
         - {fileID: -3530845516284459536}
+        - {fileID: 426636607348346296}
       - m_contentList: []
     - m_actionList:
       - {fileID: 2099253496767741633}
@@ -589,8 +537,8 @@ MonoBehaviour:
     m_childIndexList: 03000000
     m_canvasRect:
       serializedVersion: 2
-      x: 201
-      y: 317
+      x: 202
+      y: 316
       width: 120
       height: 48
   m_goalEntityTypeName: 
@@ -628,10 +576,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u7F6A\u72AF\u660E\u663E\u505A\u8DB3\u4E86\u51C6\u5907\uFF0C\u73B0\u573A\u5E76\u6CA1\u6709\u53D1\u73B0\u660E\u663E\u7684\u4EBA\u4E3A\u75D5\u8FF9\uFF0C\u53EA\u627E\u5230\u4E86\u5C11\u91CF\u7684\u94C5\u7C89\u3002\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 6
 --- !u!114 &1174763639107531160
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -664,10 +612,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A\u836F\u6750\u5927\u5168\uFF0C\u8F7B\u7C89\u4E09\u4EFD\uFF0C\u94F6\u4E24200\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &2099253496767741633
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -701,11 +649,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
---- !u!114 &3806644137152622706
+--- !u!114 &3329118430886027879
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -719,7 +667,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u4E00\u6279\u5B98\u94F6\u5728\u9001\u5F80\u5185\u5E93\u65F6\u4E0D\u7FFC\u800C\u98DE\uFF0C\u73B0\u573A\u5E76\u672A\u53D1\u73B0\u660E\u663E\u7684\u75D5\u8FF9\uFF0C\u8BF7\u6D3E\u51FA\u968F\u4ECE\u518D\u8FDB\u884C\u4E00\u6B21\u73B0\u573A\u52D8\u67E5\uFF0C\u627E\u51FA\u6709\u7528\u7684\u7EBF\u7D22\u3002"
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 3
+--- !u!114 &5565247849057078903
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -750,6 +716,24 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &6557902192803703211
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &7144759924306341970
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -790,10 +774,10 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8770fd9c7e610374d86ff75a91795f3d, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 1

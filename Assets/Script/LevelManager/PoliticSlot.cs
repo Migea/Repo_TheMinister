@@ -5,6 +5,7 @@ using UnityEditor.Build.Pipeline.Utilities;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
 using UnityEngine.UI;
 
 public class PoliticSlot : MonoBehaviour, ICharacterSelect
@@ -40,6 +41,7 @@ public class PoliticSlot : MonoBehaviour, ICharacterSelect
     public UnityEvent SpecialEffectAfterFirstUnlock = new UnityEvent();
     private bool firstTimeUnlock = false;
     public bool NotInteractable = false;
+
     public bool unlocked
     {
         get
@@ -62,6 +64,10 @@ public class PoliticSlot : MonoBehaviour, ICharacterSelect
     {
         SetupTags();
         SetupTitle();
+        if (LocalizationSettings.Instance != null)
+        {
+            LocalizationSettings.SelectedLocaleChanged += OnLocaleChanged;
+        }
         if (GateHolderOrigin != null)
         {
             GateHolder = Instantiate(GateHolderOrigin, transform);
@@ -89,6 +95,10 @@ public class PoliticSlot : MonoBehaviour, ICharacterSelect
             line.raycastTarget = false;
         }
         SetupLineSprites();
+    }
+    public void OnLocaleChanged(Locale newLocale)
+    {
+        SetupTitle();
     }
 
     private void SetupTitle()

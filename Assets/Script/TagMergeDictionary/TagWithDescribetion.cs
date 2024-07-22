@@ -66,6 +66,7 @@ public class TagWithDescribetion : MonoBehaviour, IDetailAble, IPointerEnterHand
         text.text = GetTagText(Tag);
         //remove After Test
         text.text = GetDisplayTagText(Tag);
+        text.lineSpacing = 0.4f;
     }
     public static string GetTagText(Tag tag)
     {

@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using static System.Net.Mime.MediaTypeNames;
 
 public class TagDescriptionUI : MonoBehaviour
 {
@@ -45,6 +46,7 @@ public class TagDescriptionUI : MonoBehaviour
             tagImage.sprite = TagWithDescribetion.GetTagBackground(targetTag);
             tagText.text = TagWithDescribetion.GetTagText(targetTag);
             tagStats.text = ItemStatPrinter.PrintAllStats(currentTag);
+            tagText.lineSpacing = 0.4f;
             SetMergeInfo(targetTag);
             tagFromWhere.Setup(targetTag);
             timeLeftGO.SetActive(false);

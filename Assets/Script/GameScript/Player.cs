@@ -712,6 +712,7 @@ public class Player : MonoBehaviour
         {Tag.长生不老,Rarerity.UR},
         {Tag.生死肉骨,Rarerity.UR},
         {Tag.碧血丹心,Rarerity.UR},
+        {Tag.陆地神仙,Rarerity.UR},
 
         //Temp Tags
         {Tag.中毒,Rarerity.B},

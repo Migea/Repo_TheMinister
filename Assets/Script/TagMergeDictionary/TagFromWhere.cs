@@ -35,7 +35,7 @@ public class TagFromWhere : MonoBehaviour
             LocalizedString localizedString = new LocalizedString
             {
                 TableReference = "Tag",
-                TableEntryReference = $"出生获得"
+                TableEntryReference = "出生获得"
             };
             output += $"{localizedString.ToString()}\n";
         }
@@ -44,7 +44,7 @@ public class TagFromWhere : MonoBehaviour
             LocalizedString localizedString = new LocalizedString
             {
                 TableReference = "Tag",
-                TableEntryReference = $"使用道具获得"
+                TableEntryReference = "使用道具获得"
             };
             output += $"{localizedString}：\n";
             Color rareColor = NColor;

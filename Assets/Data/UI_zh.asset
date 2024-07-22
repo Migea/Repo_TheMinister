@@ -538,30 +538,6 @@ MonoBehaviour:
     m_Localized: "\u6CBB\u6108"
     m_Metadata:
       m_Items: []
-  - m_Id: 3943863755272192
-    m_Localized: "\u667A"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3943865189724160
-    m_Localized: "\u624D"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3943865995030528
-    m_Localized: "\u8C0B"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3943992457490432
-    m_Localized: "\u6B66"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3944022199300096
-    m_Localized: "\u523A"
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3944061462179840
-    m_Localized: "\u5B88"
-    m_Metadata:
-      m_Items: []
   - m_Id: 3945096733847552
     m_Localized: "\u4F53"
     m_Metadata:

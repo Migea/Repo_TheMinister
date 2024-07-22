@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ability Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ability
+  m_TableCollectionNameGuidString: fa20fe38b61368047bdb9cb692e5ac59
+  m_Entries:
+  - m_Id: 3943865995030528
+    m_Key: "\u8C0B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943992457490432
+    m_Key: "\u6B66"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943863755272192
+    m_Key: "\u667A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150957711360
+    m_Key: "\u624D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151003848704
+    m_Key: "\u5B88"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3944022199300096
+    m_Key: "\u523A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3945096733847552
+    m_Key: "\u4F53"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173959274496
+    m_Key: "\u5FE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1175561498624
+    m_Key: "\u9971"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1721614992787

@@ -541,30 +541,6 @@ MonoBehaviour:
     m_Localized: "\rCure"
     m_Metadata:
       m_Items: []
-  - m_Id: 3943863755272192
-    m_Localized: Wisdom
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3943865189724160
-    m_Localized: literature
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3943865995030528
-    m_Localized: Seek
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3943992457490432
-    m_Localized: Valiant
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3944022199300096
-    m_Localized: Prick
-    m_Metadata:
-      m_Items: []
-  - m_Id: 3944061462179840
-    m_Localized: Defend
-    m_Metadata:
-      m_Items: []
   - m_Id: 3945096733847552
     m_Localized: Health
     m_Metadata:

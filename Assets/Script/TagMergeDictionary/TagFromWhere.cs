@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Localization;
+using UnityEngine.Localization.Tables;
 using UnityEngine.UI;
 
 public class TagFromWhere : MonoBehaviour
@@ -32,12 +33,14 @@ public class TagFromWhere : MonoBehaviour
         string output = string.Empty;
         if (TryGiven())
         {
+            var tableEntryReference = "出生获得";
             LocalizedString localizedString = new LocalizedString
             {
                 TableReference = "Tag",
-                TableEntryReference = "出生获得"
+                TableEntryReference = tableEntryReference
             };
-            output += $"{localizedString.ToString()}\n";
+            Debug.Log(tableEntryReference);
+            output += $"{localizedString.GetLocalizedString()}\n";
         }
         if (TryItem())
         {
@@ -46,7 +49,7 @@ public class TagFromWhere : MonoBehaviour
                 TableReference = "Tag",
                 TableEntryReference = "使用道具获得"
             };
-            output += $"{localizedString}：\n";
+            output += $"{localizedString.GetLocalizedString()}：\n";
             Color rareColor = NColor;
             var Rarity = Player.AllTagRareDict[tag] != Rarerity.B ? Player.AllTagRareDict[tag] : Rarerity.N;
             if (Rarity == Rarerity.R) rareColor = RColor;

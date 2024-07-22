@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u7231\u7F8E\u4E4B\u5FC3-h"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 01000000020000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7231\u7F8E\u4E4B\u5FC3"
+    - Love of beauty
+    - "\u7231\u7F8E\u4E4B\u5FC3"
+    - 
+  - m_fieldName: "Journal\u4EA4\u4ED8"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9A6C\u53A9\u8001\u677F\u5A18\u9A6C\u71D5\u9A9D\u60F3\u8BD5\u4E00\u4E0B\u4ECE\u897F\u57DF\u8FDB\u53E3\u7684<color=#93887B>\u80ED\u8102</color>\uFF0C\u8C01\u4E0D\u7231\u7F8E\u5462\uFF1F"
+    - "The stable owner, Ma Yanliu, wants to try the imported <color=#93887B>blusher</color>
+      from the Western Regions\u2014who doesn't love beauty?"
+    - "\u9A6C\u53A9\u8001\u677F\u5A18\u9A6C\u71D5\u9A9D\u60F3\u8BD5\u4E00\u4E0B\u4ECE\u897F\u57DF\u8FDB\u53E3\u7684<color=#93887B>\u80ED\u8102</color>\uFF0C\u8C01\u4E0D\u7231\u7F8E\u5462\uFF1F"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u9A6C\u7ECF"
+    - 'Reward: Horse Training Book'
+    - "\u5956\u52B1\uFF1A\u9A6C\u7ECF"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9A6C\u53A9\u8001\u677F\u5A18\u9A6C\u71D5\u9A9D\u60F3\u8BD5\u4E00\u4E0B\u4ECE\u897F\u57DF\u8FDB\u53E3\u7684<color=#93887B>\u80ED\u8102</color>\uFF0C\u8C01\u4E0D\u7231\u7F8E\u5462\uFF1F"
+    - "The stable owner, Ma Yanliu, wants to try the imported <color=#93887B>blusher</color>
+      from the Western Regions\u2014who doesn't love beauty?"
+    - "\u9A6C\u53A9\u8001\u677F\u5A18\u9A6C\u71D5\u9A9D\u60F3\u8BD5\u4E00\u4E0B\u4ECE\u897F\u57DF\u8FDB\u53E3\u7684<color=#93887B>\u80ED\u8102</color>\uFF0C\u8C01\u4E0D\u7231\u7F8E\u5462\uFF1F"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 5

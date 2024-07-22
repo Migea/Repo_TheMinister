@@ -149,7 +149,7 @@ MonoBehaviour:
   items: []
   itemsInString:
   - itemName: "\u6C34\u7FC1\u82B1"
-    amount: 1
+    amount: 3
   ItemHolderTransform: {fileID: 4857598852248314908}
   stringSetup: 1
 --- !u!1 &1763080223937155532

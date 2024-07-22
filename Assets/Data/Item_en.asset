@@ -383,7 +383,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 221389821636679
-    m_Localized: water weng flower
+    m_Localized: water flower
     m_Metadata:
       m_Items: []
   - m_Id: 221389821636680
@@ -527,7 +527,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 221389825830916
-    m_Localized: gourd wine
+    m_Localized: Wine Gourd
     m_Metadata:
       m_Items: []
   - m_Id: 221389825830917
@@ -679,7 +679,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 221389825830954
-    m_Localized: Horse training books
+    m_Localized: Horse training book
     m_Metadata:
       m_Items: []
   - m_Id: 221389825830955
@@ -795,7 +795,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 221389825830983
-    m_Localized: rouge
+    m_Localized: Blusher
     m_Metadata:
       m_Items: []
   - m_Id: 221389825830984

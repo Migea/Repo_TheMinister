@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u9152\u5BA2-h"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 01000000020000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u826F\u533B"
+    - Virtuous doctor
+    - "\u826F\u533B"
+    - 
+  - m_fieldName: "Journal\u4EA4\u4ED8"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9AD8\u9038\u5728\u56FD\u6E0A\u7684\u533B\u9986\u91CC\u6253\u4E0B\u624B\uFF0C\u4F46\u662F\u770B\u4E0D\u60EF\u56FD\u6E0A\u7684\u6240\u4F5C\u6240\u4E3A\uFF0C\u4E8E\u662F\u4FBF\u5B66\u4E60\u533B\u672F\u60F3\u81EA\u5DF1\u884C\u533B\u3002"
+    - Gao Yi works as an assistant in Guo Yuan's clinic, but he disapproves of Guo
+      Yuan's actions. Therefore, he is learning medicine to practice on his own.
+    - "\u8C46\u8150\u5E97\u7684\u963F\u82B1\u60F3\u4F60\u8BA8\u8981\u4E00\u652F<color=#93887B>\u6BDB\u7B14</color>\uFF0C\u4F3C\u4E4E\u662F\u8981\u5199\u4E00\u4E9B\u4E66\u4FE1\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A3 \u6C34\u7FC1\u82B1"
+    - 'Reward: 3 Water Flowers'
+    - "\u5956\u52B1\uFF1A\u5E03\u5339"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4ED6\u76EE\u524D\u9700\u8981\u4E00\u672C\u540D\u4E3A<color=#5794B3>\u4F24\u5BD2\u6742\u75C5\u8BBA</color>\u7684\u533B\u4E66\u3002"
+    - He currently needs a medical book titled <color=#5794B3>Treatise on Febrile
+      Diseases</color>."
+    - "\u4ED6\u76EE\u524D\u9700\u8981\u4E00\u672C\u540D\u4E3A<color=#5794B3>\u4F24\u5BD2\u6742\u75C5\u8BBA</color>\u7684\u533B\u4E66\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 5

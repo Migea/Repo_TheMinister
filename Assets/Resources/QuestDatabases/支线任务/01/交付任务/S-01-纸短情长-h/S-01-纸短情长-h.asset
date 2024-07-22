@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A\u5E03\u5339"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4b76564aff42ee8449b946756a00a4d7, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &-7016593971207425784
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -375,6 +375,7 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: 3748602712719298288}
         - {fileID: 5529249375093552024}
+        - {fileID: 157246330083310734}
         - {fileID: -7285440699576482581}
       - m_contentList: []
     - m_actionList: []
@@ -519,7 +520,9 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: 3748602712719298288}
         - {fileID: 5529249375093552024}
+        - {fileID: 24074041565181454}
         - {fileID: -7285440699576482581}
+        - {fileID: 3701353570802771698}
         - {fileID: -2201643160611819525}
       - m_contentList: []
     - m_actionList: []
@@ -541,6 +544,60 @@ MonoBehaviour:
       height: 48
   m_goalEntityTypeName: 
   m_nextContentID: 0
+--- !u!114 &24074041565181454
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+--- !u!114 &157246330083310734
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+--- !u!114 &3701353570802771698
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &3748602712719298288
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -554,12 +611,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4b76564aff42ee8449b946756a00a4d7, type: 2}
+    m_textTableFieldID: 1
   m_headingLevel: 1
 --- !u!114 &5529249375093552024
 MonoBehaviour:
@@ -575,10 +632,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u8C46\u8150\u5E97\u7684\u963F\u82B1\u60F3\u4F60\u8BA8\u8981\u4E00\u652F<color=#93887B>\u6BDB\u7B14</color>\uFF0C\u4F3C\u4E4E\u662F\u8981\u5199\u4E00\u4E9B\u4E66\u4FE1\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4b76564aff42ee8449b946756a00a4d7, type: 2}
+    m_textTableFieldID: 2
 --- !u!114 &6526727581778040986
 MonoBehaviour:
   m_ObjectHideFlags: 1

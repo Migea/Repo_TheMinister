@@ -1,5 +1,23 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7293148288979269535
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &-6533501057767879831
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -59,12 +77,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: bc9a0dafa24c8cf46a06e85af70552a2, type: 2}
+    m_textTableFieldID: 1
   m_headingLevel: 1
 --- !u!114 &-1347273170719395991
 MonoBehaviour:
@@ -481,6 +499,7 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: -5089373631800363949}
         - {fileID: 3386389724033105579}
+        - {fileID: -7293148288979269535}
         - {fileID: -6391678489448209281}
       - m_contentList: []
     - m_actionList: []
@@ -570,10 +589,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5468\u5955\u8BF7\u4F60\u5171\u996E\u4E00\u676F\uFF0C\u4F46\u662F\u4F60\u767D\u5929\u6CA1\u6CD5\u559D\u9152\uFF0C\u4ED6\u63D0\u51FA\u7528\u4E00\u58F6<color=#5794B3>\u7AF9\u53F6\u9752</color>\u6362\u4ED6\u4E00\u4EF6\u5B9D\u8D1D\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: bc9a0dafa24c8cf46a06e85af70552a2, type: 2}
+    m_textTableFieldID: 2
 --- !u!114 &6928447588871697480
 MonoBehaviour:
   m_ObjectHideFlags: 1

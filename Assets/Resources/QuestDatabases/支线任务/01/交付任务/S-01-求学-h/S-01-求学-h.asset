@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: c48d99294262e7046a1e8f9b447ae2e8, type: 2}
+    m_textTableFieldID: 1
   m_headingLevel: 1
 --- !u!114 &-4230465420932197885
 MonoBehaviour:
@@ -322,7 +322,7 @@ MonoBehaviour:
     m_canvasRect:
       serializedVersion: 2
       x: 203
-      y: 261.9011
+      y: 260.9011
       width: 120
       height: 48
   - m_id:
@@ -450,7 +450,6 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: -6465060687132410853}
         - {fileID: 8337541133978159559}
-        - {fileID: 4384596766279457582}
         - {fileID: -4230465420932197885}
       - m_contentList: []
     - m_actionList: []
@@ -491,24 +490,6 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_useOriginalName: 0
---- !u!114 &4384596766279457582
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_contentID: -1
-  m_bodyText:
-    m_text: "\u628A\u4E00\u672C<color=#5794B3>\u8D27\u6B96\u5217\u4F20</color>\u4EA4\u7ED9\u8D75\u601D\u8FDC\u3002\n"
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
 --- !u!114 &7614535223163476036
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -562,10 +543,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u8D75\u601D\u8FDC\u662F\u6237\u90E8\u7684\u4E00\u540D\u5C0F\u540F\uFF0C\u4ED5\u9014\u4E0D\u987A\u8D77\u4E86\u5F03\u5B98\u4ECE\u5546\u7684\u5FF5\u5934\uFF0C\u56DB\u5904\u641C\u7F57\u4ECE\u5546\u65B9\u9762\u7684\u4E66\u7C4D\u6765\u5B66\u4E60\u3002\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: c48d99294262e7046a1e8f9b447ae2e8, type: 2}
+    m_textTableFieldID: 2
 --- !u!114 &8653268170456086677
 MonoBehaviour:
   m_ObjectHideFlags: 1

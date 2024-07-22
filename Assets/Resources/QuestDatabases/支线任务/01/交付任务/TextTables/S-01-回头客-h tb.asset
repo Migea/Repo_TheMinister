@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u56DE\u5934\u5BA2-h tb"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 01000000020000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u56DE\u5934\u5BA2"
+    - Returning Customer
+    - "\u56DE\u5934\u5BA2"
+    - 
+  - m_fieldName: "Journal\u4EA4\u4ED8"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5468\u5955\u8BF7\u4F60\u5171\u996E\u4E00\u676F\uFF0C\u4F46\u662F\u4F60\u767D\u5929\u6CA1\u6CD5\u559D\u9152\uFF0C\u4ED6\u63D0\u51FA\u7528\u4E00\u58F6<color=#5794B3>\u7AF9\u53F6\u9752</color>\u6362\u4ED6\u4E00\u4EF6\u5B9D\u8D1D\u3002"
+    - Zhou Yi invites you for a drink, but you can't drink alcohol during the day.
+      He suggests trading a pot of <color=#5794B3>Bamboo Leaf Green wine</color>
+      for one of his treasures.
+    - "\u5468\u5955\u8BF7\u4F60\u5171\u996E\u4E00\u676F\uFF0C\u4F46\u662F\u4F60\u767D\u5929\u6CA1\u6CD5\u559D\u9152\uFF0C\u4ED6\u63D0\u51FA\u7528\u4E00\u58F6<color=#5794B3>\u7AF9\u53F6\u9752</color>\u6362\u4ED6\u4E00\u4EF6\u5B9D\u8D1D\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u58A8\u5B50\xB7\u975E\u653B"
+    - "Reward: Mozi\xB7Non-Attack"
+    - "\u5956\u52B1\uFF1A\u58A8\u5B50\xB7\u975E\u653B"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5468\u5955\u8BF7\u4F60\u5171\u996E\u4E00\u676F\uFF0C\u4F46\u662F\u4F60\u767D\u5929\u6CA1\u6CD5\u559D\u9152\uFF0C\u4ED6\u63D0\u51FA\u7528\u4E00\u58F6<color=#5794B3>\u7AF9\u53F6\u9752</color>\u6362\u4ED6\u4E00\u4EF6\u5B9D\u8D1D\u3002"
+    - Zhou Yi invites you for a drink, but you can't drink alcohol during the day.
+      He suggests trading a pot of <color=#5794B3>Bamboo Leaf Green wine</color>
+      for one of his treasures.
+    - "\u5468\u5955\u8BF7\u4F60\u5171\u996E\u4E00\u676F\uFF0C\u4F46\u662F\u4F60\u767D\u5929\u6CA1\u6CD5\u559D\u9152\uFF0C\u4ED6\u63D0\u51FA\u7528\u4E00\u58F6<color=#5794B3>\u7AF9\u53F6\u9752</color>\u6362\u4ED6\u4E00\u4EF6\u5B9D\u8D1D\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 5

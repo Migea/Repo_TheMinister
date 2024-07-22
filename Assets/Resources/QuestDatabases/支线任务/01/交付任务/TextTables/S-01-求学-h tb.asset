@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u6C42\u5B66-h tb"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 01000000020000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u6C42\u5B66"
+    - Seek Knowledge
+    - "\u6C42\u5B66"
+    - 
+  - m_fieldName: "Journal\u4EA4\u4ED8"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8D75\u601D\u8FDC\u662F\u6237\u90E8\u7684\u4E00\u540D\u5C0F\u540F\uFF0C\u4ED5\u9014\u4E0D\u987A\u8D77\u4E86\u5F03\u5B98\u4ECE\u5546\u7684\u5FF5\u5934\uFF0C\u56DB\u5904\u641C\u7F57\u4ECE\u5546\u65B9\u9762\u7684\u4E66\u7C4D\u6765\u5B66\u4E60\u3002\u628A\u4E00\u672C<color=#5794B3>\u8D27\u6B96\u5217\u4F20</color>\u4EA4\u7ED9\u8D75\u601D\u8FDC\u3002\n"
+    - Zhao Siyuan is a minor official in the Ministry of Revenue. Frustrated with
+      his career, he has thoughts of leaving his position to become a merchant and
+      is collecting books on commerce to learn. Give him a copy of <color=#5794B3>Biographies
+      of Goods Colonizers</color>.
+    - "\u8D75\u601D\u8FDC\u662F\u6237\u90E8\u7684\u4E00\u540D\u5C0F\u540F\uFF0C\u4ED5\u9014\u4E0D\u987A\u8D77\u4E86\u5F03\u5B98\u4ECE\u5546\u7684\u5FF5\u5934\uFF0C\u56DB\u5904\u641C\u7F57\u4ECE\u5546\u65B9\u9762\u7684\u4E66\u7C4D\u6765\u5B66\u4E60\u3002\u628A\u4E00\u672C<color=#5794B3>\u8D27\u6B96\u5217\u4F20</color>\u4EA4\u7ED9\u8D75\u601D\u8FDC\u3002\n"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u7FBD\u8863"
+    - 'Reward: Feather Clothes'
+    - "\u5956\u52B1\uFF1A\u7FBD\u8863"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8D75\u601D\u8FDC\u662F\u6237\u90E8\u7684\u4E00\u540D\u5C0F\u540F\uFF0C\u4ED5\u9014\u4E0D\u987A\u8D77\u4E86\u5F03\u5B98\u4ECE\u5546\u7684\u5FF5\u5934\uFF0C\u56DB\u5904\u641C\u7F57\u4ECE\u5546\u65B9\u9762\u7684\u4E66\u7C4D\u6765\u5B66\u4E60\u3002\u628A\u4E00\u672C<color=#5794B3>\u8D27\u6B96\u5217\u4F20</color>\u4EA4\u7ED9\u8D75\u601D\u8FDC\u3002\n"
+    - Zhao Siyuan is a minor official in the Ministry of Revenue. Frustrated with
+      his career, he has thoughts of leaving his position to become a merchant and
+      is collecting books on commerce to learn. Give him a copy of <color=#5794B3>Biographies
+      of Goods Colonizers</color>.
+    - "\u5468\u5955\u8BF7\u4F60\u5171\u996E\u4E00\u676F\uFF0C\u4F46\u662F\u4F60\u767D\u5929\u6CA1\u6CD5\u559D\u9152\uFF0C\u4ED6\u63D0\u51FA\u7528\u4E00\u58F6<color=#5794B3>\u7AF9\u53F6\u9752</color>\u6362\u4ED6\u4E00\u4EF6\u5B9D\u8D1D\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 5

@@ -29,55 +29,195 @@ MonoBehaviour:
 
       A
 
-      pons'
+      P
+
+      O
+
+      N
+
+      S'
     m_Metadata:
       m_Items: []
   - m_Id: 176023386517504
-    m_Localized: Mount
+    m_Localized: 'M
+
+      O
+
+      U
+
+      N
+
+      T'
     m_Metadata:
       m_Items: []
   - m_Id: 176025856962560
-    m_Localized: Books
+    m_Localized: 'B
+
+      O
+
+      O
+
+      K
+
+      S'
     m_Metadata:
       m_Items: []
   - m_Id: 176028834918400
-    m_Localized: Clothes
+    m_Localized: 'C
+
+      L
+
+      O
+
+      T
+
+      H
+
+      S'
     m_Metadata:
       m_Items: []
   - m_Id: 186085949632512
-    m_Localized: Accessories
+    m_Localized: 'A
+
+      C
+
+      C
+
+      E
+
+      S
+
+      S
+
+      O
+
+      R
+
+      I
+
+      E
+
+      S'
     m_Metadata:
       m_Items: []
   - m_Id: 186087480553472
-    m_Localized: Trap
+    m_Localized: 'T
+
+      R
+
+      A
+
+      P'
     m_Metadata:
       m_Items: []
   - m_Id: 186088101310464
-    m_Localized: Dishes
+    m_Localized: 'D
+
+      I
+
+      S
+
+      S
+
+      H
+
+      E
+
+      S'
     m_Metadata:
       m_Items: []
   - m_Id: 186088717873152
-    m_Localized: Alcohol
+    m_Localized: 'A
+
+      L
+
+      C
+
+      O
+
+      H
+
+      O
+
+      L'
     m_Metadata:
       m_Items: []
   - m_Id: 186159643553792
-    m_Localized: Groceries
+    m_Localized: 'G
+
+      R
+
+      O
+
+      C
+
+      E
+
+      R
+
+      I
+
+      E
+
+      S'
     m_Metadata:
       m_Items: []
   - m_Id: 186160482414592
-    m_Localized: Drug
+    m_Localized: 'D
+
+      R
+
+      U
+
+      G'
     m_Metadata:
       m_Items: []
   - m_Id: 186161140920320
-    m_Localized: Elixir
+    m_Localized: 'E
+
+      L
+
+      I
+
+      X
+
+      I
+
+      R'
     m_Metadata:
       m_Items: []
   - m_Id: 186161942032384
-    m_Localized: Strange
+    m_Localized: 'S
+
+      T
+
+      R
+
+      A
+
+      N
+
+      G
+
+      E'
     m_Metadata:
       m_Items: []
   - m_Id: 186162508263424
-    m_Localized: Material
+    m_Localized: 'M
+
+      A
+
+      T
+
+      E
+
+      R
+
+      I
+
+      A
+
+      L'
     m_Metadata:
       m_Items: []
   - m_Id: 306101613293568

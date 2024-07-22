@@ -1059,21 +1059,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 755117962620928
-    m_Localized: '
-
-      Acquired by birth'
+    m_Localized: Acquired by birth
     m_Metadata:
       m_Items: []
   - m_Id: 755119715840000
-    m_Localized: '
-
-      Obtained with props'
+    m_Localized: Obtained with props
     m_Metadata:
       m_Items: []
   - m_Id: 755189043490816
-    m_Localized: '
-
-      Entry synthesis obtained'
+    m_Localized: Entry synthesis obtained
     m_Metadata:
       m_Items: []
   - m_Id: 765505089368064

@@ -115,7 +115,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2737491592146944
-    m_Localized: "\rDrug store"
+    m_Localized: '
+
+      Drug store'
     m_Metadata:
       m_Items: []
   - m_Id: 2737626048950272
@@ -147,7 +149,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2757698939318272
-    m_Localized: "\rTavern"
+    m_Localized: '
+
+      Tavern'
     m_Metadata:
       m_Items: []
   - m_Id: 2757699606212608
@@ -175,11 +179,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2757940346679296
-    m_Localized: "\rStation"
+    m_Localized: '
+
+      Station'
     m_Metadata:
       m_Items: []
   - m_Id: 2763736325353472
-    m_Localized: "\rRacecourse"
+    m_Localized: '
+
+      Racecourse'
     m_Metadata:
       m_Items: []
   - m_Id: 2763738128904192
@@ -187,7 +195,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2764301746892800
-    m_Localized: "\rDepartment store"
+    m_Localized: '
+
+      Department store'
     m_Metadata:
       m_Items: []
   - m_Id: 2770090003853312
@@ -199,7 +209,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2770093141192704
-    m_Localized: "\rmonth"
+    m_Localized: '
+
+      month'
     m_Metadata:
       m_Items: []
   - m_Id: 2770095221567488
@@ -232,7 +244,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2775490048618496
-    m_Localized: "\rDrug store is in  good condition,collect commission <color=green>100</color>"
+    m_Localized: '
+
+      Drug store is in  good condition,collect commission <color=green>100</color>'
     m_Metadata:
       m_Items: []
   - m_Id: 2775492405817344
@@ -260,7 +274,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780883114061824
-    m_Localized: "Medical\r house is in  good condition,collect commission <color=green>100</color>"
+    m_Localized: "Medical\n house is in  good condition,collect commission <color=green>100</color>"
     m_Metadata:
       m_Items: []
   - m_Id: 2780883701264384
@@ -272,11 +286,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780884301049856
-    m_Localized: "\rRacecourse is in  good condition,collect commission <color=green>100</color>"
+    m_Localized: '
+
+      Racecourse is in  good condition,collect commission <color=green>100</color>'
     m_Metadata:
       m_Items: []
   - m_Id: 2780885517398016
-    m_Localized: "\rStation is in   good condition,collect commission <color=green>100</color>"
+    m_Localized: '
+
+      Station is in   good condition,collect commission <color=green>100</color>'
     m_Metadata:
       m_Items: []
   - m_Id: 2780886343675904
@@ -301,7 +319,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791206755823616
-    m_Localized: "\rWeapons shop is in   good condition,collect commission <color=green>100</color>"
+    m_Localized: '
+
+      Weapons shop is in   good condition,collect commission
+      <color=green>100</color>'
     m_Metadata:
       m_Items: []
   - m_Id: 2791210807521280
@@ -309,7 +330,10 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791322241789952
-    m_Localized: "\rDepartment store is in  good condition,collect commission <color=green>100</color>"
+    m_Localized: '
+
+      Department store is in  good condition,collect commission
+      <color=green>100</color>'
     m_Metadata:
       m_Items: []
   - m_Id: 2791325811142656
@@ -317,7 +341,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2792289989357568
-    m_Localized: "\rTavern is in   good condition,collect commission <color=green>100</color>"
+    m_Localized: '
+
+      Tavern is in   good condition,collect commission <color=green>100</color>'
     m_Metadata:
       m_Items: []
   - m_Id: 2791326373179392
@@ -350,7 +376,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3113191016820736
-    m_Localized: "\rGroceries"
+    m_Localized: '
+
+      Groceries'
     m_Metadata:
       m_Items: []
   - m_Id: 3114904163512320
@@ -358,7 +386,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3114830452813824
-    m_Localized: "\rbestow"
+    m_Localized: '
+
+      bestow'
     m_Metadata:
       m_Items: []
   - m_Id: 3846631567716352
@@ -414,7 +444,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847353969471488
-    m_Localized: "\rRacecourse"
+    m_Localized: '
+
+      Racecourse'
     m_Metadata:
       m_Items: []
   - m_Id: 3847354460205056
@@ -462,7 +494,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847361930260480
-    m_Localized: "\rDepartment store"
+    m_Localized: '
+
+      Department store'
     m_Metadata:
       m_Items: []
   - m_Id: 3847362597154816
@@ -482,7 +516,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847365277315072
-    m_Localized: "\rDrug store"
+    m_Localized: '
+
+      Drug store'
     m_Metadata:
       m_Items: []
   - m_Id: 3847367202500608
@@ -494,7 +530,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847369018634240
-    m_Localized: "\rTavern"
+    m_Localized: '
+
+      Tavern'
     m_Metadata:
       m_Items: []
   - m_Id: 3847367827451904
@@ -510,7 +548,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847371350667264
-    m_Localized: "\rStation"
+    m_Localized: '
+
+      Station'
     m_Metadata:
       m_Items: []
   - m_Id: 3847371904315392
@@ -538,7 +578,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3943579914137600
-    m_Localized: "\rCure"
+    m_Localized: '
+
+      Cure'
     m_Metadata:
       m_Items: []
   - m_Id: 3945096733847552
@@ -615,7 +657,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3962139541565440
-    m_Localized: "\rEntertain"
+    m_Localized: '
+
+      Entertain'
     m_Metadata:
       m_Items: []
   - m_Id: 3963496503767040
@@ -696,7 +740,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4303269600751616
-    m_Localized: "Knighthood\r"
+    m_Localized: 'Knighthood
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4187844267274240
@@ -740,7 +786,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4304479862976512
-    m_Localized: "Knighthood\r"
+    m_Localized: 'Knighthood
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4281619647885312
@@ -796,15 +844,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4304713414406144
-    m_Localized: "Knighthood\r"
+    m_Localized: 'Knighthood
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4304715184402432
-    m_Localized: "Knighthood\r"
+    m_Localized: 'Knighthood
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4314787172118528
-    m_Localized: "Knighthood\r"
+    m_Localized: 'Knighthood
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4314925928083456
@@ -852,11 +906,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4332491111198720
-    m_Localized: "civilian leader\r"
+    m_Localized: 'civilian leader
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4332651413303296
-    m_Localized: "civilian leader\r"
+    m_Localized: 'civilian leader
+
+'
     m_Metadata:
       m_Items: []
   - m_Id: 4332847148888064
@@ -1212,7 +1270,9 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5312399996153856
-    m_Localized: "\rServing officers"
+    m_Localized: '
+
+      Serving officers'
     m_Metadata:
       m_Items: []
   - m_Id: 5312400625299456
@@ -1249,6 +1309,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 6370265574207488
     m_Localized: Add
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943865995030528
+    m_Localized: Seek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943992457490432
+    m_Localized: Valiant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3943863755272192
+    m_Localized: Wisdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7560986108948480
+    m_Localized: literature
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7560986150891520
+    m_Localized: Defend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3944022199300096
+    m_Localized: Prick
     m_Metadata:
       m_Items: []
   references:

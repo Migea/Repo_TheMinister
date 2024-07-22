@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u56DE\u5934\u5BA2-h tb"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 01000000020000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5316\u658B"
+    - Alms
+    - "\u5316\u658B"
+    - 
+  - m_fieldName: "Journal\u4EA4\u4ED8"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u767D\u4E91\u5BFA\u7684\u65B9\u4E08\u9648\u4E91\u68A6\u524D\u6765\u5316\u658B\uFF0C\u7ED9\u4ED6\u4E00\u4EFD<color=#93887B>\u6E05\u84B8\u767D\u841D\u535C</color>\u3002"
+    - The abbot of Baiyun Temple, Chen Yunmeng, has come to collect alms. Give him
+      a <color=#93887B>steamed white radish</color>.
+    - "\u767D\u4E91\u5BFA\u7684\u65B9\u4E08\u9648\u4E91\u68A6\u524D\u6765\u5316\u658B\uFF0C\u7ED9\u4ED6\u4E00\u4EFD<color=#93887B>\u6E05\u84B8\u767D\u841D\u535C</color>\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028"
+    - 'Reward: Slightly reduce pressure.'
+    - "\u5956\u52B1\uFF1A\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9648\u4E91\u68A6\u5341\u5206\u611F\u8C22\u4F60\u7684\u65BD\u820D\u3002"
+    - Chen Yunmeng is very grateful for your charity.
+    - "\u9648\u4E91\u68A6\u5341\u5206\u611F\u8C22\u4F60\u7684\u65BD\u820D\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 5

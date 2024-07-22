@@ -69,6 +69,8 @@ public class DisplayInfoAnimationController : MonoBehaviour
             tagText.alignment = TextAnchor.MiddleCenter;
             tagText.gameObject.AddComponent<FontUpdater>();
             tagText.lineSpacing = 0.4f;
+            ColorUtility.TryParseHtmlString("#323232", out Color myColor);
+            tagText.color = myColor;
             var rect = tagText.GetComponent<RectTransform>();
             rect.anchoredPosition = new Vector2(0, 0);
             rect.anchorMax = new Vector2(1, 1);

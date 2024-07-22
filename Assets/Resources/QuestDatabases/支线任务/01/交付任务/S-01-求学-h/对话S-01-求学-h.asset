@@ -40,7 +40,7 @@ MonoBehaviour:
     - title: Name
       value: "\u674E\u8881\u964C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -48,11 +48,23 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: True
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: Li Yuanmo
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name zh
+      value: "\u674E\u8881\u964C"
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name ja
+      value: 
+      type: 4
+      typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 28550c0fa213cdc418fc41e2a175e53f, type: 3}
     spritePortrait: {fileID: 21300000, guid: 28550c0fa213cdc418fc41e2a175e53f, type: 3}
     alternatePortraits: []
@@ -62,7 +74,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8D75\u601D\u8FDC"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -70,11 +82,23 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
+    - title: DIsplay Name en
+      value: Zhao Siyuan
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name zh
+      value: "\u8D75\u601D\u8FDC"
+      type: 4
+      typeString: CustomFieldType_Localization
+    - title: DIsplay Name ja
+      value: 
+      type: 4
+      typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
     spritePortrait: {fileID: 21300000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
     alternatePortraits: []
@@ -1830,7 +1854,10 @@ MonoBehaviour:
     syncItemsDatabase: {fileID: 0}
     syncLocationsDatabase: {fileID: 0}
     syncVariablesDatabase: {fileID: 0}
-  templateJson: '{"treatItemsAsQuests":true,"actorFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"IsPlayer","value":"False","type":2,"typeString":"CustomFieldType_Boolean"}],"itemFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Is
+  templateJson: '{"treatItemsAsQuests":true,"actorFields":[{"title":"Name","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"IsPlayer","value":"False","type":2,"typeString":"CustomFieldType_Boolean"},{"title":"DIsplay
+    Name en","value":"","type":4,"typeString":"CustomFieldType_Localization"},{"title":"DIsplay
+    Name zh","value":"","type":4,"typeString":"CustomFieldType_Localization"},{"title":"DIsplay
+    Name ja","value":"","type":4,"typeString":"CustomFieldType_Localization"}],"itemFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Is
     Item","value":"True","type":2,"typeString":"CustomFieldType_Boolean"}],"questFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Success
     Description","value":"","type":0,"typeString":""},{"title":"Failure Description","value":"","type":0,"typeString":""},{"title":"State","value":"unassigned","type":0,"typeString":""},{"title":"Is
     Item","value":"False","type":2,"typeString":"CustomFieldType_Boolean"}],"locationFields":[{"title":"Name","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Description","value":"","type":0,"typeString":"CustomFieldType_Text"}],"variableFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Initial

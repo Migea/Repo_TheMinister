@@ -56,7 +56,7 @@ public class TagDescriptionUI : MonoBehaviour
         var ui = FindObjectOfType<TagDescriptionUI>(true);
         ui.SetupTemp(tag, timeLeft);
         ui.SetPositionNextToMouse();
-        ui.gameObject.SetActive(true);
+        ui.gameObject?.SetActive(true);
     }
     private void SetupTemp(string tag, int timeLeft)
     {

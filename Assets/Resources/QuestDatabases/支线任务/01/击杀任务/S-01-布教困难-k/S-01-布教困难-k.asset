@@ -644,13 +644,13 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
-  m_headingLevel: 5
+  m_headingLevel: 1
 --- !u!114 &4769468444349931874
 MonoBehaviour:
   m_ObjectHideFlags: 1

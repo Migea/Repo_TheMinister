@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u5E03\u6559\u56F0\u96BE-k"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000500000006000000070000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u597D\u52C7\u6597\u72E0"
+    - Ruthless
+    - "\u4EBA\u9762\u517D\u5FC3"
+    - 
+  - m_fieldName: JournalProgress
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9152\u9986\u4E2D\u4E00\u4E2A\u53EB\u8D75\u4F1F\u7684\u4EBA\u56E0\u4E3A\u5317\u5E73\u738B\u7684\u4E8B\u6311\u8D77\u4E8B\u7AEF\uFF0C\u6446\u5E73\u4ED6\u95EE\u6E05\u695A\u4ED6\u548C\u5317\u5E73\u738B\u7684\u5173\u7CFB\u3002"
+    - A man named Zhao Wei is causing trouble in the tavern over the matter of the
+      King of Beiping. Settle him down and find out his relationship with the King
+      of Beiping.
+    - "\u9A6C\u71D5\u998F\u88AB\u4E24\u4E2A\u6D41\u6C13\u9A9A\u6270\uFF0C\u5FEB\u8D76\u8D70\u4ED6\u4EEC\u3002"
+    - 
+  - m_fieldName: JournalObjective
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u51FB\u8D25\u8D75\u4F1F\u3002"
+    - Defeat Zhao Wei.
+    - "\u8D76\u8D70\u4E24\u4EBA"
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - 
+    - 
+    - "\u5DF2\u51FB\u8D25\u6B79\u5F92{#RoitElimCount}/{>#RoitElimCount}"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u9152\u846B\u82A6\uFF0C3\u6CB8\u817E\u6563\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: Wine Gourd, 3 portions of Thermal Energy Powder, slight reduction
+      of pressure.'
+    - "\u5956\u52B1\uFF1A300\u94F6\u4E24\uFF0C\u5FA1\u9A6C\u5B98\u5370\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8D75\u4F1F\u4E0D\u8FC7\u662F\u4E2A\u751F\u6D3B\u4E0D\u987A\u7684\u76F2\u6D41\uFF0C\u671F\u5F85\u7740\u5317\u5E73\u738B\u6765\u91CD\u6574\u79E9\u5E8F\uFF0C\u75F4\u4EBA\u8BF4\u68A6\u3002"
+    - Zhao Wei is just a drifter troubled by life, foolishly hoping the King of Beiping
+      will restore order.
+    - "\u9A6C\u71D5\u9A9D\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u5E76\u4E14\u4F20\u6388\u4E86\u4F60\u4E00\u4E9B\u517B\u9A6C\u7684\u5FC3\u5F97\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

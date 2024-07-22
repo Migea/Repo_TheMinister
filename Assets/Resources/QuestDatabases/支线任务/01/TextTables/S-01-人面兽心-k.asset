@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u4EBA\u9762\u517D\u5FC3-k"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000500000006000000070000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4EBA\u9762\u517D\u5FC3"
+    - Lecherous beasts
+    - "\u4EBA\u9762\u517D\u5FC3"
+    - 
+  - m_fieldName: JournalProgress
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9A6C\u71D5\u998F\u88AB\u4E24\u4E2A\u6D41\u6C13\u9A9A\u6270\uFF0C\u5FEB\u8D76\u8D70\u4ED6\u4EEC\u3002"
+    - Ma Yanliu is being harassed by two hooligans. Quickly drive them away.
+    - "\u9A6C\u71D5\u998F\u88AB\u4E24\u4E2A\u6D41\u6C13\u9A9A\u6270\uFF0C\u5FEB\u8D76\u8D70\u4ED6\u4EEC\u3002"
+    - 
+  - m_fieldName: JournalObjective
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8D76\u8D70\u4E24\u4EBA"
+    - Drive away the two men.
+    - "\u8D76\u8D70\u4E24\u4EBA"
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5DF2\u51FB\u8D25\u6B79\u5F92{#RoitElimCount}/{>#RoitElimCount}"
+    - Bandits defeated {#RoitElimCount}/{>#RoitElimCount}
+    - "\u5DF2\u51FB\u8D25\u6B79\u5F92{#RoitElimCount}/{>#RoitElimCount}"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A300\u94F6\u4E24\uFF0C\u5FA1\u9A6C\u5B98\u5370\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    - 'Reward: 300 silver, Royal Horse Official Seal, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A300\u94F6\u4E24\uFF0C\u5FA1\u9A6C\u5B98\u5370\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9A6C\u71D5\u9A9D\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u5E76\u4E14\u4F20\u6388\u4E86\u4F60\u4E00\u4E9B\u517B\u9A6C\u7684\u5FC3\u5F97\u3002"
+    - Ma Yanliu is very grateful for your help and shares some tips on horse care
+      with you.
+    - "\u9A6C\u71D5\u9A9D\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u5E76\u4E14\u4F20\u6388\u4E86\u4F60\u4E00\u4E9B\u517B\u9A6C\u7684\u5FC3\u5F97\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

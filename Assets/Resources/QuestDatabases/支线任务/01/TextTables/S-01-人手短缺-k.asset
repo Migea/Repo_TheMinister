@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u4EBA\u624B\u77ED\u7F3A-k"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000500000006000000070000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4EBA\u624B\u77ED\u7F3A"
+    - Shortage of manpower
+    - "\u4EBA\u624B\u77ED\u7F3A"
+    - 
+  - m_fieldName: JournalProgress
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4F17\u591A\u76F2\u6D41\u4E4B\u8F88\u8D81\u7740\u5317\u65B9\u5927\u4E71\u5F00\u59CB\u65E0\u6CD5\u65E0\u5929\uFF0C\u62A2\u52AB\u767E\u59D3\uFF0C\u8BF7\u5E2E\u52A9\u9EC4\u4E1C\u94F2\u9664\u4ED6\u4EEC\u3002"
+    - Taking advantage of the northern chaos, numerous lawless vagrants have begun
+      robbing the populace. Please assist Huang Dong in eliminating them.
+    - "\u4F17\u591A\u76F2\u6D41\u4E4B\u8F88\u8D81\u7740\u5317\u65B9\u5927\u4E71\u5F00\u59CB\u65E0\u6CD5\u65E0\u5929\uFF0C\u62A2\u52AB\u767E\u59D3\uFF0C\u8BF7\u5E2E\u52A9\u9EC4\u4E1C\u94F2\u9664\u4ED6\u4EEC\u3002"
+    - 
+  - m_fieldName: JournalObjective
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5E2E\u52A9\u9EC4\u4E1C\u94F2\u9664\u6B79\u5F92\u3002"
+    - Assist Huang Dong in eliminating the bandits.
+    - "\u5E2E\u52A9\u9EC4\u4E1C\u94F2\u9664\u6B79\u5F92\u3002"
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5DF2\u51FB\u8D25\u6B79\u5F92{#RoitElimCount}/{>#RoitElimCount}"
+    - Bandits defeated {#RoitElimCount}/{>#RoitElimCount}
+    - "\u5DF2\u51FB\u8D25\u6B79\u5F92{#RoitElimCount}/{>#RoitElimCount}"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A680\u94F6\u4E24\uFF0C\u517B\u6C14\u7B51\u57FA\u6563\uFF0C\u964D\u4F4E\u5927\u91CF\u6C11\u6028\u3002"
+    - 'Reward: 680 silver, Nourishing Powder, significant reduction of pressure.'
+    - "\u5956\u52B1\uFF1A680\u94F6\u4E24\uFF0C\u517B\u6C14\u7B51\u57FA\u6563\uFF0C\u964D\u4F4E\u5927\u91CF\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4E0D\u8FC7\u662F\u4E9B\u6BDB\u8D3C\uFF0C\u8F7B\u677E\u89E3\u51B3\u4E86\u4ED6\u4EEC\u627E\u9EC4\u4E1C\u8BF4\u660E\u60C5\u51B5\uFF0C\u9EC4\u4E1C\u4ECE\u4F60\u7684\u773C\u795E\u4E2D\u770B\u5230\u4E86\u575A\u6BC5\uFF0C\u4F3C\u4E4E\u4E5F\u5F71\u54CD\u4E86\u4ED6\u3002"
+    - It was just a few petty thieves, easily dealt with. Report the situation to
+      Huang Dong, who sees determination in your eyes, and it seems to influence
+      him as well.
+    - "\u5956\u52B1\uFF1A680\u94F6\u4E24\uFF0C\u517B\u6C14\u7B51\u57FA\u6563\uFF0C\u964D\u4F4E\u5927\u91CF\u6C11\u6028\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

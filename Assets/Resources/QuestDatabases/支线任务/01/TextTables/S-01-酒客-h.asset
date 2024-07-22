@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u9152\u5BA2-h"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 01000000020000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9152\u5BA2"
+    - Wine patron
+    - "\u9152\u5BA2"
+    - 
+  - m_fieldName: "Journal\u4EA4\u4ED8"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u81EA\u79F0\u5468\u5955\u7684\u9152\u5BA2\u62E6\u4F4F\u4E86\u4F60\uFF0C\u4ED6\u4F3C\u4E4E\u77E5\u9053\u4E00\u4E9B\u4EC0\u4E48\u3002"
+    - A drinker who calls himself Zhou Yi stops you; he seems to know something.
+    - "\u81EA\u79F0\u5468\u5955\u7684\u9152\u5BA2\u62E6\u4F4F\u4E86\u4F60\uFF0C\u4ED6\u4F3C\u4E4E\u77E5\u9053\u4E00\u4E9B\u4EC0\u4E48\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u9152\u846B\u82A6"
+    - 'Reward: Wine Gourd'
+    - "\u5956\u52B1\uFF1A\u9152\u846B\u82A6"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4ED6\u5411\u4F60\u8981\u4E86\u4E00\u58F6<color=#93887B>\u9752\u9152</color>\u3002"
+    - He asked you for a pot of <color=#93887B>sake</color>.
+    - "\u4ED6\u5411\u4F60\u8981\u4E86\u4E00\u58F6<color=#93887B>\u9752\u9152</color>\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 5

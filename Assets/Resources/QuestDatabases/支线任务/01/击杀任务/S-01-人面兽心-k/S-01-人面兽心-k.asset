@@ -1,5 +1,23 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8701472448103242465
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &-8575489718694889715
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -13,12 +31,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 1
   m_headingLevel: 1
 --- !u!114 &-6537248303672152023
 MonoBehaviour:
@@ -107,10 +125,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u9A6C\u53A9\u8001\u677F\u5A18\u88AB\u4E24\u4E2A\u6D41\u6C13\u9A9A\u6270\uFF0C\u5FEB\u8D76\u8D70\u4ED6\u4EEC\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &-2489051937771503268
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -171,7 +189,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A300\u94F6\u4E24\uFF0C\u5FA1\u9A6C\u5B98\u5370\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 3
+--- !u!114 &-1128209233734919390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -189,10 +225,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u9A6C\u71D5\u9A9D\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u5E76\u4E14\u4F20\u6388\u4E86\u4F60\u4E00\u4E9B\u517B\u9A6C\u7684\u5FC3\u5F97\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 4
 --- !u!114 &-62731137542134008
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -207,10 +243,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u9A6C\u53A9\u8001\u677F\u5A18\u88AB\u4E24\u4E2A\u6D41\u6C13\u9A9A\u6270\uFF0C\u5FEB\u8D76\u8D70\u4ED6\u4EEC\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -453,6 +489,7 @@ MonoBehaviour:
         - {fileID: 4540655467498712940}
         - {fileID: -3529566194697217707}
         - {fileID: 866886694049929098}
+        - {fileID: -8701472448103242465}
         - {fileID: 2820082840051418171}
       - m_contentList: []
     - m_actionList: []
@@ -506,7 +543,9 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: -8575489718694889715}
         - {fileID: -62731137542134008}
+        - {fileID: 8647728539722422514}
         - {fileID: -561391358558933983}
+        - {fileID: -1128209233734919390}
         - {fileID: -2022412057735885504}
       - m_contentList: []
     - m_actionList: []
@@ -705,10 +744,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u8D76\u8D70\u4E24\u4EBA"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 6
 --- !u!114 &971461416154815222
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -742,10 +781,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A300\u94F6\u4E24\uFF0C\u5FA1\u9A6C\u5B98\u5370\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &3160245385367917282
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -778,13 +817,13 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 5
+    m_textTable: {fileID: 11400000, guid: d6272cd4dd39db4459bde2dc1be7f368, type: 2}
+    m_textTableFieldID: 1
+  m_headingLevel: 1
 --- !u!114 &6828004475460308483
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -848,3 +887,21 @@ MonoBehaviour:
     m_valueType: 0
     m_literalValue: 2
     m_counterIndex: 0
+--- !u!114 &8647728539722422514
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0

@@ -637,6 +637,7 @@ public class Player : MonoBehaviour
         {Tag.驯兽大师,Rarerity.SR},
         {Tag.朝奉,Rarerity.SR},
         {Tag.百步穿杨,Rarerity.SR},
+   
         {Tag.刀王,Rarerity.SR},
         {Tag.雷电法王,Rarerity.SR},
         {Tag.皇家血统,Rarerity.SR},

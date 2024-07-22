@@ -62,7 +62,10 @@ public class DisplayInfoAnimationController : MonoBehaviour
         int index = 0;
         foreach (Tag tag in tags)
         {
-            TagImages[index].sprite = TagSpecUI.FindTagSprite(tag);
+            TagImages[index].sprite = TagWithDescribetion.GetTagBackground(tag);
+            var tagText = new GameObject().AddComponent<Text>();
+            tagText.text = TagWithDescribetion.GetTagText(tag);
+            tagText.fontSize = 15;
             index++;
         }
     }

@@ -67,6 +67,7 @@ public class DisplayInfoAnimationController : MonoBehaviour
             tagText.text = TagWithDescribetion.GetTagText(tag);
             tagText.fontSize = 15;
             tagText.alignment = TextAnchor.MiddleCenter;
+            tagText.gameObject.AddComponent<FontUpdater>();
             var rect = tagText.GetComponent<RectTransform>();
             rect.anchoredPosition = new Vector2(0, 0);
             rect.anchorMax = new Vector2(1, 1);

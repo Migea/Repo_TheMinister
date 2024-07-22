@@ -19,4 +19,5 @@ public class FontUpdater : MonoBehaviour
             FontManager.RegisterTMPTextComponent(textMeshProComponent);
         }
     }
+
 }

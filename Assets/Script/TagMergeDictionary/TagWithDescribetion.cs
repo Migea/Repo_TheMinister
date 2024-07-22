@@ -80,7 +80,7 @@ public class TagWithDescribetion : MonoBehaviour, IDetailAble, IPointerEnterHand
     {
         LocalizedString tagString = new LocalizedString
         {
-            TableReference = "DisplayTag",
+            TableReference = "DisplayTags",
             TableEntryReference = $"{tag.ToString()}"
         };
         return tagString.GetLocalizedString();

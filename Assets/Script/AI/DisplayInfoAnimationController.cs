@@ -63,9 +63,15 @@ public class DisplayInfoAnimationController : MonoBehaviour
         foreach (Tag tag in tags)
         {
             TagImages[index].sprite = TagWithDescribetion.GetTagBackground(tag);
-            var tagText = new GameObject().AddComponent<Text>();
+            var tagText = Instantiate(new GameObject().AddComponent<Text>(), TagImages[index].transform);
             tagText.text = TagWithDescribetion.GetTagText(tag);
             tagText.fontSize = 15;
+            tagText.alignment = TextAnchor.MiddleCenter;
+            var rect = tagText.GetComponent<RectTransform>();
+            rect.anchoredPosition = new Vector2(0, 0);
+            rect.anchorMax = new Vector2(1, 1);
+            rect.anchorMin = new Vector2(0, 0);
+            rect.pivot = new Vector2(0.5f, 0.5f);
             index++;
         }
     }

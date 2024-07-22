@@ -75,4 +75,13 @@ public class TagWithDescribetion : MonoBehaviour, IDetailAble, IPointerEnterHand
         };
         return tagString.GetLocalizedString();
     }
+    public static string GetDisplayTagText(Tag tag)
+    {
+        LocalizedString tagString = new LocalizedString
+        {
+            TableReference = "DisplayTag",
+            TableEntryReference = $"{tag.ToString()}"
+        };
+        return tagString.GetLocalizedString();
+    }
 }

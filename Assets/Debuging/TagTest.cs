@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization.Settings;
 
 public class TagTest : MonoBehaviour
 {
@@ -11,6 +12,13 @@ public class TagTest : MonoBehaviour
     private void Awake()
     {
         tagWithDescribetion = GetComponent<TagWithDescribetion>();
+        LocalizationSettings.SelectedLocaleChanged += LocalizationSettings_SelectedLocaleChanged;
+    }
+
+    private void LocalizationSettings_SelectedLocaleChanged(UnityEngine.Localization.Locale obj)
+    {
+        Enum.TryParse(tagString, out Tag tag);
+        tagWithDescribetion.Setup(tag);
     }
 
     public void OnEnable()

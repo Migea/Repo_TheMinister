@@ -1335,5 +1335,51 @@ MonoBehaviour:
     m_Localized: Prick
     m_Metadata:
       m_Items: []
+  - m_Id: 7576254713491456
+    m_Localized: Begin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576256663842816
+    m_Localized: Surrender
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576321847521280
+    m_Localized: Fast battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576323135172608
+    m_Localized: "Attack: Inflict damage to the enemy, and determine the order of
+      actions \nbased on the value of the character's \"Prick\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576324439601152
+    m_Localized: "Guard: 1. When the guarded object is yourself, improve your own
+      status;\r\n2. When the guarding object is another friendly unit, it will receive
+      \n all attacks in this round on its behalf and improve its own status."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576596033368064
+    m_Localized: "Sneak attack: Prioritize action to attack the enemy, \nbut the
+      damage will be reduced by half and \nits own status will be degraded,\n increasing
+      the damage received this round and in the future."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7580198378467328
+    m_Localized: News
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576597367156736
+    m_Localized: "\rWeak: Takes double damage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576619328532480
+    m_Localized: "\rNormal: Takes normal damage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7576620226113536
+    m_Localized: "Strong: Reduces the damage received, \nand the reduced damage is
+      equal to the \"Defense\" value"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

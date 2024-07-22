@@ -65,7 +65,7 @@ public class DisplayInfoAnimationController : MonoBehaviour
             TagImages[index].sprite = TagWithDescribetion.GetTagBackground(tag);
             var tagText = Instantiate(new GameObject().AddComponent<Text>(), TagImages[index].transform);
             tagText.text = TagWithDescribetion.GetDisplayTagText(tag);
-            tagText.fontSize = 15;
+            tagText.fontSize = 40;
             tagText.alignment = TextAnchor.MiddleCenter;
             tagText.gameObject.AddComponent<FontUpdater>();
             tagText.lineSpacing = 0.4f;

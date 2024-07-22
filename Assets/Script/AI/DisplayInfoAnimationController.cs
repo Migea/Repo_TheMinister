@@ -2,7 +2,9 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.Animations;
+using UnityEngine.Localization.Settings;
 using UnityEngine.UI;
 
 public class DisplayInfoAnimationController : MonoBehaviour
@@ -17,6 +19,11 @@ public class DisplayInfoAnimationController : MonoBehaviour
     public bool setDone = false;
 
     public void Start()//change to enable
+    {
+        LocalizationSettings.SelectedLocaleChanged += OnLocaleChanged;
+        StartupSettings();
+    }
+    public void StartupSettings()
     {
         if (FakeData)
         {
@@ -52,6 +59,14 @@ public class DisplayInfoAnimationController : MonoBehaviour
             SetupName(FakeName);
             return;
         }
+    }
+    private void OnDestroy()
+    {
+        LocalizationSettings.SelectedLocaleChanged -= OnLocaleChanged;
+    }
+    private void OnLocaleChanged(Locale locale)
+    {
+        StartupSettings();
     }
     public void SetupName(string Name)
     {

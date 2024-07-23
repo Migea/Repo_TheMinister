@@ -40,7 +40,7 @@ MonoBehaviour:
     - title: Name
       value: "\u674E\u8881\u964C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -48,20 +48,20 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u674E\u8881\u964C"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: LI Yuanmo
       type: 4
       typeString: CustomFieldType_Localization

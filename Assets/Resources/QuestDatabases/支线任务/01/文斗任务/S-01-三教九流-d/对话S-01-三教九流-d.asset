@@ -112,7 +112,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5468\u4E00\u6587"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -120,27 +120,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Zhou Yiwen
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u5468\u4E00\u6587"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: f02298ce38b40c04d8b3d200cb4d4ffe, type: 3}
     spritePortrait: {fileID: 21300000, guid: f02298ce38b40c04d8b3d200cb4d4ffe, type: 3}
     alternatePortraits: []

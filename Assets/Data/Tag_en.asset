@@ -19,983 +19,983 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 208496384339968
-    m_Localized: Namugatling
+    m_Localized: <color=#D93223>Namugatling</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339969
-    m_Localized: Star Player Descending
+    m_Localized: <color=#D93223>Star Player Descending</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339970
-    m_Localized: Master Craftsman
+    m_Localized: <color=#D93223>Master Craftsman</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339971
-    m_Localized: Literary Warrior
+    m_Localized: <color=#D93223>Literary Warrior</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339973
-    m_Localized: Longevity
+    m_Localized: <color=#D93223>Longevity</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339974
-    m_Localized: Undying
+    m_Localized: <color=#D93223>Undying</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339975
-    m_Localized: Loyal and Righteous
+    m_Localized: <color=#D93223>Loyal and Righteous</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339976
-    m_Localized: Earthly Immortal
+    m_Localized: <color=#D93223>Earthly Immortal</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339977
-    m_Localized: Heartbreaking Palm
+    m_Localized: <color=#F8D45F>Heartbreaking Palm</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339978
-    m_Localized: 10-dan Go Player
+    m_Localized: <color=#F8D45F>10-dan Go Player</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339979
-    m_Localized: Top Scholar
+    m_Localized: <color=#F8D45F>Top Scholar</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339980
-    m_Localized: Immortal Poet
+    m_Localized: <color=#F8D45F>Immortal Poet</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339981
-    m_Localized: Sleeping Dragon
+    m_Localized: <color=#F8D45F>Sleeping Dragon</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339982
-    m_Localized: Talent of Eight Measures
+    m_Localized: <color=#F8D45F>Talent of Eight Measures</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339983
-    m_Localized: Saint of Martial Arts
+    m_Localized: <color=#F8D45F>Saint of Martial Arts</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339984
-    m_Localized: Shadowless
+    m_Localized: <color=#F8D45F>Shadowless</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339985
-    m_Localized: Rock Solid
+    m_Localized: <color=#F8D45F>Rock Solid</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339986
-    m_Localized: Master of All Martial Arts
+    m_Localized: <color=#F8D45F>Master of All Martial Arts</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339987
-    m_Localized: Empty Talk
+    m_Localized: <color=#F8D45F>Empty Talk</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339988
-    m_Localized: Only a Reputation
+    m_Localized: <color=#F8D45F>Only a Reputation</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339989
-    m_Localized: Opportunist
+    m_Localized: <color=#F8D45F>Opportunist</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339990
-    m_Localized: Chaotic Demon King
+    m_Localized: <color=#F8D45F>Chaotic Demon King</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339991
-    m_Localized: Ruthless
+    m_Localized: <color=#F8D45F>Ruthless</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339992
-    m_Localized: Conservative
+    m_Localized: <color=#F8D45F>Conservative</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339993
-    m_Localized: Body of an Immortal
+    m_Localized: <color=#F8D45F>Body of an Immortal</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339994
-    m_Localized: Hidden Talents
+    m_Localized: <color=#F8D45F>Hidden Talents</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339995
-    m_Localized: Profound Benevolence
+    m_Localized: <color=#F8D45F>Profound Benevolence</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339996
-    m_Localized: Smooth Career
+    m_Localized: <color=#F8D45F>Smooth Career</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339997
-    m_Localized: Masterful Craftsmanship
+    m_Localized: <color=#F8D45F>Masterful Craftsmanship</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339998
-    m_Localized: Healing the World
+    m_Localized: <color=#F8D45F>Healing the World</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384339999
-    m_Localized: Mojia
+    m_Localized: <color=#F8D45F>Mojia</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340000
-    m_Localized: Shooting Through the Sun
+    m_Localized: <color=#F8D45F>Shooting Through the Sun</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340001
-    m_Localized: Silent
+    m_Localized: <color=#F8D45F>Silent</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340002
-    m_Localized: Azure Dragon
+    m_Localized: <color=#F8D45F>Azure Dragon</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340003
-    m_Localized: Certain Victory
+    m_Localized: <color=#F8D45F>Certain Victory</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340004
-    m_Localized: Supporting the Sky
+    m_Localized: <color=#F8D45F>Supporting the Sky</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340005
-    m_Localized: Dragon's Power
+    m_Localized: <color=#F8D45F>Dragon's Power</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340006
-    m_Localized: Suppressing Fire
+    m_Localized: <color=#F8D45F>Suppressing Fire</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340007
-    m_Localized: Living in a Dream
+    m_Localized: <color=#F8D45F>Living in a Dream</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340008
-    m_Localized: Golden Glitter
+    m_Localized: <color=#F8D45F>Golden Glitter</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340009
-    m_Localized: Light Fragment
+    m_Localized: <color=#F8D45F>Light Fragment</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340010
-    m_Localized: Dragon Horse Spirit
+    m_Localized: <color=#F8D45F>Dragon Horse Spirit</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340011
-    m_Localized: Eagle's Power
+    m_Localized: <color=#F8D45F>Eagle's Power</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340012
-    m_Localized: Glimpsing Heaven's Secrets
+    m_Localized: <color=#F8D45F>Glimpsing Heaven's Secrets</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340013
-    m_Localized: Invincible to Poisons
+    m_Localized: <color=#F8D45F>Invincible to Poisons</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340014
-    m_Localized: Yapping
+    m_Localized: <color=#F8D45F>Yapping</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340015
-    m_Localized: Ripple Walk
+    m_Localized: <color=#F8D45F>Ripple Walk</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340016
-    m_Localized: Power of an Elephant and Tiger
+    m_Localized: <color=#F8D45F>Power of an Elephant and Tiger</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340017
-    m_Localized: Literary
+    m_Localized: <color=#A52B7C>Literary</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340018
-    m_Localized: Martial
+    m_Localized: <color=#A52B7C>Martial</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340019
-    m_Localized: Well-read in Erudite Works
+    m_Localized: <color=#A52B7C>Well-read in Erudite Works</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340020
-    m_Localized: Highly Talented
+    m_Localized: <color=#A52B7C>Highly Talented</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340021
-    m_Localized: Scheming
+    m_Localized: <color=#A52B7C>Scheming</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340022
-    m_Localized: Lifting Mountains
+    m_Localized: <color=#A52B7C>Lifting Mountains</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340023
-    m_Localized: Elusive
+    m_Localized: <color=#A52B7C>Elusive</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340024
-    m_Localized: Sheltering Mansion
+    m_Localized: <color=#A52B7C>Sheltering Mansion</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340025
-    m_Localized: Wise and Brave
+    m_Localized: <color=#A52B7C>Wise and Brave</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340026
-    m_Localized: Mechanical Master
+    m_Localized: <color=#A52B7C>Mechanical Master</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340027
-    m_Localized: Qimen Dunjia (Mystical Strategy)
+    m_Localized: <color=#A52B7C>Qimen Dunjia (Mystical Strategy)</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340028
-    m_Localized: Innate Strength
+    m_Localized: <color=#A52B7C>Innate Strength</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340029
-    m_Localized: Yangming School
+    m_Localized: <color=#A52B7C>Yangming School</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340030
-    m_Localized: Lich Lord
+    m_Localized: <color=#A52B7C>Lich Lord</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340031
-    m_Localized: Dragon Knight
+    m_Localized: <color=#A52B7C>Dragon Knight</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340032
-    m_Localized: Diplomat
+    m_Localized: <color=#A52B7C>Diplomat</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340033
-    m_Localized: Old but Vigorous
+    m_Localized: <color=#A52B7C>Old but Vigorous</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340034
-    m_Localized: Alchemist
+    m_Localized: <color=#A52B7C>Alchemist</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340035
-    m_Localized: Master of Close Combat
+    m_Localized: <color=#A52B7C>Master of Close Combat</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340036
-    m_Localized: Reincarnation of an Ancient God
+    m_Localized: <color=#A52B7C>Reincarnation of an Ancient God</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340037
-    m_Localized: Financial Master
+    m_Localized: <color=#A52B7C>Financial Master</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340038
-    m_Localized: Strategist
+    m_Localized: <color=#A52B7C>Strategist</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340039
-    m_Localized: Hammer
+    m_Localized: <color=#A52B7C>Hammer</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340040
-    m_Localized: Drama King
+    m_Localized: <color=#A52B7C>Drama King</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340041
-    m_Localized: Yellow Emperor's Internal Classic
+    m_Localized: <color=#A52B7C>Yellow Emperor's Internal Classic</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340042
-    m_Localized: Compendium of Materia Medica
+    m_Localized: <color=#A52B7C>Compendium of Materia Medica</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340043
-    m_Localized: Imperial Stable
+    m_Localized: <color=#A52B7C>Imperial Stable</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340044
-    m_Localized: Beast Master
+    m_Localized: <color=#A52B7C>Beast Master</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340045
-    m_Localized: Money Manager
+    m_Localized: <color=#A52B7C>Money Manager</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340046
-    m_Localized: Perfect Archery
+    m_Localized: <color=#A52B7C>Perfect Archery</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340047
-    m_Localized: King of Swords
+    m_Localized: <color=#A52B7C>King of Swords</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340048
-    m_Localized: Lord of Thunder and Lightning
+    m_Localized: <color=#A52B7C>Lord of Thunder and Lightning</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340049
-    m_Localized: Royal Bloodline
+    m_Localized: <color=#A52B7C>Royal Bloodline</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340050
-    m_Localized: Overlord
+    m_Localized: <color=#A52B7C>Overlord</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340051
-    m_Localized: Qigong Master
+    m_Localized: <color=#A52B7C>Qigong Master</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340052
-    m_Localized: Inspired Poet
+    m_Localized: <color=#A52B7C>Inspired Poet</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340053
-    m_Localized: Drunken Ecstasy
+    m_Localized: <color=#A52B7C>Drunken Ecstasy</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340054
-    m_Localized: Pay-to-Win Warrior
+    m_Localized: <color=#A52B7C>Pay-to-Win Warrior</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340055
-    m_Localized: Vegetarian
+    m_Localized: <color=#A52B7C>Vegetarian</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340056
-    m_Localized: Fully Armed
+    m_Localized: <color=#A52B7C>Fully Armed</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340057
-    m_Localized: Impregnable Fortress
+    m_Localized: <color=#A52B7C>Impregnable Fortress</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340058
-    m_Localized: Skillful Doctor
+    m_Localized: <color=#A52B7C>Skillful Doctor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340059
-    m_Localized: Fierce as Fire
+    m_Localized: <color=#A52B7C>Fierce as Fire</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340060
-    m_Localized: Benevolent Gentleman
+    m_Localized: <color=#A52B7C>Benevolent Gentleman</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340061
-    m_Localized: Excellent Horse
+    m_Localized: <color=#A52B7C>Excellent Horse</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340062
-    m_Localized: Fierce
+    m_Localized: <color=#A52B7C>Fierce</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340063
-    m_Localized: Lone Wolf
+    m_Localized: <color=#A52B7C>Lone Wolf</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340064
-    m_Localized: Loyalty and Faith
+    m_Localized: <color=#A52B7C>Loyalty and Faith</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340065
-    m_Localized: Lucky Star
+    m_Localized: <color=#A52B7C>Lucky Star</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340066
-    m_Localized: Elegant Dancer
+    m_Localized: <color=#A52B7C>Elegant Dancer</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340067
-    m_Localized: Money Dart
+    m_Localized: <color=#A52B7C>Money Dart</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496384340068
-    m_Localized: Sleeve Robe
+    m_Localized: <color=#A52B7C>Sleeve Robe</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534272
-    m_Localized: Blood Dripper
+    m_Localized: <color=#A52B7C>Blood Dripper</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534273
-    m_Localized: Bishop
+    m_Localized: <color=#A52B7C>Bishop</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534274
-    m_Localized: Pearl-like
+    m_Localized: <color=#A52B7C>Pearl-like</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534275
-    m_Localized: Cultural Desert
+    m_Localized: <color=#A52B7C>Cultural Desert</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534276
-    m_Localized: Minor Martial Skills
+    m_Localized: <color=#A52B7C>Minor Martial Skills</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534277
-    m_Localized: Literary Righteousness
+    m_Localized: <color=#5794B3>Literary Righteousness</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534278
-    m_Localized: Martial Loyalty
+    m_Localized: <color=#5794B3>Martial Loyalty</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534279
-    m_Localized: Bookworm
+    m_Localized: <color=#5794B3>Bookworm</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534280
-    m_Localized: Slightly Famous
+    m_Localized: <color=#5794B3>Slightly Famous</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534281
-    m_Localized: Slightly Strategic
+    m_Localized: <color=#5794B3>Slightly Strategic</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534282
-    m_Localized: Martial Arts Enthusiast
+    m_Localized: <color=#5794B3>Martial Arts Enthusiast</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534283
-    m_Localized: Agile
+    m_Localized: <color=#5794B3>Agile</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534284
-    m_Localized: Old Bear on the Path
+    m_Localized: <color=#5794B3>Old Bear on the Path</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534285
-    m_Localized: Outlaw
+    m_Localized: <color=#5794B3>Outlaw</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534286
-    m_Localized: Toad Skill
+    m_Localized: <color=#5794B3>Toad Skill</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534287
-    m_Localized: Joyful Buddha
+    m_Localized: <color=#5794B3>Joyful Buddha</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534288
-    m_Localized: Demon Man
+    m_Localized: <color=#5794B3>Demon Man</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534289
-    m_Localized: Astronomy Expert
+    m_Localized: <color=#5794B3>Astronomy Expert</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534290
-    m_Localized: Frost Sword
+    m_Localized: <color=#5794B3>Frost Sword</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534291
-    m_Localized: Swift
+    m_Localized: <color=#5794B3>Swift</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534292
-    m_Localized: Cannon
+    m_Localized: <color=#5794B3>Cannon</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534293
-    m_Localized: Eastern Languages
+    m_Localized: <color=#5794B3>Eastern Languages</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534294
-    m_Localized: Talented in Singing and Dancing
+    m_Localized: <color=#5794B3>Talented in Singing and Dancing</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534295
-    m_Localized: Western Languages
+    m_Localized: <color=#5794B3>Western Languages</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534296
-    m_Localized: Poison Master
+    m_Localized: <color=#5794B3>Poison Master</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534297
-    m_Localized: Unorthodox
+    m_Localized: <color=#5794B3>Unorthodox</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534298
-    m_Localized: Foreigner
+    m_Localized: <color=#5794B3>Foreigner</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534299
-    m_Localized: Madman
+    m_Localized: <color=#5794B3>Madman</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534300
-    m_Localized: Go Strategy
+    m_Localized: <color=#5794B3>Go Strategy</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534301
-    m_Localized: Mental Calculation
+    m_Localized: <color=#5794B3>Mental Calculation</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534302
-    m_Localized: Economics
+    m_Localized: <color=#5794B3>Economics</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534303
-    m_Localized: Small Hammer
+    m_Localized: <color=#5794B3>Small Hammer</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534304
-    m_Localized: Veteran Actor
+    m_Localized: <color=#5794B3>Veteran Actor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534305
-    m_Localized: Doctor
+    m_Localized: <color=#5794B3>Doctor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534306
-    m_Localized: Beast Taming
+    m_Localized: <color=#5794B3>Beast Taming</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534307
-    m_Localized: Imperial Horse Keeper
+    m_Localized: <color=#5794B3>Imperial Horse Keeper</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534308
-    m_Localized: Nomad
+    m_Localized: <color=#5794B3>Nomad</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534309
-    m_Localized: Universal Love
+    m_Localized: <color=#5794B3>Universal Love</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534310
-    m_Localized: Hawker
+    m_Localized: <color=#5794B3>Hawker</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534311
-    m_Localized: Non-aggression
+    m_Localized: <color=#5794B3>Non-aggression</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534312
-    m_Localized: Perfect Archery
+    m_Localized: <color=#5794B3>Perfect Archery</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534313
-    m_Localized: Unusual Talent
+    m_Localized: <color=#5794B3>Unusual Talent</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534314
-    m_Localized: A Glimmer of Light
+    m_Localized: <color=#5794B3>A Glimmer of Light</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534315
-    m_Localized: Melon Seller
+    m_Localized: <color=#5794B3>Melon Seller</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534316
-    m_Localized: Exquisite Martial Skills
+    m_Localized: <color=#5794B3>Exquisite Martial Skills</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534317
-    m_Localized: Entered the Hall
+    m_Localized: <color=#5794B3>Entered the Hall</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534318
-    m_Localized: Possessed by Demons
+    m_Localized: <color=#5794B3>Possessed by Demons</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534319
-    m_Localized: Vegetarian Food
+    m_Localized: <color=#5794B3>Vegetarian Food</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534320
-    m_Localized: Meat Dish
+    m_Localized: <color=#5794B3>Meat Dish</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534321
-    m_Localized: Great Luck
+    m_Localized: <color=#5794B3>Great Luck</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534322
-    m_Localized: Silk
+    m_Localized: <color=#5794B3>Silk</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534323
-    m_Localized: Heart Protector
+    m_Localized: <color=#5794B3>Heart Protector</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534324
-    m_Localized: Leather Armor
+    m_Localized: <color=#5794B3>Leather Armor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534325
-    m_Localized: Iron Armor
+    m_Localized: <color=#5794B3>Iron Armor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534326
-    m_Localized: Evil Repeller
+    m_Localized: <color=#5794B3>Evil Repeller</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534327
-    m_Localized: Jewelry
+    m_Localized: <color=#5794B3>Jewelry</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534328
-    m_Localized: Happy Family
+    m_Localized: <color=#5794B3>Happy Family</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534329
-    m_Localized: Mixed Emotions
+    m_Localized: <color=#5794B3>Mixed Emotions</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534330
-    m_Localized: Lover of Good Wine
+    m_Localized: <color=#5794B3>Lover of Good Wine</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534331
-    m_Localized: Craftsman
+    m_Localized: <color=#5794B3>Craftsman</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534332
-    m_Localized: Story King
+    m_Localized: <color=#5794B3>Story King</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534333
-    m_Localized: Zither Player
+    m_Localized: <color=#5794B3>Zither Player</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534334
-    m_Localized: Drunken Boxing
+    m_Localized: <color=#5794B3>Drunken Boxing</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534335
-    m_Localized: Literary Righteousness
+    m_Localized: <color=#93887B>Literary Righteousness</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534336
-    m_Localized: Martial Bravery
+    m_Localized: <color=#93887B>Martial Bravery</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534337
-    m_Localized: Brave but Foolish
+    m_Localized: <color=#93887B>Brave but Foolish</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534338
-    m_Localized: Flowery Speech
+    m_Localized: <color=#93887B>Flowery Speech</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534339
-    m_Localized: Decorative Pillow
+    m_Localized: <color=#93887B>Decorative Pillow</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534340
-    m_Localized: Jack of All Trades
+    m_Localized: <color=#93887B>Jack of All Trades</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534341
-    m_Localized: Self-righteous
+    m_Localized: <color=#93887B>Self-righteous</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534342
-    m_Localized: Treasuring a Broken Broom
+    m_Localized: <color=#93887B>Treasuring a Broken Broom</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534343
-    m_Localized: Infertility
+    m_Localized: <color=#93887B>Infertility</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534344
-    m_Localized: Giant Syndrome
+    m_Localized: <color=#93887B>Giant Syndrome</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534345
-    m_Localized: Dwarfism
+    m_Localized: <color=#93887B>Dwarfism</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534346
-    m_Localized: Confucian Scholar
+    m_Localized: <color=#93887B>Confucian Scholar</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534347
-    m_Localized: Taoist Priest
+    m_Localized: <color=#93887B>Taoist Priest</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534348
-    m_Localized: Monk
+    m_Localized: <color=#93887B>Monk</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534349
-    m_Localized: Lawyer
+    m_Localized: <color=#93887B>Lawyer</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534350
-    m_Localized: Cold-blooded
+    m_Localized: <color=#93887B>Cold-blooded</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534351
-    m_Localized: Eunuch
+    m_Localized: <color=#93887B>Eunuch</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534352
-    m_Localized: Vampire
+    m_Localized: <color=#93887B>Vampire</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534353
-    m_Localized: Werewolf
+    m_Localized: <color=#93887B>Werewolf</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534354
-    m_Localized: Stiff Knees
+    m_Localized: <color=#93887B>Stiff Knees</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534355
-    m_Localized: Hyperactivity
+    m_Localized: <color=#93887B>Hyperactivity</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534356
-    m_Localized: Unremarkable
+    m_Localized: <color=#93887B>Unremarkable</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534357
-    m_Localized: Eagle
+    m_Localized: <color=#93887B>Eagle</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534358
-    m_Localized: Martial Artist
+    m_Localized: <color=#93887B>Martial Artist</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534359
-    m_Localized: Immortal Boy
+    m_Localized: <color=#93887B>Immortal Boy</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534360
-    m_Localized: Bow
+    m_Localized: <color=#93887B>Bow</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534361
-    m_Localized: Sword
+    m_Localized: <color=#93887B>Sword</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534362
-    m_Localized: Spear
+    m_Localized: <color=#93887B>Spear</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534363
-    m_Localized: Corruption
+    m_Localized: <color=#93887B>Corruption</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534364
-    m_Localized: Actor
+    m_Localized: <color=#93887B>Actor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534365
-    m_Localized: Impure
+    m_Localized: <color=#93887B>Impure</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534366
-    m_Localized: Knife
+    m_Localized: <color=#93887B>Knife</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534367
-    m_Localized: Halberd
+    m_Localized: <color=#93887B>Halberd</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534368
-    m_Localized: Medical Skills
+    m_Localized: <color=#93887B>Medical Skills</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534369
-    m_Localized: Horse Keeper
+    m_Localized: <color=#93887B>Horse Keeper</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534370
-    m_Localized: Full Stomach
+    m_Localized: <color=#93887B>Full Stomach</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534371
-    m_Localized: Harmless
+    m_Localized: <color=#93887B>Harmless</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534372
-    m_Localized: Skilled Craftsman
+    m_Localized: <color=#93887B>Skilled Craftsman</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534373
-    m_Localized: Upright Posture
+    m_Localized: <color=#93887B>Upright Posture</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534374
-    m_Localized: Useless Person
+    m_Localized: <color=#93887B>Useless Person</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534375
-    m_Localized: Miscellaneous
+    m_Localized: <color=#93887B>Miscellaneous</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534376
-    m_Localized: Thick Hair
+    m_Localized: <color=#93887B>Thick Hair</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534377
-    m_Localized: Cursed with Bad Luck
+    m_Localized: <color=#3F4D31>Cursed with Bad Luck</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496388534378
-    m_Localized: Ungrateful Child
+    m_Localized: <color=#3F4D31>Ungrateful Child</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728576
-    m_Localized: Lame
+    m_Localized: <color=#3F4D31>Lame</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728577
-    m_Localized: Old and Weak
+    m_Localized: <color=#3F4D31>Old and Weak</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728578
-    m_Localized: Drunk
+    m_Localized: <color=#3F4D31>Drunk</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728579
-    m_Localized: Tragic Life
+    m_Localized: <color=#3F4D31>Tragic Life</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728580
-    m_Localized: Mental Illness
+    m_Localized: <color=#3F4D31>Mental Illness</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728581
-    m_Localized: Nearsighted
+    m_Localized: <color=#3F4D31>Nearsighted</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728582
-    m_Localized: Sweet Tooth
+    m_Localized: <color=#3F4D31>Sweet Tooth</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728583
-    m_Localized: Malnutrition
+    m_Localized: <color=#3F4D31>Malnutrition</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728584
-    m_Localized: Diabetes
+    m_Localized: <color=#3F4D31>Diabetes</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728585
-    m_Localized: Sleeplessness
+    m_Localized: <color=#3F4D31>Sleeplessness</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728586
-    m_Localized: Big Eater
+    m_Localized: <color=#3F4D31>Big Eater</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728587
-    m_Localized: Blind
+    m_Localized: <color=#3F4D31>Blind</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728588
-    m_Localized: One-armed
+    m_Localized: <color=#3F4D31>One-armed</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728589
-    m_Localized: Dementia
+    m_Localized: <color=#3F4D31>Dementia</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728590
-    m_Localized: Pregnant
+    m_Localized: <color=#3F4D31>Pregnant</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728591
-    m_Localized: Polio
+    m_Localized: <color=#3F4D31>Polio</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728592
-    m_Localized: Illiterate
+    m_Localized: <color=#3F4D31>Illiterate</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728593
-    m_Localized: Taking Advantage
+    m_Localized: <color=#3F4D31>Taking Advantage</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728594
-    m_Localized: Useless Fury
+    m_Localized: <color=#3F4D31>Useless Fury</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728595
-    m_Localized: Headache
+    m_Localized: <color=#3F4D31>Headache</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728596
-    m_Localized: Paralysis
+    m_Localized: <color=#3F4D31>Paralysis</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728597
-    m_Localized: Stuttering
+    m_Localized: <color=#3F4D31>Stuttering</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728598
-    m_Localized: Annoying
+    m_Localized: <color=#3F4D31>Annoying</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728599
-    m_Localized: Mischievous
+    m_Localized: <color=#3F4D31>Mischievous</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728600
-    m_Localized: Natural Dislike
+    m_Localized: <color=#3F4D31>Natural Dislike</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728601
-    m_Localized: Gagging
+    m_Localized: <color=#3F4D31>Gagging</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728602
-    m_Localized: Weak Body
+    m_Localized: <color=#3F4D31>Weak Body</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728603
-    m_Localized: Obesity
+    m_Localized: <color=#3F4D31>Obesity</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728604
-    m_Localized: Uneven Legs
+    m_Localized: <color=#3F4D31>Uneven Legs</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728605
-    m_Localized: Prosthetic Limb
+    m_Localized: <color=#3F4D31>Prosthetic Limb</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728606
-    m_Localized: Poison
+    m_Localized: <color=#3F4D31>Poison</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728607
-    m_Localized: Barely Clothed
+    m_Localized: <color=#3F4D31>Barely Clothed</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728608
-    m_Localized: Blood Enrichment
+    m_Localized: <color=#5794B3>Blood Enrichment</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728609
-    m_Localized: Kidney Strengthening
+    m_Localized: <color=#5794B3>Kidney Strengthening</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728610
-    m_Localized: Refreshing
+    m_Localized: <color=#A52B7C>Refreshing</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728611
-    m_Localized: Poisoned
+    m_Localized: <color=#3F4D31>Poisoned</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728612
-    m_Localized: Body Tempering
+    m_Localized: <color=#A52B7C>Body Tempering</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728613
-    m_Localized: Nourishing
+    m_Localized: <color=#F8D45F>Nourishing</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728614
@@ -1023,39 +1023,39 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728620
-    m_Localized: Iron Turtle
+    m_Localized: <color=#A52B7C>Iron Turtle</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728621
-    m_Localized: Full of Vigor
+    m_Localized: <color=#F8D45F>Full of Vigor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728622
-    m_Localized: Dragon Roar
+    m_Localized: <color=#F8D45F>Dragon Roar</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728623
-    m_Localized: Thousand Faces
+    m_Localized: <color=#F8D45F>Thousand Faces</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728624
-    m_Localized: Master of Techniques
+    m_Localized: <color=#A52B7C>Master of Techniques</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728625
-    m_Localized: Swift as the Wind
+    m_Localized: <color=#A52B7C>Swift as the Wind</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728626
-    m_Localized: Foul Odor
+    m_Localized: <color=#93887B>Foul Odor</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728627
-    m_Localized: Stinking
+    m_Localized: <color=#5794B3>Stinking</color>
     m_Metadata:
       m_Items: []
   - m_Id: 208496392728628
-    m_Localized: Mechanical Body
+    m_Localized: <color=#F8D45F>Mechanical Body</color>
     m_Metadata:
       m_Items: []
   - m_Id: 755117962620928

@@ -989,11 +989,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148883
-    m_Localized: Refreshing
+    m_Localized: <size=47>Refreshing</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148884
-    m_Localized: Poisoned
+    m_Localized: <size=47>Poisoned</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148885
@@ -1001,7 +1001,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148886
-    m_Localized: <size=60>Nourishing
+    m_Localized: <size=60>Nourishing</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148887

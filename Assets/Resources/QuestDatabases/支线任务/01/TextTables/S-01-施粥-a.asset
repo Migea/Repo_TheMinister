@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u65BD\u7CA5-a"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 020000000100000003000000050000000600000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u65BD\u7CA5"
+    - Distributing porridge
+    - "\u65BD\u7CA5"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5B59\u5BB6\u5927\u5C0F\u59D0\u5B59\u4E54\u5FC3\u5730\u5584\u826F\uFF0C\u4E3A\u767E\u59D3\u65BD\u7CA5\uFF0C\u4F46\u6700\u8FD1\u7A77\u4EBA\u591A\u4E86\u8D77\u6765\uFF0C\u8BF7\u6D3E\u51FA\u4EBA\u624B\u5E2E\u5FD9\u3002"
+    - Miss Sun Qiao, the eldest daughter of the Sun family, is kind-hearted and distributes
+      porridge to the people. However, recently, the number of poor people has increased.
+      Please send someone to help.
+    - "\u5B59\u5BB6\u5927\u5C0F\u59D0\u5B59\u4E54\u5FC3\u5730\u5584\u826F\uFF0C\u4E3A\u767E\u59D3\u65BD\u7CA5\uFF0C\u4F46\u6700\u8FD1\u7A77\u4EBA\u591A\u4E86\u8D77\u6765\uFF0C\u8BF7\u6D3E\u51FA\u4EBA\u624B\u5E2E\u5FD9\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A640\u94F6\u4E24\uFF0C\u4EBA\u53C2\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: 640 silver, ginseng, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A640\u94F6\u4E24\uFF0C\u4EBA\u53C2\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5B59\u4E54\u5341\u5206\u611F\u8C22\u4F60\u7684\u5E2E\u52A9\uFF0C\u5E76\u8868\u793A\u5F88\u5FEB\u5C31\u4F1A\u7B79\u96C6\u8D44\u91D1\uFF0C\u5F00\u529E\u201C\u6653\u5DDD\u7CA5\u94FA\u201D\u4E3A\u5B59\u7236\u6B63\u540D\uFF0C\u4E5F\u662F\u4E3A\u767E\u59D3\u8C0B\u798F\u7949\u3002"
+    - Sun Qiao is very grateful for your help and announced that she will soon raise
+      funds to open the 'Xiaochuan Porridge Shop' to clear her father's name and
+      also benefit the people.
+    - "\u5B59\u4E54\u5341\u5206\u611F\u8C22\u4F60\u7684\u5E2E\u52A9\uFF0C\u5E76\u8868\u793A\u5F88\u5FEB\u5C31\u4F1A\u7B79\u96C6\u8D44\u91D1\uFF0C\u5F00\u529E\u201C\u6653\u5DDD\u7CA5\u94FA\u201D\u4E3A\u5B59\u7236\u6B63\u540D\uFF0C\u4E5F\u662F\u4E3A\u767E\u59D3\u8C0B\u798F\u7949\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

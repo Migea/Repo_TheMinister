@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u533B\u95F9-a"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 020000000100000003000000050000000600000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u533B\u95F9"
+    - Medical dispute
+    - "\u533B\u95F9"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7F57\u592B\u4EBA\u5BB6\u7684\u72EC\u5B50\u56E0\u4E3A\u6602\u8D35\u7684\u533B\u7597\u8D39\u7528\uFF0C\u8BF7\u6D3E\u51FA\u61C2\u533B\u672F\u7684\u968F\u4ECE\u524D\u53BB\u6CBB\u7597\u5B69\u5B50\u3002"
+    - Madam Luo's only son is suffering due to the high cost of medical treatment.
+      Please dispatch a medically skilled follower to treat the child.
+    - "\u7F57\u592B\u4EBA\u5BB6\u7684\u72EC\u5B50\u56E0\u4E3A\u6602\u8D35\u7684\u533B\u7597\u8D39\u7528\uFF0C\u8BF7\u6D3E\u51FA\u61C2\u533B\u672F\u7684\u968F\u4ECE\u524D\u53BB\u6CBB\u7597\u5B69\u5B50\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u7956\u6BCD\u7EFF\uFF0C\u964D\u4F4E\u5927\u91CF\u6C11\u6028\u3002"
+    - 'Reward: Emerald, significant reduction of pressure.'
+    - "\u5956\u52B1\uFF1A\u7956\u6BCD\u7EFF\uFF0C\u964D\u4F4E\u5927\u91CF\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7F57\u592B\u4EBA\u5341\u5206\u611F\u8C22\u4F60\u7684\u5E2E\u52A9\uFF0C\u4F46\u82E6\u4E8E\u56CA\u4E2D\u7F9E\u6DA9\uFF0C\u4FBF\u628A\u5BB6\u4F20\u7684\u4E00\u9897\u7956\u6BCD\u7EFF\u4EA4\u7ED9\u4F60\u4FDD\u7BA1\uFF0C\u5E76\u7B54\u5E94\u4F60\u4F1A\u627E\u673A\u4F1A\u8D4E\u56DE\u6765\u3002"
+    - Madam Luo is very grateful for your help, but due to her financial difficulties,
+      she entrusts you with a family heirloom emerald and promises to find an opportunity
+      to redeem it later.
+    - "\u7F57\u592B\u4EBA\u5341\u5206\u611F\u8C22\u4F60\u7684\u5E2E\u52A9\uFF0C\u4F46\u82E6\u4E8E\u56CA\u4E2D\u7F9E\u6DA9\uFF0C\u4FBF\u628A\u5BB6\u4F20\u7684\u4E00\u9897\u7956\u6BCD\u7EFF\u4EA4\u7ED9\u4F60\u4FDD\u7BA1\uFF0C\u5E76\u7B54\u5E94\u4F60\u4F1A\u627E\u673A\u4F1A\u8D4E\u56DE\u6765\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

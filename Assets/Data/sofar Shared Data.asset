@@ -72,27 +72,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 306101613293568
-    m_Key: "\u826F\u54C1"
+    m_Key: N
     m_Metadata:
       m_Items: []
   - m_Id: 306102062084096
-    m_Key: "\u4F18\u54C1"
+    m_Key: R
     m_Metadata:
       m_Items: []
   - m_Id: 306102905139200
-    m_Key: "\u6781\u54C1"
+    m_Key: SR
     m_Metadata:
       m_Items: []
   - m_Id: 306103597199360
-    m_Key: "\u4ED9\u54C1"
+    m_Key: SSR
     m_Metadata:
       m_Items: []
   - m_Id: 306104184401920
-    m_Key: "\u5723\u54C1"
+    m_Key: UR
     m_Metadata:
       m_Items: []
   - m_Id: 306104708689920
-    m_Key: New Entry 5
+    m_Key: B
     m_Metadata:
       m_Items: []
   m_Metadata:

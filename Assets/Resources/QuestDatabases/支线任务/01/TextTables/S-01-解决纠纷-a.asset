@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u89E3\u51B3\u7EA0\u7EB7-a"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 020000000100000003000000050000000600000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u89E3\u51B3\u7EA0\u7EB7"
+    - Resolve the dispute
+    - "\u89E3\u51B3\u7EA0\u7EB7"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u738B\u4F1F\u5BF9\u623F\u5B50\u5F88\u6EE1\u610F\uFF0C\u4F46\u662F\u5BF9\u4E8E\u5F81\u6536\u4FDD\u62A4\u8D39\u7684\u5730\u76AE\u5F88\u662F\u5934\u75BC\uFF0C\u5FEB\u6D3E\u4EBA\u8C03\u67E5\u6B64\u4E8B\u3002"
+    - Wang Wei is pleased with the house, but is troubled by the extortion of protection
+      fees for the land. Quickly send someone to investigate this matter.
+    - "\u738B\u4F1F\u5BF9\u623F\u5B50\u5F88\u6EE1\u610F\uFF0C\u4F46\u662F\u5BF9\u4E8E\u5F81\u6536\u4FDD\u62A4\u8D39\u7684\u5730\u76AE\u5F88\u662F\u5934\u75BC\uFF0C\u5FEB\u6D3E\u4EBA\u8C03\u67E5\u6B64\u4E8B\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A720\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: 720 silver, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A720\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u6839\u636E\u6293\u5230\u7684\u5730\u75DE\u6240\u4F9B\u8FF0\uFF0C\u4ED6\u4EEC\u7684\u9876\u5934\u4E0A\u53F8\u662F\u8859\u5F79\u9EC4\u4E1C\u3002"
+    - According to the captured thug's confession, their superior is Constable Huang
+      Dong.
+    - "\u6839\u636E\u6293\u5230\u7684\u5730\u75DE\u6240\u4F9B\u8FF0\uFF0C\u4ED6\u4EEC\u7684\u9876\u5934\u4E0A\u53F8\u662F\u8859\u5F79\u9EC4\u4E1C\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

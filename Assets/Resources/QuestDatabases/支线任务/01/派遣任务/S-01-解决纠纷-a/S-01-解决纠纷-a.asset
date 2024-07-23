@@ -41,10 +41,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A720\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &-7736867063491398804
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -78,10 +78,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u7B49\u5F85\u968F\u4ECE\u5B8C\u6210\u59D4\u4EFB\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &-7339217052635163430
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -141,10 +141,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u738B\u4F1F\u5BF9\u623F\u5B50\u5F88\u6EE1\u610F\uFF0C\u4F46\u662F\u5BF9\u4E8E\u5F81\u6536\u4FDD\u62A4\u8D39\u7684\u5730\u76AE\u5F88\u662F\u5934\u75BC\uFF0C\u5FEB\u6D3E\u4EBA\u8C03\u67E5\u6B64\u4E8B\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-5908754390273310207
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -164,6 +164,24 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_useOriginalName: 0
+--- !u!114 &-5422747777566593417
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &-4203366551620596198
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -232,10 +250,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u738B\u4F1F\u5BF9\u623F\u5B50\u5F88\u6EE1\u610F\uFF0C\u4F46\u662F\u5BF9\u4E8E\u5F81\u6536\u4FDD\u62A4\u8D39\u7684\u5730\u76AE\u5F88\u662F\u5934\u75BC\uFF0C\u5FEB\u6D3E\u4EBA\u8C03\u67E5\u6B64\u4E8B\u3002\r\n"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-3234262346502911571
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -287,12 +305,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -554,7 +572,9 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: 8142910538028486362}
         - {fileID: -6388021012995043889}
+        - {fileID: 6292445163039036045}
         - {fileID: 9091083643350410485}
+        - {fileID: 8343955754055528542}
         - {fileID: 5153252185129145451}
       - m_contentList: []
     - m_actionList: []
@@ -655,8 +675,9 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: -884803818343553036}
         - {fileID: 1783491087612366612}
-        - {fileID: -8330763322916108893}
         - {fileID: -7593067322472370120}
+        - {fileID: -5422747777566593417}
+        - {fileID: -8330763322916108893}
       - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
@@ -785,7 +806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u6D3E\u9063\u4E00\u540D\u968F\u4ECE\u89E3\u51B3\u6B64\u4E8B"
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -803,10 +824,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u738B\u4F1F\u5BF9\u623F\u5B50\u5F88\u6EE1\u610F\uFF0C\u4F46\u662F\u5BF9\u4E8E\u5F81\u6536\u4FDD\u62A4\u8D39\u7684\u5730\u76AE\u5F88\u662F\u5934\u75BC\uFF0C\u5FEB\u6D3E\u4EBA\u8C03\u67E5\u6B64\u4E8B\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &2820082840051418171
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -821,10 +842,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A720\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &2984778182722611299
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -919,12 +940,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 5
 --- !u!114 &5153252185129145451
 MonoBehaviour:
@@ -940,10 +961,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A720\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &5467838675727984627
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -963,6 +984,24 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_useOriginalName: 0
+--- !u!114 &6292445163039036045
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &8142910538028486362
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -976,13 +1015,31 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 2
+  m_headingLevel: 1
+--- !u!114 &8343955754055528542
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
     m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
-  m_headingLevel: 1
 --- !u!114 &9091083643350410485
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -997,7 +1054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u6839\u636E\u6293\u5230\u7684\u5730\u75DE\u6240\u4F9B\u8FF0\uFF0C\u4ED6\u4EEC\u7684\u9876\u5934\u4E0A\u53F8\u662F\u8859\u5F79\u9EC4\u4E1C\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 13b1b4037f8a7674da92056c7f9a1b6c, type: 2}
+    m_textTableFieldID: 6

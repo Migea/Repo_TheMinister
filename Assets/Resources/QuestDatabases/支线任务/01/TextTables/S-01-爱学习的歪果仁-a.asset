@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u7231\u5B66\u4E60\u7684\u6B6A\u679C\u4EC1-a"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 020000000100000003000000050000000600000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7231\u5B66\u4E60\u7684\u6B6A\u679C\u4EC1"
+    - Foreigner Who Loves Learning
+    - "\u7231\u5B66\u4E60\u7684\u6B6A\u679C\u4EC1"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5F25\u8D5B\u4E9A\u662F\u6765\u81EA\u897F\u65B9\u7684\u4F20\u6559\u58EB\uFF0C\u5341\u5206\u559C\u6B22\u4E1C\u65B9\u6587\u5316\uFF0C\u4E0E\u4F60\u4EA4\u6D41\u751A\u6B22\uFF0C\u60F3\u627E\u4EBA\u8BF7\u6559\u3002\u6D3E\u9063\u4E00\u540D\u968F\u4ECE\u3002"
+    - Messiah is a missionary from the West who loves Eastern culture and enjoys
+      engaging in conversations with you. He is looking for someone to learn from.
+      Please send a follower to assist him.
+    - "\u5F25\u8D5B\u4E9A\u662F\u6765\u81EA\u897F\u65B9\u7684\u4F20\u6559\u58EB\uFF0C\u5341\u5206\u559C\u6B22\u4E1C\u65B9\u6587\u5316\uFF0C\u4E0E\u4F60\u4EA4\u6D41\u751A\u6B22\uFF0C\u60F3\u627E\u4EBA\u8BF7\u6559\u3002\u6D3E\u9063\u4E00\u540D\u968F\u4ECE\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A150\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: 150 silver, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A150\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5F25\u8D5B\u4E9A\u9010\u6E10\u7406\u89E3\u4E86\u4E1C\u65B9\u6587\u5316\u7684\u9B45\u529B\uFF0C\u4E5F\u4E0D\u5728\u628A\u8BD7\u97F5\u8BFB\u6210\u201C\u77F3\u4E91\u201D\u4E86\u3002"
+    - Messiah gradually came to understand the charm of Eastern culture and no longer
+      mispronounces the name of the poetry collection.
+    - "\u5F25\u8D5B\u4E9A\u9010\u6E10\u7406\u89E3\u4E86\u4E1C\u65B9\u6587\u5316\u7684\u9B45\u529B\uFF0C\u4E5F\u4E0D\u5728\u628A\u8BD7\u97F5\u8BFB\u6210\u201C\u77F3\u4E91\u201D\u4E86\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 7

@@ -465,7 +465,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954545
-    m_Localized: "<size=47>Martial Arts \nEnthusiast</size>"
+    m_Localized: "<size=12>Martial Arts \nEnthusiast</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954546
@@ -969,11 +969,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148878
-    m_Localized: "<size=12>Prosthetic\n Limb</size43>"
+    m_Localized: "<size=12>Prosthetic\n Limb</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148879
-    m_Localized: <size=15>Poison</szie>
+    m_Localized: <size=15>Poison</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148880

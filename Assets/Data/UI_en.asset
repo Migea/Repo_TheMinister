@@ -1408,5 +1408,17 @@ MonoBehaviour:
     m_Localized: <size=28>Treatment</size>
     m_Metadata:
       m_Items: []
+  - m_Id: 8147218383826944
+    m_Localized: Archive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8147827472265216
+    m_Localized: came back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8149875882258432
+    m_Localized: The character becomes extremely disappointed in you and leaves you
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

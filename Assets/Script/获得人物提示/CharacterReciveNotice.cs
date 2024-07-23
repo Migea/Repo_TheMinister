@@ -42,7 +42,7 @@ public class CharacterReciveNotice : MonoBehaviour
         foreach (Tag tag in character.tagList)
         {
             Image tagObj = Instantiate(Resources.Load<Image>("Tag/Tag"), tags);
-            tagObj.GetComponentInChildren<TagWithDescribetion>().Setup(tag);
+            tagObj.GetComponentInChildren<TagWithDescribetion>().SetupSmall(tag);
         }
         var wisdom = (int)character.characterValueRareDict[CharacterValueType.ÖÇ] / 2;
         Wisdom.color = RarityColors[wisdom > 0 ? wisdom : 0];

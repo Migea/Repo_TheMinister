@@ -38,6 +38,14 @@ public class TagWithDescribetion : MonoBehaviour, IDetailAble, IPointerEnterHand
         ChangeTagBackground();
         ChangeTagText();
     }
+    public void SetupSmall(Tag tag)
+    {
+        Tag = tag;
+        ChangeTagBackground();
+        ChangeTagText();
+        text.rectTransform.sizeDelta = new Vector2(66f, 22.5f);
+        text.rectTransform.localScale = new Vector2(0.8f, 0.8f);
+    }
 
 
     public void OnPointerEnter(PointerEventData eventData)

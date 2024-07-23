@@ -53,17 +53,34 @@ public class HorseItemUI : ItemUI
         if (currencyInv.Money < int.Parse(RentPrice.text))
         {
             var alert = Instantiate<Text>(Resources.Load<Text>("Hiring/Message"), MainCanvas.FindMainCanvas());
-            alert.text = "你需要更多银两";
+            LocalizedString alertString = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = $"提示_你需要更多银两"
+            };
+            alert.text = alertString.GetLocalizedString();
             return;
         }
-        buff = (int)framRarity / 2 + 1;
-        string message = "是否花费" + RentPrice.text + "银两租用" + ItemName + $"并获得{buff}倍移动加成?";
-        StartCoroutine(Confirmation.CreateNewComfirmation(RentItem, message).Confirm());
+        else
+        {
+            buff = (int)framRarity / 2 + 1;
+            RentItem();
+        }
     }
     public void RentItem()
     {
         var alert = Instantiate<Text>(Resources.Load<Text>("Hiring/Message"), MainCanvas.FindMainCanvas());
-        alert.text = "获得了 " + buff + "倍移速加成";
+        LocalizedString message_1_String = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"商店购买_获得了"
+        };
+        LocalizedString message_2_String = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"倍移速加成"
+        };
+        alert.text = message_1_String.GetLocalizedString() + buff + message_2_String.GetLocalizedString();
         var currencyInv = FindObjectOfType<CurrencyInventory>();
         currencyInv.Money -= int.Parse(RentPrice.text);
         FindObjectOfType<Map>().HorseMovementBuff = buff;

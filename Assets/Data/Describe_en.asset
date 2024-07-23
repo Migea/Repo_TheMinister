@@ -329,5 +329,9 @@ MonoBehaviour:
     m_Localized: Save&Lord
     m_Metadata:
       m_Items: []
+  - m_Id: 2702522375270400
+    m_Localized: Fast Battle
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

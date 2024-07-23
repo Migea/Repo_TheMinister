@@ -1394,5 +1394,9 @@ MonoBehaviour:
     m_Localized: Recruitment needs
     m_Metadata:
       m_Items: []
+  - m_Id: 7986384055627776
+    m_Localized: Jewely
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

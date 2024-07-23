@@ -1400,5 +1400,9 @@ MonoBehaviour:
     m_Localized: Purchased horses can only be equipped to characters
     m_Metadata:
       m_Items: []
+  - m_Id: 8133931218825216
+    m_Localized: x block movement increase
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -91,15 +91,15 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Yu Suwen
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u4E8E\u8083\u6587"
       type: 4
       typeString: CustomFieldType_Localization

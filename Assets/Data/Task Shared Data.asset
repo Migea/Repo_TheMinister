@@ -10,49 +10,49 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: Favor Shared Data
+  m_Name: Task Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: Favor
-  m_TableCollectionNameGuidString: 9944f149efd49e64089ca9d8d74dbccc
+  m_TableCollectionName: Task
+  m_TableCollectionNameGuidString: 591e2c16238b62946bcd6b5cf9558cd0
   m_Entries:
-  - m_Id: 8035037184
-    m_Key: "\u559C\u597D"
+  - m_Id: 7766601728
+    m_Key: "\u542F\u7A0B"
     m_Metadata:
       m_Items: []
-  - m_Id: 11726024704
-    m_Key: "\u7D20\u98DF"
+  - m_Id: 10878775296
+    m_Key: "\u6682\u79BB\u65F6\u95F4\uFF1A"
     m_Metadata:
       m_Items: []
-  - m_Id: 14498459648
-    m_Key: "\u8364\u98DF"
+  - m_Id: 507425648640
+    m_Key: "task_\u4F53"
     m_Metadata:
       m_Items: []
-  - m_Id: 72028865228800
-    m_Key: "\u8349\u836F"
+  - m_Id: 530351714304
+    m_Key: "task_\u5FE0"
     m_Metadata:
       m_Items: []
-  - m_Id: 72030983352320
-    m_Key: "\u8865\u836F"
+  - m_Id: 889036009472
+    m_Key: "\u94F6\u5E93\u7684\u8001\u9F20\uFF1A"
     m_Metadata:
       m_Items: []
-  - m_Id: 72032778514432
-    m_Key: "\u9999\u6599"
+  - m_Id: 8675413258240
+    m_Key: "\u63A2\u5BFB\u94C5\u7684\u6765\u5386\uFF1A"
     m_Metadata:
       m_Items: []
-  - m_Id: 72034217160704
-    m_Key: "\u8C03\u6599"
+  - m_Id: 9209855668224
+    m_Key: "\u63A2\u8BBF\u767D\u4E91\u5BFA\uFF1A"
     m_Metadata:
       m_Items: []
-  - m_Id: 72035534172160
-    m_Key: "\u751C\u70B9"
+  - m_Id: 9359089004544
+    m_Key: "\u8C03\u67E5\u9609\u515A\uFF1A"
     m_Metadata:
       m_Items: []
-  - m_Id: 72036402393088
-    m_Key: "\u9152\u6C34"
+  - m_Id: 9360573788160
+    m_Key: New Entry 1
     m_Metadata:
       m_Items: []
-  - m_Id: 72192061403136
-    m_Key: "\u4E39\u836F"
+  - m_Id: 9361618169856
+    m_Key: New Entry 2
     m_Metadata:
       m_Items: []
   m_Metadata:
@@ -64,4 +64,4 @@ MonoBehaviour:
     00000000:
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
-        m_CustomEpoch: 1721749289119
+        m_CustomEpoch: 1721763946496

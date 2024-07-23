@@ -1401,7 +1401,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8133931218825216
-    m_Localized: x block movement increase
+    m_Localized: '* blocks movement increase'
     m_Metadata:
       m_Items: []
   references:

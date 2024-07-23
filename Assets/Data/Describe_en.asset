@@ -333,5 +333,10 @@ MonoBehaviour:
     m_Localized: Fast Battle
     m_Metadata:
       m_Items: []
+  - m_Id: 2905185023270912
+    m_Localized: Influence in the capital is gained through completing tasks, bribery,
+      and appointing officials.
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

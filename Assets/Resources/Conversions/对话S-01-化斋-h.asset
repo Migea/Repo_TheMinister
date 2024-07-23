@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 935899b62f48ae5498594680ed17d133, type: 3}
-  m_Name: "\u5BF9\u8BDDS-01-\u56DE\u5934\u5BA2-h"
+  m_Name: "\u5BF9\u8BDDS-01-\u5316\u658B-h"
   m_EditorClassIdentifier: 
   version: 
   author: 
@@ -72,7 +72,7 @@ MonoBehaviour:
   - id: 2
     fields:
     - title: Name
-      value: "\u5468\u5F08"
+      value: "\u9648\u4E91\u68A6"
       type: 0
       typeString: 
     - title: Pictures
@@ -88,7 +88,7 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name en
-      value: Zhou Yi
+      value: Chen Yunmeng
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name ja
@@ -96,15 +96,15 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: DIsplay Name zh
-      value: "\u5468\u5F08"
+      value: "\u9648\u4E91\u68A6"
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
       typeString: 
-    portrait: {fileID: 2800000, guid: 5fdbe83107df909458276ecb608adecc, type: 3}
-    spritePortrait: {fileID: 21300000, guid: 5fdbe83107df909458276ecb608adecc, type: 3}
+    portrait: {fileID: 2800000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
+    spritePortrait: {fileID: 21300000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     alternatePortraits: []
     spritePortraits: []
   items: []
@@ -232,8 +232,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 32
-        y: 20
+        x: 31
+        y: 19
         width: 160
         height: 30
     - id: 1
@@ -255,7 +255,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u563F\uFF0C\u674E\u5927\u4EBA\uFF0C\u8FD9\u6B21\u5F97\u966A\u6211\u559D\u70B9\u4E86\u5427\uFF1F"
+        value: "\u8FD9\u4E0D\u662F\u674E\u5927\u4EBA\u5417\uFF0C\u8D2B\u50E7\u6B63\u5728\u5316\u658B\uFF0C\u8BA9\u60A8\u89C1\u7B11\u4E86\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -267,11 +267,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Heh, Lord Li, this time you must drink with me, right?
+        value: Isn't this Lord Li? I am currently soliciting alms; pardon me for
+          making you laugh.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u563F\uFF0C\u674E\u5927\u4EBA\uFF0C\u8FD9\u6B21\u5F97\u966A\u6211\u559D\u70B9\u4E86\u5427\uFF1F"
+        value: "\u8FD9\u4E0D\u662F\u674E\u5927\u4EBA\u5417\uFF0C\u8D2B\u50E7\u6B63\u5728\u5316\u658B\uFF0C\u8BA9\u60A8\u89C1\u7B11\u4E86\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -289,7 +290,7 @@ MonoBehaviour:
       - originConversationID: 1
         originDialogueID: 1
         destinationConversationID: 1
-        destinationDialogueID: 3
+        destinationDialogueID: 4
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -299,8 +300,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 149
-        y: 123
+        x: 33
+        y: 111
         width: 160
         height: 30
     - id: 2
@@ -322,7 +323,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u597D\uFF0C\u8FD9\u662F\u60A8\u8981\u7684\u7AF9\u53F6\u9752.\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
+        value: "\u5BA2\u6C14\u4E86\uFF0C\u8FD9\u4E2A\u6E05\u84B8\u767D\u841D\u535C\uFF0C\u9648\u65B9\u4E08\u5C31\u62FF\u53BB\u5427\u3002\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 0
         typeString: 
       - title: Sequence
@@ -334,11 +335,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Alright, here is the Bamboo Leaf Green wine you wanted. [Accept Task]
+        value: You're too kind. Please accept this steamed white radish, Abbot Chen.
+          [Accept Task]
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u597D\uFF0C\u8FD9\u662F\u60A8\u8981\u7684\u7AF9\u53F6\u9752.\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
+        value: "\u5BA2\u6C14\u4E86\uFF0C\u8FD9\u4E2A\u6E05\u84B8\u767D\u841D\u535C\uFF0C\u9648\u65B9\u4E08\u5C31\u62FF\u53BB\u5427\u3002\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -360,8 +362,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 57.73973
-        y: 558.2054
+        x: 44
+        y: 408
         width: 160
         height: 30
     - id: 3
@@ -383,7 +385,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u5468\u5927\u5E08\uFF0C\u767D\u5929\u6211\u4EEC\u89C4\u5B9A\u662F\u4E0D\u80FD\u559D\u7684\uFF0C\u8981\u4E0D\u54B1\u4EEC\u665A\u4E9B..."
+        value: "\u6211\u4E0D\u66FE\u643A\u5E26\u3002\u3010\u79BB\u5F00\u3011"
         type: 0
         typeString: 
       - title: Sequence
@@ -395,12 +397,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Master Zhou, we are not allowed to drink during the day. How about
-          we do it later...?
+        value: I don't have any with me. [Leave]
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u5468\u5927\u5E08\uFF0C\u767D\u5929\u6211\u4EEC\u89C4\u5B9A\u662F\u4E0D\u80FD\u559D\u7684\uFF0C\u8981\u4E0D\u54B1\u4EEC\u665A\u4E9B..."
+        value: "\u6211\u4E0D\u66FE\u643A\u5E26\u3002\u3010\u79BB\u5F00\u3011"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -414,13 +415,7 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 1
-        originDialogueID: 3
-        destinationConversationID: 1
-        destinationDialogueID: 4
-        isConnector: 0
-        priority: 2
+      outgoingLinks: []
       conditionsString: 
       userScript: 
       onExecute:
@@ -428,18 +423,18 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 132
-        y: 210
+        x: 292
+        y: 407
         width: 160
         height: 30
     - id: 4
       fields:
       - title: Actor
-        value: 2
+        value: 1
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
-        value: 1
+        value: 2
         type: 5
         typeString: CustomFieldType_Actor
       - title: Title
@@ -451,7 +446,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u54A6\uFF0C\u5C31\u73B0\u5728\u6709\u5174\u81F4\uFF0C\u8FD8\u7B49\u4EC0\u4E48\u665A\u4E0A\uFF0C\u559D\u70B9\uFF0C\u6211\u8BF7\uFF0C\u559D\u5B8C\u8FD8\u7ED9\u4F60\u4E2A\u5B9D\u8D1D\u3002"
+        value: "\u54EA\u6709\u7684\u4E8B\uFF0C\u600E\u4F1A\u7B11\u8BDD\u51FA\u5BB6\u4EBA\u5462\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -463,12 +458,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Eh, I'm in the mood right now, why wait until evening? Have a drink;
-          it's on me. I'll even give you a treasure after we finish.
+        value: Not at all, how could I possibly laugh at a monk?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u54A6\uFF0C\u5C31\u73B0\u5728\u6709\u5174\u81F4\uFF0C\u8FD8\u7B49\u4EC0\u4E48\u665A\u4E0A\uFF0C\u559D\u70B9\uFF0C\u6211\u8BF7\uFF0C\u559D\u5B8C\u8FD8\u7ED9\u4F60\u4E2A\u5B9D\u8D1D\u3002"
+        value: "\u54EA\u6709\u7684\u4E8B\uFF0C\u600E\u4F1A\u7B11\u8BDD\u51FA\u5BB6\u4EBA\u5462\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -496,18 +490,18 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 100
-        y: 275
+        x: 42
+        y: 172
         width: 160
         height: 30
     - id: 5
       fields:
       - title: Actor
-        value: 1
+        value: 2
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
-        value: 2
+        value: 1
         type: 5
         typeString: CustomFieldType_Actor
       - title: Title
@@ -519,7 +513,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u8C22\u8FC7\u5468\u5927\u5E08\u4E86\uFF0C\u4F46\u662F\u6211\u786E\u5B9E\u559D\u4E0D\u4E86\uFF0C\u8FD9\u4E2A\u5B9D\u8D1D\u662F\uFF1F"
+        value: "\u674E\u5927\u4EBA\u6765\u6B64\u5904\u662F\u6709\u4E8B\uFF1F"
         type: 0
         typeString: 
       - title: Sequence
@@ -531,11 +525,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Thank you, Master Zhou, but I really can't drink. What is this treasure?
+        value: Is Lord Li here on business?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u8C22\u8FC7\u5468\u5927\u5E08\u4E86\uFF0C\u4F46\u662F\u6211\u786E\u5B9E\u559D\u4E0D\u4E86\uFF0C\u8FD9\u4E2A\u5B9D\u8D1D\u662F\uFF1F"
+        value: "\u674E\u5927\u4EBA\u6765\u6B64\u5904\u662F\u6709\u4E8B\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -563,18 +557,18 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 100
-        y: 325
+        x: 44
+        y: 229
         width: 160
         height: 30
     - id: 6
       fields:
       - title: Actor
-        value: 2
+        value: 1
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
-        value: 1
+        value: 2
         type: 5
         typeString: CustomFieldType_Actor
       - title: Title
@@ -586,7 +580,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u54C8\uFF0C\u4F60\u8FD8\u633A\u597D\u5947\u662F\u5427\uFF1F"
+        value: "\u6CA1\uFF0C\u6211\u4E5F\u662F\u8DEF\u8FC7\u6B64\u5730\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -598,11 +592,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Ha, you're quite curious, aren't you?
+        value: No, I'm just passing through.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u54C8\uFF0C\u4F60\u8FD8\u633A\u597D\u5947\u662F\u5427\uFF1F"
+        value: "\u6CA1\uFF0C\u6211\u4E5F\u662F\u8DEF\u8FC7\u6B64\u5730\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -630,18 +624,18 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 100
-        y: 373
+        x: 57
+        y: 296
         width: 160
         height: 30
     - id: 7
       fields:
       - title: Actor
-        value: 1
+        value: 2
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
-        value: 2
+        value: 1
         type: 5
         typeString: CustomFieldType_Actor
       - title: Title
@@ -653,7 +647,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u54C8\u54C8\u54C8\u54C8\u8C01\u4E0D\u597D\u5947\u5B9D\u8D1D\u5462\uFF1F"
+        value: "\u90A3\u674E\u5927\u4EBA\u53EF\u6709\u4E00\u76D8<color=#93887B>\u6E05\u84B8\u767D\u841D\u535C</color>\u65BD\u820D\u7ED9\u8D2B\u50E7\uFF1F"
         type: 0
         typeString: 
       - title: Sequence
@@ -665,11 +659,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Hahaha, who wouldn't be curious about a treasure?
+        value: Then does Lord Li have a plate of <color=#93887B>steamed white radish</color>
+          to offer this humble monk?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u54C8\u54C8\u54C8\u54C8\u8C01\u4E0D\u597D\u5947\u5B9D\u8D1D\u5462\uFF1F"
+        value: "\u90A3\u674E\u5927\u4EBA\u53EF\u6709\u4E00\u76D8<color=#93887B>\u6E05\u84B8\u767D\u841D\u535C</color>\u65BD\u820D\u7ED9\u8D2B\u50E7\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -687,81 +682,13 @@ MonoBehaviour:
       - originConversationID: 1
         originDialogueID: 7
         destinationConversationID: 1
-        destinationDialogueID: 8
-        isConnector: 0
-        priority: 2
-      conditionsString: 
-      userScript: 
-      onExecute:
-        m_PersistentCalls:
-          m_Calls: []
-      canvasRect:
-        serializedVersion: 2
-        x: 100
-        y: 423
-        width: 160
-        height: 30
-    - id: 8
-      fields:
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Title
-        value: 
-        type: 0
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: "\u8FD9\u6837\u5427\uFF0C\u4F60\u53BB\u7ED9\u6211\u627E\u58F6\u7AF9\u53F6\u9752\u6765\uFF0C\u6211\u5C31\u7ED9\u4F60\u8FD9\u5B9D\u8D1D\u3002"
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: en
-        value: Tell you what, bring me a pot of Bamboo Leaf Green wine, and I'll
-          give you this treasure.
-        type: 4
-        typeString: CustomFieldType_Localization
-      - title: zh
-        value: "\u8FD9\u6837\u5427\uFF0C\u4F60\u53BB\u7ED9\u6211\u627E\u58F6\u7AF9\u53F6\u9752\u6765\uFF0C\u6211\u5C31\u7ED9\u4F60\u8FD9\u5B9D\u8D1D\u3002"
-        type: 4
-        typeString: CustomFieldType_Localization
-      - title: ja
-        value: 
-        type: 4
-        typeString: CustomFieldType_Localization
-      conversationID: 1
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks:
-      - originConversationID: 1
-        originDialogueID: 8
-        destinationConversationID: 1
         destinationDialogueID: 2
         isConnector: 0
         priority: 2
       - originConversationID: 1
-        originDialogueID: 8
+        originDialogueID: 7
         destinationConversationID: 1
-        destinationDialogueID: 9
+        destinationDialogueID: 3
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -771,69 +698,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 94.52055
-        y: 488.0685
-        width: 160
-        height: 30
-    - id: 9
-      fields:
-      - title: Actor
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Conversant
-        value: 2
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Title
-        value: 
-        type: 0
-        typeString: 
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: "\u770B\u6765\u6211\u4E0E\u8FD9\u5B9D\u8D1D\u65E0\u7F18\u554A.\u3010\u79BB\u5F00\u3011"
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: en
-        value: Seems like I have no affinity with this treasure. [Leave]
-        type: 4
-        typeString: CustomFieldType_Localization
-      - title: zh
-        value: "\u770B\u6765\u6211\u4E0E\u8FD9\u5B9D\u8D1D\u65E0\u7F18\u554A.\u3010\u79BB\u5F00\u3011"
-        type: 4
-        typeString: CustomFieldType_Localization
-      - title: ja
-        value: 
-        type: 4
-        typeString: CustomFieldType_Localization
-      conversationID: 1
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks: []
-      conditionsString: 
-      userScript: 
-      onExecute:
-        m_PersistentCalls:
-          m_Calls: []
-      canvasRect:
-        serializedVersion: 2
-        x: 263.0136
-        y: 554.5068
+        x: 64
+        y: 348
         width: 160
         height: 30
     entryGroups: []
@@ -969,7 +835,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u563B\uFF0C\u5634\u4E0A\u8BF4\u7740\u4E0D\u559D\uFF0C\u515C\u91CC\u8FD8\u5E26\u7740\u9152\u561B"
+        value: "\u963F\u5F25\u9640\u4F5B\uFF0C\u591A\u8C22\u674E\u5927\u4EBA\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -981,11 +847,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Heh, you say you don't drink, but you've got wine in your pocket.
+        value: Amitabha, thank you, Lord Li.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u563B\uFF0C\u5634\u4E0A\u8BF4\u7740\u4E0D\u559D\uFF0C\u515C\u91CC\u8FD8\u5E26\u7740\u9152\u561B"
+        value: "\u963F\u5F25\u9640\u4F5B\uFF0C\u591A\u8C22\u674E\u5927\u4EBA\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1013,8 +879,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 53
-        y: 164
+        x: 85
+        y: 107
         width: 160
         height: 30
     - id: 2
@@ -1036,7 +902,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u603B\u4F1A\u7528\u5F97\u4E0A\u561B\u3002"
+        value: "\u5927\u5E08\u5BA2\u6C14\u4E86\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -1048,11 +914,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Might come in handy.
+        value: 
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u603B\u4F1A\u7528\u5F97\u4E0A\u561B\u3002"
+        value: "\u5927\u5E08\u5BA2\u6C14\u4E86\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1074,8 +940,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 64
-        y: 280
+        x: 107
+        y: 255
         width: 160
         height: 30
     entryGroups: []
@@ -1188,7 +1054,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 31
+        x: 30
         y: 20
         width: 160
         height: 30
@@ -1211,7 +1077,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u5582\uFF0C\u6211\u7684\u7AF9\u53F6\u9752\u5462\uFF1F"
+        value: "\u674E\u5927\u4EBA\uFF0C\u60A8..."
         type: 0
         typeString: 
       - title: Sequence
@@ -1223,11 +1089,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Hey, where's my Bamboo Leaf Green wine?
+        value: Lord Li, you...
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u5582\uFF0C\u6211\u7684\u7AF9\u53F6\u9752\u5462\uFF1F"
+        value: "\u674E\u5927\u4EBA\uFF0C\u60A8..."
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1255,8 +1121,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 72
-        y: 124
+        x: 42
+        y: 146
         width: 160
         height: 30
     - id: 2
@@ -1278,7 +1144,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u6211\u8FD9\u5C31\u53BB\u627E"
+        value: "\u8FD9\u5C31\u53BB\u7ED9\u4F60\u62FF\u6765\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -1290,11 +1156,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: I'll go get it right away.
+        value: I'll go get the dish for you.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u6211\u8FD9\u5C31\u53BB\u627E"
+        value: "\u8FD9\u5C31\u53BB\u7ED9\u4F60\u62FF\u6765\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1316,8 +1182,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 57
-        y: 245
+        x: 82
+        y: 303
         width: 160
         height: 30
     entryGroups: []
@@ -1453,7 +1319,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u9152\u53EF\u592A\u597D\u559D\u4E86\u4E0D\u662F\u5417\uFF0C"
+        value: "\u611F\u8C22\u65BD\u4E3B\u8D60\u4E0E\u4E4B\u7269\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -1465,11 +1331,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Isn't the wine just delicious?
+        value: Thank you for your gift.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u9152\u53EF\u592A\u597D\u559D\u4E86\u4E0D\u662F\u5417\uFF0C"
+        value: "\u611F\u8C22\u65BD\u4E3B\u8D60\u4E0E\u4E4B\u7269\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1497,8 +1363,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 30
-        y: 70
+        x: 30.35294
+        y: 90.29416
         width: 160
         height: 30
     - id: 2
@@ -1520,7 +1386,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u5468\u5927\u5E08\u4E0D\u6127\u662F\u7231\u9152\u4E4B\u4EBA\u3002"
+        value: "\u5927\u5E08\u544A\u8F9E"
         type: 0
         typeString: 
       - title: Sequence
@@ -1532,11 +1398,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: Master Zhou, you truly are a connoisseur of fine wine.
+        value: Farewell, Master.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: "\u5468\u5927\u5E08\u4E0D\u6127\u662F\u7231\u9152\u4E4B\u4EBA\u3002"
+        value: "\u5927\u5E08\u544A\u8F9E"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1558,8 +1424,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 35
-        y: 205
+        x: 32.05882
+        y: 176.8235
         width: 160
         height: 30
     entryGroups: []
@@ -1574,13 +1440,4 @@ MonoBehaviour:
     syncItemsDatabase: {fileID: 0}
     syncLocationsDatabase: {fileID: 0}
     syncVariablesDatabase: {fileID: 0}
-  templateJson: '{"treatItemsAsQuests":true,"actorFields":[{"title":"Name","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"IsPlayer","value":"False","type":2,"typeString":"CustomFieldType_Boolean"},{"title":"DIsplay
-    Name en","value":"","type":4,"typeString":"CustomFieldType_Localization"},{"title":"DIsplay
-    Name ja","value":"","type":4,"typeString":"CustomFieldType_Localization"},{"title":"DIsplay
-    Name zh","value":"","type":4,"typeString":"CustomFieldType_Localization"}],"itemFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Is
-    Item","value":"True","type":2,"typeString":"CustomFieldType_Boolean"}],"questFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Pictures","value":"[]","type":3,"typeString":"CustomFieldType_Files"},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Success
-    Description","value":"","type":0,"typeString":""},{"title":"Failure Description","value":"","type":0,"typeString":""},{"title":"State","value":"unassigned","type":0,"typeString":""},{"title":"Is
-    Item","value":"False","type":2,"typeString":"CustomFieldType_Boolean"}],"locationFields":[{"title":"Name","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Description","value":"","type":0,"typeString":"CustomFieldType_Text"}],"variableFields":[{"title":"Name","value":"","type":0,"typeString":""},{"title":"Initial
-    Value","value":"","type":0,"typeString":""},{"title":"Description","value":"","type":0,"typeString":""}],"conversationFields":[{"title":"Title","value":"","type":0,"typeString":""},{"title":"Description","value":"","type":0,"typeString":""},{"title":"Actor","value":"0","type":5,"typeString":"CustomFieldType_Actor"},{"title":"Conversant","value":"0","type":5,"typeString":"CustomFieldType_Actor"}],"dialogueEntryFields":[{"title":"Title","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Description","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Actor","value":"","type":5,"typeString":"CustomFieldType_Actor"},{"title":"Conversant","value":"","type":5,"typeString":"CustomFieldType_Actor"},{"title":"Menu
-    Text","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Dialogue
-    Text","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"Sequence","value":"","type":0,"typeString":"CustomFieldType_Text"},{"title":"en","value":"","type":4,"typeString":"CustomFieldType_Localization"},{"title":"zh","value":"","type":4,"typeString":"CustomFieldType_Localization"},{"title":"ja","value":"","type":4,"typeString":"CustomFieldType_Localization"}],"actorPrimaryFieldTitles":[],"itemPrimaryFieldTitles":[],"questPrimaryFieldTitles":[],"locationPrimaryFieldTitles":[],"variablePrimaryFieldTitles":[],"conversationPrimaryFieldTitles":[],"dialogueEntryPrimaryFieldTitles":[],"npcLineColor":{"r":1.0,"g":0.0,"b":0.0,"a":1.0},"pcLineColor":{"r":0.0,"g":0.0,"b":1.0,"a":1.0},"repeatLineColor":{"r":0.5,"g":0.5,"b":0.5,"a":1.0}}'
+  templateJson: 

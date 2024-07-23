@@ -212,7 +212,7 @@ MonoBehaviour:
   - "\u8D2A\u6C61\u72FC\u85C9"
   - "\u597D\u9152\u4E4B\u4EBA"
   - "\u6587\u5316\u6C99\u6F20"
-  FakeName: "\u767D\u4E54"
+  FakeName: "\u5B59\u4E54"
   setDone: 0
 --- !u!1 &7706260949427909054
 GameObject:

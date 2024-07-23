@@ -40,7 +40,7 @@ MonoBehaviour:
     - title: Name
       value: "\u674E\u8881\u964C"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -48,9 +48,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: True
+      value: TRUE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name zh
@@ -74,7 +74,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5F20\u6728"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -82,9 +82,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name zh
@@ -117,7 +117,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -171,14 +171,6 @@ MonoBehaviour:
     dialogueEntries:
     - id: 0
       fields:
-      - title: Title
-        value: START
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
       - title: Actor
         value: 1
         type: 5
@@ -187,6 +179,10 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
@@ -197,6 +193,10 @@ MonoBehaviour:
         typeString: 
       - title: Sequence
         value: None()
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
         type: 0
         typeString: 
       conversationID: 1
@@ -226,14 +226,6 @@ MonoBehaviour:
         height: 30
     - id: 1
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
       - title: Actor
         value: 2
         type: 5
@@ -242,6 +234,10 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
@@ -254,6 +250,18 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Isn't this Lord Li? I've heard so much about you!
+        type: 4
+        typeString: CustomFieldType_Localization
+      - title: zh
+        value: "\u8FD9\u4E0D\u662F\u674E\u5927\u4EBA\u5417\uFF0C\u4E45\u4EF0\u5927\u540D\uFF01"
+        type: 4
+        typeString: CustomFieldType_Localization
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -281,14 +289,6 @@ MonoBehaviour:
         height: 30
     - id: 2
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
       - title: Actor
         value: 1
         type: 5
@@ -297,6 +297,10 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
@@ -309,12 +313,16 @@ MonoBehaviour:
         value: 
         type: 0
         typeString: 
-      - title: en
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Oh? You know of me, a mere assistant minister who just arrived?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u54E6\uFF1F\u4F60\u77E5\u9053\u6211\u4E00\u4E2A\u521A\u6765\u7684\u5C0F\u5C0F\u4F8D\u90CE\uFF1F\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -343,19 +351,11 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 90.22783
-        y: 226.84811
+        y: 226.8481
         width: 160
         height: 30
     - id: 4
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -364,24 +364,34 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u674E\u5927\u4EBA\u54EA\u91CC\u7684\u8BDD\uFF0C\u9119\u4EBA\u5F20\u6728\uFF0C\u5BB6\u91CC\u505A\u70B9\u5C0F\u672C\u751F\u610F\uFF0C\u6211\u4EEC\u8FD9\u4E9B\u505A\u751F\u610F\u4EBA\u7684\uFF0C\u5F53\u7136\u8981\u5173\u6CE8\u4E00\u4E0B\u60A8\u7B49\u5927\u4EBA\u7269\u7684\u6765\u5F80\u554A\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Lord Li, you're too modest. My name is Zhang Mu, and I run a small
+          business. We businessmen naturally keep an eye on the movements of important
+          figures like yourself.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u54EA\u91CC\u7684\u8BDD\uFF0C\u9119\u4EBA\u5F20\u6728\uFF0C\u5BB6\u91CC\u505A\u70B9\u5C0F\u672C\u751F\u610F\uFF0C\u6211\u4EEC\u8FD9\u4E9B\u505A\u751F\u610F\u4EBA\u7684\uFF0C\u5F53\u7136\u8981\u5173\u6CE8\u4E00\u4E0B\u60A8\u7B49\u5927\u4EBA\u7269\u7684\u6765\u5F80\u554A\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -409,20 +419,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
-        y: 283.89874
+        x: 80.43037
+        y: 283.8987
         width: 160
         height: 30
     - id: 6
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -431,24 +433,33 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u65E2\u7136\u4F60\u8BC6\u5F97\u6211\u4E00\u4E2A\u4F8D\u90CE\uFF0C\u90A3\u6211\u5C31\u5E2E\u4F60\u8FD9\u6B21\u3002\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Since you recognize me as an assistant minister, I'll help you this
+          time. [Accept Task]
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u65E2\u7136\u4F60\u8BC6\u5F97\u6211\u4E00\u4E2A\u4F8D\u90CE\uFF0C\u90A3\u6211\u5C31\u5E2E\u4F60\u8FD9\u6B21\u3002\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -467,35 +478,15 @@ MonoBehaviour:
       userScript: Variable["Assign"] = true;
       onExecute:
         m_PersistentCalls:
-          m_Calls:
-          - m_Target: {fileID: 6314716713428874753, guid: 76306f881ad56da438e639bb33072638, type: 3}
-            m_TargetAssemblyTypeName: GiveQuestOnActive, Assembly-CSharp
-            m_MethodName: Start
-            m_Mode: 1
-            m_Arguments:
-              m_ObjectArgument: {fileID: 0}
-              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-              m_IntArgument: 0
-              m_FloatArgument: 0
-              m_StringArgument: 
-              m_BoolArgument: 0
-            m_CallState: 2
+          m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3.3418808
+        x: 3.341881
         y: 756.7739
         width: 160
         height: 30
     - id: 7
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -504,24 +495,32 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u54C8\u54C8\u54C8\uFF01\u5BA2\u6C14\u5BA2\u6C14\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: 'Hahaha! You''re too kind! '
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u54C8\u54C8\u54C8\uFF01\u5BA2\u6C14\u5BA2\u6C14\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -549,20 +548,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
-        y: 333.89874
+        x: 80.43037
+        y: 333.8987
         width: 160
         height: 30
     - id: 8
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -571,24 +562,32 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u674E\u5927\u4EBA\u4E3A\u4F55\u6765\u6B64\u554A\uFF1F"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: What brings you here?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u4E3A\u4F55\u6765\u6B64\u554A\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -616,20 +615,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
-        y: 382.63293
+        x: 80.43037
+        y: 382.6329
         width: 160
         height: 30
     - id: 9
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -638,24 +629,33 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u53EA\u662F\u6253\u7B97\u53BB\u8F6C\u8F6C\u8FD9\u4EAC\u57CE\u5468\u8FB9\uFF0C\u719F\u6089\u719F\u6089\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: I'm just planning to stroll around the outskirts of the capital to
+          get familiar with the area.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u53EA\u662F\u6253\u7B97\u53BB\u8F6C\u8F6C\u8FD9\u4EAC\u57CE\u5468\u8FB9\uFF0C\u719F\u6089\u719F\u6089\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -683,20 +683,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
-        y: 431.36713
+        x: 80.43037
+        y: 431.3671
         width: 160
         height: 30
     - id: 10
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -705,24 +697,32 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5927\u4EBA\uFF0C\u8FD9\u57CE\u5916\u53EF\u4E0D\u5B89\u751F\u554A\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Sir, the outskirts are not safe!
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5927\u4EBA\uFF0C\u8FD9\u57CE\u5916\u53EF\u4E0D\u5B89\u751F\u554A\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -750,20 +750,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
-        y: 481.36713
+        x: 80.43037
+        y: 481.3671
         width: 160
         height: 30
     - id: 11
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -772,24 +764,32 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u6B64\u8BDD\u600E\u8BB2\uFF1F"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: What do you mean by that?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6B64\u8BDD\u600E\u8BB2\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -817,20 +817,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
+        x: 80.43037
         y: 531.3671
         width: 160
         height: 30
     - id: 12
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -839,24 +831,34 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u9119\u4EBA\u6B64\u524D\u8FDB\u8D27\u4E86\u4E00\u6279\u6728\u6750\uFF0C\u5230\u4E86\u8FD9\u57CE\u5916\u4FBF\u5931\u53BB\u6D88\u606F\u4E86\u554A\uFF0C\u8BF4\u597D\u524D\u5929\u5230\u5357\u95E8\uFF0C\u8FD9\u90FD\u4E09\u5929\u4E86\u8FD8\u4E0D\u89C1\u5546\u961F\u554A\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: I recently had a shipment of timber coming in, but it went missing
+          just outside the city. It was supposed to arrive at the southern gate three
+          days ago, but there's been no sign of the caravan.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u9119\u4EBA\u6B64\u524D\u8FDB\u8D27\u4E86\u4E00\u6279\u6728\u6750\uFF0C\u5230\u4E86\u8FD9\u57CE\u5916\u4FBF\u5931\u53BB\u6D88\u606F\u4E86\u554A\uFF0C\u8BF4\u597D\u524D\u5929\u5230\u5357\u95E8\uFF0C\u8FD9\u90FD\u4E09\u5929\u4E86\u8FD8\u4E0D\u89C1\u5546\u961F\u554A\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -884,20 +886,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
+        x: 80.43037
         y: 581.3671
         width: 160
         height: 30
     - id: 13
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -906,24 +900,32 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\uFF08\u7EE7\u7EED\uFF09"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: (Continue)
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\uFF08\u7EE7\u7EED\uFF09"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -951,20 +953,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
+        x: 80.43037
         y: 631.3671
         width: 160
         height: 30
     - id: 14
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -973,24 +967,32 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5927\u4EBA\u82E5\u662F\u6709\u7A7A\uFF0C\u8FD8\u8BF7\u5E2E\u9119\u4EBA\u4E00\u628A\uFF0C\u8C03\u67E5\u4E00\u4E0B\u6B64\u4E8B"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: If you have time, sir, please help me investigate this matter.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5927\u4EBA\u82E5\u662F\u6709\u7A7A\uFF0C\u8FD8\u8BF7\u5E2E\u9119\u4EBA\u4E00\u628A\uFF0C\u8C03\u67E5\u4E00\u4E0B\u6B64\u4E8B"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1024,20 +1026,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 80.430374
+        x: 80.43037
         y: 681.3671
         width: 160
         height: 30
     - id: 15
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -1046,24 +1040,33 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u8FD9\u4E48\u5371\u9669\u7684\u57CE\u5916\uFF0C\u4F60\u8981\u5C0F\u5FC3\u8C03\u67E5\u554A\uFF01\u3010\u79BB\u5F00\u3011"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: The outskirts can be dangerous; be careful with your investigation.
+          [Leave]
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u8FD9\u4E48\u5371\u9669\u7684\u57CE\u5916\uFF0C\u4F60\u8981\u5C0F\u5FC3\u8C03\u67E5\u554A\uFF01\u3010\u79BB\u5F00\u3011"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1086,12 +1089,12 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 246.1446
-        y: 761.36707
+        y: 761.3671
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 252.85706}
-    canvasZoom: 0.7000003
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 1
   - id: 2
     fields:
     - title: Title
@@ -1138,14 +1141,6 @@ MonoBehaviour:
     dialogueEntries:
     - id: 0
       fields:
-      - title: Title
-        value: START
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
       - title: Actor
         value: 1
         type: 5
@@ -1154,6 +1149,10 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
@@ -1164,6 +1163,10 @@ MonoBehaviour:
         typeString: 
       - title: Sequence
         value: None()
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
         type: 0
         typeString: 
       - title: en
@@ -1205,14 +1208,6 @@ MonoBehaviour:
         height: 30
     - id: 1
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -1221,24 +1216,32 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5927\u4EBA\uFF0C\u6728\u6750\u7684\u53BB\u5904\u627E\u5230\u4E86\u5417\uFF1F"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Lord Li, have you found out where the timber is?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5927\u4EBA\uFF0C\u6728\u6750\u7684\u53BB\u5904\u627E\u5230\u4E86\u5417\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1272,14 +1275,6 @@ MonoBehaviour:
         height: 30
     - id: 2
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -1288,24 +1283,32 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5DF2\u7ECF\u6D3E\u4EBA\u53BB\u4E86\uFF0C\u83AB\u8981\u614C\u5F20\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: "I\u2019ve already sent someone to look into it. Don't worry!"
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5DF2\u7ECF\u6D3E\u4EBA\u53BB\u4E86\uFF0C\u83AB\u8981\u614C\u5F20\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1380,14 +1383,6 @@ MonoBehaviour:
     dialogueEntries:
     - id: 0
       fields:
-      - title: Title
-        value: START
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
       - title: Actor
         value: 1
         type: 5
@@ -1396,6 +1391,10 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: START
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
@@ -1406,6 +1405,10 @@ MonoBehaviour:
         typeString: 
       - title: Sequence
         value: None()
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
         type: 0
         typeString: 
       - title: en
@@ -1447,14 +1450,6 @@ MonoBehaviour:
         height: 30
     - id: 1
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 2
         type: 5
@@ -1463,24 +1458,32 @@ MonoBehaviour:
         value: 1
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u674E\u5927\u4EBA\uFF0C\u6211\u5546\u94FA\u7684\u6728\u5934\u7EC8\u4E8E\u5230\u4E86\u3002\u591A\u4E8F\u5927\u4EBA\u6253\u70B9\u5173\u7CFB\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: Lord Li, my shop's timber has finally arrived. Thank you!
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\uFF0C\u6211\u5546\u94FA\u7684\u6728\u5934\u7EC8\u4E8E\u5230\u4E86\u3002\u591A\u4E8F\u5927\u4EBA\u6253\u70B9\u5173\u7CFB\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -1514,14 +1517,6 @@ MonoBehaviour:
         height: 30
     - id: 2
       fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
       - title: Actor
         value: 1
         type: 5
@@ -1530,24 +1525,32 @@ MonoBehaviour:
         value: 2
         type: 5
         typeString: CustomFieldType_Actor
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u597D\u8BF4\u597D\u8BF4\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
-      - title: en
+        typeString: 
+      - title: Description
         value: 
+        type: 0
+        typeString: 
+      - title: en
+        value: You're welcome.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u597D\u8BF4\u597D\u8BF4\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja

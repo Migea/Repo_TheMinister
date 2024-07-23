@@ -78,21 +78,25 @@ public class DisplayInfoAnimationController : MonoBehaviour
         foreach (Tag tag in tags)
         {
             TagImages[index].sprite = TagWithDescribetion.GetTagBackground(tag);
-            var tagText = new GameObject().AddComponent<Text>();
-            tagText.transform.parent = TagImages[index].transform;
-            tagText.name = "TagText";
-            tagText.text = TagWithDescribetion.GetDisplayTagText(tag);
-            tagText.fontSize = 60;
-            tagText.alignment = TextAnchor.MiddleCenter;
-            tagText.gameObject.AddComponent<FontUpdater>();
-            tagText.lineSpacing = 0.4f;
-            ColorUtility.TryParseHtmlString("#323232", out Color myColor);
-            tagText.color = myColor;
-            var rect = tagText.GetComponent<RectTransform>();
-            rect.anchoredPosition = new Vector2(0, 0);
-            rect.anchorMax = new Vector2(1, 1);
-            rect.anchorMin = new Vector2(0, 0);
-            rect.pivot = new Vector2(0.5f, 0.5f);
+            if (TagImages[index].GetComponentInChildren<Text>() == false)
+            {
+                var tagText = new GameObject().AddComponent<Text>();
+                tagText.transform.parent = TagImages[index].transform;
+                tagText.name = "TagText";
+                tagText.fontSize = 60;
+                tagText.alignment = TextAnchor.MiddleCenter;
+                tagText.gameObject.AddComponent<FontUpdater>();
+                tagText.lineSpacing = 0.4f;
+                ColorUtility.TryParseHtmlString("#323232", out Color myColor);
+                tagText.color = myColor;
+                var rect = tagText.GetComponent<RectTransform>();
+                rect.anchoredPosition = new Vector2(0, 0);
+                rect.anchorMax = new Vector2(1, 1);
+                rect.anchorMin = new Vector2(0, 0);
+                rect.pivot = new Vector2(0.5f, 0.5f);
+            }
+            TagImages[index].GetComponentInChildren<Text>().text = TagWithDescribetion.GetDisplayTagText(tag);
+
             index++;
         }
     }

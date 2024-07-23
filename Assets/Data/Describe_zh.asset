@@ -314,5 +314,9 @@ MonoBehaviour:
     m_Localized: "\u52A0\u901F\u6218\u6597"
     m_Metadata:
       m_Items: []
+  - m_Id: 2905185023270912
+    m_Localized: "\u5728\u4EAC\u57CE\u7684\u5F71\u54CD\u529B\uFF0C\u901A\u8FC7\u4EFB\u52A1\u4EE5\u53CA\u8D3F\u8D42\uFF0C\u59D4\u6D3E\u5B98\u5458\u83B7\u5F97\u3002"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

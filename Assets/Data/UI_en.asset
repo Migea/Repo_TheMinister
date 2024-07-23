@@ -1392,5 +1392,9 @@ MonoBehaviour:
     m_Localized: Jewely
     m_Metadata:
       m_Items: []
+  - m_Id: 8123101106466816
+    m_Localized: Item shortage
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

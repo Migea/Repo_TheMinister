@@ -50,7 +50,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: True
+      value: TRUE
       type: 2
       typeString: CustomFieldType_Boolean
     portrait: {fileID: 2800000, guid: 28550c0fa213cdc418fc41e2a175e53f, type: 3}
@@ -62,7 +62,7 @@ MonoBehaviour:
     - title: Name
       value: "\u95E8\u536B"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -70,9 +70,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -90,7 +90,7 @@ MonoBehaviour:
     - title: Display Name
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     spritePortrait: {fileID: 21300000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     alternatePortraits: []
@@ -100,7 +100,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4E8E\u8083\u6587"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -108,9 +108,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -128,7 +128,7 @@ MonoBehaviour:
     - title: Display Name
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: a00d50814a8c86744876c56927d7c708, type: 3}
     spritePortrait: {fileID: 21300000, guid: a00d50814a8c86744876c56927d7c708, type: 3}
     alternatePortraits: []
@@ -138,7 +138,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5F3A\u76D7"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -146,9 +146,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -166,7 +166,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u5F3A\u76D7"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     spritePortrait: {fileID: 21300000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
     alternatePortraits: []
@@ -176,7 +176,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8499\u9762\u6B79\u5F921"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -184,9 +184,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -204,7 +204,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u8499\u9762\u6B79\u5F921"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     spritePortrait: {fileID: 21300000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     alternatePortraits: []
@@ -214,7 +214,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8499\u9762\u6B79\u5F922"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -222,9 +222,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -242,7 +242,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u8499\u9762\u6B79\u5F922"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     spritePortrait: {fileID: 21300000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     alternatePortraits: []
@@ -252,7 +252,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8499\u9762\u8001\u5927"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -260,9 +260,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -280,7 +280,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u8499\u9762\u8001\u5927"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     spritePortrait: {fileID: 21300000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     alternatePortraits: []
@@ -290,7 +290,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8D3E\u6587\u548C"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -298,9 +298,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -318,7 +318,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u8D3E\u6587\u548C"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: f02298ce38b40c04d8b3d200cb4d4ffe, type: 3}
     spritePortrait: {fileID: 21300000, guid: f02298ce38b40c04d8b3d200cb4d4ffe, type: 3}
     alternatePortraits: []
@@ -338,7 +338,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -414,7 +414,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -452,7 +452,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -490,7 +490,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -528,7 +528,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -566,7 +566,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -604,7 +604,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -642,7 +642,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -718,7 +718,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -784,7 +784,7 @@ MonoBehaviour:
     - title: Name
       value: "\u4E91\u68A6"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -792,9 +792,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -812,7 +812,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u4E91\u68A6"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     spritePortrait: {fileID: 21300000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     alternatePortraits: []
@@ -832,7 +832,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -870,7 +870,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -908,7 +908,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -946,7 +946,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -984,7 +984,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -1022,7 +1022,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name en
@@ -1507,7 +1507,7 @@ MonoBehaviour:
     - title: Initial Value
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Description
       value: 
       type: 0
@@ -1519,7 +1519,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1533,7 +1533,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1547,7 +1547,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1561,7 +1561,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1575,7 +1575,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1589,7 +1589,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1603,7 +1603,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1617,7 +1617,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -1631,7 +1631,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: False
+      value: FALSE
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -8386,23 +8386,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5F88\u597D\uFF0C\u73B0\u5728\u4F60\u5C31\u53EF\u4EE5\u4E0E\u9762\u524D\u7684\u532A\u5F92\u4E00\u51B3\u9AD8\u4E0B\u4E86\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Very well, now you can confront the bandit in front of you!
         type: 4
@@ -22917,23 +22917,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u6211\u4E0D\u613F\u4E0E\u4F60\u4E3A\u654C\uFF0C\u82E5\u4F60\u613F\u610F\u675F\u624B\u5C31\u64D2\uFF0C\u6211\u7B54\u5E94\u5C06\u4F60\u7684\u5C38\u9996\u5B8C\u6574\u9001\u56DE\u4F60\u7684\u5BB6\u4E61\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: "\u6211\u4E0D\u613F\u4E0E\u4F60\u4E3A\u654C\uFF0C\u82E5\u4F60\u613F\u610F\u675F\u624B\u5C31\u64D2\uFF0C\u6211\u7B54\u5E94\u5C06\u4F60\u7684\u5C38\u9996\u5B8C\u6574\u9001\u56DE\u4F60\u7684\u5BB6\u4E61\u3002"
         type: 4
@@ -22981,23 +22981,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u6211\u81EA\u5165\u4EAC\u4EE5\u6765\u4FBF\u5C06\u4F60\u89C6\u4E3A\u540C\u95E8\uFF0C\u4E3A\u4F55\u5982\u4ECA\u8981\u5982\u6B64\u76F8\u6B8B\uFF1F"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Since I arrived in the capital, I have regarded you as a fellow disciple.
           Why must we now turn against each other?
@@ -23045,23 +23045,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u540C\u95E8\uFF1F\u53EF\u60DC\u554A\uFF0C\u5E08\u5C0A\u5E76\u4E0D\u8FD9\u4E48\u8BA4\u4E3A\u554A\uFF0C\u4E0D\u7136\u600E\u4E48\u4F1A\u6559\u4F60\u6765\u5B89\u4EAC\u5462\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Fellow disciple? Unfortunately, our master does not think so. Otherwise,
           why would he have sent you to the capital?
@@ -23154,8 +23154,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 88.23529, y: 2054.4778}
-    canvasZoom: 0.85000014
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 1
   - id: 33
     fields:
     - title: Title
@@ -23331,23 +23331,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5E08\u5144\u3002\u3002\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Brother....
         type: 4
@@ -23394,23 +23394,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u54C8\u54C8\u54C8\uFF0C\u4F60\u7EC8\u4E8E\u53EB\u6211\u4E00\u58F0\u5E08\u5144\u4E86\u554A"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: "Hahaha, you\u2019ve finally called me 'Brother'..."
         type: 4
@@ -23457,23 +23457,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5E08\u5144\uFF0C\u4F60\u4F24\u7684\u8FD9\u4E48\u91CD\u8FD8\u662F\u4E0D\u8981\u8BF4\u8BDD\u4E86\uFF0C\u6211\u73B0\u5728\u5E26\u4F60\u53BB\u533B\u9662\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: "Brother, you\u2019re badly hurt. Save your strength; I\u2019ll take
           you to a doctor."
@@ -23521,23 +23521,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u4E0D\u5FC5\u4E86\uFF0C\u674E\u5E08\u5F1F\uFF0C\u6709\u4F60\u7684\u4E00\u58F0\u5E08\u5144\uFF0C\u6211\u4FBF\u6B7B\u800C\u65E0\u61BE\u4E86"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: No need, Brother Li. Hearing you call me 'Brother' is enough; I can
           die without regrets.
@@ -23585,23 +23585,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5E08\u5144\uFF0C\u6211\u7406\u89E3\u4F60\u4E3A\u56FD\u4E3A\u6C11\u4E0D\u60DC\u81EA\u6C61\u4E4B\u5FD7\uFF0C\u6211\u4EEC\u4F55\u5FC5\u8981\u4E00\u5206\u751F\u6B7B\uFF1F"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Brother, I understand your noble sacrifice for the country and the
           people, even at the cost of your own honor. Why must we be divided by life
@@ -23634,7 +23634,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 64.71382
-        y: 435.64163
+        y: 435.6416
         width: 160
         height: 30
     - id: 11
@@ -23650,23 +23650,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u4F60\u6211\u5FC5\u6709\u4E00\u6B7B\uFF0C\u4F60\u6B7B\uFF0C\u6309\u90E8\u5C31\u73ED\uFF0C\u6211\u6B7B\uFF0C\u8FBE\u8005\u767B\u4F4D\u3002\u4E3A\u5929\u4E0B\uFF0C\u4E3A\u8FD9\u832B\u832B\u82CD\u751F\uFF0C\u4F60\u6211\u90FD\u4E0D\u8FC7\u662F\u76D8\u4E2D\u4E00\u5B50\uFF0C\u82E5\u60F3\u6267\u5B50\uFF0C\u4FBF\u4E0D\u80FD\u79C1\u5DF1\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: One of us must die. If you die, order will be maintained. If I die,
           a worthy successor will rise. For the sake of the world and its countless
@@ -23699,7 +23699,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 56.714146
+        x: 56.71415
         y: 514.7607
         width: 160
         height: 30
@@ -23716,23 +23716,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u53EA\u662F\u6CA1\u60F3\u5230\u554A\uFF0C\u771F\u7684\u8D25\u7ED9\u4E86\u4F60\u8FD9\u521D\u51FA\u8305\u5E90\u4E4B\u5F92\u3002\u54C8\u54C8\u54C8\u54C8......"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: "I never would have thought I\u2019d truly be defeated by a newcomer
           like you. Hahaha..."
@@ -23780,23 +23780,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u7EE7\u7EED"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: (Continue)
         type: 4
@@ -23826,7 +23826,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 58.430786
+        x: 58.43079
         y: 731.0808
         width: 160
         height: 30
@@ -23906,23 +23906,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u4E8E\u516C......"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Yu....
         type: 4
@@ -23969,23 +23969,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u54FC\uFF0C\u4F60\u4EEC\u8D70\u5427\uFF0C\u4E0D\u8981\u6D6A\u8D39\u4E8E\u516C\u7684\u82E6\u5FC3\u4E00\u7247\u3002"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: You all should leave. Don't let Master Yu's efforts go to waste.
         type: 4
@@ -24720,23 +24720,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u7EE7\u7EED"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: (Continue)
         type: 4
@@ -24770,12 +24770,12 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 55.853127
-        y: 605.86816
+        x: 55.85313
+        y: 605.8682
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 576.7973}
+    canvasScrollPosition: {x: 0, y: 0}
     canvasZoom: 1
   - id: 34
     fields:
@@ -24889,23 +24889,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: ......
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: ......
         type: 4
@@ -25629,7 +25629,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.9100001
+    canvasZoom: 1
   - id: 35
     fields:
     - title: Title
@@ -70615,11 +70615,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Apologies for the wait, Lord Li.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\uFF0C\u4E45\u7B49\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -70682,11 +70682,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: No worries, I just arrived myself.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6CA1\u4E8B\uFF0C\u6211\u4E5F\u624D\u521A\u5230\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -70749,11 +70749,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Too many prying eyes; let's speak inside.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u8FD9\u8857\u4E0A\u4EBA\u591A\u773C\u6742\uFF0C\u6211\u4EEC\u8FDB\u53BB\u8BF4\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -70816,11 +70816,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Please, after you.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u8BF7\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -70991,11 +70991,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Congratulations, Lord Li.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u606D\u559C\u554A\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71058,11 +71058,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Oh? What is the congradulation for?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u54E6\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71125,11 +71125,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: You just arrived in the capital and already resolved a major case
+          for the Ministry of Revenue. Your future is boundless.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u521A\u5165\u4EAC\u5C31\u89E3\u51B3\u4E86\u6237\u90E8\u5927\u6848\uFF0C\u524D\u9014\u4E0D\u53EF\u4F30\u91CF\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71192,11 +71193,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Funny, I feel like this case has just begun.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u53EF\u6211\u600E\u4E48\u89C9\u7740\u8FD9\u6848\u5B50\u624D\u521A\u521A\u5F00\u59CB\u5462\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71259,11 +71260,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: What do you mean? Didn't Master Yu say the culprit has been caught?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u8FD9\u662F\u4EC0\u4E48\u8BDD\uFF0C\u4E8E\u5927\u4EBA\u4E0D\u662F\u8BF4\u72AF\u4EBA\u5DF2\u7ECF\u6349\u62FF\u5F52\u6848\u4E86\u5417\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71326,11 +71327,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: "The ones apprehended were just scapegoats. The big fish behind the
+          scenes haven\u2019t shown themselves at all."
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6293\u6355\u7684\u4E0D\u8FC7\u662F\u66FF\u7F6A\u7F8A\u7F62\u4E86\uFF0C\u80CC\u540E\u7684\u5927\u9C7C\u53EF\u662F\u4E00\u70B9\u6CA1\u9732\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71393,11 +71395,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: You're implying...?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u662F\u6307\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71460,11 +71462,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: I've heard rumors that this case might involve Eunuch Li.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6211\u53EF\u662F\u542C\u8BF4\u6B64\u6B21\u91CD\u6848\u53EF\u8981\u7275\u626F\u5230\u674E\u516C\u516C\u90A3\u91CC\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71527,11 +71529,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Sir, please be careful with your words!
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5927\u4EBA\uFF0C\u614E\u8A00\u614E\u8A00\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71594,11 +71596,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: As a senior official in the Ministry of Revenue, you... didn't know?
+          Could it be that you are in cahoots with the eunuch faction...?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4F5C\u4E3A\u6237\u90E8\u91CD\u81E3\uFF0C\u4F60\u3002\u3002\u4E0D\u77E5\u9053\uFF1F\u83AB\u975E\u4F60\u4E0E\u9609\u515A\u3002\u3002\u3002\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71661,11 +71664,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Sir, you misunderstand! I have heard whispers about the eunuch faction,
+          but without concrete evidence, I dare not speak rashly.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5927\u4EBA\u51A4\u6789\uFF01\u9609\u515A\u4E4B\u4E8B\u4E0B\u5B98\u6709\u6240\u8033\u95FB\uFF0C\u4F46\u975E\u8BC1\u636E\u786E\u51FF\u4E0B\u5B98\u4E0D\u6562\u5984\u8A00\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71728,11 +71732,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: That was presumptuous of me. I will personally look into the eunuch
+          faction.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u90A3\u5012\u662F\u6211\u5510\u7A81\u4E86\uFF0C\u9609\u515A\u90A3\u8FB9\u6211\u4F1A\u4EB2\u81EA\u53BB\u770B\u770B\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71795,11 +71800,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Thank you for understanding.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u591A\u8C22\u674E\u5927\u4EBA\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71862,11 +71867,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Enough of this. I have some other questions for you.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E0D\u8BF4\u6B64\u4E8B\u4E86\uFF0C\u6211\u627E\u4F60\u6765\u662F\u6709\u4E9B\u5176\u4ED6\u7591\u95EE\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71929,11 +71934,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Please, go ahead. I will answer to the best of my knowledge.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\u8BF7\u8BF4\uFF0C\u4E0B\u5B98\u5FC5\u5B9A\u77E5\u65E0\u4E0D\u8A00\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -71996,11 +72001,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: I heard there is a temple in the capital named Baiyun?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6211\u542C\u8BF4\u8FD9\u4EAC\u57CE\u4E2D\u6709\u4E00\u5BFA\uFF0C\u5BFA\u540D\u767D\u4E91\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72063,11 +72068,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Indeed, there is such a place.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u786E\u6709\u6B64\u5730\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72130,11 +72135,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Does this temple have any connections with the Ministry of Revenue?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u8FD9\u5BFA\u5E99\u53EF\u4E0E\u6237\u90E8\u6709\u8054\u7CFB\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72197,11 +72202,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Baiyun Temple? To my knowledge, Baiyun Temple and the Ministry of
+          Revenue have no relations with each other.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u767D\u4E91\u5BFA\uFF1F\u636E\u6211\u6240\u77E5\u767D\u4E91\u5BFA\u4E0E\u6237\u90E8\u5E94\u8BE5\u4E92\u4E0D\u5E72\u7CFB\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72264,11 +72270,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Do any officials in the Ministry of Revenue practice Buddhism?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6211\u4EEC\u6237\u90E8\u5B98\u5458\u4E4B\u4E2D\u6709\u4FE1\u4F5B\u4E4B\u4EBA\u5417\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72331,11 +72337,13 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: There are quite a few officials who are Buddhists. In fact, Master
+          Yu has recently taken an interest in Buddhism and often visits Baiyun Temple
+          to discuss Buddhist teachings with the monks during his free time.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5B98\u5458\u4E2D\u4FE1\u4F5B\u7684\u4E0D\u5C11\uFF0C\u751A\u81F3\u4E8E\u5927\u4EBA\u8FD1\u671F\u4E5F\u5F00\u59CB\u62DC\u4F5B\uFF0C\u7A7A\u95F2\u65F6\u7ECF\u5E38\u53BB\u767D\u4E91\u5BFA\u4E0E\u50E7\u4EBA\u4EA4\u6D41\u4F5B\u9053\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72398,11 +72406,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Master Yu is also a Buddhist?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E8E\u5927\u4EBA\u4E5F\u4FE1\u4F5B\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72465,11 +72473,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Yes, and he's even bought several bronze Buddha statues. Is Lord Li
+          also interested in Buddhism?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u662F\u554A\uFF0C\u8FD8\u4E70\u4E86\u4E0D\u5C11\u4F5B\u94DC\u50CF\u5462\u3002\u674E\u5927\u4EBA\u4E5F\u5BF9\u4F5B\u9053\u6709\u6240\u6D89\u730E\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72532,11 +72541,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: I wouldn't say I delve deep into it, but hearing the city folk talk
+          about it piqued my curiosity.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5012\u662F\u6D89\u730E\u4E0D\u6DF1\u3002\u4E0D\u8FC7\u7ECF\u5E38\u542C\u57CE\u5185\u767E\u59D3\u63D0\u524D\u4E0D\u514D\u5FC3\u751F\u597D\u5947\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72599,11 +72609,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: If you are interested, I can take you to the temple for a visit?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u82E5\u674E\u5927\u4EBA\u6709\u5174\u8DA3\uFF0C\u6211\u5E26\u4F60\u53BB\u5BFA\u5E99\u91CC\u8F6C\u8F6C\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72666,11 +72676,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: That won't be necessary. I have some matters to attend to today, so
+          I'll be on my way.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E0D\u5FC5\u4E86\uFF0C\u6211\u4ECA\u65E5\u8FD8\u6709\u4E9B\u4E8B\u52A1\uFF0C\u5C31\u5148\u8D70\u4E86\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72841,11 +72852,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: This case has already been closed, and it was the eunuch faction...?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6B64\u6848\u7ADF\u7136\u5DF2\u7ECF\u7ED3\u6848\u4E86\uFF0C\u7ADF\u7136\u662F\u9609\u515A\u4E48\u3002\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72896,7 +72907,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u53EF\u94C5\u7C89\u53C8\u662F\u600E\u4E48\u56DE\u4E8B\uFF0C\u767D\u4E91\u5BFA\u82E5\u53EA\u662F\u4E00\u5EA7\u5E99\u4E3A\u4F55\u5B88\u5907\u5982\u6B64\u68EE\u4E25\u3002"
+        value: "\u53EF\u94C5\u7C89\u53C8\u662F\u600E\u4E48\u56DE\u4E8B\uFF0C\u767D\u4E91\u5BFA\u82E5\u53EA\u662F\u4E00\u5EA7\u5E99\u4E3A\u4F55\u5B88\u5907\u5982\u6B64\u68EE\u4E25\uFF1F"
         type: 0
         typeString: 
       - title: Sequence
@@ -72908,11 +72919,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: But what about the lead powder? If Baiyun Temple is just a temple,
+          why is it so heavily guarded?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u53EF\u94C5\u7C89\u53C8\u662F\u600E\u4E48\u56DE\u4E8B\uFF0C\u767D\u4E91\u5BFA\u82E5\u53EA\u662F\u4E00\u5EA7\u5E99\u4E3A\u4F55\u5B88\u5907\u5982\u6B64\u68EE\u4E25\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -72975,11 +72987,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: "Moreover, the warehouse clerk in the Ministry of Revenue made such
+          a blunder, yet Yu didn't mention a word\u2014this is truly suspicious..."
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u51B5\u4E14\uFF0C\u6237\u90E8\u53F8\u4ED3\u7BA1\u8BB0\u4F8D\u8FD9\u6B21\u51FA\u4E86\u5982\u6B64\u7EB0\u6F0F\u4E8E\u5E08\u5144\u5C45\u7136\u53EA\u5B57\u4E0D\u63D0\u5C5E\u5B9E\u8E4A\u8DF7\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73042,11 +73055,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: There must be more to this case.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u3002\u3002\u6B64\u6848\u5E94\u8BE5\u53E6\u6709\u9690\u60C5\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73217,11 +73230,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Yu... Baiyun Temple... lead powder...
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E8E\u5E08\u5144\u3002\u3002\u767D\u4E91\u5BFA\u3002\u3002\u94C5\u7C89\u3002\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73284,11 +73297,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Yu is probably involved in this silver theft case.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E8E\u5E08\u5144\u6015\u662F\u4E0E\u8FD9\u5931\u94F6\u6848\u8131\u4E0D\u4E86\u5E72\u7CFB\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73351,11 +73364,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: The eunuch faction might be a cover that Yu concocted.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u8FD9\u9609\u515A\u4F5C\u6848\u6050\u6015\u662F\u4E8E\u5E08\u5144\u6253\u51FA\u6765\u7684\u5E4C\u5B50\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73418,11 +73431,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: What exactly are you trying to do?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E8E\u5E08\u5144\u3002\u3002\u4F60\u7A76\u7ADF\u60F3\u8981\u5E72\u4EC0\u4E48\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73485,11 +73498,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: What should I do next?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E0B\u4E00\u6B65\u8BE5\u600E\u4E48\u8D70\u5462\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73558,11 +73571,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Confront Yu face-to-face!
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u53BB\u5F53\u9762\u8D28\u95EE\u4E8E\u5E08\u5144\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73625,11 +73638,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Continue investigating the eunuch faction.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u7EE7\u7EED\u53BB\u8C03\u67E5\u9609\u515A\uFF01"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73686,11 +73699,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: That doesn't seem right, I don't have any evidence.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u6709\u4E9B\u4E0D\u59A5\uFF0C\u6211\u6CA1\u6709\u4EFB\u4F55\u8BC1\u636E\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73741,7 +73754,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u867D\u7136\u4ED3\u7BA1\u8BB0\u4F8D\u8BF4\u6F0F\u4E86\u5634\uFF0C\u4F46\u6211\u8D44\u5386\u5C1A\u6D45\u3002\u4ED6\u6050\u6015\u4E0D\u4F1A\u6307\u8BA4\u4E8E\u5E08\u5144\u3002"
+        value: "\u867D\u7136\u666E\u67E5\u540F\u8BF4\u6F0F\u4E86\u5634\uFF0C\u4F46\u6211\u8D44\u5386\u5C1A\u6D45\u3002\u4ED6\u6050\u6015\u4E0D\u4F1A\u6307\u8BA4\u4E8E\u5E08\u5144\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -73753,11 +73766,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: 'Although Knight Zhang let something slip, my position is still too
+          junior. He might not testify against Yu. '
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u867D\u7136\u666E\u67E5\u540F\u8BF4\u6F0F\u4E86\u5634\uFF0C\u4F46\u6211\u8D44\u5386\u5C1A\u6D45\u3002\u4ED6\u6050\u6015\u4E0D\u4F1A\u6307\u8BA4\u4E8E\u5E08\u5144\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -73808,7 +73822,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: "\u4E0D\u5982\u5C06\u8BA1\u5C31\u8BA1\u3002\u6211\u4E5F\u53EF\u4EE5\u8C08\u4E00\u8C08\u4EAC\u57CE\u7684\u6DF1\u6D45\u3002"
+        value: "\u4E0D\u5982\u5C06\u8BA1\u5C31\u8BA1\u3002\u6211\u4E5F\u53EF\u4EE5\u63A2\u4E00\u63A2\u4EAC\u57CE\u7684\u6DF1\u6D45\u3002"
         type: 0
         typeString: 
       - title: Sequence
@@ -73820,11 +73834,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Perhaps I should play along with their plan. I could also test the
+          depths of the capital.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E0D\u5982\u5C06\u8BA1\u5C31\u8BA1\u3002\u6211\u4E5F\u53EF\u4EE5\u63A2\u4E00\u63A2\u4EAC\u57CE\u7684\u6DF1\u6D45\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -76417,11 +76432,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Lord Li, Zhang Mengfan will serve you with utmost loyalty.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u674E\u5927\u4EBA\uFF0C\u5F20\u68A6\u51E1\u5FC5\u4E3A\u5927\u4EBA\u6548\u72AC\u9A6C\u4E4B\u52B3\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -76484,11 +76499,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Very well. I have some questions for you. Could we meet at the restaurant
+          two days from now?
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u4E0D\u9519\uFF0C\u6211\u6709\u4E9B\u8BDD\u60F3\u95EE\u4F60\uFF0C\u53EF\u5426\u4E24\u65E5\u540E\u4E0E\u9152\u697C\u4E00\u805A\uFF1F"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -76551,11 +76567,12 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: I have yet to properly welcome you into the capital. It would be my
+          honor.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u5927\u4EBA\u5165\u4EAC\u6211\u8FD8\u672A\u7ED9\u5927\u4EBA\u63A5\u98CE\uFF0C\u7406\u5F53\u5982\u6B64\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja
@@ -76618,11 +76635,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: en
-        value: 
+        value: Then we shall meet again in two days.
         type: 4
         typeString: CustomFieldType_Localization
       - title: zh
-        value: 
+        value: "\u90A3\u6211\u4EEC\u4E24\u65E5\u540E\u518D\u53D9\u3002"
         type: 4
         typeString: CustomFieldType_Localization
       - title: ja

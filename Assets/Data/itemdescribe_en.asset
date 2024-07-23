@@ -1029,5 +1029,10 @@ MonoBehaviour:
     m_Localized: Not worth mentioning, has no impact
     m_Metadata:
       m_Items: []
+  - m_Id: 2321643119374336
+    m_Localized: A parrot that praises people. Get the entry <color=#93887B>Flowery
+      Speechs</color>
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

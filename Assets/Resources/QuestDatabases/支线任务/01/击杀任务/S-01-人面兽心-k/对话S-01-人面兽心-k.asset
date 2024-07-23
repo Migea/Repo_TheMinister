@@ -53,15 +53,15 @@ MonoBehaviour:
       value: True
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u674E\u8881\u964C"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Li Yuanmo
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
@@ -87,22 +87,22 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u9A6C\u71D5\u9A9D"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Ma Yanliu
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 98869d0086330574e85038ce7b34c0c3, type: 3}
     spritePortrait: {fileID: 21300000, guid: 98869d0086330574e85038ce7b34c0c3, type: 3}
     alternatePortraits: []
@@ -125,22 +125,22 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u4E1C\u65B9\u679C"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Dongfang Guo
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     spritePortrait: {fileID: 21300000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
     alternatePortraits: []
@@ -163,15 +163,15 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u4E1C\u65B9\u95E8"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Dongfang  Men
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization

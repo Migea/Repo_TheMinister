@@ -50,7 +50,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: IsPlayer
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: DIsplay Name zh
@@ -87,15 +87,15 @@ MonoBehaviour:
       value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u738B\u4F1F"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Wang Wei
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization

@@ -74,7 +74,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8D75\u601D\u8FDC"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -82,27 +82,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Zhao Siyuan
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u8D75\u601D\u8FDC"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
     spritePortrait: {fileID: 21300000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
     alternatePortraits: []
@@ -1125,7 +1125,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasZoom: 0.9100001
   - id: 2
     fields:
     - title: Title

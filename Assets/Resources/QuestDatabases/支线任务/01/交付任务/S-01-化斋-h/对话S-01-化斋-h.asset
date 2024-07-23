@@ -74,7 +74,7 @@ MonoBehaviour:
     - title: Name
       value: "\u9648\u4E91\u68A6"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -82,27 +82,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Chen Yunmeng
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u9648\u4E91\u68A6"
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     spritePortrait: {fileID: 21300000, guid: efab0a47000ed254498d0f1bef2f80b0, type: 3}
     alternatePortraits: []

@@ -40,7 +40,7 @@ MonoBehaviour:
     - title: Name
       value: "\u674E\u8881\u964C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -48,20 +48,20 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u674E\u8881\u964C"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Li Yuanmo
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
@@ -74,7 +74,7 @@ MonoBehaviour:
     - title: Name
       value: "\u738B\u4F1F"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -82,27 +82,27 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: DIsplay Name zh
+    - title: Display Name zh
       value: "\u738B\u4F1F"
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name en
+    - title: Display Name en
       value: Wang Wei
       type: 4
       typeString: CustomFieldType_Localization
-    - title: DIsplay Name ja
+    - title: Display Name ja
       value: 
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     portrait: {fileID: 2800000, guid: ed05242b3bab42945aac00b9b85dbb1b, type: 3}
     spritePortrait: {fileID: 21300000, guid: ed05242b3bab42945aac00b9b85dbb1b, type: 3}
     alternatePortraits: []
@@ -112,7 +112,7 @@ MonoBehaviour:
     - title: Name
       value: Player
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -120,9 +120,9 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     portrait: {fileID: 2800000, guid: 28550c0fa213cdc418fc41e2a175e53f, type: 3}

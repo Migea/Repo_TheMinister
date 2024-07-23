@@ -185,9 +185,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2763736325353472
-    m_Localized: '
-
-      Racecourse'
+    m_Localized: Racecourse
     m_Metadata:
       m_Items: []
   - m_Id: 2763738128904192
@@ -195,9 +193,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2764301746892800
-    m_Localized: '
-
-      Department store'
+    m_Localized: Department store
     m_Metadata:
       m_Items: []
   - m_Id: 2770090003853312
@@ -209,9 +205,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2770093141192704
-    m_Localized: '
-
-      month'
+    m_Localized: month
     m_Metadata:
       m_Items: []
   - m_Id: 2770095221567488
@@ -244,9 +238,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2775490048618496
-    m_Localized: '
-
-      Drug store is in  good condition,collect commission <color=green>100</color>'
+    m_Localized: Drug store is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2775492405817344
@@ -330,10 +322,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791322241789952
-    m_Localized: '
-
-      Department store is in  good condition,collect commission
-      <color=green>100</color>'
+    m_Localized: Department store is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2791325811142656
@@ -376,9 +365,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3113191016820736
-    m_Localized: '
-
-      Groceries'
+    m_Localized: Groceries
     m_Metadata:
       m_Items: []
   - m_Id: 3114904163512320
@@ -386,9 +373,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3114830452813824
-    m_Localized: '
-
-      bestow'
+    m_Localized: bestow
     m_Metadata:
       m_Items: []
   - m_Id: 3846631567716352
@@ -657,9 +642,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3962139541565440
-    m_Localized: '
-
-      Entertain'
+    m_Localized: Entertain
     m_Metadata:
       m_Items: []
   - m_Id: 3963496503767040
@@ -1381,6 +1364,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 7936522182258688
     m_Localized: Collect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7941895924543488
+    m_Localized: Textile shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7943740302618624
+    m_Localized: Unlimited weapons store
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7943736066371584
+    m_Localized: You need more tael
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7943737349828608
+    m_Localized: Missing recruitment tools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7946010113142784
+    m_Localized: Finery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7947158886871040
+    m_Localized: 'Need entry:'
     m_Metadata:
       m_Items: []
   references:

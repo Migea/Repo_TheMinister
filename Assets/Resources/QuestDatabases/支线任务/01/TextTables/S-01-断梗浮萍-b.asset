@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u65AD\u6897\u6D6E\u840D-b"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 02000000010000000700000005000000060000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u65AD\u6897\u6D6E\u840D"
+    - A drifting weed
+    - "\u65AD\u6897\u6D6E\u840D"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u96BE\u6C11\u738B\u4F1F\u9003\u96BE\u81F3\u6B64\uFF0C\u5C45\u65E0\u5B9A\u6240\uFF0C\u5BFB\u627E\u7BA1\u7406\u6B64\u4E8B\u7684<color=\"#ff881a\">
+      \u91D1\u94B1\u53F8\u7684\u95E8\u4EBA\u8D75\u661F </color>\uFF0C\u5E2E\u52A9\u738B\u4F1F\u758F\u901A\u4E00\u4E0B\u5173\u7CFB\u3002"
+    - Refugee Wang Wei has fled to this place and is homeless. Find <color="#ff881a">Zhao
+      Xing, a Civilian leader of the Money Department</color>, to help Wang Wei establish
+      connections.
+    - "\u96BE\u6C11\u738B\u4F1F\u9003\u96BE\u81F3\u6B64\uFF0C\u5C45\u65E0\u5B9A\u6240\uFF0C\u5BFB\u627E\u7BA1\u7406\u6B64\u4E8B\u7684<color=\"#ff881a\">
+      \u91D1\u94B1\u53F8\u7684\u95E8\u4EBA\u8D75\u661F </color>\uFF0C\u5E2E\u52A9\u738B\u4F1F\u758F\u901A\u4E00\u4E0B\u5173\u7CFB\u3002"
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5DF2\u6253\u70B9{#Bribe}/{>#Bribe}"
+    - 'Bribes arranged: {#Bribe}/{>#Bribe}'
+    - "\u5DF2\u6253\u70B9{#Bribe}/{>#Bribe}"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A360\u94F6\u4E24\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    - 'Reward: 360 silver, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A360\u94F6\u4E24\uFF0C\u964D\u4F4E\u5C11\u91CF\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u738B\u4F1F\u975E\u5E38\u6EE1\u610F\u627E\u5230\u7684\u623F\u5B50\uFF0C\u5E76\u70ED\u60C5\u7684\u9080\u8BF7\u4F60\u53BB\u65B0\u623F\u4E00\u8D77\u5750\u5750\u3002"
+    - Wang Wei is very pleased with the house he found and warmly invites you to
+      come visit his new home.
+    - "\u738B\u4F1F\u975E\u5E38\u6EE1\u610F\u627E\u5230\u7684\u623F\u5B50\uFF0C\u5E76\u70ED\u60C5\u7684\u9080\u8BF7\u4F60\u53BB\u65B0\u623F\u4E00\u8D77\u5750\u5750\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

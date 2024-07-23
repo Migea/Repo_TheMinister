@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u8FD0\u8F93\u4E0D\u6613-b"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 02000000010000000700000005000000060000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8D4A\u8D26"
+    - On Credit
+    - "\u8D4A\u8D26"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8C46\u8150\u5E97\u7684\u963F\u82B1\u6700\u8FD1\u88AB\u6DF7\u6DF7\u9A9A\u6270\uFF0C\u8D4A\u8D26\u4E0D\u8FD8\uFF0C\u8BA9<color=\"#ff881a\">
+      \u9AD8\u5C91 </color>\u5904\u7406\u4E00\u4E0B\u8FD9\u4E9B\u4E8B\u60C5\u3002"
+    - Hua from the tofu shop has recently been harassed by hooligans who take on
+      credit and don't pay. Let <color="#ff881a>Gao Cen</color> handle these matters.
+    - "\u8C46\u8150\u5E97\u7684\u963F\u82B1\u6700\u8FD1\u88AB\u6DF7\u6DF7\u9A9A\u6270\uFF0C\u8D4A\u8D26\u4E0D\u8FD8\uFF0C\u8BA9<color=\"#ff881a\">
+      \u9AD8\u5C91 </color>\u5904\u7406\u4E00\u4E0B\u8FD9\u4E9B\u4E8B\u60C5\u3002"
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5DF2\u6253\u70B9{#Bribe}/{>#Bribe}"
+    - 'Bribes arranged: {#Bribe}/{>#Bribe}'
+    - "\u5DF2\u6253\u70B9{#Bribe}/{>#Bribe}"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A30\u94F6\u4E24\uFF0C\u8695\u4E1D\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: 30 silver, silk, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A30\u94F6\u4E24\uFF0C\u8695\u4E1D\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u963F\u82B1\u611F\u8C22\u4F60\u7684\u51FA\u624B\u76F8\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u4E00\u5377\u4E0A\u597D\u7684\u8695\u4E1D\u3002"
+    - Hua is grateful for your help and gives you a roll of fine silk.
+    - "\u963F\u82B1\u611F\u8C22\u4F60\u7684\u51FA\u624B\u76F8\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u4E00\u5377\u4E0A\u597D\u7684\u8695\u4E1D\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

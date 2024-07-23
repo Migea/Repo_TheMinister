@@ -94,6 +94,8 @@ public class DisplayInfoAnimationController : MonoBehaviour
                 rect.anchorMax = new Vector2(1, 1);
                 rect.anchorMin = new Vector2(0, 0);
                 rect.pivot = new Vector2(0.5f, 0.5f);
+                rect.localScale = new Vector3(1, 1, 1);
+                rect.rotation = TagImages[index].transform.rotation;
             }
             TagImages[index].GetComponentInChildren<Text>().text = TagWithDescribetion.GetDisplayTagText(tag);
 

@@ -10,458 +10,458 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: DisplayTags_en
+  m_Name: TagWithDescription_en
   m_EditorClassIdentifier: 
   m_LocaleId:
     m_Code: en
-  m_SharedData: {fileID: 11400000, guid: bb27a21c8fae5e34da1c1e714ae9cbc0, type: 2}
+  m_SharedData: {fileID: 11400000, guid: ed460cb378703b04182a56bf523287d2, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
   - m_Id: 1100500234240
-    m_Localized: <size=69>Namugatling</size>
+    m_Localized: <size=15>Namugatling</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100550565888
-    m_Localized: "<size=50>Star Player \nDescending</size>"
+    m_Localized: "<size=12>Star Player \nDescending</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100550565889
-    m_Localized: "<size=50>Master \nCraftsman</size>"
+    m_Localized: "<size=12>Master \nCraftsman</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100550565890
-    m_Localized: "<size=46>Literary \nWarrior</size>"
+    m_Localized: "<size=12>Literary \nWarrior</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760192
-    m_Localized: <size=69>Enlightened</size>
+    m_Localized: <size=12>Enlightened</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760193
-    m_Localized: <size=69>Longevity</size>
+    m_Localized: <size=15>Longevity</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760194
-    m_Localized: <size=69>Undying</size>
+    m_Localized: <size=15>Undying</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760195
-    m_Localized: "<size=50>Loyal and \nRighteous</size>"
+    m_Localized: "<size=12>Loyal and \nRighteous</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760196
-    m_Localized: "<size=50>Earthly \nImmortal</size>"
+    m_Localized: "<size=12>Earthly \nImmortal</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760197
-    m_Localized: "<size=50>Heartbreaking \nPalm</size>"
+    m_Localized: "<size=12>Heartbreaking \nPalm</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760198
-    m_Localized: "<size=46>10-dan Go \nPlayer</size>"
+    m_Localized: "<size=12>10-dan Go \nPlayer</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760199
-    m_Localized: <size=60>Top Scholar</size>
+    m_Localized: <size=12>Top Scholar</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760200
-    m_Localized: "<size=46>Immortal \nPoet</size>"
+    m_Localized: "<size=12>Immortal \nPoet</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760201
-    m_Localized: "<size=47>Sleeping \nDragon</size>"
+    m_Localized: "<size=12>Sleeping \nDragon</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760202
-    m_Localized: "<size=47>Talent of Eight \nMeasures</size>"
+    m_Localized: "<size=12>Talent of Eight \nMeasures</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760203
-    m_Localized: "<size=47>Saint of \nMartial Arts</size>"
+    m_Localized: "<size=12>Saint of \nMartial Arts</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760204
-    m_Localized: <size=60>Shadowless</size>
+    m_Localized: <size=14>Shadowless</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760205
-    m_Localized: <size=60>Rock Solid</size>
+    m_Localized: <size=14>Rock Solid</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760206
-    m_Localized: <size=47>Master of All Martial Arts</size>
+    m_Localized: <size=12>Master of All Martial Arts</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760207
-    m_Localized: <size=60>Empty Talk</size>
+    m_Localized: <size=12>Empty Talk</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760208
-    m_Localized: "<size=47>Only a \nReputation</size>"
+    m_Localized: "<size=12>Only a \nReputation</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760209
-    m_Localized: <size=60>Opportunist</size>
+    m_Localized: <size=12>Opportunist</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760210
-    m_Localized: "<size=46>Chaotic Demon \nKing</size>"
+    m_Localized: "<size=12>Chaotic Demon \nKing</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760211
-    m_Localized: <size=60>Ruthless</size>
+    m_Localized: <size=14>Ruthless</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760212
-    m_Localized: <size=60>Conservative</size>
+    m_Localized: <size=14>Conservative</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760213
-    m_Localized: "<size=46>Body of an \nImmortal</size>"
+    m_Localized: "<size=12>Body of an \nImmortal</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760214
-    m_Localized: "<size=46>Hidden \nTalents</size>"
+    m_Localized: "<size=12>Hidden \nTalents</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760215
-    m_Localized: "<size=48>Profound \nBenevolence</size>"
+    m_Localized: "<size=12>Profound \nBenevolence</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760216
-    m_Localized: "<size=48>Smooth \nCareer</size>"
+    m_Localized: "<size=12>Smooth \nCareer</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760217
-    m_Localized: "<size=48>Masterful \nCraftsmanship</size>"
+    m_Localized: "<size=12>Masterful \nCraftsmanship</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760218
-    m_Localized: "<size=48>Healing the \nWorld</size>"
+    m_Localized: "<size=12>Healing the \nWorld</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760219
-    m_Localized: <size=60>Mojia</size>
+    m_Localized: <size=17>Mojia</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760220
-    m_Localized: "<size=50>Shooting Through \nthe Sun</size>"
+    m_Localized: "<size=12>Shooting Through \nthe Sun</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760221
-    m_Localized: <size=60>Silent</size>
+    m_Localized: <size=17>Silent</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760222
-    m_Localized: "<size=47>Azure \nDragon</size>"
+    m_Localized: "<size=12>Azure \nDragon</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760223
-    m_Localized: "<size=47>Certain \nVictory</size>"
+    m_Localized: "<size=12>Certain \nVictory</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760224
-    m_Localized: "<size=47>Supporting \nthe Sky</size>"
+    m_Localized: "<size=12>Supporting \nthe Sky</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760225
-    m_Localized: "<size=46>Dragon's \nPower</size>"
+    m_Localized: "<size=12>Dragon's \nPower</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760226
-    m_Localized: "<size=43>Suppressing \nFire</size>"
+    m_Localized: "<size=12>Suppressing \nFire</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760227
-    m_Localized: '<size=43>Living in
+    m_Localized: '<size=12>Living in
 
       a Dream</size>'
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760228
-    m_Localized: "<size=43>Golden \nGlitter</size>"
+    m_Localized: "<size=12>Golden \nGlitter</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760229
-    m_Localized: "<size=43>Light \nFragment</size>"
+    m_Localized: "<size=12>Light \nFragment</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760230
-    m_Localized: "<size=43>Dragon \nHorse Spirit</size>"
+    m_Localized: "<size=12>Dragon \nHorse Spirit</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760231
-    m_Localized: "<size=43>Eagle's \nPower</size>"
+    m_Localized: "<size=12>Eagle's \nPower</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760232
-    m_Localized: "<size=43>Glimpsing \nHeaven's Secrets</size>"
+    m_Localized: "<size=12>Glimpsing \nHeaven's Secrets</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760233
-    m_Localized: "<size=43>Invincible \nto Poisons</size>"
+    m_Localized: "<size=12>Invincible \nto Poisons</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760234
-    m_Localized: <size=60>Yapping</size>
+    m_Localized: <size=16>Yapping</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760235
-    m_Localized: <size=58>Ripple Walk</size>
+    m_Localized: <size=14>Ripple Walk</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760236
-    m_Localized: "<size=43>Power of an \nElephant and Tiger</size>"
+    m_Localized: "<size=12>Power of an \nElephant and Tiger</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760237
-    m_Localized: <size=58>Literary</size>
+    m_Localized: <size=14>Literary</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760238
-    m_Localized: <size=60>Martial</size>
+    m_Localized: <size=15>Martial</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760239
-    m_Localized: "<size=47>Well-read in \nErudite Works</size>"
+    m_Localized: "<size=12>Well-read in \nErudite Works</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760240
-    m_Localized: "<size=47>Highly \nTalented</size>"
+    m_Localized: "<size=12>Highly \nTalented</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760241
-    m_Localized: <size=60>Scheming</size>
+    m_Localized: <size=15>Scheming</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760242
-    m_Localized: "<size=47>Lifting \nMountains</size>"
+    m_Localized: "<size=12>Lifting \nMountains</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760243
-    m_Localized: <size=60>Elusive</size>
+    m_Localized: <size=15>Elusive</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760244
-    m_Localized: "<size=47>Sheltering \nMansion</size>"
+    m_Localized: "<size=12>Sheltering \nMansion</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760245
-    m_Localized: "<size=47>Wise and \nBrave</size>"
+    m_Localized: "<size=12>Wise and \nBrave</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760246
-    m_Localized: "<size=47>Mechanical \nMaster</size>"
+    m_Localized: "<size=12>Mechanical \nMaster</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760247
-    m_Localized: "<size=44>Qimen Dunjia \n(Mystical Strategy)</size>"
+    m_Localized: "<size=12>Qimen Dunjia \n(Mystical Strategy)</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760248
-    m_Localized: "<size=47>Innate \nStrength</size>"
+    m_Localized: "<size=12>Innate \nStrength</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100554760249
-    m_Localized: "<size=46>Yangming \nSchool</size>"
+    m_Localized: "<size=12>Yangming \nSchool</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954496
-    m_Localized: <size=60>Lich Lord</size>
+    m_Localized: <size=15>Lich Lord</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954497
-    m_Localized: "<size=47>Dragon \nKnight</size>"
+    m_Localized: "<size=12>Dragon \nKnight</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954498
-    m_Localized: <size=60>Diplomat</size>
+    m_Localized: <size=15>Diplomat</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954499
-    m_Localized: "<size=47>Old but \nVigorous</size>"
+    m_Localized: "<size=12>Old but \nVigorous</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954500
-    m_Localized: <size=60>Alchemist</size>
+    m_Localized: <size=15>Alchemist</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954501
-    m_Localized: "<size=47>Master of \nClose Combat</size>"
+    m_Localized: "<size=12>Master of \nClose Combat</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954502
-    m_Localized: "<size=43>Reincarnation \nof an Ancient God</size>"
+    m_Localized: "<size=12>Reincarnation \nof an Ancient God</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954503
-    m_Localized: "<size=47>Financial \nMaster</size>"
+    m_Localized: "<size=12>Financial \nMaster</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954504
-    m_Localized: <size=60>Strategist</size>
+    m_Localized: <size=15>Strategist</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954505
-    m_Localized: <size=60>Hammer</size>
+    m_Localized: <size=15>Hammer</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954506
-    m_Localized: <size=60>Drama King</size>
+    m_Localized: <size=15>Drama King</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954507
-    m_Localized: "<size=47>Yellow Emperor's \nInternal Classic</size>"
+    m_Localized: "<size=12>Yellow Emperor's \nInternal Classic</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954508
-    m_Localized: "<size=44>Compendium of \nMateria Medica</size>"
+    m_Localized: "<size=12>Compendium of \nMateria Medica</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954509
-    m_Localized: "<size=47>Imperial \nStable</size>"
+    m_Localized: "<size=12>Imperial \nStable</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954510
-    m_Localized: "<size=47>Beast \nMaster</size>"
+    m_Localized: "<size=12>Beast \nMaster</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954511
-    m_Localized: "<size=47>Money \nManager</size>"
+    m_Localized: "<size=12>Money \nManager</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954512
-    m_Localized: "<size=47>Perfect \nArchery</size>"
+    m_Localized: "<size=12>Perfect \nArchery</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954513
-    m_Localized: "<size=47>King of \nSwords</size>"
+    m_Localized: "<size=12>King of \nSwords</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954514
-    m_Localized: "<size=44>Lord of Thunder \nand Lightning</size>"
+    m_Localized: "<size=12>Lord of Thunder \nand Lightning</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954515
-    m_Localized: "<size=44>Royal \nBloodline</size>"
+    m_Localized: "<size=12>Royal \nBloodline</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954516
-    m_Localized: <size=60>Overlord</size=60>
+    m_Localized: <size=12>Overlord</size=60>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954517
-    m_Localized: "<size=44>Qigong \nMaster</size>"
+    m_Localized: "<size=12>Qigong \nMaster</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954518
-    m_Localized: "<size=44>Inspired \nPoet</size>"
+    m_Localized: "<size=12>Inspired \nPoet</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954519
-    m_Localized: "<size=44>Drunken \nEcstasy</size>"
+    m_Localized: "<size=12>Drunken \nEcstasy</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954520
-    m_Localized: "<size=45>Pay-to-Win \nWarrior</size>"
+    m_Localized: "<size=12>Pay-to-Win \nWarrior</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954521
-    m_Localized: <size=60>Vegetarian</size>
+    m_Localized: <size=15>Vegetarian</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954522
-    m_Localized: "<size=47>Fully \nArmed</size>"
+    m_Localized: "<size=12>Fully \nArmed</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954523
-    m_Localized: "<size=44>Impregnable \nFortress</size>"
+    m_Localized: "<size=12>Impregnable \nFortress</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954524
-    m_Localized: "<size=47>Skillful \nDoctor</size>"
+    m_Localized: "<size=12>Skillful \nDoctor</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954525
-    m_Localized: "<size=47>Fierce as \nFire</size>"
+    m_Localized: "<size=12>Fierce as \nFire</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954526
-    m_Localized: "<size=45>Benevolent \nGentleman</size>"
+    m_Localized: "<size=12>Benevolent \nGentleman</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954527
-    m_Localized: "<size=45>Excellent \nHorse</size>"
+    m_Localized: "<size=12>Excellent \nHorse</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954528
-    m_Localized: <size=60>Fierce</size>
+    m_Localized: <size=15>Fierce</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954529
-    m_Localized: <size=60>Lone Wolf</size>
+    m_Localized: <size=15>Lone Wolf</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954530
-    m_Localized: "<size=45>Loyalty and  \nFaith</size>"
+    m_Localized: "<size=12>Loyalty and  \nFaith</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954531
-    m_Localized: <size=60>Lucky Star</size>
+    m_Localized: <size=15>Lucky Star</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954532
-    m_Localized: "<size=45>Elegant \nDancer</size>"
+    m_Localized: "<size=12>Elegant \nDancer</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954533
-    m_Localized: <size=60>Money Dart</size>
+    m_Localized: <size=15>Money Dart</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954534
-    m_Localized: "<size=47>Sleeve \nRobe</size>"
+    m_Localized: "<size=12>Sleeve \nRobe</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954535
-    m_Localized: "<size=47>Blood \nDripper</size>"
+    m_Localized: "<size=12>Blood \nDripper</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954536
-    m_Localized: <size=60>Bishop</size>
+    m_Localized: <size=15>Bishop</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954537
-    m_Localized: <size=60>Pearl-like</size>
+    m_Localized: <size=15>Pearl-like</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954538
-    m_Localized: "<size=47>Cultural \nDesert</size>"
+    m_Localized: "<size=12>Cultural \nDesert</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954539
-    m_Localized: "<size=47>Minor Martial \nSkills</size>"
+    m_Localized: "<size=12>Minor Martial \nSkills</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954540
-    m_Localized: "<size=47>Literary \nRighteousness</size>"
+    m_Localized: "<size=12>Literary \nRighteousness</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954541
-    m_Localized: "<size=47>Martial \nLoyalty</size>"
+    m_Localized: "<size=12>Martial \nLoyalty</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954542
-    m_Localized: <size=60>Bookworm</size>
+    m_Localized: <size=15>Bookworm</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954543
-    m_Localized: "<size=47>Slightly \nFamous</size>"
+    m_Localized: "<size=12>Slightly \nFamous</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954544
-    m_Localized: "<size=47>Slightly \nStrategic</size>"
+    m_Localized: "<size=12>Slightly \nStrategic</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954545
@@ -469,523 +469,523 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954546
-    m_Localized: <size=60>Agile</size>
+    m_Localized: <size=15>Agile</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954547
-    m_Localized: "<size=47>Old Bear \non the Path</size>"
+    m_Localized: "<size=12>Old Bear \non the Path</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954548
-    m_Localized: <size=60>Outlaw</size>
+    m_Localized: <size=12>Outlaw</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954549
-    m_Localized: <size=60>Toad Skill</size>
+    m_Localized: <size=12>Toad Skill</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954550
-    m_Localized: "<size=47>Joyful \nBuddha</size>"
+    m_Localized: "<size=12>Joyful \nBuddha</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954551
-    m_Localized: <size=60>Demon Man</size>
+    m_Localized: <size=15>Demon Man</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954552
-    m_Localized: "<size=47>Astronomy \nExpert</size>"
+    m_Localized: "<size=12>Astronomy \nExpert</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954553
-    m_Localized: "<size=47>Frost \nSword</size>"
+    m_Localized: "<size=12>Frost \nSword</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954554
-    m_Localized: <size=60>Swift</size>
+    m_Localized: <size=15>Swift</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954555
-    m_Localized: <size=60>Cannon</size>
+    m_Localized: <size=15>Cannon</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954556
-    m_Localized: "<size=47>Eastern \nLanguages</size>"
+    m_Localized: "<size=12>Eastern \nLanguages</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954557
-    m_Localized: "<size=45>Talented  \nSinging&Dancing</size>"
+    m_Localized: "<size=12>Talented  \nSinging&Dancing</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954558
-    m_Localized: "<size=45>Western \nLanguages</size>"
+    m_Localized: "<size=12>Western \nLanguages</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954559
-    m_Localized: "<size=47>Poison \nMaster</size>"
+    m_Localized: "<size=12>Poison \nMaster</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954560
-    m_Localized: <size=60>Unorthodox</size>
+    m_Localized: <size=15>Unorthodox</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954561
-    m_Localized: <size=60>Foreigner</size>
+    m_Localized: <size=15>Foreigner</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954562
-    m_Localized: <size=60>Madman</size>
+    m_Localized: <size=15>Madman</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954563
-    m_Localized: <size=50>Go Strategy</size>
+    m_Localized: <size=15>Go Strategy</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954564
-    m_Localized: "<size=47>Mental \nCalculation</size>"
+    m_Localized: "<size=12>Mental \nCalculation</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954565
-    m_Localized: <size=60>Economics</size>
+    m_Localized: <size=15>Economics</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954566
-    m_Localized: "<size=47>Small \nHammer</size>"
+    m_Localized: "<size=12>Small \nHammer</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954567
-    m_Localized: "<size=47>Veteran \nActor</size>"
+    m_Localized: "<size=12>Veteran \nActor</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954568
-    m_Localized: <size=60>Doctor</size>
+    m_Localized: <size=15>Doctor</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954569
-    m_Localized: "<size=47>Beast \nTaming</size>"
+    m_Localized: "<size=12>Beast \nTaming</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954570
-    m_Localized: "<size=47>Imperial \nHorse Keeper</size>"
+    m_Localized: "<size=12>Imperial \nHorse Keeper</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954571
-    m_Localized: <size=60>Nomad</size>
+    m_Localized: <size=15>Nomad</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954572
-    m_Localized: "<size=47>Universal \nLove</size>"
+    m_Localized: "<size=12>Universal \nLove</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954573
-    m_Localized: <size=60>Hawker</size>
+    m_Localized: <size=15>Hawker</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954574
-    m_Localized: <size=46>Non-aggression</size>
+    m_Localized: <size=15>Non-aggression</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954575
-    m_Localized: "<size=47>Perfect \nArchery</size>"
+    m_Localized: "<size=12>Perfect \nArchery</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954576
-    m_Localized: "<size=47>Unusual \nTalent</size>"
+    m_Localized: "<size=12>Unusual \nTalent</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954577
-    m_Localized: "<size=47>A Glimmer \nof Light</size>"
+    m_Localized: "<size=12>A Glimmer \nof Light</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954578
-    m_Localized: "<size=47>Melon \nSeller</size>"
+    m_Localized: "<size=12>Melon \nSeller</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954579
-    m_Localized: "<size=45>Exquisite \nMartial Skills</size>"
+    m_Localized: "<size=12>Exquisite \nMartial Skills</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954580
-    m_Localized: "<size=47>Entered \nthe Hall</size>"
+    m_Localized: "<size=12>Entered \nthe Hall</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954581
-    m_Localized: "<size=47>Possessed \nby Demons</size>"
+    m_Localized: "<size=12>Possessed \nby Demons</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954582
-    m_Localized: "<size=47>Vegetarian \nFood</size>"
+    m_Localized: "<size=12>Vegetarian \nFood</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954583
-    m_Localized: <size=60>Meat Dish</size>
+    m_Localized: <size=15>Meat Dish</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954584
-    m_Localized: <size=60>Great Luck</size>
+    m_Localized: <size=15>Great Luck</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954585
-    m_Localized: <size=60>Silk</size>
+    m_Localized: <size=15>Silk</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954586
-    m_Localized: "<size=47>Heart \nProtector</size>"
+    m_Localized: "<size=12>Heart \nProtector</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954587
-    m_Localized: "<size=47>Leather \nArmor</size>"
+    m_Localized: "<size=12>Leather \nArmor</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954588
-    m_Localized: <size=60>Iron Armor</size>
+    m_Localized: <size=12>Iron Armor</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954589
-    m_Localized: "<size=47>Evil \nRepeller</size>"
+    m_Localized: "<size=12>Evil \nRepeller</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954590
-    m_Localized: <sizie=60>Jewelry</size>
+    m_Localized: <size=15>Jewelry</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954591
-    m_Localized: "<size=47>Happy \nFamily</size>"
+    m_Localized: "<size=12>Happy \nFamily</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954592
-    m_Localized: "<size=47>Mixed \nEmotions</size>"
+    m_Localized: "<size=12>Mixed \nEmotions</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148800
-    m_Localized: "<size=47>Lover of \nGood Wine</size>"
+    m_Localized: "<size=12>Lover of \nGood Wine</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148801
-    m_Localized: <size=60>Craftsman</size>
+    m_Localized: <size=15>Craftsman</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148802
-    m_Localized: <size=60>Story King</size>
+    m_Localized: <size=15>Story King</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148803
-    m_Localized: "<size=47>Zither \nPlayer</size>"
+    m_Localized: "<size=12>Zither \nPlayer</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148804
-    m_Localized: "<size=47>Drunken \nBoxing</size>"
+    m_Localized: "<size=12>Drunken \nBoxing</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148805
-    m_Localized: "<size=47>Literary \nRighteousness</size>"
+    m_Localized: "<size=12>Literary \nRighteousness</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148806
-    m_Localized: "<size=47>Martial \nBravery</size>"
+    m_Localized: "<size=12>Martial \nBravery</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148807
-    m_Localized: "<size=47>Brave \nbut Foolish</size>"
+    m_Localized: "<size=12>Brave \nbut Foolish</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148808
-    m_Localized: "<size=47>Flowery \nSpeech</size>"
+    m_Localized: "<size=12>Flowery \nSpeech</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148809
-    m_Localized: "<size=47>Decorative \nPillow</size>"
+    m_Localized: "<size=12>Decorative \nPillow</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148810
-    m_Localized: "<size=43>Jack of \nAll Trades</size>"
+    m_Localized: "<size=12>Jack of \nAll Trades</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148811
-    m_Localized: <size=50>Self-righteous</size>
+    m_Localized: <size=15>Self-righteous</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148812
-    m_Localized: "<size=47>Treasuring a \nBroken Broom</size>"
+    m_Localized: "<size=12>Treasuring a \nBroken Broom</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148813
-    m_Localized: <size=60>Infertility</size>
+    m_Localized: <size=15>Infertility</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148814
-    m_Localized: "<size=47>Giant \nSyndrome</size>"
+    m_Localized: "<size=12>Giant \nSyndrome</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148815
-    m_Localized: <size/60>Dwarfism</size>
+    m_Localized: <size=15>Dwarfism</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148816
-    m_Localized: "<size=47>Confucian \nScholar</size>"
+    m_Localized: "<size=12>Confucian \nScholar</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148817
-    m_Localized: "<size=47>Taoist \nPriest</size>"
+    m_Localized: "<size=12>Taoist \nPriest</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148818
-    m_Localized: <size=60>Monk</size>
+    m_Localized: <size=15>Monk</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148819
-    m_Localized: <size=60>Lawyer</size>
+    m_Localized: <size=15>Lawyer</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148820
-    m_Localized: <size=47>Cold-blooded</size>
+    m_Localized: <size=12>Cold-blooded</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148821
-    m_Localized: <size=69>Eunuch</size>
+    m_Localized: <size=15>Eunuch</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148822
-    m_Localized: <size=60>Vampire</size>
+    m_Localized: <size=15>Vampire</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148823
-    m_Localized: <size=60>Werewolf</size>
+    m_Localized: <size=15>Werewolf</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148824
-    m_Localized: <size=60>Stiff Knees</size>
+    m_Localized: <size=15>Stiff Knees</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148825
-    m_Localized: <size=50>Hyperactivity</size>
+    m_Localized: <size=14>Hyperactivity</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148826
-    m_Localized: <size=50>Unremarkable</size>
+    m_Localized: <size=14>Unremarkable</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148827
-    m_Localized: <size=60>Eagle</size>
+    m_Localized: <size=15>Eagle</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148828
-    m_Localized: "<size=47>Martial \nArtist</size>"
+    m_Localized: "<size=12>Martial \nArtist</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148829
-    m_Localized: <size=47>Immortal Boy</size>
+    m_Localized: <size=15>Immortal Boy</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148830
-    m_Localized: <size=60>Bow</size>
+    m_Localized: <size=15>Bow</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148831
-    m_Localized: <size=60>Sword</size>
+    m_Localized: <size=15>Sword</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148832
-    m_Localized: <size=60>Spear</size>
+    m_Localized: <size=15>Spear</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148833
-    m_Localized: <size=60>Corruption</size>
+    m_Localized: <size=15>Corruption</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148834
-    m_Localized: <size=60>Actor</size>
+    m_Localized: <size=15>Actor</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148835
-    m_Localized: <size=60>Impure</size>
+    m_Localized: <size=15>Impure</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148836
-    m_Localized: <size=60>Knife</size>
+    m_Localized: <size=15>Knife</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148837
-    m_Localized: <size=60>Halberd</size>
+    m_Localized: <size=15>Halberd</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148838
-    m_Localized: "<size=47>Medical \nSkills</size>"
+    m_Localized: "<size=12>Medical \nSkills</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148839
-    m_Localized: "<size=47>Horse \nKeeper</size>"
+    m_Localized: "<size=12>Horse \nKeeper</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148840
-    m_Localized: "<size=47>Full \nStomach</size>"
+    m_Localized: "<size=12>Full \nStomach</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148841
-    m_Localized: <size=60>Harmless</size>
+    m_Localized: <size=15>Harmless</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148842
-    m_Localized: "<size=47>Skilled \nCraftsman</size>"
+    m_Localized: "<size=12>Skilled \nCraftsman</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148843
-    m_Localized: "<size=47>Upright \nPosture</size>"
+    m_Localized: "<size=12>Upright \nPosture</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148844
-    m_Localized: "<size=47>Useless \nPerson</size>"
+    m_Localized: "<size=12>Useless \nPerson</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148845
-    m_Localized: <size=47>Miscellaneous</size>
+    m_Localized: <size=15>Miscellaneous</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148846
-    m_Localized: "<size=47>Thick \nHair</size>"
+    m_Localized: "<size=12>Thick \nHair</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148847
-    m_Localized: "<size=47>Cursed with \nBad Luck</size>"
+    m_Localized: "<size=12>Cursed with \nBad Luck</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148848
-    m_Localized: "<size=47>Ungrateful \nChild</size>"
+    m_Localized: "<size=12>Ungrateful \nChild</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148849
-    m_Localized: <size=60>Lame</size>
+    m_Localized: <size=15>Lame</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148850
-    m_Localized: "<size=47>Old and \nWeak</size>"
+    m_Localized: "<size=12>Old and \nWeak</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148851
-    m_Localized: <size=60>Drunk</size>
+    m_Localized: <size=15>Drunk</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148852
-    m_Localized: "<size=47>Tragic \nLife</size>"
+    m_Localized: "<size=12>Tragic \nLife</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148853
-    m_Localized: "<size=47>Mental \nIllness</size>"
+    m_Localized: "<size=12>Mental \nIllness</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148854
-    m_Localized: <size=60>Nearsighted</size>
+    m_Localized: <size=15>Nearsighted</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148855
-    m_Localized: "<size=47>Sweet \nTooth</size>"
+    m_Localized: "<size=12>Sweet \nTooth</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148856
-    m_Localized: <size=60>Malnutrition</size>
+    m_Localized: <size=15>Malnutrition</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148857
-    m_Localized: <size=60>Diabetes</size>
+    m_Localized: <size=15>Diabetes</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148858
-    m_Localized: <size=50>Sleeplessness</size>
+    m_Localized: <size=15>Sleeplessness</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148859
-    m_Localized: <size=60>Big Eater</size>
+    m_Localized: <size=15>Big Eater</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148860
-    m_Localized: <size=60>Blind</size>
+    m_Localized: <size=15>Blind</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148861
-    m_Localized: <size=60>One-armed</size>
+    m_Localized: <size=15>One-armed</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148862
-    m_Localized: <size=60>Dementia</size>
+    m_Localized: <size=15>Dementia</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148863
-    m_Localized: <size=60>Pregnant</size>
+    m_Localized: <size=15>Pregnant</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148864
-    m_Localized: <size=60>Polio</size>
+    m_Localized: <size=15>Polio</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148865
-    m_Localized: <size=60>Illiterate</size>
+    m_Localized: <size=15>Illiterate</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148866
-    m_Localized: "<size=47>Taking \nAdvantage</size>"
+    m_Localized: "<size=12>Taking \nAdvantage</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148867
-    m_Localized: "<size=47>Useless \nFury</size>"
+    m_Localized: "<size=12>Useless \nFury</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148868
-    m_Localized: <size=60>Headache</size>
+    m_Localized: <size=15>Headache</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148869
-    m_Localized: <size=60>Paralysis</size>
+    m_Localized: <size=15>Paralysis</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148870
-    m_Localized: <size=60>Stuttering</size>
+    m_Localized: <size=15>Stuttering</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148871
-    m_Localized: <size=60>Annoying</size>
+    m_Localized: <size=15>Annoying</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148872
-    m_Localized: <size=60>Mischievous</size>
+    m_Localized: <size=15>Mischievous</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148873
-    m_Localized: "<size=47>Natural \nDislike</size>"
+    m_Localized: "<size=12>Natural \nDislike</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148874
-    m_Localized: <size=60>Gagging</size>
+    m_Localized: <size=15>Gagging</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148875
-    m_Localized: <size=60>Weak Body</size>
+    m_Localized: <size=15>Weak Body</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148876
-    m_Localized: <size=60>Obesity</size>
+    m_Localized: <size=15>Obesity</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148877
-    m_Localized: "<size=47>Uneven \nLegs</size>"
+    m_Localized: "<size=12>Uneven \nLegs</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148878
-    m_Localized: "<size=47>Prosthetic\n Limb</size43>"
+    m_Localized: "<size=12>Prosthetic\n Limb</size43>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148879
-    m_Localized: <size=60>Poison</szie>
+    m_Localized: <size=15>Poison</szie>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148880
-    m_Localized: "<size=47>Barely \nClothed</size>"
+    m_Localized: "<size=12>Barely \nClothed</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148881
-    m_Localized: "<size=47>Blood \nEnrichment</size>"
+    m_Localized: "<size=12>Blood \nEnrichment</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148882
-    m_Localized: "<size=47>Kidney \nStrengthening</size>"
+    m_Localized: "<size=12>Kidney \nStrengthening</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148883
@@ -997,7 +997,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148885
-    m_Localized: "<size=47>Body \nTempering</size>"
+    m_Localized: "<size=12>Body \nTempering</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148886
@@ -1029,39 +1029,39 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148893
-    m_Localized: <size=60>Iron Turtle</size>
+    m_Localized: <size=15>Iron Turtle</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148894
-    m_Localized: <size=60>Full of Vigor</size>
+    m_Localized: <size=15>Full of Vigor</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148895
-    m_Localized: "<size=47>Dragon \nRoar</size>"
+    m_Localized: "<size=12>Dragon \nRoar</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148896
-    m_Localized: "<size=47>Thousand \nFaces</size>"
+    m_Localized: "<size=12>Thousand \nFaces</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148897
-    m_Localized: "<size=47>Master of \nTechniques</size>"
+    m_Localized: "<size=12>Master of \nTechniques</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148898
-    m_Localized: "<size=47>Swift as \nthe Wind</size>"
+    m_Localized: "<size=12>Swift as \nthe Wind</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148899
-    m_Localized: <size=60>Foul Odor</size>
+    m_Localized: <size=15>Foul Odor</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148900
-    m_Localized: <size=60>Stinking</size>
+    m_Localized: <size=15>Stinking</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148901
-    m_Localized: "<size=47>Mechanical \nBody</size>"
+    m_Localized: "<size=12>Mechanical \nBody</size>"
     m_Metadata:
       m_Items: []
   references:

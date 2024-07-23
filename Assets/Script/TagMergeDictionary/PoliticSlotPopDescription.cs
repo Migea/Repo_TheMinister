@@ -70,13 +70,28 @@ public class PoliticSlotPopDescription : MonoBehaviour
             tagNeeds.gameObject.SetActive(false);
             serveTo.gameObject.SetActive(true);
             variableNeeds.gameObject.SetActive(false);
+            LocalizedString loyalTo = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = $"设置_效忠于"
+            };
             if (ServeYou)
             {
-                serveTo.text = $"效忠于：你";
+                LocalizedString you = new LocalizedString
+                {
+                    TableReference = "Party",
+                    TableEntryReference = $"你"
+                };
+                serveTo.text = $"{loyalTo}{you.GetLocalizedString()}";
             }
             else
             {
-                serveTo.text = $"效忠于：{slot.GateHolder.FactionType}";
+                LocalizedString factionTypeString = new LocalizedString
+                {
+                    TableReference = "Party",
+                    TableEntryReference = $"{slot.GateHolder.FactionType}"
+                };
+                serveTo.text = $"{loyalTo}{factionTypeString.GetLocalizedString()}";
             }
         }
         if (gameObject.activeSelf)

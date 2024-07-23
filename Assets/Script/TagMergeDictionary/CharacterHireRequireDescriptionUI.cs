@@ -2,6 +2,7 @@ using Language.Lua;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class CharacterHireRequireDescriptionUI : MonoBehaviour
@@ -40,7 +41,12 @@ public class CharacterHireRequireDescriptionUI : MonoBehaviour
             else if (Rarity == Rarerity.SSR) rareColor = SSRColor;
             else if (Rarity == Rarerity.UR) rareColor = URColor;
             string valueColor = HaveEnough(item.Value <= HaveAmount(item.Key));
-            string line = $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{item.Key.ToString()}</color> * <color={valueColor}>{HaveAmount(item.Key)}</color>/{item.Value}";
+            LocalizedString itemString = new LocalizedString
+            {
+                TableReference = "Item",
+                TableEntryReference = $"{item.Key.ToString()}"
+            };
+            string line = $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{itemString.GetLocalizedString()}</color> * <color={valueColor}>{HaveAmount(item.Key)}</color>/{item.Value}";
             text += line;
         }
         requestText.text = text;

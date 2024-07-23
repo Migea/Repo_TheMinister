@@ -40,7 +40,12 @@ public class ItemFromWhere : MonoBehaviour
                 else if (Rarity == Rarerity.SR) rareColor = SRColor;
                 else if (Rarity == Rarerity.SSR) rareColor = SSRColor;
                 else if (Rarity == Rarerity.UR) rareColor = URColor;
-                string line = $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{item.ToString()}</color>";
+                LocalizedString matString = new LocalizedString
+                {
+                    TableReference = "Item",
+                    TableEntryReference = $"{item}"
+                };
+                string line = $"<color=#{ColorUtility.ToHtmlStringRGBA(rareColor)}>{matString.GetLocalizedString()}</color>";
                 outputText += line;
             }
         }

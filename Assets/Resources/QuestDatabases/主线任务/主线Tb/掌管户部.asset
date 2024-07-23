@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "\u638C\u7BA1\u6237\u90E8"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000000200000003000000040000000500000006000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u638C\u7BA1\u6237\u90E8"
+    - Overseeing the Ministry of Revenue
+    - "\u638C\u7BA1\u6237\u90E8"
+    - 
+  - m_fieldName: Journal1
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4F60\u7684\u5E08\u7236\u59DC\u5723\u9884\u611F\u4E16\u6709\u5927\u96BE\uFF0C\u9063\u4F60\u5165\u4EAC\uFF0C\u4E3A\u4E09\u54C1\u6237\u90E8\u4F8D\u90CE\u3002\u4E3A\u4E86\u5B8C\u6210\u5E08\u7236\u7684\u5E03\u5C40\uFF0C\u4F60\u9700\u8981\u5728\u671D\u4E2D\u62E5\u6709\u81EA\u5DF1\u7FBD\u7FFC\u3002"
+    - Your master, Saint Jiang, foresaw great calamities in the world and sent you
+      to the capital to serve as a third-rank Assistant Minister of the Ministry
+      of Revenue. To fulfill your master's plans, you need to establish your own
+      network within the court.
+    - "\u4F60\u7684\u5E08\u7236\u59DC\u5723\u9884\u611F\u4E16\u6709\u5927\u96BE\uFF0C\u9063\u4F60\u5165\u4EAC\uFF0C\u4E3A\u4E09\u54C1\u6237\u90E8\u4F8D\u90CE\u3002\u4E3A\u4E86\u5B8C\u6210\u5E08\u7236\u7684\u5E03\u5C40\uFF0C\u4F60\u9700\u8981\u5728\u671D\u4E2D\u62E5\u6709\u81EA\u5DF1\u7FBD\u7FFC\u3002"
+    - 
+  - m_fieldName: JournalCount1
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/5"
+    - Influence reaches {#PoliticLevel}/5
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/5"
+    - 
+  - m_fieldName: Journal2
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4F60\u5728\u6237\u90E8\u5EFA\u7ACB\u8D77\u4E86\u674E\u515A\uFF0C\u4F46\u5728\u771F\u6B63\u7684\u638C\u6743\u8005\u773C\u91CC\u4E0D\u8FC7\u662F\u987D\u7AE5\u62D9\u52A3\u7684\u6A21\u4EFF\u3002"
+    - You have established the Li faction in the Ministry of Revenue, but in the
+      eyes of those in true power, you are merely a child making clumsy imitations.
+    - "\u4F60\u5728\u6237\u90E8\u5EFA\u7ACB\u8D77\u4E86\u674E\u515A\uFF0C\u4F46\u5728\u771F\u6B63\u7684\u638C\u6743\u8005\u773C\u91CC\u4E0D\u8FC7\u662F\u987D\u7AE5\u62D9\u52A3\u7684\u6A21\u4EFF\u3002"
+    - 
+  - m_fieldName: JournalCount2
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/10"
+    - Influence reaches {#PoliticLevel}/10
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/10"
+    - 
+  - m_fieldName: Journal3
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u674E\u515A\u9010\u6E10\u5728\u671D\u4E2D\u8D77\u4E86\u58F0\u52BF\uFF0C\u62E5\u6709\u4E86\u4E9B\u8BB8\u5F71\u54CD\u529B\uFF0C\u7136\u800C\u76F8\u8F83\u4E8E\u6743\u503E\u671D\u91CE\u7684\u674E\u963F\u3001\u5F20\u6D77\u9E7F\u7B49\u4EBA\u5B9B\u5982\u5C18\u996D\u6D82\u7FB9\u3002"
+    - The Li faction gradually gained momentum and some influence in the court. However,
+      compared to powerful figures like Li A and Zhang Hailu, it remains as insignificant
+      as dust and mud.
+    - "\u674E\u515A\u9010\u6E10\u5728\u671D\u4E2D\u8D77\u4E86\u58F0\u52BF\uFF0C\u62E5\u6709\u4E86\u4E9B\u8BB8\u5F71\u54CD\u529B\uFF0C\u7136\u800C\u76F8\u8F83\u4E8E\u6743\u503E\u671D\u91CE\u7684\u674E\u963F\u3001\u5F20\u6D77\u9E7F\u7B49\u4EBA\u5B9B\u5982\u5C18\u996D\u6D82\u7FB9\u3002"
+    - 
+  - m_fieldName: JournalCount3
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/15"
+    - Influence reaches {#PoliticLevel}/15
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/15"
+    - 
+  - m_fieldName: Journal4
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u6237\u90E8\u5B98\u5458\u5DF2\u9010\u6E10\u843D\u5165\u4F60\u7684\u53E3\u888B\uFF0C\u674E\u515A\u7684\u58F0\u5A01\u5DF2\u5728\u671D\u4E2D\u4E0D\u53EF\u5FFD\u89C6\u3002\u6B64\u65F6\u4F60\u771F\u6B63\u5730\u8D70\u5165\u5F20\u6D77\u9E7F\u4E0E\u674E\u963F\u7B49\u4E8C\u4EBA\u7684\u89C6\u91CE\u3002"
+    - Officials in the Ministry of Revenue have gradually fallen under your influence,
+      and the reputation of the Li faction has become impossible to ignore in the
+      court. At this point, you have truly entered the sights of Zhang Hailu and
+      Li'E.
+    - "\u6237\u90E8\u5B98\u5458\u5DF2\u9010\u6E10\u843D\u5165\u4F60\u7684\u53E3\u888B\uFF0C\u674E\u515A\u7684\u58F0\u5A01\u5DF2\u5728\u671D\u4E2D\u4E0D\u53EF\u5FFD\u89C6\u3002\u6B64\u65F6\u4F60\u771F\u6B63\u5730\u8D70\u5165\u5F20\u6D77\u9E7F\u4E0E\u674E\u963F\u7B49\u4E8C\u4EBA\u7684\u89C6\u91CE\u3002\n"
+    - 
+  - m_fieldName: JournalCount4
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/20"
+    - Influence reaches {#PoliticLevel}/20
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/20"
+    - 
+  - m_fieldName: Journal5
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u674E\u515A\u4E4B\u52BF\u5DF2\u6210\uFF0C\u6B64\u52BF\u529B\u5C06\u662F\u59DC\u5723\u5E03\u5C40\u4E2D\u5960\u5B9A\u80DC\u5C40\u7684\u68CB\u5B50\u3002\u540C\u65F6\u4F60\u4E5F\u62E5\u6709\u4E86\u6311\u6218\u671D\u4E2D\u6743\u52BF\u6ED4\u5929\u7684\u5BA6\u5B98\u58EB\u65CF\u7684\u8D44\u683C\u3002"
+    - The Li faction's influence is now established, becoming a crucial piece in
+      Saint Jiang's grand plan for victory. You now also have the standing to challenge
+      the immensely powerful eunuchs and aristocrats in the court.
+    - "\u674E\u515A\u4E4B\u52BF\u5DF2\u6210\uFF0C\u6B64\u52BF\u529B\u5C06\u662F\u59DC\u5723\u5E03\u5C40\u4E2D\u5960\u5B9A\u80DC\u5C40\u7684\u68CB\u5B50\u3002\u540C\u65F6\u4F60\u4E5F\u62E5\u6709\u4E86\u6311\u6218\u671D\u4E2D\u6743\u52BF\u6ED4\u5929\u7684\u5BA6\u5B98\u58EB\u65CF\u7684\u8D44\u683C\u3002"
+    - 
+  - m_fieldName: JournalCount5
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/25"
+    - Influence reaches {#PoliticLevel}/25
+    - "\u52BF\u529B\u7B49\u7EA7\u8FBE\u5230{#PoliticLevel}/25"
+    - 
+  - m_fieldName: "Journal\u6D3E\u9063"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4E8E\u8083\u6587\u63D0\u51FA\u9609\u515A\u5BF9\u5931\u94F6\u6848\u9ED8\u4E0D\u4F5C\u58F0\uFF0C\u6709\u5F88\u5927\u5ACC\u7591\uFF0C\u6D3E\u51FA\u968F\u4ECE\u6DF1\u5165\u8C03\u67E5\u4E00\u4E0B\u5BAB\u5185\u7684\u60C5\u51B5\u3002"
+    - Yu Suwen suggested that the eunuch faction's silence on the matter of the missing
+      silver makes them highly suspicious. Dispatch followers to conduct an in-depth
+      investigation within the palace.
+    - "\u4E8E\u8083\u6587\u63D0\u51FA\u9609\u515A\u5BF9\u5931\u94F6\u6848\u9ED8\u4E0D\u4F5C\u58F0\uFF0C\u6709\u5F88\u5927\u5ACC\u7591\uFF0C\u6D3E\u51FA\u968F\u4ECE\u6DF1\u5165\u8C03\u67E5\u4E00\u4E0B\u5BAB\u5185\u7684\u60C5\u51B5\u3002"
+    - 
+  - m_fieldName: "Journal\u7B49\u5F85"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - Wait for your followers to complete the task.
+    - "\u7B49\u5F85\u4F60\u7684\u968F\u4ECE\u4E0B\u5B8C\u6210\u4EFB\u52A1\u3002"
+    - 
+  - m_fieldName: "Journal\u5269\u4F59"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - '{#DaysLeft} days remaining.'
+    - "\u5269\u4F59{#DaysLeft}\u5929"
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A\u517B\u6C14\u7B51\u57FA\u6563\uFF0C420\u94F6\u4E24\u3002"
+    - 'Reward: Nourishing Powder, 420 silver.'
+    - "\u5956\u52B1\uFF1A\u517B\u6C14\u7B51\u57FA\u6563\uFF0C420\u94F6\u4E24\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9609\u515A\u505A\u4E8B\u6EF4\u6C34\u4E0D\u6F0F\uFF0C\u5E76\u4E0D\u80FD\u627E\u5230\u76F4\u63A5\u77F3\u9524\u7684\u5173\u952E\u8BC1\u636E\uFF0C\u4F46\u968F\u4ECE\u5728\u5BAB\u4E2D\u8FD8\u6709\u610F\u5916\u6536\u83B7\uFF0C\u53D1\u73B0\u4E86\u4E0D\u5C11\u7684\u7AE5\u7537\u7AE5\u5973\uFF0C\u90FD\u88AB\u5173\u5728\u4E00\u8D77\uFF0C\u5341\u5206\u8BE1\u5F02\u3002"
+    - Baiyun Temple is well-guarded, using the pretext of casting Buddha statues
+      to forbid anyone from entering. There is certainly something suspicious about
+      this.
+    - "\u9609\u515A\u505A\u4E8B\u6EF4\u6C34\u4E0D\u6F0F\uFF0C\u5E76\u4E0D\u80FD\u627E\u5230\u76F4\u63A5\u77F3\u9524\u7684\u5173\u952E\u8BC1\u636E\uFF0C\u4F46\u968F\u4ECE\u5728\u5BAB\u4E2D\u8FD8\u6709\u610F\u5916\u6536\u83B7\uFF0C\u53D1\u73B0\u4E86\u4E0D\u5C11\u7684\u7AE5\u7537\u7AE5\u5973\uFF0C\u90FD\u88AB\u5173\u5728\u4E00\u8D77\uFF0C\u5341\u5206\u8BE1\u5F02\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 17

@@ -242,8 +242,8 @@ MonoBehaviour:
   m_group:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 314a851b29d386a4b93a3d8142add274, type: 2}
+    m_textTableFieldID: 1
   m_labels: []
   m_questGiverID:
     m_text: 

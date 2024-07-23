@@ -1396,5 +1396,13 @@ MonoBehaviour:
     m_Localized: Item shortage
     m_Metadata:
       m_Items: []
+  - m_Id: 8132358753284096
+    m_Localized: Purchased horses can only be equipped to characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8133931218825216
+    m_Localized: '* blocks movement increase'
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

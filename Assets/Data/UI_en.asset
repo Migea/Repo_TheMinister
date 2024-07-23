@@ -1381,5 +1381,9 @@ MonoBehaviour:
       equal to the \"Defense\" value"
     m_Metadata:
       m_Items: []
+  - m_Id: 7936522182258688
+    m_Localized: Collect
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

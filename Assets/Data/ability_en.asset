@@ -59,27 +59,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 611275233882112
-    m_Localized: <size=13>TAC</size>
+    m_Localized: <size=24>TAC</size>
     m_Metadata:
       m_Items: []
   - m_Id: 611275867222016
-    m_Localized: <size=13>ATK</size>
+    m_Localized: <size=24>ATK</size>
     m_Metadata:
       m_Items: []
   - m_Id: 611276404092928
-    m_Localized: <size=13>WIS</size>
+    m_Localized: <size=24>WIS</size>
     m_Metadata:
       m_Items: []
   - m_Id: 611276928380928
-    m_Localized: <size=13>LIT</size>
+    m_Localized: <size=24>LIT</size>
     m_Metadata:
       m_Items: []
   - m_Id: 611277435891712
-    m_Localized: <size=13>DEF</size>
+    m_Localized: <size=24>DEF</size>
     m_Metadata:
       m_Items: []
   - m_Id: 611277947596800
-    m_Localized: <size=13>DEX</size>
+    m_Localized: <size=24>DEX</size>
     m_Metadata:
       m_Items: []
   references:

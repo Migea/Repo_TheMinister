@@ -1428,5 +1428,17 @@ MonoBehaviour:
     m_Localized: Get new characters!
     m_Metadata:
       m_Items: []
+  - m_Id: 8173307986505728
+    m_Localized: ATK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8173371949641728
+    m_Localized: DEF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8173373266653184
+    m_Localized: STK
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

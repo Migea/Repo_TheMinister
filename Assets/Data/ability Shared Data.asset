@@ -51,6 +51,10 @@ MonoBehaviour:
     m_Key: "ability_\u9971"
     m_Metadata:
       m_Items: []
+  - m_Id: 562265441759232
+    m_Key: "\u89D2\u8272\u6B63\u5728\u5904\u7406\u5176\u4ED6\u4E8B\u7269"
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

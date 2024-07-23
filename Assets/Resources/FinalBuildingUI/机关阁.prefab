@@ -3657,9 +3657,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_StringReference:
     m_TableReference:
-      m_TableCollectionName: 
+      m_TableCollectionName: GUID:3ac5128841adf274b99ba7d2a7601c6f
     m_TableEntryReference:
-      m_KeyId: 0
+      m_KeyId: 3940481275588608
       m_Key: 
     m_FallbackState: 0
     m_WaitForCompletion: 0

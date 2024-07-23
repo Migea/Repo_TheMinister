@@ -55,7 +55,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2675975832530944
-    m_Localized: SaveLoad
+    m_Localized: <size=26>SaveLoad</size>
     m_Metadata:
       m_Items: []
   - m_Id: 2676745059495936
@@ -555,7 +555,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3943029202022400
-    m_Localized: Treatment
+    m_Localized: <size=17>Treatment</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3943579914137600
@@ -563,7 +563,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3945096733847552
-    m_Localized: Health
+    m_Localized: <size=24>Health</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3945318268596224
@@ -1402,6 +1402,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 8133931218825216
     m_Localized: '* blocks movement increase'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8138627769757696
+    m_Localized: <size=28>Treatment</size>
     m_Metadata:
       m_Items: []
   references:

@@ -1420,5 +1420,9 @@ MonoBehaviour:
     m_Localized: The character becomes extremely disappointed in you and leaves you
     m_Metadata:
       m_Items: []
+  - m_Id: 8151303552036864
+    m_Localized: "Right-click any area of \u200B\u200Bthe screen to close this window"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

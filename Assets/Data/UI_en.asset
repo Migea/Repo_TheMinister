@@ -1270,9 +1270,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5312399996153856
-    m_Localized: '
-
-      Serving officers'
+    m_Localized: Serving officers
     m_Metadata:
       m_Items: []
   - m_Id: 5312400625299456
@@ -1379,6 +1377,10 @@ MonoBehaviour:
   - m_Id: 7576620226113536
     m_Localized: "Strong: Reduces the damage received, \nand the reduced damage is
       equal to the \"Defense\" value"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7936522182258688
+    m_Localized: Collect
     m_Metadata:
       m_Items: []
   references:

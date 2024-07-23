@@ -94,5 +94,9 @@ MonoBehaviour:
     m_Localized: "\u5723\u54C1"
     m_Metadata:
       m_Items: []
+  - m_Id: 306104708689920
+    m_Localized: "\u5DEE\u54C1"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

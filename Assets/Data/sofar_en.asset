@@ -240,5 +240,9 @@ MonoBehaviour:
     m_Localized: UR
     m_Metadata:
       m_Items: []
+  - m_Id: 306104708689920
+    m_Localized: B
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

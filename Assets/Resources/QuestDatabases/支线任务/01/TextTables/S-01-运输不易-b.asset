@@ -23,19 +23,22 @@ MonoBehaviour:
   - m_fieldName: JounralTitle
     m_keys: 00000000010000000200000003000000
     m_values:
-    - "\u8D4A\u8D26"
-    - On Credit
-    - "\u8D4A\u8D26"
+    - "\u8FD0\u8F93\u4E0D\u6613"
+    - Transport difficulties
+    - "\u8FD0\u8F93\u4E0D\u6613"
     - 
   - m_fieldName: "Journal\u6D3E\u9063"
     m_keys: 00000000010000000200000003000000
     m_values:
-    - "\u8C46\u8150\u5E97\u7684\u963F\u82B1\u6700\u8FD1\u88AB\u6DF7\u6DF7\u9A9A\u6270\uFF0C\u8D4A\u8D26\u4E0D\u8FD8\uFF0C\u8BA9<color=\"#ff881a\">
-      \u9AD8\u5C91 </color>\u5904\u7406\u4E00\u4E0B\u8FD9\u4E9B\u4E8B\u60C5\u3002"
-    - Hua from the tofu shop has recently been harassed by hooligans who take on
-      credit and don't pay. Let <color="#ff881a>Gao Cen</color> handle these matters.
-    - "\u8C46\u8150\u5E97\u7684\u963F\u82B1\u6700\u8FD1\u88AB\u6DF7\u6DF7\u9A9A\u6270\uFF0C\u8D4A\u8D26\u4E0D\u8FD8\uFF0C\u8BA9<color=\"#ff881a\">
-      \u9AD8\u5C91 </color>\u5904\u7406\u4E00\u4E0B\u8FD9\u4E9B\u4E8B\u60C5\u3002"
+    - "\u8D27\u5546\u5F20\u6728\u7684\u6728\u6750\u5546\u961F\u5728\u4EAC\u57CE\u57CE\u5916\u8D70\u5931\uFF0C<color=\"#ff881a\">
+      \u6863\u6848\u53F8\u7684\u5C0F\u5356\u827A\u4EBA\u6731\u5C0F\u541B </color>\u5E94\u8BE5\u77E5\u9053\u6B64\u4E8B
+      \u8BF7\u53BB\u8BE6\u8C08\u3002"
+    - Merchant Zhang Mu's timber caravan went missing outside the capital. <color="#ff881a>Zhu
+      Xiaojun, a civilian leader from the Intelligence Department</color>, should
+      know about this. Please go and discuss it with him.
+    - "\u8D27\u5546\u5F20\u6728\u7684\u6728\u6750\u5546\u961F\u5728\u4EAC\u57CE\u57CE\u5916\u8D70\u5931\uFF0C<color=\"#ff881a\">
+      \u6863\u6848\u53F8\u7684\u5C0F\u5356\u827A\u4EBA\u6731\u5C0F\u541B </color>\u5E94\u8BE5\u77E5\u9053\u6B64\u4E8B
+      \u8BF7\u53BB\u8BE6\u8C08\u3002"
     - 
   - m_fieldName: JournalCount
     m_keys: 00000000010000000200000003000000
@@ -47,16 +50,18 @@ MonoBehaviour:
   - m_fieldName: "Journal\u5956\u52B1"
     m_keys: 00000000010000000200000003000000
     m_values:
-    - "\u5956\u52B1\uFF1A30\u94F6\u4E24\uFF0C\u8695\u4E1D\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
-    - 'Reward: 30 silver, silk, slight reduction of pressure.'
-    - "\u5956\u52B1\uFF1A30\u94F6\u4E24\uFF0C\u8695\u4E1D\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - "\u5956\u52B1\uFF1A190\u94F6\u4E24\uFF0C\u6728\u4F5B\u50CF,\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: 190 silver, wooden Buddha statue, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A190\u94F6\u4E24\uFF0C\u6728\u4F5B\u50CF,\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
     - 
   - m_fieldName: "Journal\u7ED3\u679C"
     m_keys: 00000000010000000200000003000000
     m_values:
-    - "\u963F\u82B1\u611F\u8C22\u4F60\u7684\u51FA\u624B\u76F8\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u4E00\u5377\u4E0A\u597D\u7684\u8695\u4E1D\u3002"
-    - Hua is grateful for your help and gives you a roll of fine silk.
-    - "\u963F\u82B1\u611F\u8C22\u4F60\u7684\u51FA\u624B\u76F8\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u4E00\u5377\u4E0A\u597D\u7684\u8695\u4E1D\u3002"
+    - "\u539F\u6765\u662F\u5546\u961F\u9886\u961F\u8BB0\u9519\u4E86\u4EA4\u8D27\u5730\u70B9\uFF0C\u53BB\u5F80\u4E86\u4EAC\u897F\uFF0C\u8054\u7CFB\u4E0A\u53CC\u65B9\u540E\u5F20\u6728\u5341\u5206\u611F\u8C22\u4F60\u7684\u5E2E\u52A9\u3002"
+    - It turned out that the caravan leader had mistaken the delivery location and
+      headed to the west of the capital. After connecting both parties, Zhang Mu
+      was very grateful for your help.
+    - "\u539F\u6765\u662F\u5546\u961F\u9886\u961F\u8BB0\u9519\u4E86\u4EA4\u8D27\u5730\u70B9\uFF0C\u53BB\u5F80\u4E86\u4EAC\u897F\uFF0C\u8054\u7CFB\u4E0A\u53CC\u65B9\u540E\u5F20\u6728\u5341\u5206\u611F\u8C22\u4F60\u7684\u5E2E\u52A9\u3002"
     - 
   - m_fieldName: "Journal\u7B49\u5F85"
     m_keys: 00000000010000000200000003000000

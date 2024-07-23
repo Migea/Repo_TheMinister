@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u4E0E\u5B59\u4F0F\u4E4B\u8FA9-d"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000500000006000000070000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u4E0E\u5B59\u4F0F\u4E4B\u8FA9"
+    - Debate with Sun Fu
+    - "\u4E0E\u5B59\u4F0F\u4E4B\u8FA9"
+    - 
+  - m_fieldName: JournalProgress
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5B59\u4F0F\u81EA\u547D\u4E0D\u51E1\uFF0C\u770B\u4E0D\u8D77\u5546\u8D3E\u5C0F\u8D29\u4E4B\u6D41\u7ECF\u5E38\u5E26\u7740\u624B\u4E0B\u6B3A\u538B\u5E97\u5BB6\uFF0C\u53BB\u8BD5\u8BD5\u4ED6\u5230\u5E95\u6709\u4EC0\u4E48\u5B66\u8BC6\u3002"
+    - Sun Fu considers himself superior and often bullies shopkeepers with his followers,
+      looking down on merchants and peddlers. Go test the extent of his knowledge.
+    - "\u5B59\u4F0F\u81EA\u547D\u4E0D\u51E1\uFF0C\u770B\u4E0D\u8D77\u5546\u8D3E\u5C0F\u8D29\u4E4B\u6D41\u7ECF\u5E38\u5E26\u7740\u624B\u4E0B\u6B3A\u538B\u5E97\u5BB6\uFF0C\u53BB\u8BD5\u8BD5\u4ED6\u5230\u5E95\u6709\u4EC0\u4E48\u5B66\u8BC6\u3002"
+    - 
+  - m_fieldName: JournalObjective
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - 
+    - Help Messiah resolve the disputes.
+    - 
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1: 150\u94F6\u4E24\uFF0C \u91D1\u7EFF\u5B9D\u77F3\u3002"
+    - 'Reward: 150 silver, chrysoberyl.'
+    - "\u5956\u52B1: 150\u94F6\u4E24\uFF0C \u91D1\u7EFF\u5B9D\u77F3\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5B59\u4F0F\u81EA\u77E5\u7406\u4E8F\uFF0C\u6C14\u51B2\u51B2\u5C31\u8D70\u4E86\uFF0C\u770B\u6837\u5B50\u8FD8\u662F\u6CA1\u5F97\u5230\u6559\u8BAD\u3002"
+    - Knowing he was in the wrong, Sun Fu stormed off angrily. It seems he still
+      hasn't learned his lesson.
+    - "\u5B59\u4F0F\u81EA\u77E5\u7406\u4E8F\uFF0C\u6C14\u51B2\u51B2\u5C31\u8D70\u4E86\uFF0C\u770B\u6837\u5B50\u8FD8\u662F\u6CA1\u5F97\u5230\u6559\u8BAD\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

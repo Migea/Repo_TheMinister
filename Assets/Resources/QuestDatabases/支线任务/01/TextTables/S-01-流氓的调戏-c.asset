@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u6D41\u6C13\u7684\u8C03\u620F-c"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000500000006000000070000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u6D41\u6C13\u7684\u8C03\u620F"
+    - Abuse of power
+    - "\u6D41\u6C13\u7684\u8C03\u620F"
+    - 
+  - m_fieldName: JournalProgress
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u9752\u697C\u5973\u5B50\u8FB9\u83BA\u83BA\u82E6\u4E8E\u88AB<color=\"#ff881a\">
+      \u5434\u5929 </color>\u538B\u8FEB\uFF0C\u53BB\u5E2E\u5979\u5904\u7406\u6389\u3002"
+    - Bian Yingying, a courtesan, is suffering under the oppression of <color="#ff881a">Wu
+      Tian</color>. Go help her deal with it.
+    - "\u9752\u697C\u5973\u5B50\u8FB9\u83BA\u83BA\u82E6\u4E8E\u88AB<color=\"#ff881a\">
+      \u5434\u5929 </color>\u538B\u8FEB\uFF0C\u53BB\u5E2E\u5979\u5904\u7406\u6389\u3002"
+    - 
+  - m_fieldName: JournalObjective
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u523A\u6740<color=\"#ff881a\"> \u91D1\u94B1\u53F8\u7684\u95E8\u4EBA\u5434\u5929
+      </color>\u3002"
+    - Assassinate <color="#ff881a">Wu Tian, a Civilian leader of the Money Division</color>.
+    - "\u523A\u6740<color=\"#ff881a\"> \u91D1\u94B1\u53F8\u7684\u95E8\u4EBA\u5434\u5929
+      </color>\u3002"
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1\uFF1A500\u94F6\u4E24\uFF0C\u80ED\u8102\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 'Reward: 500 silver, Blusher, slight reduction of pressure.'
+    - "\u5956\u52B1\uFF1A500\u94F6\u4E24\uFF0C\u80ED\u8102\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u8FB9\u83BA\u83BA\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u897F\u57DF\u8FDB\u53E3\u7684\u7A00\u6709\u80ED\u8102\u4E00\u4EFD\u3002"
+    - Bian Yingying is very grateful for your help and has given you a rare, imported
+      blusher from the Western Regions.
+    - "\u8FB9\u83BA\u83BA\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u897F\u57DF\u8FDB\u53E3\u7684\u7A00\u6709\u80ED\u8102\u4E00\u4EFD\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

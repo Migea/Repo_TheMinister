@@ -52,7 +52,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A50\u94F6\u4E24\uFF0C\u80ED\u8102\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -116,11 +116,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u9752\u697C\u5973\u5B50\u8FB9\u83BA\u83BA\u82E6\u4E8E\u88AB<color=\"#ff881a\">
-      \u5434\u5929 </color>\u9A9A\u6270 \u53BB\u5E2E\u5979\u5904\u7406\u6389\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &-1649812571854634525
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -134,12 +133,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 1
   m_headingLevel: 1
 --- !u!114 &-950169694883839025
 MonoBehaviour:
@@ -404,6 +403,7 @@ MonoBehaviour:
         - {fileID: 4540655467498712940}
         - {fileID: -3529566194697217707}
         - {fileID: 866886694049929098}
+        - {fileID: 5882749222445405191}
         - {fileID: 2820082840051418171}
       - m_contentList: []
     - m_actionList: []
@@ -457,8 +457,10 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: -1649812571854634525}
         - {fileID: 7769354619643308970}
+        - {fileID: 1489784513916518986}
         - {fileID: 3671703222035770959}
         - {fileID: -5439694738605236066}
+        - {fileID: 3938661831738810957}
       - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
@@ -616,8 +618,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u523A\u6740\u95E8\u4EBA<color=\"#ff881a\"> \u91D1\u94B1\u53F8\u7684\u95E8\u4EBA\u5434\u5929
-      </color>\u3002"
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 6
+--- !u!114 &1489784513916518986
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -681,10 +700,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A50\u94F6\u4E24\uFF0C\u80ED\u8102\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &3671703222035770959
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -699,10 +718,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u8FB9\u83BA\u83BA\u5341\u5206\u611F\u8C22\u4F60\u7684\u51FA\u624B\u5E2E\u52A9\uFF0C\u9001\u7ED9\u4E86\u4F60\u897F\u57DF\u8FDB\u53E3\u7684\u7A00\u6709\u80ED\u8102\u4E00\u4EFD\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 4
+--- !u!114 &3938661831738810957
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &4493975985640497774
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -735,13 +772,31 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 1
+  m_headingLevel: 1
+--- !u!114 &5882749222445405191
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
     m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
-  m_headingLevel: 5
 --- !u!114 &7769354619643308970
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -756,10 +811,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u9752\u697C\u5973\u5B50\u8FB9\u83BA\u83BA\u82E6\u4E8E\u88AB\u6D41\u6C13\u9A9A\u6270\u8C03\u620F\uFF0C\u5FEB\u53BB\u5E2E\u5979\u8D76\u8DD1\u8FD9\u4E9B\u8D3C\u4EBA\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 4caaec88a3ca96243b97e180fe639a68, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &8028808581188494943
 MonoBehaviour:
   m_ObjectHideFlags: 1

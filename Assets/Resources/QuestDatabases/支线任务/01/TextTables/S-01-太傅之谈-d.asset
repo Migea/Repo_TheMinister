@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9839ff07fc3994aa17c3c6b5ecfd28, type: 3}
+  m_Name: "S-01-\u592A\u5085\u4E4B\u8C08-d"
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  - en
+  - zh
+  - ja
+  m_languageValues: 00000000010000000200000003000000
+  m_fieldKeys: 010000000500000006000000070000000300000004000000
+  m_fieldValues:
+  - m_fieldName: JounralTitle
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u592A\u5085\u4E4B\u8C08"
+    - The Grand Tutor's Discussion
+    - "\u592A\u5085\u4E4B\u8C08"
+    - 
+  - m_fieldName: JournalProgress
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u524D\u592A\u5B50\u592A\u5085\u83AB\u5929\u4E91\u542C\u95FB\u4F60\u5B66\u8BC6\u6E0A\u535A\uFF0C\u60F3\u51FA\u9898\u6D4B\u8BD5\u4F60\u4E00\u4E0B\u3002"
+    - Former Crown Prince's Grand Tutor Mo Tianyun has heard about your extensive
+      knowledge and wants to test you with some questions.
+    - "\u524D\u592A\u5B50\u592A\u5085\u83AB\u5929\u4E91\u542C\u95FB\u4F60\u5B66\u8BC6\u6E0A\u535A\uFF0C\u60F3\u51FA\u9898\u6D4B\u8BD5\u4F60\u4E00\u4E0B\u3002\n"
+    - 
+  - m_fieldName: JournalObjective
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - 
+    - 
+    - 
+    - 
+  - m_fieldName: JournalCount
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - '{#RoitElimCount}/{>#RoitElimCount}'
+    - 
+  - m_fieldName: "Journal\u5956\u52B1"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u5956\u52B1: 210\u94F6\u4E24\uFF0C \u6728\u4F50\u7EFF\u3002"
+    - 'Reward: 210 silver, green jade.'
+    - "\u5956\u52B1: 210\u94F6\u4E24\uFF0C \u6728\u4F50\u7EFF\u3002"
+    - 
+  - m_fieldName: "Journal\u7ED3\u679C"
+    m_keys: 00000000010000000200000003000000
+    m_values:
+    - "\u6BD4\u8BD5\u7ED3\u675F\u540E\u4E0E\u83AB\u592A\u5085\u53C8\u804A\u4E86\u4E0D\u5C11\uFF0C\u6536\u83B7\u751A\u591A\u3002"
+    - After the competition, you had a long chat with Grand Tutor Mo and gained a
+      lot from it.
+    - "\u6BD4\u8BD5\u7ED3\u675F\u540E\u4E0E\u83AB\u592A\u5085\u53C8\u804A\u4E86\u4E0D\u5C11\uFF0C\u6536\u83B7\u751A\u591A\u3002"
+    - 
+  m_nextLanguageID: 4
+  m_nextFieldID: 8

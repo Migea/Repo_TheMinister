@@ -57,7 +57,12 @@ public class ShopItemUI : ItemUI
             TableReference = "UI",
             TableEntryReference = "商店购买_获得了"
         };
-        alert.text = localizedString.GetLocalizedString() + ItemName;
+        LocalizedString localizedItem = new LocalizedString
+        {
+            TableReference = "Item",
+            TableEntryReference = ItemName.ToString()
+        };
+        alert.text = localizedString.GetLocalizedString() + localizedItem.GetLocalizedString();
         CurrencyInvAnimationManager.Instance.MoneyChange(-int.Parse(Price.text));
         BoughtSign.SetActive(true);
         FindObjectOfType<ItemInventory>().AddItem(ItemName);

@@ -236,3 +236,6 @@ MonoBehaviour:
   - Target: "\u52A0\u901F\u6218\u6597"
     Description: "\u5F00\u542F\u4E09\u500D\u901F\uFF0C\u6218\u6597\uFF0C\u723D\uFF01"
     MultiLangDescription: []
+  - Target: "\u52BF\u529B\u503C"
+    Description: "\u5728\u4EAC\u57CE\u7684\u5F71\u54CD\u529B\uFF0C\u901A\u8FC7\u4EFB\u52A1\u4EE5\u53CA\u8D3F\u8D42\uFF0C\u59D4\u6D3E\u5B98\u5458\u83B7\u5F97\u3002"
+    MultiLangDescription: []

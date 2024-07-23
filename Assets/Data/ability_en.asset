@@ -19,39 +19,39 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 3943865995030528
-    m_Localized: Seek
+    m_Localized: <size=13>Seek</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3943992457490432
-    m_Localized: Valiant
+    m_Localized: <size=13>Valiant</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3943863755272192
-    m_Localized: Wisdom
+    m_Localized: <size=13>Wisdom</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1150957711360
-    m_Localized: literature
+    m_Localized: <size=13>literature</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1151003848704
-    m_Localized: Defend
+    m_Localized: <size=13>Defend</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3944022199300096
-    m_Localized: Prick
+    m_Localized: <size=13>Prick</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3945096733847552
-    m_Localized: Health
+    m_Localized: <size=13>Health</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1173959274496
-    m_Localized: Loyalty
+    m_Localized: <size=13>Loyalty</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1175561498624
-    m_Localized: Satiety
+    m_Localized: <size=13>Satiety</size>
     m_Metadata:
       m_Items: []
   references:

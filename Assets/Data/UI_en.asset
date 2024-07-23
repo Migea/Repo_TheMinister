@@ -533,9 +533,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847371350667264
-    m_Localized: '
-
-      Station'
+    m_Localized: Station
     m_Metadata:
       m_Items: []
   - m_Id: 3847371904315392
@@ -563,9 +561,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3943579914137600
-    m_Localized: '
-
-      Cure'
+    m_Localized: Cure
     m_Metadata:
       m_Items: []
   - m_Id: 3945096733847552

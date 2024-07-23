@@ -898,5 +898,9 @@ MonoBehaviour:
     m_Localized: elixir of immortality
     m_Metadata:
       m_Items: []
+  - m_Id: 2899866840526848
+    m_Localized: Noisy parrot
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -78,5 +78,9 @@ MonoBehaviour:
     m_Localized: <size=16>Picking flowers:</size>
     m_Metadata:
       m_Items: []
+  - m_Id: 23086634954752
+    m_Localized: Get props
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

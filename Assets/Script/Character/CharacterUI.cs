@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using System;
 using UnityEngine.EventSystems;
 using System.Linq;
+using UnityEngine.Localization;
 
 public class CharacterUI : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, IPointerExitHandler
 {
@@ -117,7 +118,12 @@ public class CharacterUI : MonoBehaviour, IPointerClickHandler, IPointerEnterHan
         }
 
         if (cardMode == CardMode.ViewMode) SetupSign();
-        Favor.text = character.edibleFavor.ToString();
+        LocalizedString favorString = new LocalizedString
+        {
+            TableReference = "Favor",
+            TableEntryReference = $"{character.edibleFavor.ToString()}"
+        };
+        Favor.text = favorString.GetLocalizedString();
     }
 
     private void ModifyCardImage()

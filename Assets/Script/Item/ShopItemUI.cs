@@ -39,7 +39,12 @@ public class ShopItemUI : ItemUI
         if (currencyInv.Money < int.Parse(Price.text))
         {
             var alert = Instantiate<Text>(Resources.Load<Text>("Hiring/Message"), MainCanvas.FindMainCanvas());
-            alert.text = "你需要更多银两";
+            LocalizedString localizedString = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = "提示_你需要更多银两"
+            };
+            alert.text = localizedString.ToString();
             return;
         }
         else
@@ -62,7 +67,7 @@ public class ShopItemUI : ItemUI
             TableReference = "Item",
             TableEntryReference = ItemName.ToString()
         };
-        alert.text = localizedString.GetLocalizedString() + localizedItem.GetLocalizedString();
+        alert.text = localizedString.GetLocalizedString() + " " + localizedItem.GetLocalizedString();
         CurrencyInvAnimationManager.Instance.MoneyChange(-int.Parse(Price.text));
         BoughtSign.SetActive(true);
         FindObjectOfType<ItemInventory>().AddItem(ItemName);

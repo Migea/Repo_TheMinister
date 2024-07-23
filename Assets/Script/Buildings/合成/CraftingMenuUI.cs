@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class CraftingMenuUI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IDetailAble
@@ -38,7 +39,14 @@ public class CraftingMenuUI : MonoBehaviour, IPointerEnterHandler, IPointerExitH
         ItemName = item;
         string path = ("Art/ItemIcon/" + item.ToString()).Replace(" ", string.Empty);
         ItemIcon.sprite = Resources.Load<Sprite>(path);
-        ItemNameText.text = item.ToString();
+        LocalizedString ItemNameString = new LocalizedString
+        {
+            TableReference = "Item",
+            TableEntryReference = $"{item}"
+        };
+        ItemNameText.text = ItemNameString.GetLocalizedString();
+        if (ItemNameText.GetComponentInChildren<FontUpdater>() == null)
+            ItemNameText.gameObject.AddComponent<FontUpdater>();
     }
 
     public void SetOnDetail(string target)

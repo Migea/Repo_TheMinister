@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class HorseItemUI : ItemUI
@@ -36,7 +37,12 @@ public class HorseItemUI : ItemUI
         BoughtSign.SetActive(false);
         BuyPrice.text = SOItem.ItempriceTag[buildingType][ItemType.坐骑][(int)framRarity / 2 - 1].ToString();
         RentPrice.text = SOItem.ItemRentPrice[(int)framRarity / 2 - 1].ToString();
-        HorseName.text = ItemName.ToString();
+        LocalizedString HorseString = new LocalizedString
+        {
+            TableReference = "Item",
+            TableEntryReference = $"{ItemName}"
+        };
+        HorseName.text = HorseString.GetLocalizedString();
         if (itemImage != null)
             itemImage.gameObject.SetActive(true);
     }
@@ -69,16 +75,33 @@ public class HorseItemUI : ItemUI
         if (currencyInv.Money < int.Parse(BuyPrice.text))
         {
             var alert = Instantiate<Text>(Resources.Load<Text>("Hiring/Message"), MainCanvas.FindMainCanvas());
-            alert.text = "你需要更多银两";
+            LocalizedString alertString = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = $"提示_你需要更多银两"
+            };
+            alert.text = alertString.GetLocalizedString();
             return;
         }
-        string message = "是否花费" + BuyPrice.text + "银两购买" + ItemName + "?";
-        StartCoroutine(Confirmation.CreateNewComfirmation(BuyItem, message).Confirm());
+        else
+        {
+            BuyItem();
+        }
     }
     public void BuyItem()
     {
         var alert = Instantiate<Text>(Resources.Load<Text>("Hiring/Message"), MainCanvas.FindMainCanvas());
-        alert.text = "获得了 " + ItemName + "\n(购买的马匹只能装备给角色)";
+        LocalizedString message_one_String = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"商店购买_获得了"
+        };
+        LocalizedString message_two_String = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"商店购买_购买的马匹只能装备给角色"
+        };
+        alert.text = message_one_String.GetLocalizedString() + ItemName + "\n" + message_two_String.GetLocalizedString();
         var currencyInv = FindObjectOfType<CurrencyInventory>();
         currencyInv.Money -= int.Parse(BuyPrice.text);
         BoughtSign.SetActive(true);

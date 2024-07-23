@@ -178,10 +178,10 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_title:
-    m_text: "\u4E0E\u5B59\u4F0F\u4E4B\u8FA9"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 8926d801a49d3a848bb2606db1fff254, type: 2}
+    m_textTableFieldID: 1
   m_icon: {fileID: 0}
   m_group:
     m_text: 

@@ -122,10 +122,10 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_title:
-    m_text: "\u6C42\u5B66"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: c48d99294262e7046a1e8f9b447ae2e8, type: 2}
+    m_textTableFieldID: 1
   m_icon: {fileID: 0}
   m_group:
     m_text: 

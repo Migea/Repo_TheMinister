@@ -187,10 +187,10 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_title:
-    m_text: "\u4EBA\u624B\u77ED\u7F3A"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 75008d626b8d21a4b8ff81131164e158, type: 2}
+    m_textTableFieldID: 1
   m_icon: {fileID: 0}
   m_group:
     m_text: 

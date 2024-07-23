@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class CharacterHiringEvent : MonoBehaviour
@@ -1059,12 +1060,22 @@ public class CharacterHiringEvent : MonoBehaviour
             {
                 if (itemDict.ContainsKey(item) == false)
                 {
-                    FailedMessage = "缺少招募道具";
+                    LocalizedString itemString = new LocalizedString
+                    {
+                        TableReference = "UI",
+                        TableEntryReference = $"提示_缺少招募道具"
+                    };
+                    FailedMessage = itemString.GetLocalizedString();
                     return false;
                 }
                 if (itemDict[item] < requestItems[item])
                 {
-                    FailedMessage = "道具数量不足";
+                    LocalizedString itemString = new LocalizedString
+                    {
+                        TableReference = "UI",
+                        TableEntryReference = $"提示_道具数量不足"
+                    };
+                    FailedMessage = itemString.GetLocalizedString();
                     return false;
                 }
             }

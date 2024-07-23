@@ -1390,5 +1390,9 @@ MonoBehaviour:
     m_Localized: 'Need entry:'
     m_Metadata:
       m_Items: []
+  - m_Id: 7957207952715776
+    m_Localized: Recruitment needs
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

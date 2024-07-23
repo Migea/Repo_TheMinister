@@ -1424,5 +1424,9 @@ MonoBehaviour:
     m_Localized: "Right-click any area of \u200B\u200Bthe screen to close this window"
     m_Metadata:
       m_Items: []
+  - m_Id: 8156967124922368
+    m_Localized: Get new characters!
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

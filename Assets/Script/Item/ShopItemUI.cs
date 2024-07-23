@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using System;
 using System.Linq;
+using UnityEngine.Localization.Tables;
+using UnityEngine.Localization;
 
 public class ShopItemUI : ItemUI
 {
@@ -50,7 +52,12 @@ public class ShopItemUI : ItemUI
     public void BuyItem()
     {
         var alert = Instantiate<Text>(Resources.Load<Text>("Hiring/Message"), MainCanvas.FindMainCanvas());
-        alert.text = "获得了 " + ItemName;
+        LocalizedString localizedString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = "商店购买_获得了"
+        };
+        alert.text = localizedString.GetLocalizedString() + ItemName;
         CurrencyInvAnimationManager.Instance.MoneyChange(-int.Parse(Price.text));
         BoughtSign.SetActive(true);
         FindObjectOfType<ItemInventory>().AddItem(ItemName);

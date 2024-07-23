@@ -25,11 +25,6 @@ public class MoneyCollectPoint : MonoBehaviour
         }
     }
     public string Name = "商行";
-    public string NameCN = "商行";
-    public string NameEN = "商行";
-    public string NameJA = "商行";
-    public string NameDE = "商行";
-    public string NameKR = "商行";
     public string State = "良好";
     public Collider2D Trigger;
     public GameObject Wrapper;
@@ -58,34 +53,39 @@ public class MoneyCollectPoint : MonoBehaviour
     }
     private string GetLocaleText()
     {
-        string localName = Name;
+        LocalizedString localString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"设置_{Name}"
+        };
+        string localName = localString.GetLocalizedString();
         string localState = State;
         string localText = "";
         string color = OnRoit ? "red" : "green";
-        switch (CurrentLocale.name)
+        Debug.Log($"CurrentLocale is {CurrentLocale.Formatter}");
+
+        switch (CurrentLocale.Formatter.ToString())
         {
-            case "English":
-                localName = NameEN;
+            case "en":
                 localState = State == "良好" ? "GOOD" : "BAD";
                 localText = $"{localName} is running {localState} today.\r\nCollect <color={color}>{Value}</color> silver.";
                 break;
-            case "Chinese":
-                localName = NameCN;
+            case "zh":
                 localState = State = OnRoit ? "糟糕" : "良好";
                 localText = $"{localName}今日营业状态<color={color}>{localState}</color>\r\n缴纳税银<color={color}>{Value}</color>两";
                 break;
-            case "Japanese":
-                localName = NameJA;
+            case "ja":
+
                 break;
-            case "German":
-                localName = NameDE;
+            case "ge":
+
                 break;
-            case "Korean":
-                localName = NameKR;
+            case "ka":
+
                 break;
             default: break;
         }
-        return localName;
+        return localText;
     }
     public void OnDrawGizmosSelected()
     {

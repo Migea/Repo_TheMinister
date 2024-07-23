@@ -53,10 +53,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5F25\u8D5B\u4E9A\u662F\u6765\u81EA\u897F\u65B9\u7684\u4F20\u6559\u58EB\uFF0C\u5341\u5206\u559C\u6B22\u4E1C\u65B9\u6587\u5316\uFF0C\u4E0E\u4F60\u4EA4\u6D41\u751A\u6B22\uFF0C\u60F3\u627E\u4EBA\u8BF7\u6559\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-7638279797678654417
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -98,10 +98,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u7B49\u5F85\u968F\u4ECE\u5B8C\u6210\u59D4\u4EFB\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 3
 --- !u!114 &-5217208789413076427
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -129,6 +129,24 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &-3741293229268805970
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &-3529566194697217707
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -143,10 +161,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5F25\u8D5B\u4E9A\u662F\u6765\u81EA\u897F\u65B9\u7684\u4F20\u6559\u58EB\uFF0C\u5341\u5206\u559C\u6B22\u4E1C\u65B9\u6587\u5316\uFF0C\u4E0E\u4F60\u4EA4\u6D41\u751A\u6B22\uFF0C\u60F3\u627E\u4EBA\u8BF7\u6559\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &-3516256930532974375
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -161,10 +179,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5F25\u8D5B\u4E9A\u9010\u6E10\u7406\u89E3\u4E86\u4E1C\u65B9\u6587\u5316\u7684\u9B45\u529B\uFF0C\u4E5F\u4E0D\u5728\u628A\u8BD7\u97F5\u8BFB\u6210\u201C\u77F3\u4E91\u201D\u4E86\u3002\r"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 6
 --- !u!114 &-3234262346502911571
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -198,10 +216,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A150\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002\u8017\u65F6\u4E00\u5929\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &-2709755312359787719
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -479,7 +497,9 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: 7578742470876196508}
         - {fileID: 5356699098762906580}
+        - {fileID: 33750510427453255}
         - {fileID: -3516256930532974375}
+        - {fileID: 2355016251257258516}
         - {fileID: 3816890104681636568}
       - m_contentList: []
     - m_actionList: []
@@ -579,8 +599,9 @@ MonoBehaviour:
       - m_contentList:
         - {fileID: 7409858793520929295}
         - {fileID: -7644991689501802762}
-        - {fileID: -2939796224737749642}
         - {fileID: -7593067322472370120}
+        - {fileID: -3741293229268805970}
+        - {fileID: -2939796224737749642}
       - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
@@ -695,6 +716,24 @@ MonoBehaviour:
       height: 48
   m_goalEntityTypeName: 
   m_nextContentID: 0
+--- !u!114 &33750510427453255
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &764755063541955489
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -736,7 +775,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u6D3E\u9063\u4E00\u540D\u968F\u4ECE"
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -759,6 +798,24 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_useOriginalName: 0
+--- !u!114 &2355016251257258516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_contentID: -1
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &2820082840051418171
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -773,10 +830,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A150\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002\u8017\u65F6\u4E00\u5929\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &2984778182722611299
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -818,10 +875,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5956\u52B1\uFF1A150\u94F6\u4E24\uFF0C\u964D\u4F4E\u4E9B\u8BB8\u6C11\u6028\u3002\u8017\u65F6\u4E00\u5929\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 5
 --- !u!114 &4540655467498712940
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -835,12 +892,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 5
 --- !u!114 &5356699098762906580
 MonoBehaviour:
@@ -856,10 +913,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_contentID: -1
   m_bodyText:
-    m_text: "\u5F25\u8D5B\u4E9A\u662F\u6765\u81EA\u897F\u65B9\u7684\u4F20\u6559\u58EB\uFF0C\u5341\u5206\u559C\u6B22\u4E1C\u65B9\u6587\u5316\uFF0C\u4E0E\u4F60\u4EA4\u6D41\u751A\u6B22\uFF0C\u60F3\u627E\u4EBA\u8BF7\u6559\u3002"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 1
 --- !u!114 &7409858793520929295
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -873,12 +930,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 1
 --- !u!114 &7494147790441432159
 MonoBehaviour:
@@ -912,12 +969,12 @@ MonoBehaviour:
   m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
   m_contentID: -1
-  m_useQuestTitle: 1
+  m_useQuestTitle: 0
   m_headingText:
     m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: cd3a259aac0a7d6469c36809dac74504, type: 2}
+    m_textTableFieldID: 2
   m_headingLevel: 1
 --- !u!114 &7651516422625266531
 MonoBehaviour:

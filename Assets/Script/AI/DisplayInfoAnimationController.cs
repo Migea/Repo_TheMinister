@@ -70,7 +70,19 @@ public class DisplayInfoAnimationController : MonoBehaviour
     }
     public void SetupName(string Name)
     {
-        NameText.text = Name;
+        LocalizedString firstNameString = new LocalizedString
+        {
+            TableReference = "FirstName",
+            TableEntryReference = $"{Name[0]}"
+        };
+        var LastName = Name.Substring(1);
+        LocalizedString lasNameString = new LocalizedString
+        {
+            TableReference = "LastName",
+            TableEntryReference = $"{LastName}"
+        };
+        NameText.text = firstNameString.GetLocalizedString() + lasNameString.GetLocalizedString();
+
     }
     public void SetupTags(List<Tag> tags)
     {

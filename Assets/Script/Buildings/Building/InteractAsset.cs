@@ -7,7 +7,6 @@ using UnityEngine.Rendering;
 using UnityEngine.EventSystems;
 using TMPro;
 using Language.Lua;
-using UnityEditor.Localization;
 using UnityEngine.Localization;
 using UnityEngine.Localization.Tables;
 using UnityEngine.Localization.Settings;

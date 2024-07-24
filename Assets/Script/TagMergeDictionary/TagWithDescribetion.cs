@@ -38,6 +38,10 @@ public class TagWithDescribetion : MonoBehaviour, IDetailAble, IPointerEnterHand
         ChangeTagBackground();
         ChangeTagText();
     }
+    public void ReSetup()
+    {
+        Setup(Tag);
+    }
     public void SetupSmall(Tag tag)
     {
         Tag = tag;

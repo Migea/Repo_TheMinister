@@ -40,10 +40,14 @@ public class TagMergeUnitUI : MonoBehaviour
     {
         foreach (TagWithDescribetion tag in reqireTagsParent.GetComponentsInChildren<TagWithDescribetion>())
         {
-            tag.Setup((Tag)Enum.Parse(typeof(Tag), tag.tag));
+            if (tag != null)
+            {
+                tag.ReSetup();
+            }
         }
         var output = outputTagsParent.GetComponentInChildren<TagWithDescribetion>();
-        output.Setup((Tag)Enum.Parse(typeof(Tag), output.tag));
+        if (output == null) return;
+        output.ReSetup();
     }
 
 }

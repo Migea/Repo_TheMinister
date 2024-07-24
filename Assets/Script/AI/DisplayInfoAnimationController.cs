@@ -48,17 +48,7 @@ public class DisplayInfoAnimationController : MonoBehaviour
     }
     private void OnEnable()
     {
-        if (FakeData && setDone == false)
-        {
-            List<Tag> tags = new List<Tag>();
-            foreach (string tag in FakeTags)
-            {
-                tags.Add((Tag)Enum.Parse(typeof(Tag), tag));
-            }
-            SetupTags(tags);
-            SetupName(FakeName);
-            return;
-        }
+        StartupSettings();
     }
     private void OnDestroy()
     {

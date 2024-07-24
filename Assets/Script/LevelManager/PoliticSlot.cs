@@ -87,7 +87,8 @@ public class PoliticSlot : MonoBehaviour, ICharacterSelect
         }
         foreach (var line in upLines)
         {
-            line.raycastTarget = false;
+            if (line != null)
+                line.raycastTarget = false;
         }
         foreach (var line in lowerLines)
         {

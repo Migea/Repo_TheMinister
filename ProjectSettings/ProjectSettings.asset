@@ -139,7 +139,8 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 1.0
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 11400000, guid: 3523722dbec281840af6b2b0cb271530, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -610,7 +611,7 @@ PlayerSettings:
     1: USE_PHYSICS2D;USE_TWINE;UNITY_POST_PROCESSING_STACK_V2;STEAMWORKS_NET
     4: USE_PHYSICS2D;USE_TWINE
     7: USE_PHYSICS2D;USE_TWINE;UNITY_POST_PROCESSING_STACK_V2
-    13: UNITY_POST_PROCESSING_STACK_V2
+    13: UNITY_POST_PROCESSING_STACK_V2;STEAMWORKS_NET
     14: UNITY_POST_PROCESSING_STACK_V2
     19: UNITY_POST_PROCESSING_STACK_V2
     21: UNITY_POST_PROCESSING_STACK_V2

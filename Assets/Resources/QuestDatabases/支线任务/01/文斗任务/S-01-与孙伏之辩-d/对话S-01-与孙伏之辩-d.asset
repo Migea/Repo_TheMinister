@@ -2235,23 +2235,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u8FD9\u4E48\u8BF4\uFF1F\u4F60\u61C2\uFF1F\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: So you think you know? [Accept Task]
         type: 4
@@ -2279,8 +2279,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 9
+        y: 230
         width: 160
         height: 30
     - id: 14

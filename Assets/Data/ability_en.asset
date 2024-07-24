@@ -19,11 +19,11 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 3943865995030528
-    m_Localized: <size=13>Seek</size>
+    m_Localized: <size=13>Tactic</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3943992457490432
-    m_Localized: <size=13>Valiant</size>
+    m_Localized: <size=13>Attack</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3943863755272192
@@ -31,7 +31,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1150957711360
-    m_Localized: <size=13>literature</size>
+    m_Localized: <size=13>Literate</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1151003848704
@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3944022199300096
-    m_Localized: <size=13>Prick</size>
+    m_Localized: <size=13>Dexterity</size>
     m_Metadata:
       m_Items: []
   - m_Id: 3945096733847552
@@ -56,6 +56,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 562265441759232
     m_Localized: The character is dealing with something else
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611275233882112
+    m_Localized: <size=24>TAC</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611275867222016
+    m_Localized: <size=24>ATK</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611276404092928
+    m_Localized: <size=24>WIS</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611276928380928
+    m_Localized: <size=24>LIT</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611277435891712
+    m_Localized: <size=24>DEF</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611277947596800
+    m_Localized: <size=24>DEX</size>
     m_Metadata:
       m_Items: []
   references:

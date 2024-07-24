@@ -200,10 +200,10 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_title:
-    m_text: "\u641C\u5BFB\u94C5\u7684\u6765\u5386"
+    m_text: 
     m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
+    m_textTable: {fileID: 11400000, guid: 1537a79eac04b3747917bddce13ad35c, type: 2}
+    m_textTableFieldID: 1
   m_icon: {fileID: 0}
   m_group:
     m_text: 

@@ -30,5 +30,33 @@ MonoBehaviour:
     m_Localized: Non-vegetarian
     m_Metadata:
       m_Items: []
+  - m_Id: 72028865228800
+    m_Localized: Herbal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72030983352320
+    m_Localized: Tonic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72032778514432
+    m_Localized: Spices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72034217160704
+    m_Localized: Flavoring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72035534172160
+    m_Localized: Dessert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72036402393088
+    m_Localized: Drinks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 72192061403136
+    m_Localized: Elixir
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

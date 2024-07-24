@@ -1287,11 +1287,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3943865995030528
-    m_Localized: Seek
+    m_Localized: Tactic
     m_Metadata:
       m_Items: []
   - m_Id: 3943992457490432
-    m_Localized: Valiant
+    m_Localized: Attack
     m_Metadata:
       m_Items: []
   - m_Id: 3943863755272192
@@ -1299,7 +1299,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7560986108948480
-    m_Localized: literature
+    m_Localized: Literate
     m_Metadata:
       m_Items: []
   - m_Id: 7560986150891520
@@ -1307,7 +1307,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3944022199300096
-    m_Localized: Prick
+    m_Localized: Dexterity
     m_Metadata:
       m_Items: []
   - m_Id: 7576254713491456
@@ -1340,7 +1340,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7580198378467328
-    m_Localized: News
+    m_Localized: <size=14>News</size>
     m_Metadata:
       m_Items: []
   - m_Id: 7576597367156736
@@ -1426,6 +1426,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 8156967124922368
     m_Localized: Get new characters!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8173307986505728
+    m_Localized: ATK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8173371949641728
+    m_Localized: DEF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8173373266653184
+    m_Localized: STK
     m_Metadata:
       m_Items: []
   references:

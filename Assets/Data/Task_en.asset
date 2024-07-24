@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Task_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 591e2c16238b62946bcd6b5cf9558cd0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7766601728
+    m_Localized: <size=21>Dispatch</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10878775296
+    m_Localized: <size=15>departure time:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507425648640
+    m_Localized: <size=8>Health</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 530351714304
+    m_Localized: <size=8>Loyal</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 889036009472
+    m_Localized: <size=16>The Rat in the Bank:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8675413258240
+    m_Localized: <size=16>Explore the origin of lead:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9209855668224
+    m_Localized: <size=16>Visit Baiyun Temple:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9359089004544
+    m_Localized: <size=16>Investigate eunuchs:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9360573788160
+    m_Localized: <size=16>Stealing tribute:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9361618169856
+    m_Localized: <size=16>Medical trouble:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15367752445952
+    m_Localized: <size=16>Catch a thief:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15368415145984
+    m_Localized: <size=16>Hand out food:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15369254006784
+    m_Localized: <size=14>Foreigners who love to learn:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15369786683392
+    m_Localized: <size=16>Solve the arguement:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20760796917760
+    m_Localized: <size=16>Picking flowers:</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23086634954752
+    m_Localized: Get props
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1411,6 +1411,14 @@ MonoBehaviour:
     m_Key: "UI_\u5931\u53BB\u8D27\u5E01"
     m_Metadata:
       m_Items: []
+  - m_Id: 8340568875835392
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8340576165535744
+    m_Key: "UI_\u6CA1\u6709\u6B66\u4F8D"
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

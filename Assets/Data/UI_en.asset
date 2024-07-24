@@ -1447,5 +1447,9 @@ MonoBehaviour:
     m_Localized: Lose Currency
     m_Metadata:
       m_Items: []
+  - m_Id: 8340576165535744
+    m_Localized: Without any housecarl, you were extorted by the mob.
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

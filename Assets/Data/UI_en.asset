@@ -1453,8 +1453,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8303675205021696
-    m_Localized: 'Send a character who meets the following conditions to complete
-      this mission:'
+    m_Localized: 'Dispatch a follower who meets the following conditions:'
     m_Metadata:
       m_Items: []
   references:

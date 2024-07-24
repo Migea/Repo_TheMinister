@@ -58,7 +58,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         {
             var current = Instantiate(tagTemp, TagContent).GetComponentInChildren<TagWithDescribetion>();
             current.name = tag.ToString();
-            current.Setup(tag);
+            current.SetupSmall(tag);
             current.transform.parent.gameObject.SetActive(true);
         }
         healthText.text = health.ToString();

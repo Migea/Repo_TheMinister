@@ -199,11 +199,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31600107384832
-    m_Localized: check the map
+    m_Localized: <size=6>Check the map</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31600698781696
-    m_Localized: Throw the dice to determine the number of squares to advance
+    m_Localized: <size=6>Throw the dice to determine the number of squares to advance</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31601269207040

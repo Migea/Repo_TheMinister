@@ -1140,7 +1140,7 @@ MonoBehaviour:
   - "\u5916\u4E61\u4EBA"
   - "\u6545\u4E8B\u738B"
   - "\u5FC3\u7B97"
-  FakeName: "\u5F25\u8D5B\u4E9A"
+  FakeName: "\u5F25\u585E\u4E9A"
   setDone: 0
 --- !u!114 &5641984278705296944
 MonoBehaviour:

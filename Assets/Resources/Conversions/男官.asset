@@ -78,7 +78,7 @@ MonoBehaviour:
     - title: Name
       value: "\u7537\u5B98"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -86,17 +86,13 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
-    - title: Display Name
-      value: 
-      type: 0
-      typeString: 
     - title: Display Name en
-      value: 
+      value: Citizen
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -104,7 +100,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u8DEF\u4EBA"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
@@ -121,7 +117,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -135,7 +131,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -149,7 +145,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -163,7 +159,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -177,7 +173,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -191,7 +187,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -205,7 +201,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -219,7 +215,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -233,7 +229,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -247,7 +243,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -261,7 +257,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -275,7 +271,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -289,7 +285,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -303,7 +299,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description
@@ -317,7 +313,7 @@ MonoBehaviour:
       type: 0
       typeString: 
     - title: Initial Value
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Description

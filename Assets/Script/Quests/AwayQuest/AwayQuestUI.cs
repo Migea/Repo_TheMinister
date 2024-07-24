@@ -84,13 +84,13 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
 
             healthToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
             loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
-            button.GetComponent<RectTransform>().anchoredPosition = new Vector2(1.5f, 0f);
+            button.rectTransform.anchoredPosition = new Vector2(1.5f, 0f);
         }
         else
         {
             healthToMove.rectTransform.anchoredPosition = new Vector2(1.3f, 4.5f);
             loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
-            button.GetComponent<RectTransform>().anchoredPosition = new Vector2(3f, 7.5f);
+            button.rectTransform.anchoredPosition = new Vector2(3f, 7.5f);
         }
     }
     public void ChangeCharacter(int index)

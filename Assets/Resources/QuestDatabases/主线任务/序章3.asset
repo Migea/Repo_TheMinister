@@ -625,7 +625,8 @@ MonoBehaviour:
       - m_contentList: []
       - m_contentList: []
       - m_contentList: []
-    - m_actionList: []
+    - m_actionList:
+      - {fileID: 5974376949525820897}
       m_categorizedContentList:
       - m_contentList: []
       - m_contentList:
@@ -848,6 +849,21 @@ MonoBehaviour:
   - {fileID: -1415217092365479811}
   m_actionsProxy:
     actions: []
+--- !u!114 &5974376949525820897
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9840a28297a53d449903f34dc60157bb, type: 3}
+  m_Name: UnityEventQuestAction
+  m_EditorClassIdentifier: 
+  m_onExecute:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &6062736840549918598
 MonoBehaviour:
   m_ObjectHideFlags: 1

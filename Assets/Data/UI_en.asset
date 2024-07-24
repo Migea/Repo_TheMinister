@@ -1452,5 +1452,10 @@ MonoBehaviour:
     m_Localized: Day
     m_Metadata:
       m_Items: []
+  - m_Id: 8303675205021696
+    m_Localized: 'Send a character who meets the following conditions to complete
+      this mission:'
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

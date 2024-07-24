@@ -83,7 +83,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
     {
         var healthToMove = healthText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();
         var loayalToMove = loyaltyText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();
-        var button = daySpend.transform.parent.GetComponentInChildren<Button>().GetComponentInChildren<Text>();
+        var button = daySpend.transform.parent.Find("Button").GetComponentInChildren<Text>();
         if (LocalizationSettings.SelectedLocale.Identifier == "zh")
         {
 

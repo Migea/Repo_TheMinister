@@ -69,12 +69,12 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         }
         healthText.text = health.ToString();
         loyaltyText.text = loyalty.ToString();
-        LocalizedString QuestNameString = new LocalizedString
+        LocalizedString focusString = new LocalizedString
         {
             TableReference = "UI",
             TableEntryReference = $"派遣一位满足以下条件的角色"
         };
-        QuestName.text = QuestNameString.ToString();
+        QuestName.text = focusString.GetLocalizedString();
         LocalizedString messageString = new LocalizedString
         {
             TableReference = "UI",

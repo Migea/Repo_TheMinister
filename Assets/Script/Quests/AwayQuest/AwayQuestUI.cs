@@ -4,6 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using PixelCrushers.QuestMachine;
 using System.Linq;
+using UnityEngine.SocialPlatforms;
+using UnityEngine.ResourceManagement.ResourceLocations;
+using UnityEngine.Localization.Settings;
 public class AwayQuestUI : MonoBehaviour, ICharacterSelect
 {
     [System.Serializable]
@@ -68,6 +71,25 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         for (int i = 0; i < 3 - CharacterAllow; i++)
         {
             CharacterImages[2 - i].transform.parent.gameObject.SetActive(false);
+        }
+    }
+    public void LocaleUpdates(Local local)
+    {
+        var healthToMove = healthText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();
+        var loayalToMove = loyaltyText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();
+        var button = daySpend.transform.parent.GetComponentInChildren<Button>().GetComponentInChildren<Text>();
+        if (LocalizationSettings.SelectedLocale.Identifier == "zh")
+        {
+
+            healthToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
+            loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
+            button.GetComponent<RectTransform>().anchoredPosition = new Vector2(1.5f, 0f);
+        }
+        else
+        {
+            healthToMove.rectTransform.anchoredPosition = new Vector2(1.3f, 4.5f);
+            loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
+            button.GetComponent<RectTransform>().anchoredPosition = new Vector2(3f, 7.5f);
         }
     }
     public void ChangeCharacter(int index)

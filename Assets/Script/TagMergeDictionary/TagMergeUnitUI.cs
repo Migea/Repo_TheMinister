@@ -2,6 +2,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
 using UnityEngine.UI;
 
 public class TagMergeUnitUI : MonoBehaviour
@@ -14,6 +16,14 @@ public class TagMergeUnitUI : MonoBehaviour
     public List<Sprite> bracketRefs = new List<Sprite>();
     private static Dictionary<Tag, List<Tag>> MergeTagDict => Player.MergeTagDict;
 
+    private void Start()
+    {
+        LocalizationSettings.SelectedLocaleChanged += OnLocaleChanged;
+    }
+    private void OnDestroy()
+    {
+        LocalizationSettings.SelectedLocaleChanged -= OnLocaleChanged;
+    }
     public void Setup(Tag tag)
     {
         var reqireTags = MergeTagDict[tag];
@@ -25,6 +35,15 @@ public class TagMergeUnitUI : MonoBehaviour
         var output = Instantiate(tagPref, outputTagsParent);
         output.Setup(tag);
         bracket.sprite = bracketRefs[reqireTags.Count - 2];
+    }
+    public void OnLocaleChanged(Locale locale)
+    {
+        foreach (TagWithDescribetion tag in reqireTagsParent.GetComponentsInChildren<TagWithDescribetion>())
+        {
+            tag.Setup((Tag)Enum.Parse(typeof(Tag), tag.tag));
+        }
+        var output = outputTagsParent.GetComponentInChildren<TagWithDescribetion>();
+        output.Setup((Tag)Enum.Parse(typeof(Tag), output.tag));
     }
 
 }

@@ -93,10 +93,10 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         }
         else
         {
-            healthToMove.rectTransform.anchoredPosition = new Vector2(1.3f, 4.5f);
-            loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
-            Debug.Log(button == null);
-            button.rectTransform.anchoredPosition = new Vector2(3f, 7.5f);
+            //healthToMove.rectTransform.anchoredPosition = new Vector2(1.3f, 4.5f);
+            //loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
+            //Debug.Log(button == null);
+            //button.rectTransform.anchoredPosition = new Vector2(3f, 7.5f);
         }
     }
     public void ChangeCharacter(int index)

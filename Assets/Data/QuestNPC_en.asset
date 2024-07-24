@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 670464843776
-    m_Localized: Young Eunuch
+    m_Localized: Lowly Eunuch
     m_Metadata:
       m_Items: []
   - m_Id: 2133622628352
@@ -40,6 +40,86 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 2819294863360
     m_Localized: Messiah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83070716846080
+    m_Localized: Bandit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892864
+    m_Localized: Masked Bandit 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892865
+    m_Localized: Masked Bandit 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892866
+    m_Localized: Masked Bandit Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892867
+    m_Localized: Jia Wenhe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892868
+    m_Localized: Constable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892869
+    m_Localized: Official
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892870
+    m_Localized: Household Servant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892871
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892872
+    m_Localized: Li Yuanmo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892873
+    m_Localized: Jia Huo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892874
+    m_Localized: Yi Dashan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892875
+    m_Localized: Bing Wan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892876
+    m_Localized: Narrator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892877
+    m_Localized: Liu Yishan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892878
+    m_Localized: Yun Meng
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892879
+    m_Localized: Li'e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892880
+    m_Localized: Thug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892881
+    m_Localized: Audience A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83685689892882
+    m_Localized: Audience B
     m_Metadata:
       m_Items: []
   references:

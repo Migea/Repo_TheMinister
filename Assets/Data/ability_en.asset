@@ -67,7 +67,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 611276404092928
-    m_Localized: <size=24>WIS</size>
+    m_Localized: <size=9>WIS</size>
     m_Metadata:
       m_Items: []
   - m_Id: 611276928380928
@@ -80,6 +80,30 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 611277947596800
     m_Localized: <size=24>DEX</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755773689929728
+    m_Localized: <size=24>WIS</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755789183688704
+    m_Localized: <size=24>LIT</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755790899159040
+    m_Localized: <size=24>TAC</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755792513966080
+    m_Localized: <size=24>ATK</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755793940029440
+    m_Localized: <size=24>DEX</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 755795227680768
+    m_Localized: <size=24>DEF</size>
     m_Metadata:
       m_Items: []
   references:

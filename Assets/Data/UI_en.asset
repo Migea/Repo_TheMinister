@@ -115,9 +115,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2737491592146944
-    m_Localized: '
-
-      Drug store'
+    m_Localized: Drug store
     m_Metadata:
       m_Items: []
   - m_Id: 2737626048950272
@@ -276,15 +274,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2780884301049856
-    m_Localized: '
-
-      Racecourse is in  good condition,collect commission <color=green>100</color>'
+    m_Localized: Racecourse is in  good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780885517398016
-    m_Localized: '
-
-      Station is in   good condition,collect commission <color=green>100</color>'
+    m_Localized: Station is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2780886343675904
@@ -309,10 +303,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2791206755823616
-    m_Localized: '
-
-      Weapons shop is in   good condition,collect commission
-      <color=green>100</color>'
+    m_Localized: Weapons shop is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2791210807521280
@@ -328,9 +319,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2792289989357568
-    m_Localized: '
-
-      Tavern is in   good condition,collect commission <color=green>100</color>'
+    m_Localized: Tavern is in   good condition,collect commission <color=green>100</color>
     m_Metadata:
       m_Items: []
   - m_Id: 2791326373179392
@@ -513,9 +502,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847369018634240
-    m_Localized: '
-
-      Tavern'
+    m_Localized: Tavern
     m_Metadata:
       m_Items: []
   - m_Id: 3847367827451904
@@ -1453,8 +1440,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8303675205021696
-    m_Localized: 'Send a character who meets the following conditions to complete
-      this mission:'
+    m_Localized: 'Dispatch a follower who meets the following conditions:'
     m_Metadata:
       m_Items: []
   references:

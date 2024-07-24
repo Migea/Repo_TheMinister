@@ -19,11 +19,11 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 10193313792
-    m_Localized: <size=13>Fried pork with garlic sprouts</size>
+    m_Localized: "<size=13>Fried pork \nwith garlic sprouts</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389421748224
-    m_Localized: <size=13>elixir of immortality</size>
+    m_Localized: "<size=13>elixir of \nimmortality</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302656
@@ -59,11 +59,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302664
-    m_Localized: <size=13>sea repeating crossbow</size>
+    m_Localized: "<size=13>sea repeating \ncrossbow</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302665
-    m_Localized: <size=13>Immortal drunkenness</size>
+    m_Localized: "<size=13>Immortal \ndrunkenness</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302666
@@ -79,7 +79,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302669
-    m_Localized: <size=13>Eagle of the Khan</size>
+    m_Localized: "<size=13>Eagle of the \nKhan</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302670
@@ -95,7 +95,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302673
-    m_Localized: <size=13>walking chariot robe</size>
+    m_Localized: "<size=13>walking chariot \nrobe</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302674
@@ -119,7 +119,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302679
-    m_Localized: <size=13>Institutional fragments</size>
+    m_Localized: "<size=13>Institutional \nfragments</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389455302680
@@ -139,19 +139,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496961
-    m_Localized: <size=13>Compendium of Materia Medica</size>
+    m_Localized: "<size=13>Compendium of \nMateria Medica</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496962
-    m_Localized: <size=13>Stone-piercing Gale Bow</size>
+    m_Localized: "<size=13>Stone-piercing \nGale Bow</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496963
-    m_Localized: <size=13>Fiery Cloud-Slashing Knife</size>
+    m_Localized: "<size=13>Fiery Cloud-Slashing \nKnife</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496964
-    m_Localized: <size=13>purple wood thunder gun</size>
+    m_Localized: "<size=13>purple wood \nthunder gun</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496965
@@ -159,7 +159,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496966
-    m_Localized: <size=13>sweet dream wine</size>
+    m_Localized: "<size=13>sweet dream \nwine</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496967
@@ -179,7 +179,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496971
-    m_Localized: <size=13>cabbage soup stock</size>
+    m_Localized: "<size=13>cabbage soup \nstock</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496972
@@ -195,7 +195,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496975
-    m_Localized: <size=13>Buddha's hand golden scroll</size>
+    m_Localized: "<size=13>Buddha's hand \ngolden scroll</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496976
@@ -203,11 +203,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496977
-    m_Localized: <size=13>Nourishing powder</size>
+    m_Localized: "<size=13>Nourishing \npowder</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496978
-    m_Localized: <size=13>Medical Sage's Medicine Box</size>
+    m_Localized: "<size=13>Medical Sage's \nMedicine Box</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496979
@@ -219,15 +219,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496981
-    m_Localized: <size=13>Wind Red Rabbit Horse</size>
+    m_Localized: "<size=13>Wind Red Rabbit \nHorse</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496982
-    m_Localized: <size=13>white dragon horse</size>
+    m_Localized: "<size=13>white dragon \nhorse</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496983
-    m_Localized: <size=13>Fallen Cloud Tiger</size>
+    m_Localized: "<size=13>Fallen Cloud \nTiger</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496984
@@ -259,11 +259,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496991
-    m_Localized: <size=13>Ganoderma lucidum</size>
+    m_Localized: "<size=13>Ganoderma \nlucidum</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496992
-    m_Localized: <size=13>Splendid costumes</size>
+    m_Localized: "<size=13>Splendid \ncostumes</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459496993
@@ -295,7 +295,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459497000
-    m_Localized: <size=13>thermal energy powder</size>
+    m_Localized: "<size=13>thermal energy \npowder</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459497001
@@ -303,7 +303,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459497002
-    m_Localized: <size=13>Marrow Cleansing Pill</size>
+    m_Localized: "<size=13>Marrow Cleansing \nPill</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459497003
@@ -335,7 +335,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389459497010
-    m_Localized: <size=13>Nine Yangs Scripture</size>
+    m_Localized: "<size=13>Nine Yangs \nScripture</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389459497011
@@ -423,11 +423,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691282
-    m_Localized: "<size=13>Mozi\xB7Universal-Love</size>"
+    m_Localized: "<size=13>Mozi\xB7Universal\n-Love</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691283
-    m_Localized: <size=13>Royal Horse Official Seal</size>
+    m_Localized: "<size=13>Royal Horse \nOfficial Seal</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691284
@@ -439,7 +439,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691286
-    m_Localized: <size=13>poisonous milk bottle</size>
+    m_Localized: "<size=13>poisonous milk \nbottle</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691287
@@ -447,7 +447,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691288
-    m_Localized: <size=13>Bamboo leaf green wine</size>
+    m_Localized: "<size=13>Bamboo leaf \ngreen wine</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691289
@@ -455,19 +455,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691290
-    m_Localized: <size=13>red daughter wine</size>
+    m_Localized: "<size=13>red daughter \nwine</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691291
-    m_Localized: <size=13>Biographies of goods colonizers</size>
+    m_Localized: "<size=13>Biographies of \ngoods colonizers</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691292
-    m_Localized: <size=13>Ou Yezi's little hammer</size>
+    m_Localized: "<size=13>Ou Yezi's little \nhammer</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691293
-    m_Localized: <size=13>Treatise on Febrile Diseases</size>
+    m_Localized: "<size=13>Treatise on \nFebrile Diseases</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691294
@@ -491,7 +491,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691299
-    m_Localized: <size=13>embroidery needle</size>
+    m_Localized: "<size=13>embroidery \nneedle</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691300
@@ -511,7 +511,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691304
-    m_Localized: <size=13>Liangzhou horse</size>
+    m_Localized: "<size=13>Liangzhou \nhorse</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389463691305
@@ -535,11 +535,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885572
-    m_Localized: <size=13>civil official letter</size>
+    m_Localized: "<size=13>civil official \nletter</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885573
-    m_Localized: "<size=13>military attach\xE9 official letter</size>"
+    m_Localized: "<size=13>military attach\xE9 \nofficial letter</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885574
@@ -571,7 +571,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885581
-    m_Localized: <size=13>silver bullion wine</size>
+    m_Localized: "<size=13>silver bullion \nwine</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885582
@@ -619,7 +619,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885593
-    m_Localized: <size=13>producing babies pill</size>
+    m_Localized: "<size=13>producing babies \npill</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885594
@@ -627,7 +627,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885595
-    m_Localized: <size=13>Witness to a Prosecution</size>
+    m_Localized: "<size=13>Witness to a \nProsecution</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885596
@@ -667,7 +667,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885605
-    m_Localized: <size=13>wooden buddha statue</size>
+    m_Localized: "<size=13>wooden buddha \nstatue</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885606
@@ -683,11 +683,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885609
-    m_Localized: <size=13>Horse training book</size>
+    m_Localized: "<size=13>Horse training \nbook</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885610
-    m_Localized: <size=13>Complete Medicinal Herbal</size>
+    m_Localized: "<size=13>Complete Medicinal \nHerbal</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885611
@@ -711,11 +711,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885616
-    m_Localized: <size=13>Actor's self-cultivation book</size>
+    m_Localized: "<size=13>Actor's self-cultivation \nbook</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885617
-    m_Localized: <size=13>recipes in rhymes</size>
+    m_Localized: "<size=13>recipes in \nrhymes</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885618
@@ -727,7 +727,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389467885620
-    m_Localized: <size=13>Polygonum multiflorum</size>
+    m_Localized: "<size=13>Polygonum \nmultiflorum</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079872
@@ -739,15 +739,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079874
-    m_Localized: <size=13>Hemostatic cream</size>
+    m_Localized: "<size=13>Hemostatic \ncream</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079875
-    m_Localized: <size=13>comfortable chair</size>
+    m_Localized: "<size=13>comfortable \nchair</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079876
-    m_Localized: <size=13>Stir-fried bean sprouts</size>
+    m_Localized: "<size=13>Stir-fried bean \nsprouts</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079877
@@ -759,7 +759,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079879
-    m_Localized: <size=13>Steamed white radish</size>
+    m_Localized: "<size=13>Steamed white \nradish</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079880
@@ -827,7 +827,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079896
-    m_Localized: <size=13>Chinese tallow tree</size>
+    m_Localized: "<size=13>Chinese tallow \ntree</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079897
@@ -843,7 +843,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079900
-    m_Localized: <size=13>Lohanguo Siraitia Fruit</size>
+    m_Localized: "<size=13>Lohanguo Siraitia \nFruit</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079901
@@ -851,7 +851,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079902
-    m_Localized: <size=13>Siberian Solomonseal Rhizome</size>
+    m_Localized: "<size=13>Siberian Solomonseal \nRhizome</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079903
@@ -891,11 +891,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079912
-    m_Localized: <size=13>Ampelopsis aconitifolia</size>
+    m_Localized: "<size=13>Ampelopsis \naconitifolia</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079913
-    m_Localized: <size=13>Limonium sinuatum</size>
+    m_Localized: "<size=13>Limonium \nsinuatum</size>"
     m_Metadata:
       m_Items: []
   - m_Id: 5389472079914

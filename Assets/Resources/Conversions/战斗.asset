@@ -40,7 +40,7 @@ MonoBehaviour:
     - title: Name
       value: "\u674E\u8881\u964C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -48,15 +48,15 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: TRUE
+      value: True
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
       value: 
       type: 4
@@ -78,7 +78,7 @@ MonoBehaviour:
     - title: Name
       value: "\u9189\u9B3C"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -86,17 +86,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u532A\u5F92"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Thug
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -104,7 +104,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u532A\u5F92"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 0c50383621fa928458413cb734f6bbdd, type: 3}
@@ -116,7 +116,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5F3A\u76D7"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -124,17 +124,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u532A\u5F92"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Thug
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -142,7 +142,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u532A\u5F92"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
@@ -154,7 +154,7 @@ MonoBehaviour:
     - title: Name
       value: "\u9003\u96BE\u8005"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -162,17 +162,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u532A\u5F92"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Thug
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -180,7 +180,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u532A\u5F92"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: ed05242b3bab42945aac00b9b85dbb1b, type: 3}
@@ -192,7 +192,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8857\u9738"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -200,17 +200,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u532A\u5F92"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Thug
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -218,7 +218,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u532A\u5F92"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: d50bfd1f8cce2324bbc579972491881f, type: 3}
@@ -230,7 +230,7 @@ MonoBehaviour:
     - title: Name
       value: "\u6B8B\u5FCD\u7684\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -238,17 +238,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Rebel
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -256,7 +256,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u53DB\u519B"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
@@ -268,7 +268,7 @@ MonoBehaviour:
     - title: Name
       value: "\u7626\u5F31\u7684\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -276,17 +276,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Rebel
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -294,7 +294,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u53DB\u519B"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
@@ -306,7 +306,7 @@ MonoBehaviour:
     - title: Name
       value: "\u8FF7\u832B\u7684\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -314,17 +314,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Rebel
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -332,7 +332,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u53DB\u519B"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}
@@ -344,7 +344,7 @@ MonoBehaviour:
     - title: Name
       value: "\u614C\u5F20\u7684\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Pictures
       value: '[]'
       type: 3
@@ -352,17 +352,17 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: IsPlayer
-      value: FALSE
+      value: False
       type: 2
       typeString: CustomFieldType_Boolean
     - title: Display Name
-      value: 
+      value: "\u53DB\u519B"
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Display Name en
-      value: 
+      value: Rebel
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name ja
@@ -370,7 +370,7 @@ MonoBehaviour:
       type: 4
       typeString: CustomFieldType_Localization
     - title: Display Name zh
-      value: 
+      value: "\u53DB\u519B"
       type: 4
       typeString: CustomFieldType_Localization
     portrait: {fileID: 2800000, guid: 712ae0657b7a7884181e3c5b741f5622, type: 3}

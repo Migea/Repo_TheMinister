@@ -1451,5 +1451,9 @@ MonoBehaviour:
     m_Localized: Without any housecarl, you were extorted by the mob.
     m_Metadata:
       m_Items: []
+  - m_Id: 8340568875835392
+    m_Localized: Rouge
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -7,6 +7,7 @@ using System.Linq;
 using UnityEngine.SocialPlatforms;
 using UnityEngine.ResourceManagement.ResourceLocations;
 using UnityEngine.Localization.Settings;
+using System.Security.Cryptography;
 public class AwayQuestUI : MonoBehaviour, ICharacterSelect
 {
     [System.Serializable]
@@ -47,7 +48,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
     }
     public void Setup()
     {
-        LocaleUpdates();
+
         typeTemp.gameObject.SetActive(false);
         foreach (TypeRareStruct type in TypeRareStructDict)
         {
@@ -74,6 +75,10 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
             CharacterImages[2 - i].transform.parent.gameObject.SetActive(false);
         }
     }
+    public void OnEnable()
+    {
+        LocaleUpdates();
+    }
     public void LocaleUpdates()
     {
         var healthToMove = healthText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();
@@ -90,6 +95,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         {
             healthToMove.rectTransform.anchoredPosition = new Vector2(1.3f, 4.5f);
             loayalToMove.rectTransform.anchoredPosition = new Vector2(-3.3f, 1f);
+            Debug.Log(button == null);
             button.rectTransform.anchoredPosition = new Vector2(3f, 7.5f);
         }
     }

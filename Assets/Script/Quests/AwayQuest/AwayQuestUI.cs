@@ -57,7 +57,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
             current.sprite = Resources.Load<Sprite>($"Art/人物卡/六大项/字体背景/{type.rarerity}");
             LocalizedString typeString = new LocalizedString
             {
-                TableReference = "UI",
+                TableReference = "ability",
                 TableEntryReference = $"new_{type.Key.ToString()}"
             };
             current.GetComponentInChildren<Text>().text = typeString.GetLocalizedString();

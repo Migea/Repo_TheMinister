@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Localization.Tables;
+using UnityEngine.Localization;
 using UnityEngine.UI;
 
 public class ItemUIwithNameCount : ItemUI
@@ -16,7 +18,12 @@ public class ItemUIwithNameCount : ItemUI
         var framRarity = Player.AllTagRareDict[Use()] != Rarerity.B ? Player.AllTagRareDict[Use()] : Rarerity.N;
         string FramePath = $"Art/BuildingUI/杂货铺/初级五金铺/物品框/物品框-{framRarity}";
         Frame.sprite = Resources.Load<Sprite>(FramePath);
-        Name.text = item.ToString();
+        LocalizedString itemString = new LocalizedString
+        {
+            TableReference = "Item",
+            TableEntryReference = item.ToString()
+        };
+        Name.text = itemString.GetLocalizedString();
     }
     public override void Setup(ItemName item, int count = 0)
     {

@@ -328,7 +328,7 @@ MonoBehaviour:
     - title: Name
       value: "\u5C0F\u592A\u76D1"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Pictures
       value: '[]'
       type: 3
@@ -336,7 +336,7 @@ MonoBehaviour:
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: IsPlayer
       value: False
       type: 2
@@ -356,7 +356,7 @@ MonoBehaviour:
     - title: Display Name
       value: "\u5C0F\u592A\u76D1"
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     portrait: {fileID: 2800000, guid: b12657952151b1446b79add26badb935, type: 3}
     spritePortrait: {fileID: 21300000, guid: b12657952151b1446b79add26badb935, type: 3}
     alternatePortraits: []
@@ -1507,7 +1507,7 @@ MonoBehaviour:
     - title: Initial Value
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Description
       value: 
       type: 0
@@ -5898,23 +5898,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u5728\u4E0B\u674E\u8881\u964C\uFF0C\u89C1\u8FC7\u5C1A\u4E66\u516C\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: I am Li Yuanmo, at your service, Minister!
         type: 4
@@ -32222,11 +32222,11 @@ MonoBehaviour:
     - title: Title
       value: M-02-05-f
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Description
       value: 
       type: 0
-      typeString: CustomFieldType_Text
+      typeString: 
     - title: Actor
       value: 1
       type: 5
@@ -32433,23 +32433,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u606D\u559C\u56DB\u4F4D\u5927\u4EBA\u7A81\u7834\u91CD\u91CD\u6D77\u9009\u6765\u5230\u6B64\u6BBF\uFF0C"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       conversationID: 43
       isRoot: 0
       isGroup: 0
@@ -72708,8 +72708,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 331.8181, y: 1222.7269}
-    canvasZoom: 0.8800001
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 1
   - id: 83
     fields:
     - title: Title
@@ -73620,23 +73620,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Menu Text
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Dialogue Text
         value: "\u7EE7\u7EED\u53BB\u8C03\u67E5\u9609\u515A\uFF01"
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Sequence
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: Description
         value: 
         type: 0
-        typeString: CustomFieldType_Text
+        typeString: 
       - title: en
         value: Continue investigating the eunuch faction.
         type: 4
@@ -73664,7 +73664,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 191.28595
+        x: 191.2859
         y: 737.6214
         width: 160
         height: 30
@@ -73872,8 +73872,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 328.0671}
-    canvasZoom: 0.9100001
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 1
   - id: 85
     fields:
     - title: Title

@@ -1443,5 +1443,9 @@ MonoBehaviour:
     m_Localized: 'Dispatch a follower who meets the following conditions:'
     m_Metadata:
       m_Items: []
+  - m_Id: 8330207451783168
+    m_Localized: Lose Currency
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

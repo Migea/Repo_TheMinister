@@ -92,7 +92,11 @@ public class DisplayInfoAnimationController : MonoBehaviour
             TableReference = "LastName",
             TableEntryReference = $"{targetName.lastName}"
         };
-        NameText.text = firstNameString.GetLocalizedString() + lasNameString.GetLocalizedString();
+        NameText.text = lasNameString.GetLocalizedString() + firstNameString.GetLocalizedString();
+        if (NameText.gameObject.GetComponent<FontUpdater>() == false)
+        {
+            NameText.gameObject.AddComponent<FontUpdater>();
+        }
 
     }
     public void SetupTags(List<Tag> tags)

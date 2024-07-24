@@ -55,7 +55,13 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         {
             var current = Instantiate(typeTemp, TypeRareContent).GetComponent<Image>();
             current.sprite = Resources.Load<Sprite>($"Art/人物卡/六大项/字体背景/{type.rarerity}");
-            current.GetComponentInChildren<Text>().text = type.Key.ToString();
+            LocalizedString typeString = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = type.Key.ToString()
+            };
+            current.GetComponentInChildren<Text>().text = typeString.GetLocalizedString();
+            current.GetComponentInChildren<Text>().gameObject.AddComponent<FontUpdater>();
             current.gameObject.SetActive(true);
         }
         if (TypeRareStructDict.Count == 0) TypeRareContent.gameObject.SetActive(false);

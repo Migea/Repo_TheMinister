@@ -1,0 +1,906 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemShortName_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b811345fe3b18454a889db55a0d0a4ae, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10193313792
+    m_Localized: <size=13>Fried pork with garlic sprouts</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389421748224
+    m_Localized: <size=13>elixir of immortality</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302656
+    m_Localized: <size=13>Replenish all pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302657
+    m_Localized: <size=13>heshi jade</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302658
+    m_Localized: <size=13>Sunset Bow</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302659
+    m_Localized: <size=13>Rainstorm Needle</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302660
+    m_Localized: <size=13>Dragon  Halberd</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302661
+    m_Localized: <size=13>victory knife</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302662
+    m_Localized: <size=13>pole spear </size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302663
+    m_Localized: <size=13>Dragon sword</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302664
+    m_Localized: <size=13>sea repeating crossbow</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302665
+    m_Localized: <size=13>Immortal drunkenness</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302666
+    m_Localized: <size=13>golden armor</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302667
+    m_Localized: <size=13>diamond</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302668
+    m_Localized: <size=13>dragon horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302669
+    m_Localized: <size=13>Eagle of the Khan</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302670
+    m_Localized: <size=13>Good Fortune Pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302671
+    m_Localized: <size=13>Yin and Yang pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302672
+    m_Localized: <size=13>prayer clothes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302673
+    m_Localized: <size=13>walking chariot robe</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302674
+    m_Localized: <size=13>woven fish robe</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302675
+    m_Localized: <size=13>dog</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302676
+    m_Localized: <size=13>leopard</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302677
+    m_Localized: <size=13>elephant tiger</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302678
+    m_Localized: <size=13>Classic of Mountains and Seas</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302679
+    m_Localized: <size=13>Institutional fragments</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302680
+    m_Localized: <size=13>Trigrams plate</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302681
+    m_Localized: <size=13>Gui Gu Zi</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389455302682
+    m_Localized: <size=13>Ou Yezi's sledgehammer</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496960
+    m_Localized: <size=13>Yellow Emperor's Internal Classic</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496961
+    m_Localized: <size=13>Compendium of Materia Medica</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496962
+    m_Localized: <size=13>Stone-piercing Gale Bow</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496963
+    m_Localized: <size=13>Fiery Cloud-Slashing Knife</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496964
+    m_Localized: <size=13>purple wood thunder gun</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496965
+    m_Localized: <size=13>The sword of 12</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496966
+    m_Localized: <size=13>sweet dream wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496967
+    m_Localized: <size=13>three flavor wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496968
+    m_Localized: <size=13>Emperor's Sword</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496969
+    m_Localized: <size=13>Overlord halberd</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496970
+    m_Localized: <size=13>mix Gong</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496971
+    m_Localized: <size=13>cabbage soup stock</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496972
+    m_Localized: <size=13>Longjing bamboo</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496973
+    m_Localized: <size=13>Cultural Desert</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496974
+    m_Localized: <size=13>Fruit trees duck</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496975
+    m_Localized: <size=13>Buddha's hand golden scroll</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496976
+    m_Localized: <size=13>Spirit pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496977
+    m_Localized: <size=13>Nourishing powder</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496978
+    m_Localized: <size=13>Medical Sage's Medicine Box</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496979
+    m_Localized: <size=13>red pigeon jade</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496980
+    m_Localized: <size=13>green jade</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496981
+    m_Localized: <size=13>Wind Red Rabbit Horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496982
+    m_Localized: <size=13>white dragon horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496983
+    m_Localized: <size=13>Fallen Cloud Tiger</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496984
+    m_Localized: <size=13>meniscus wolf</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496985
+    m_Localized: <size=13>red clothes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496986
+    m_Localized: <size=13>moire robe</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496987
+    m_Localized: <size=13>long sleeves</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496988
+    m_Localized: <size=13>money dart</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496989
+    m_Localized: <size=13>sleeve gun</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496990
+    m_Localized: <size=13>head cage </size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496991
+    m_Localized: <size=13>Ganoderma lucidum</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496992
+    m_Localized: <size=13>Splendid costumes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496993
+    m_Localized: <size=13>Jade bracelet</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496994
+    m_Localized: <size=13>gold ingot</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496995
+    m_Localized: <size=13>Fried tomatoes with eggs</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496996
+    m_Localized: <size=13>Pickled cabbage vermicelli</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496997
+    m_Localized: <size=13>Braised eggplant</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496998
+    m_Localized: <size=13>Stir-fried Choy</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459496999
+    m_Localized: <size=13>Fried pork</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497000
+    m_Localized: <size=13>thermal energy powder</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497001
+    m_Localized: <size=13>Dragon Tiger Pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497002
+    m_Localized: <size=13>Marrow Cleansing Pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497003
+    m_Localized: <size=13>Toad Kung Fu</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497004
+    m_Localized: <size=13>armillary sphere</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497005
+    m_Localized: <size=13>Frost Sword</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497006
+    m_Localized: <size=13>golden bow</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497007
+    m_Localized: <size=13>silver spear</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497008
+    m_Localized: <size=13>machete</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497009
+    m_Localized: <size=13>iron halberd</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497010
+    m_Localized: <size=13>Nine Yangs Scripture</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497011
+    m_Localized: <size=13>Nine Yin Manual</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497012
+    m_Localized: <size=13>chrysoberyl</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389459497013
+    m_Localized: <size=13>gun</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691264
+    m_Localized: <size=13>Oriental Dictionary</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691265
+    m_Localized: <size=13>Western dictionary</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691266
+    m_Localized: <size=13>silk</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691267
+    m_Localized: <size=13>Breastplate</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691268
+    m_Localized: <size=13>leather armor</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691269
+    m_Localized: <size=13>armor</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691270
+    m_Localized: <size=13>Ginseng</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691271
+    m_Localized: <size=13>Angelica sinensis</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691272
+    m_Localized: <size=13>Agarwood</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691273
+    m_Localized: <size=13>water flower</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691274
+    m_Localized: <size=13>tiger bone</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691275
+    m_Localized: <size=13>gecko lizard</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691276
+    m_Localized: <size=13>Feather clothes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691277
+    m_Localized: <size=13>ruby</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691278
+    m_Localized: <size=13>amethyst</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691279
+    m_Localized: <size=13>opal</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691280
+    m_Localized: <size=13>emerald</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691281
+    m_Localized: "<size=13>Mozi\xB7Non-Attack</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691282
+    m_Localized: "<size=13>Mozi\xB7Universal-Love</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691283
+    m_Localized: <size=13>Royal Horse Official Seal</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691284
+    m_Localized: <size=13>Poison book</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691285
+    m_Localized: <size=13>materialism</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691286
+    m_Localized: <size=13>poisonous milk bottle</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691287
+    m_Localized: <size=13>chess strategy</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691288
+    m_Localized: <size=13>Bamboo leaf green wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691289
+    m_Localized: <size=13>Dukang wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691290
+    m_Localized: <size=13>red daughter wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691291
+    m_Localized: <size=13>Biographies of goods colonizers</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691292
+    m_Localized: <size=13>Ou Yezi's little hammer</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691293
+    m_Localized: <size=13>Treatise on Febrile Diseases</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691294
+    m_Localized: <size=13>allspice</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691295
+    m_Localized: <size=13>lively horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691296
+    m_Localized: <size=13>tiger</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691297
+    m_Localized: <size=13>wolf</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691298
+    m_Localized: <size=13>hammer</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691299
+    m_Localized: <size=13>embroidery needle</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691300
+    m_Localized: <size=13>Cinnabar resin</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691301
+    m_Localized: <size=13>burin</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691302
+    m_Localized: <size=13>Tayuen horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691303
+    m_Localized: <size=13>mongolian horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691304
+    m_Localized: <size=13>Liangzhou horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389463691305
+    m_Localized: <size=13>Emei thorn</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885568
+    m_Localized: <size=13>cuff bow</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885569
+    m_Localized: <size=13>knife</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885570
+    m_Localized: <size=13>Sword on back</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885571
+    m_Localized: <size=13>Wine Gourd</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885572
+    m_Localized: <size=13>civil official letter</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885573
+    m_Localized: "<size=13>military attach\xE9 official letter</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885574
+    m_Localized: <size=13>coir raincoat</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885575
+    m_Localized: <size=13>clothes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885576
+    m_Localized: <size=13>sake</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885577
+    m_Localized: <size=13>Rice wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885578
+    m_Localized: <size=13>Sheep wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885579
+    m_Localized: <size=13>reed wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885580
+    m_Localized: <size=13>Amaretto</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885581
+    m_Localized: <size=13>silver bullion wine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885582
+    m_Localized: <size=13>scattered gems</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885583
+    m_Localized: <size=13>chipped gem</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885584
+    m_Localized: <size=13>damaged gold</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885585
+    m_Localized: <size=13>Parrot</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885586
+    m_Localized: <size=13>Alpinia</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885587
+    m_Localized: <size=13>millet</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885588
+    m_Localized: <size=13>tangerine peel</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885589
+    m_Localized: <size=13>goat milk</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885590
+    m_Localized: <size=13>safflower</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885591
+    m_Localized: <size=13>official book</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885592
+    m_Localized: <size=13>acrobatics</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885593
+    m_Localized: <size=13>producing babies pill</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885594
+    m_Localized: <size=13>Musk</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885595
+    m_Localized: <size=13>Witness to a Prosecution</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885596
+    m_Localized: <size=13>coffee</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885597
+    m_Localized: <size=13>Scissors</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885598
+    m_Localized: <size=13>long-legged horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885599
+    m_Localized: <size=13>short tail horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885600
+    m_Localized: <size=13>Filial Piety book</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885601
+    m_Localized: <size=13>eagle</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885602
+    m_Localized: <size=13>writing brush</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885603
+    m_Localized: <size=13>whisk</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885604
+    m_Localized: <size=13>Buddhist beads</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885605
+    m_Localized: <size=13>wooden buddha statue</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885606
+    m_Localized: <size=13>natural silk</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885607
+    m_Localized: <size=13>fur</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885608
+    m_Localized: <size=13>linen</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885609
+    m_Localized: <size=13>Horse training book</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885610
+    m_Localized: <size=13>Complete Medicinal Herbal</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885611
+    m_Localized: <size=13>bow</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885612
+    m_Localized: <size=13>knife</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885613
+    m_Localized: <size=13>spear</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885614
+    m_Localized: <size=13>sword</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885615
+    m_Localized: <size=13>halberd</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885616
+    m_Localized: <size=13>Actor's self-cultivation book</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885617
+    m_Localized: <size=13>recipes in rhymes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885618
+    m_Localized: <size=13>locust stone</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885619
+    m_Localized: <size=13>Leaves</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389467885620
+    m_Localized: <size=13>Polygonum multiflorum</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079872
+    m_Localized: <size=13>golden sore medicine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079873
+    m_Localized: <size=13>sugar</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079874
+    m_Localized: <size=13>Hemostatic cream</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079875
+    m_Localized: <size=13>comfortable chair</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079876
+    m_Localized: <size=13>Stir-fried bean sprouts</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079877
+    m_Localized: <size=13>Stir cucumber</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079878
+    m_Localized: <size=13>Egg fried rice</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079879
+    m_Localized: <size=13>Steamed white radish</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079880
+    m_Localized: <size=13>iron ore</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079881
+    m_Localized: <size=13>copper mine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079882
+    m_Localized: <size=13>silver mine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079883
+    m_Localized: <size=13>cloth</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079884
+    m_Localized: <size=13>wood</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079885
+    m_Localized: <size=13>leather</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079886
+    m_Localized: <size=13>rivet</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079887
+    m_Localized: <size=13>hardwood</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079888
+    m_Localized: <size=13>lip paper</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079889
+    m_Localized: <size=13>Blusher</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079890
+    m_Localized: <size=13>oil</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079891
+    m_Localized: <size=13>rope</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079892
+    m_Localized: <size=13>soy sauce</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079893
+    m_Localized: <size=13>vinegar</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079894
+    m_Localized: <size=13>salt</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079895
+    m_Localized: <size=13>stick</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079896
+    m_Localized: <size=13>Chinese tallow tree</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079897
+    m_Localized: <size=13>Amaranth</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079898
+    m_Localized: <size=13>Star anise</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079899
+    m_Localized: <size=13>Astragalus</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079900
+    m_Localized: <size=13>Lohanguo Siraitia Fruit</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079901
+    m_Localized: <size=13> Wind Vine</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079902
+    m_Localized: <size=13>Siberian Solomonseal Rhizome</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079903
+    m_Localized: <size=13>Hedyotis diffusa</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079904
+    m_Localized: <size=13>water liquor</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079905
+    m_Localized: <size=13>poisonous liquor</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079906
+    m_Localized: <size=13>chipped weapon</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079907
+    m_Localized: <size=13>rotten clothes</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079908
+    m_Localized: <size=13>fat horse</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079909
+    m_Localized: <size=13>notoginseng</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079910
+    m_Localized: <size=13>light powder</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079911
+    m_Localized: <size=13>walnut powder</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079912
+    m_Localized: <size=13>Ampelopsis aconitifolia</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079913
+    m_Localized: <size=13>Limonium sinuatum</size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389472079914
+    m_Localized: <size=13>Noisy parrot</size>
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

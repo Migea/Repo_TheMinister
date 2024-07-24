@@ -72,7 +72,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         LocalizedString QuestNameString = new LocalizedString
         {
             TableReference = "UI",
-            TableEntryReference = $"派遣一位满足以下条件的角色去完成此次任务："
+            TableEntryReference = $"派遣一位满足以下条件的角色"
         };
         QuestName.text = QuestNameString.ToString();
         LocalizedString messageString = new LocalizedString

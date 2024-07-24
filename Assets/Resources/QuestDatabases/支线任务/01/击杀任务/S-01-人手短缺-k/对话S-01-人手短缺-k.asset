@@ -452,23 +452,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u83AB\u518D\u8BF4\u4E86\uFF0C\u6211\u6765\u5E2E\u4F60\uFF01\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Say no more, I'm here to help you! [Accept Task]
         type: 4
@@ -493,7 +493,19 @@ MonoBehaviour:
       userScript: Variable["Assign"] = true;
       onExecute:
         m_PersistentCalls:
-          m_Calls: []
+          m_Calls:
+          - m_Target: {fileID: 3506334653151143583, guid: 3814e658c324b3f43bfb641d4775f2ec, type: 3}
+            m_TargetAssemblyTypeName: GiveQuestOnActive, Assembly-CSharp
+            m_MethodName: Start
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
       canvasRect:
         serializedVersion: 2
         x: 94.37659
@@ -973,8 +985,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 20.5714, y: 8.307685}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 9.366319, y: 0}
+    canvasZoom: 0.94000006
   - id: 2
     fields:
     - title: Title
@@ -1166,23 +1178,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u4EA4\u7ED9\u6211\u5427\uFF01"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Leave them to me!
         type: 4

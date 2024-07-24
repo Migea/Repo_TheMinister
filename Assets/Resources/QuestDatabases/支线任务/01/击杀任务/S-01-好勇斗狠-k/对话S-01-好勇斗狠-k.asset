@@ -892,23 +892,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u90A3\u6211\u4FBF\u6765\u4F1A\u4F1A\u4F60\uFF01\u3010\u63A5\u53D7\u4EFB\u52A1\u3011"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Then I'll take you on! [Accept Task]
         type: 4
@@ -1544,8 +1544,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 312.08795}
-    canvasZoom: 0.9100001
+    canvasScrollPosition: {x: 0, y: 128.72342}
+    canvasZoom: 0.94000006
   syncInfo:
     syncActors: 0
     syncItems: 0

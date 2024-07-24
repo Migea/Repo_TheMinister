@@ -19,183 +19,188 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 106508906496
-    m_Localized: 'Some simple weapons and weapon props can be synthesized '
+    m_Localized: <size=6>Some simple weapons and weapon props can be synthesized
+      </size>
     m_Metadata:
       m_Items: []
   - m_Id: 123814604800
-    m_Localized: There are a wealth of weapons and weapon props can be synthesized
+    m_Localized: <size=6>There are a wealth of weapons and weapon props can be synthesized</size>
     m_Metadata:
       m_Items: []
   - m_Id: 373711237120
-    m_Localized: There are abundant traps and mechanisms and props can be synthesized
+    m_Localized: <size=6>There are abundant traps and mechanisms and props can be
+      synthesized</size>
     m_Metadata:
       m_Items: []
   - m_Id: 376030687232
-    m_Localized: With basic clothing and materials, you can make costumes and props
+    m_Localized: <size=6>With basic clothing and materials, you can make costumes
+      and props</size>
     m_Metadata:
       m_Items: []
   - m_Id: 378178170880
-    m_Localized: There are abundant ready-made clothes and materials that can be
-      used to make costumes and props
+    m_Localized: <size=6>There are abundant ready-made clothes and materials that
+      can be used to make costumes and props</size>
     m_Metadata:
       m_Items: []
   - m_Id: 380292100096
-    m_Localized: There are high-end ready-made clothes and materials that can be
-      used to make costumes and props
+    m_Localized: <size=6>There are high-end ready-made clothes and materials that
+      can be used to make costumes and props</size>
     m_Metadata:
       m_Items: []
   - m_Id: 380975771648
-    m_Localized: There are basic armor, materials, and synthetic armor props
+    m_Localized: <size=6>There are basic armor, materials, and synthetic armor props</size>
     m_Metadata:
       m_Items: []
   - m_Id: 381617500160
-    m_Localized: 'There are few books, which can be consumed to restore loyalty. '
+    m_Localized: <size=6>There are few books, which can be consumed to restore loyalty.
+      </size>
     m_Metadata:
       m_Items: []
   - m_Id: 382234062848
-    m_Localized: Character cards can be purchased
+    m_Localized: <size=6>Character cards can be purchased</size>
     m_Metadata:
       m_Items: []
   - m_Id: 382817071104
-    m_Localized: Have special characters and can purchase mission cards
+    m_Localized: <size=6>Have special characters and can purchase mission cards</size>
     m_Metadata:
       m_Items: []
   - m_Id: 383391690752
-    m_Localized: There are abundant books, consumption restores loyalty
+    m_Localized: <size=6>There are abundant books, consumption restores loyalty</size>
     m_Metadata:
       m_Items: []
   - m_Id: 383962116096
-    m_Localized: A small amount of groceries are available for purchase
+    m_Localized: <size=6>A small amount of groceries are available for purchase</size>
     m_Metadata:
       m_Items: []
   - m_Id: 384536735744
-    m_Localized: Have a complete set of books and spend them to restore loyalty
+    m_Localized: <size=6>Have a complete set of books and spend them to restore loyalty</size>
     m_Metadata:
       m_Items: []
   - m_Id: 385237184512
-    m_Localized: There is an abundance of groceries available for purchase
+    m_Localized: <size=6>There is an abundance of groceries available for purchase</size>
     m_Metadata:
       m_Items: []
   - m_Id: 385828581376
-    m_Localized: There are plenty of groceries available for purchase
+    m_Localized: <size=6>There are plenty of groceries available for purchase</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16058944385024
-    m_Localized: Basic medicinal materials can be purchased
+    m_Localized: <size=6>Basic medicinal materials can be purchased</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16061553242112
-    m_Localized: can purchase abundant medicinal materials and synthetic elixirs
+    m_Localized: <size=6>Can purchase abundant medicinal materials and synthetic
+      elixirs</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16062148833280
-    m_Localized: ' can purchase a complete range of medicinal materials and synthetic
-      elixirs'
+    m_Localized: ' <size=6>Can purchase a complete range of medicinal materials and
+      synthetic elixirs</size>'
     m_Metadata:
       m_Items: []
   - m_Id: 16062769590272
-    m_Localized: 'can buy basic medicinal materials and medicines, which can restore
-      the character''s physical strength. '
+    m_Localized: <size=6>Can buy basic medicinal materials and medicines, which can
+      restore the character's physical strength. </size>
     m_Metadata:
       m_Items: []
   - m_Id: 16063319044096
-    m_Localized: 'can purchase basic medicinal materials and advanced medicines,
-      which can restore the character''s physical strength, delete the character''s
-      negative entries, and grant the character entries with the ruins. '
+    m_Localized: <size=6>Can purchase basic medicinal materials and advanced medicines,
+      which can restore the character's physical strength, delete the character's
+      negative entries, and grant the character entries with the ruins. </size>
     m_Metadata:
       m_Items: []
   - m_Id: 16063918829568
-    m_Localized: Provide basic drinks and dishes and recruit roles
+    m_Localized: <size=6>Provide basic drinks and dishes and recruit roles</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16064472477696
-    m_Localized: Provide a variety of drinks and dishes, and recruit roles
+    m_Localized: <size=6>Provide a variety of drinks and dishes, and recruit roles</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16065021931520
-    m_Localized: Provide a full range of drinks and dishes, and recruit roles
+    m_Localized: <size=6>Provide a full range of drinks and dishes, and recruit roles</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16065613328384
-    m_Localized: Provide basic drinks and dishes, and you can choose certain characters
-      to rest and restore their physical strength
+    m_Localized: <size=6>Provide basic drinks and dishes, and you can choose certain
+      characters to rest and restore their physical strength</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16066150199296
-    m_Localized: Basic drinks and dishes are provided, and you can choose more advanced
-      characters to rest and restore their physical strength.
+    m_Localized: <size=6>Basic drinks and dishes are provided, and you can choose
+      more advanced characters to rest and restore their physical strength.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 16066687070208
-    m_Localized: 'can buy horses and spend silver coins to specify the number of
-      squares in advance. '
+    m_Localized: <size=6>Can buy horses and spend silver coins to specify the number
+      of squares in advance. </size>
     m_Metadata:
       m_Items: []
   - m_Id: 23548964696064
-    m_Localized: can buy more horses, and you can spend silver taels to specify the
-      number of squares in advance.
+    m_Localized: <size=6>Can buy more horses, and you can spend silver taels to specify
+      the number of squares in advance.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23549744836608
-    m_Localized: Have the best horse, and can spend silver coins to specify the number
-      of squares forward
+    m_Localized: <size=6>Have the best horse, and can spend silver coins to specify
+      the number of squares forward</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23550332039168
-    m_Localized: Exotic animals can be purchased
+    m_Localized: <size=6>Exotic animals can be purchased</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23550982156288
-    m_Localized: More exotic exotic animals can be purchased
+    m_Localized: <size=6>More exotic exotic animals can be purchased</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23551615496192
-    m_Localized: Basic jewelry
+    m_Localized: <size=6>Basic jewelry</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23552181727232
-    m_Localized: a lot of jewelry
+    m_Localized: <size=6>a lot of jewelry</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23552823455744
-    m_Localized: Complete range of jewelry
+    m_Localized: <size=6>Complete range of jewelry</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23553414852608
-    m_Localized: Cosmetics can be purchased and are loved by women
+    m_Localized: <size=6>Cosmetics can be purchased and are loved by women</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23554023026688
-    m_Localized: sell props
+    m_Localized: <size=6>sell props</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23554513760256
-    m_Localized: Items can be sold at a higher price
+    m_Localized: <size=6>Items can be sold at a higher price</size>
     m_Metadata:
       m_Items: []
   - m_Id: 23555050631168
-    m_Localized: currency used for consumption
+    m_Localized: <size=6>Currency used for consumption</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31597242675200
-    m_Localized: The dissatisfaction of the people in the capital increases every
-      round. If the dissatisfaction accumulates to 100%, the game will end.
+    m_Localized: <size=6>The dissatisfaction of the people in the capital increases
+      every round. If the dissatisfaction accumulates to 100%, the game will end.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31597834072064
-    m_Localized: The total number of followers you have
+    m_Localized: <size=6>The total number of followers you have</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31598387720192
-    m_Localized: View task progress
+    m_Localized: <size=6>View task progress</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31598983311360
-    m_Localized: View followers you have
+    m_Localized: <size=6>View followers you have</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31599532765184
-    m_Localized: View the items you own
+    m_Localized: <size=6>View the items you own</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31600107384832
@@ -207,135 +212,140 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 31601269207040
-    m_Localized: The day is divided into three rounds, morning, afternoon, and evening.
-      New mobs will appear in the evening based on public complaints.
+    m_Localized: <size=6>The day is divided into three rounds, morning, afternoon,
+      and evening. New mobs will appear in the evening based on public complaints.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 31601843826688
-    m_Localized: It has a complete range of cosmetics and is very popular among women.
+    m_Localized: <size=6>It has a complete range of cosmetics and is very popular
+      among women.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 34438556479488
-    m_Localized: There are complete traps and mechanisms and props can be synthesized
+    m_Localized: <size=6>There are complete traps and mechanisms and props can be
+      synthesized</size>
     m_Metadata:
       m_Items: []
   - m_Id: 34439194013696
-    m_Localized: Synthesize new weapons and mechanisms
+    m_Localized: <size=6>Synthesize new weapons and mechanisms</size>
     m_Metadata:
       m_Items: []
   - m_Id: 34440355835904
-    m_Localized: Synthesize new clothing and armor items
+    m_Localized: <size=6>Synthesize new clothing and armor items</size>
     m_Metadata:
       m_Items: []
   - m_Id: 34441614127104
-    m_Localized: Synthesize new elixir props
+    m_Localized: <size=6>Synthesize new elixir props</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44001200500736
-    m_Localized: Specify a follower to watch a drama to restore loyalty
+    m_Localized: <size=6>Specify a follower to watch a drama to restore loyalty</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44003733860352
-    m_Localized: Restore physical strength to the designated follower
+    m_Localized: <size=6>Restore physical strength to the designated follower</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44005843595264
-    m_Localized: Create a follower to delete a negative term
+    m_Localized: <size=6>Create a follower to delete a negative term</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44007601008640
-    m_Localized: Transfers an entry from one minion to another, consuming all of
-      the former's loyalty
+    m_Localized: <size=6>Transfers an entry from one minion to another, consuming
+      all of the former's loyalty</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44180121120768
-    m_Localized: Choose a follower to rest and restore physical strength
+    m_Localized: <size=6>Choose a follower to rest and restore physical strength</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44182448959488
-    m_Localized: Purchase props, shop props are updated every circle
+    m_Localized: <size=6>Purchase props, shop props are updated every circle</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44183115853824
-    m_Localized: Select the character to rest and restore physical strength. The
-      character is unavailable during the rest period.
+    m_Localized: <size=6>Select the character to rest and restore physical strength.
+      The character is unavailable during the rest period.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44183765970944
-    m_Localized: Synthesize new jewelry items
+    m_Localized: <size=6>Synthesize new jewelry items</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44184369950720
-    m_Localized: Many characters gather here and you can recruit talents here
+    m_Localized: <size=6>Many characters gather here and you can recruit talents
+      here</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44185271726080
-    m_Localized: Spend money to expand your network and discover new talents
+    m_Localized: <size=6>Spend money to expand your network and discover new talents</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44188182573056
-    m_Localized: Normal attacks the specified target, and the damage depends on the
-      weapon.
+    m_Localized: <size=6>Normal attacks the specified target, and the damage depends
+      on the weapon.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44188874633216
-    m_Localized: Quickly attack the designated target, the damage depends on the
-      stab, which will reduce the defense
+    m_Localized: <size=6>Quickly attack the designated target, the damage depends
+      on the stab, which will reduce the defense</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44189461835776
-    m_Localized: Spend money to expand your network and discover new talents
+    m_Localized: <size=6>Spend money to expand your network and discover new talents</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44190040649728
-    m_Localized: confirm
+    m_Localized: <size=8>confirm</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44190636240896
-    m_Localized: Surrender and lose some HP and loyalty
+    m_Localized: <size=6>Surrender and lose some HP and loyalty</size>
     m_Metadata:
       m_Items: []
   - m_Id: 44191156334592
-    m_Localized: The character's physical strength. When the physical strength reaches
-      zero, the character will be lost.
+    m_Localized: <size=6>The character's physical strength. When the physical strength
+      reaches zero, the character will be lost.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 54730196578304
-    m_Localized: The character's loyalty value. When the loyalty value reaches zero,
-      the character will be lost.
+    m_Localized: <size=6>The character's loyalty value. When the loyalty value reaches
+      zero, the character will be lost.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 54731354206208
-    m_Localized: The character's physical strength is zero and the character dies.
+    m_Localized: <size=6>The character's physical strength is zero and the character
+      dies.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 54732092403712
-    m_Localized: The character has zero loyalty and will no longer serve you.
+    m_Localized: <size=6>The character has zero loyalty and will no longer serve
+      you.</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1098454854856704
-    m_Localized: Entries
+    m_Localized: <size=8>Entries</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1098456620658688
-    m_Localized: job book
+    m_Localized: <size=8>Job book</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1456361442177024
-    m_Localized: Setting
+    m_Localized: <size=8>Setting</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1882237011030016
-    m_Localized: Save&Lord
+    m_Localized: <size=8>Save&Lord</size>
     m_Metadata:
       m_Items: []
   - m_Id: 2702522375270400
-    m_Localized: Fast Battle
+    m_Localized: <size=8>Fast Battle</size>
     m_Metadata:
       m_Items: []
   - m_Id: 2905185023270912
-    m_Localized: Influence in the capital is gained through completing tasks, bribery,
-      and appointing officials.
+    m_Localized: <size=6>Influence in the capital is gained through completing tasks,
+      bribery, and appointing officials.</size>
     m_Metadata:
       m_Items: []
   references:

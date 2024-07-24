@@ -645,7 +645,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954590
-    m_Localized: <sizie=60>Jewelry</size>
+    m_Localized: <size=60>Jewelry</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100558954591
@@ -717,7 +717,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148815
-    m_Localized: <size/60>Dwarfism</size>
+    m_Localized: <size=60>Dwarfism</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148816
@@ -973,7 +973,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148879
-    m_Localized: <size=60>Poison</sizie>
+    m_Localized: <size=60>Poison</size>
     m_Metadata:
       m_Items: []
   - m_Id: 1100563148880

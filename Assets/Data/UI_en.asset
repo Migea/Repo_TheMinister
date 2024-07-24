@@ -115,9 +115,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 2737491592146944
-    m_Localized: '
-
-      Drug store'
+    m_Localized: Drug store
     m_Metadata:
       m_Items: []
   - m_Id: 2737626048950272
@@ -504,9 +502,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3847369018634240
-    m_Localized: '
-
-      Tavern'
+    m_Localized: Tavern
     m_Metadata:
       m_Items: []
   - m_Id: 3847367827451904

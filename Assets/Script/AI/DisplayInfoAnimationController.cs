@@ -70,16 +70,27 @@ public class DisplayInfoAnimationController : MonoBehaviour
     }
     public void SetupName(string Name)
     {
+        if (FakeData)
+        {
+            LocalizedString fakeString = new LocalizedString
+            {
+                TableReference = "QuestNPC",
+                TableEntryReference = $"{Name}"
+            };
+            NameText.text = fakeString.GetLocalizedString();
+            return;
+        }
+        var targetName = ChineseNameSplitter.SplitName(Name);
         LocalizedString firstNameString = new LocalizedString
         {
             TableReference = "FirstName",
-            TableEntryReference = $"{Name[0]}"
+            TableEntryReference = $"{targetName.firstName}"
         };
         var LastName = Name.Substring(1);
         LocalizedString lasNameString = new LocalizedString
         {
             TableReference = "LastName",
-            TableEntryReference = $"{LastName}"
+            TableEntryReference = $"{targetName.lastName}"
         };
         NameText.text = firstNameString.GetLocalizedString() + lasNameString.GetLocalizedString();
 

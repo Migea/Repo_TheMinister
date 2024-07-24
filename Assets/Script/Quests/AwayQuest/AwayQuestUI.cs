@@ -58,7 +58,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
             LocalizedString typeString = new LocalizedString
             {
                 TableReference = "UI",
-                TableEntryReference = type.Key.ToString()
+                TableEntryReference = $"new_{type.Key.ToString()}"
             };
             current.GetComponentInChildren<Text>().text = typeString.GetLocalizedString();
             current.GetComponentInChildren<Text>().gameObject.AddComponent<FontUpdater>();

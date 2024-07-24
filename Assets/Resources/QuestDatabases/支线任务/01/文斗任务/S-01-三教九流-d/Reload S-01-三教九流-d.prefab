@@ -179,6 +179,14 @@ PrefabInstance:
       propertyPath: _objectsToActive.Array.data[0]
       value: 
       objectReference: {fileID: 6980226989994935944}
+    - target: {fileID: 3409824698579618184, guid: 3662fbf807ff37b408690e4817bb9cbe, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3409824699082121989, guid: 3662fbf807ff37b408690e4817bb9cbe, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4981306858229791323, guid: 3662fbf807ff37b408690e4817bb9cbe, type: 3}
       propertyPath: m_RootOrder
       value: 2

@@ -54,6 +54,7 @@ MonoBehaviour:
   moneyPunishment: -100
   pressurePunishment: 10
   itemRewards: 
+  itemNames: []
   playerCharacters: []
   enemyCharacters: []
   LostCharacters: []
@@ -63,6 +64,8 @@ MonoBehaviour:
   NoDebateEvent:
     m_PersistentCalls:
       m_Calls: []
+  canSurrender: 1
+  debateTopicPool: {fileID: 0}
 --- !u!114 &656854644282230631
 MonoBehaviour:
   m_ObjectHideFlags: 0

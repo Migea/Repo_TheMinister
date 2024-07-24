@@ -266,6 +266,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3953631715340103241}
     m_Modifications:
+    - target: {fileID: 36357328868516240, guid: 7bd90a29f5f379440b2d2d0825ed741c, type: 3}
+      propertyPath: QuestSpawnPref
+      value: 
+      objectReference: {fileID: 3953631715340103240}
     - target: {fileID: 36357328868516243, guid: 7bd90a29f5f379440b2d2d0825ed741c, type: 3}
       propertyPath: m_RootOrder
       value: 0

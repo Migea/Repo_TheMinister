@@ -184,6 +184,7 @@ MonoBehaviour:
   - {fileID: 1047245971}
   - {fileID: 8439437514823732798}
   - {fileID: 0}
+  stopPlayer: 1
   stayblock: 33
 --- !u!1 &3837171223481586725
 GameObject:

@@ -359,7 +359,7 @@ GameObject:
   - component: {fileID: 1922626041110977261}
   - component: {fileID: 2014878737528647353}
   m_Layer: 0
-  m_Name: "\u5C0F\u6842\u5B50reload"
+  m_Name: "\u5C0F\u6842\u5B50Reload"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

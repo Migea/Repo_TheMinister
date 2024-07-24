@@ -1466,6 +1466,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   goToActive:
   - {fileID: 5183480637001778889}
+  stopPlayer: 1
   stayblock: 2
 --- !u!1 &7632527081941276521
 GameObject:

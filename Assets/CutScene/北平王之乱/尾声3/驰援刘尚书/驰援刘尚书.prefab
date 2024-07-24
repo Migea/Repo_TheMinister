@@ -3379,6 +3379,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   canSurrender: 0
+  debateTopicPool: {fileID: 0}
 --- !u!114 &21534180846809512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5108,6 +5109,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   canSurrender: 0
+  debateTopicPool: {fileID: 0}
 --- !u!114 &7000782710555342027
 MonoBehaviour:
   m_ObjectHideFlags: 0

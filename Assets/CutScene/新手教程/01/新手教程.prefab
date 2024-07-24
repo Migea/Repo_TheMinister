@@ -10153,6 +10153,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   canSurrender: 1
+  debateTopicPool: {fileID: 0}
 --- !u!1 &8078830907712049124
 GameObject:
   m_ObjectHideFlags: 0

@@ -176,6 +176,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   canSurrender: 1
+  debateTopicPool: {fileID: 0}
 --- !u!114 &4029719944981606147
 MonoBehaviour:
   m_ObjectHideFlags: 0

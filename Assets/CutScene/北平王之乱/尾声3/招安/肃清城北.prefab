@@ -7225,23 +7225,26 @@ MonoBehaviour:
   characterArtCode: 6
   loyalty: 0
   health: 20
+  hungry: 10
   rarerity: 0
   characterCard: {fileID: 6978759770948470115, guid: bcb976df68f93ec4ba4682e0d891984c, type: 3}
   thisCharacterCard: {fileID: 0}
   characterCardInvUI: {fileID: 0}
   InGameAI: {fileID: 0}
   Deserializing: 0
+  edibleFavor: 5
   tagList: 4e000000a7000000790000009a000000a8000000
+  temporaryTags: []
   ReturnRounds: 0
   hireStage: 3
   OnCombatDuty: 0
   OnDebateDuty: 0
   OnGobangDuty: 0
-  Money: 250
-  Influence: 200
-  Prestige: 200
   characterAwaitTribute: {fileID: 0}
   spawnAfterAway: {fileID: 0}
+  OnAssassinEvent: 0
+  AssasinTarget: 
+  awayMessage: 
 --- !u!114 &1784422053503397079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7424,23 +7427,26 @@ MonoBehaviour:
   characterArtCode: 1
   loyalty: 0
   health: 20
+  hungry: 10
   rarerity: 0
   characterCard: {fileID: 6978759770948470115, guid: bcb976df68f93ec4ba4682e0d891984c, type: 3}
   thisCharacterCard: {fileID: 0}
   characterCardInvUI: {fileID: 0}
   InGameAI: {fileID: 0}
   Deserializing: 0
+  edibleFavor: 5
   tagList: 180000002c0000003700000038000000c1000000
+  temporaryTags: []
   ReturnRounds: 0
   hireStage: 3
   OnCombatDuty: 0
   OnDebateDuty: 0
   OnGobangDuty: 0
-  Money: 250
-  Influence: 200
-  Prestige: 200
   characterAwaitTribute: {fileID: 0}
   spawnAfterAway: {fileID: 0}
+  OnAssassinEvent: 0
+  AssasinTarget: 
+  awayMessage: 
 --- !u!114 &9207657432587235102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7866,6 +7872,7 @@ MonoBehaviour:
   moneyPunishment: -100
   pressurePunishment: 10
   itemRewards: 1d000000280000002a000000
+  itemNames: []
   playerCharacters: []
   enemyCharacters:
   - {fileID: 6208162636830845249}
@@ -7878,6 +7885,8 @@ MonoBehaviour:
   NoDebateEvent:
     m_PersistentCalls:
       m_Calls: []
+  canSurrender: 1
+  debateTopicPool: {fileID: 0}
 --- !u!114 &9004988051007338660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8488,23 +8497,26 @@ MonoBehaviour:
   characterArtCode: 6
   loyalty: 0
   health: 20
+  hungry: 10
   rarerity: 0
   characterCard: {fileID: 6978759770948470115, guid: bcb976df68f93ec4ba4682e0d891984c, type: 3}
   thisCharacterCard: {fileID: 0}
   characterCardInvUI: {fileID: 0}
   InGameAI: {fileID: 0}
   Deserializing: 0
+  edibleFavor: 5
   tagList: 1e000000250000002b0000005d0000007c000000
+  temporaryTags: []
   ReturnRounds: 0
   hireStage: 3
   OnCombatDuty: 0
   OnDebateDuty: 0
   OnGobangDuty: 0
-  Money: 250
-  Influence: 200
-  Prestige: 200
   characterAwaitTribute: {fileID: 0}
   spawnAfterAway: {fileID: 0}
+  OnAssassinEvent: 0
+  AssasinTarget: 
+  awayMessage: 
 --- !u!114 &1045191004365912001
 MonoBehaviour:
   m_ObjectHideFlags: 0

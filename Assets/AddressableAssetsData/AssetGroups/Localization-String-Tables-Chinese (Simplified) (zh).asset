@@ -108,6 +108,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Locale-zh
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7b6496ac63d8bd48bad70b8f29c9ae8
+    m_Address: QuestNPC_zh
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 4177e495ca1f64a44a1d9af70743ec37, type: 2}
   m_SchemaSet:

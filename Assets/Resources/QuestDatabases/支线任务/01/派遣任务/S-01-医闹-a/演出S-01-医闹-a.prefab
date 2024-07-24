@@ -1257,6 +1257,7 @@ MonoBehaviour:
   - "\u5320\u4EBA"
   - "\u6742\u4E03\u6742\u516B"
   - "\u6BDB\u53D1\u65FA\u76DB"
+  - "\u6BDB\u53D1\u65FA\u76DB"
   FakeName: "\u8FDE\u6C11"
   setDone: 0
 --- !u!1 &4604335837081534530
@@ -1988,6 +1989,7 @@ MonoBehaviour:
   - "\u81EA\u662F\u4E09\u516C"
   - "\u65E0\u7528\u4E4B\u4EBA"
   - "\u6709\u52C7\u65E0\u8C0B"
+  - "\u6709\u52C7\u65E0\u8C0B"
   FakeName: "\u4FAF\u541B"
   setDone: 0
 --- !u!1 &6467200295701989358
@@ -2428,6 +2430,7 @@ MonoBehaviour:
   - "\u80FD\u6B4C\u5584\u821E"
   - "\u4E1D\u7EF8"
   - "\u597D\u9152\u4E4B\u4EBA"
+  - "\u82B1\u8A00\u5DE7\u8BED"
   - "\u82B1\u8A00\u5DE7\u8BED"
   FakeName: "\u7F57\u6B23"
   setDone: 0

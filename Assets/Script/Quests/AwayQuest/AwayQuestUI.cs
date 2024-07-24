@@ -8,6 +8,7 @@ using UnityEngine.SocialPlatforms;
 using UnityEngine.ResourceManagement.ResourceLocations;
 using UnityEngine.Localization.Settings;
 using System.Security.Cryptography;
+using UnityEngine.Localization;
 public class AwayQuestUI : MonoBehaviour, ICharacterSelect
 {
     [System.Serializable]
@@ -69,7 +70,12 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         healthText.text = health.ToString();
         loyaltyText.text = loyalty.ToString();
         QuestName.text = QuestNameString;
-        daySpend.text = AwayDays + "天";
+        LocalizedString messageString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"天"
+        };
+        daySpend.text = AwayDays + messageString.GetLocalizedString();
         for (int i = 0; i < 3 - CharacterAllow; i++)
         {
             CharacterImages[2 - i].transform.parent.gameObject.SetActive(false);
@@ -98,6 +104,12 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
             //Debug.Log(button == null);
             //button.rectTransform.anchoredPosition = new Vector2(3f, 7.5f);
         }
+        LocalizedString messageString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"派遣一位满足以下条件的角色去完成此次任务："
+        };
+        QuestName.text = messageString.ToString();
     }
     public void ChangeCharacter(int index)
     {
@@ -132,7 +144,12 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         var message = Instantiate<Text>(sampleText, MainCanvas.FindMainCanvas());
         if (TryFit())
         {
-            message.text = "角色启程去执行任务了";
+            LocalizedString messageString = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = $"角色启程去执行任务了"
+            };
+            message.text = messageString.GetLocalizedString();
             foreach (Character character in characters.Where(x => x != null).ToList())
             {
                 character.awayMessage = $"Away@{QuestID}";
@@ -146,7 +163,12 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         }
         else
         {
-            message.text = "角色没有满足所有需求";
+            LocalizedString messageString = new LocalizedString
+            {
+                TableReference = "UI",
+                TableEntryReference = $"角色没有满足所有需求"
+            };
+            message.text = messageString.GetLocalizedString();
         }
     }
     public void NextQuestStage()

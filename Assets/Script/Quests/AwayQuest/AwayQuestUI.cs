@@ -47,6 +47,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
     }
     public void Setup()
     {
+        LocaleUpdates();
         typeTemp.gameObject.SetActive(false);
         foreach (TypeRareStruct type in TypeRareStructDict)
         {
@@ -73,7 +74,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
             CharacterImages[2 - i].transform.parent.gameObject.SetActive(false);
         }
     }
-    public void LocaleUpdates(Local local)
+    public void LocaleUpdates()
     {
         var healthToMove = healthText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();
         var loayalToMove = loyaltyText.transform.parent.GetComponentInChildren<Image>().GetComponentInChildren<Text>();

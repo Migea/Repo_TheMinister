@@ -72708,8 +72708,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 331.8181, y: 1222.7269}
+    canvasZoom: 0.8800001
   - id: 83
     fields:
     - title: Title
@@ -73620,23 +73620,23 @@ MonoBehaviour:
       - title: Title
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Menu Text
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u7EE7\u7EED\u53BB\u8C03\u67E5\u9609\u515A\uFF01"
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Sequence
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: Description
         value: 
         type: 0
-        typeString: 
+        typeString: CustomFieldType_Text
       - title: en
         value: Continue investigating the eunuch faction.
         type: 4
@@ -73664,8 +73664,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 225.3519
-        y: 694.7642
+        x: 191.28595
+        y: 737.6214
         width: 160
         height: 30
     - id: 9
@@ -73872,8 +73872,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 0, y: 328.0671}
+    canvasZoom: 0.9100001
   - id: 85
     fields:
     - title: Title

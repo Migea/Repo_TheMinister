@@ -69,7 +69,12 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
         }
         healthText.text = health.ToString();
         loyaltyText.text = loyalty.ToString();
-        QuestName.text = QuestNameString;
+        LocalizedString QuestNameString = new LocalizedString
+        {
+            TableReference = "UI",
+            TableEntryReference = $"派遣一位满足以下条件的角色去完成此次任务："
+        };
+        QuestName.text = QuestNameString.ToString();
         LocalizedString messageString = new LocalizedString
         {
             TableReference = "UI",
@@ -104,12 +109,7 @@ public class AwayQuestUI : MonoBehaviour, ICharacterSelect
             //Debug.Log(button == null);
             //button.rectTransform.anchoredPosition = new Vector2(3f, 7.5f);
         }
-        LocalizedString messageString = new LocalizedString
-        {
-            TableReference = "UI",
-            TableEntryReference = $"派遣一位满足以下条件的角色去完成此次任务："
-        };
-        QuestName.text = messageString.ToString();
+
     }
     public void ChangeCharacter(int index)
     {

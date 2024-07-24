@@ -1440,5 +1440,13 @@ MonoBehaviour:
     m_Localized: STK
     m_Metadata:
       m_Items: []
+  - m_Id: 8292047004692480
+    m_Localized: The character Dispatch on a mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8292043833798656
+    m_Localized: Role does not meet all requirements
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

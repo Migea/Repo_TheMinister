@@ -60233,8 +60233,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 331.50778, y: 2278.277}
+    canvasZoom: 0.7600002
   - id: 69
     fields:
     - title: Title
@@ -64666,8 +64666,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasScrollPosition: {x: 81.772446, y: 106.35427}
+    canvasZoom: 0.52000046
   - id: 71
     fields:
     - title: Title
@@ -65093,7 +65093,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasZoom: 0.9100001
   - id: 72
     fields:
     - title: Title
@@ -65746,7 +65746,7 @@ MonoBehaviour:
     - id: 86
       fields:
       - title: Actor
-        value: 24
+        value: 9
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
@@ -65794,7 +65794,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 67
+        x: 68.49254
         y: 591
         width: 160
         height: 30
@@ -65849,7 +65849,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasZoom: 0.6700003
   - id: 73
     fields:
     - title: Title

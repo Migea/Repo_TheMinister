@@ -1298,7 +1298,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7576254713491456
-    m_Localized: Begin
+    m_Localized: Fight
     m_Metadata:
       m_Items: []
   - m_Id: 7576256663842816
@@ -1327,7 +1327,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 7580198378467328
-    m_Localized: <size=14>News</size>
+    m_Localized: <size=14>Hits</size>
     m_Metadata:
       m_Items: []
   - m_Id: 7576597367156736
@@ -1453,6 +1453,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 8340568875835392
     m_Localized: Rouge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11546448024629248
+    m_Localized: <size=10>Turn off Fast</size>
     m_Metadata:
       m_Items: []
   references:

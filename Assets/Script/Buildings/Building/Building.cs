@@ -82,7 +82,7 @@ public class Building : MonoBehaviour
     private void Awake()
     {
         UpdateType();
-        currentPlay = new List<PlayName>() { PlayName.大王别姬吧, PlayName.大王别姬吧 };
+        currentPlay = new List<PlayName>() { PlayName.唐僧大战白骨精, PlayName.唐僧大战白骨精 };
     }
     public void UpdateType()
     {

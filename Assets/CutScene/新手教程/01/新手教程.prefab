@@ -3215,7 +3215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CharacterArtCode: 14
-  tags: af000000b70000008b000000cd000000ab000000
+  tags: af000000b10000008b000000cd000000ab000000
   Name: "\u738B\u8FB0\u701A "
   health: 20
   loyalty: 10

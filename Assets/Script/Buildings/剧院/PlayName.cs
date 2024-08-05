@@ -4,7 +4,6 @@ using UnityEngine;
 
 public enum PlayName
 {
-    大王别姬吧,
     唐僧大战白骨精,
     宋江打虎,
     十面埋伏,
